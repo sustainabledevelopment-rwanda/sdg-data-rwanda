@@ -107,3 +107,4 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
 #docs_indicator_url: https://my-github-org/my-site-repository/[id]
+# This is a comment
