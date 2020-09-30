@@ -38,9 +38,14 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputCsvData
-    # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*-*.csv
+  - class: InputSdmxMl_Multiple
+    path_pattern: sdmx-data/*.xml
+    dimension_map:
+      UNIT_MEASURE: 'Units'
+      SERIES: 'Series'
+    drop_dimensions: SOURCE_DETAIL
+    dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.RW.xml'
+    import_translation_keys: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.md
