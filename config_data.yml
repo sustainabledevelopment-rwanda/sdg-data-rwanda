@@ -38,13 +38,13 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputSdmxMl_Multiple
+  - class: InputSdmxMl
     path_pattern: sdmx-data/*.xml
     dimension_map:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
     drop_dimensions: SOURCE_DETAIL
-    dsd: 'https://raw.githubusercontent.com/sustainabledevelopment-rwanda/sdg-data-rwanda/develop/RWA_C_V1_SDG DSD.XML'
+    dsd: 'RWA_C_V1_SDG DSD.XML'
     import_translation_keys: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
