@@ -44,7 +44,7 @@ inputs:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
     drop_dimensions: SOURCE_DETAIL
-    dsd: 'https://raw.githubusercontent.com/sdg-kyrgyzstan/open-sdg-data-starter/develop/SDG_DSD.RW.xml'
+    dsd: 'https://raw.githubusercontent.com/sustainabledevelopment-rwanda/sdg-data-rwanda/develop/RWA_C_V1_SDG DSD.XML'
     import_translation_keys: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
