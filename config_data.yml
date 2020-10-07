@@ -76,7 +76,11 @@ translations:
   # This pulls in translations from a local 'translations' folder.
   - class: TranslationInputYaml
     source: translations
-
+  # This pulls in translations from DSD
+  - class: TranslationInputSdmx
+    source: 'RWA_C_V1_SDG DSD.XML'
+    
+    
 # Reporting status extra fields
 # -----------------------------
 # This allows the build to generate stats for reporting status by additional
