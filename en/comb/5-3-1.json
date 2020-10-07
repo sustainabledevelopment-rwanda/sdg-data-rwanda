@@ -1,1 +1,1 @@
-{"data":{"Year":["2015","2015"],"Series":["CL_SERIES.SP_DYN_MRBF15","CL_SERIES.SP_DYN_MRBF18"],"concept.AGE":["CL_AGE.Y0T14","CL_AGE.Y0T17"],"Value":[2,14]},"edges":[]}
+{"data":{"Year":["2015","2015"],"Series":["Proportion of women aged 20-24 years who were married or in a union before age 15","Proportion of women aged 20-24 years who were married or in a union before age 18"],"Age":["under 15 years old","under 18 years old"],"Value":[2,14]},"edges":[]}

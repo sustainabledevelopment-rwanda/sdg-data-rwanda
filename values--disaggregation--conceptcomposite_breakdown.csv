@@ -1,14 +1,14 @@
 Value,Disaggregation combinations using this value,Number of indicators
-CL_COMP_BREAKDOWN.IHR_01,1,1
-CL_COMP_BREAKDOWN.IHR_02,1,1
-CL_COMP_BREAKDOWN.IHR_03,1,1
-CL_COMP_BREAKDOWN.IHR_04,1,1
-CL_COMP_BREAKDOWN.IHR_05,1,1
-CL_COMP_BREAKDOWN.IHR_06,1,1
-CL_COMP_BREAKDOWN.IHR_07,1,1
-CL_COMP_BREAKDOWN.IHR_08,1,1
-CL_COMP_BREAKDOWN.IHR_09,1,1
-CL_COMP_BREAKDOWN.IHR_10,1,1
-CL_COMP_BREAKDOWN.IHR_11,1,1
-CL_COMP_BREAKDOWN.IHR_12,1,1
-CL_COMP_BREAKDOWN.IHR_13,1,1
+"IHR Capacity: National legislation, policy and financing",1,1
+IHR Capacity: Coordination and National Focal Point communications,1,1
+IHR Capacity: Surveillance,1,1
+IHR Capacity: Response,1,1
+IHR Capacity: Preparedness,1,1
+IHR Capacity: Risk communication,1,1
+IHR Capacity: Human resources,1,1
+IHR Capacity: Laboratory,1,1
+IHR Capacity: Points of entry,1,1
+IHR Capacity: Zoonotic events,1,1
+IHR Capacity: Food safety,1,1
+IHR Capacity: Chemical events,1,1
+IHR Capacity: Radionuclear emergencies,1,1

@@ -1,14 +1,14 @@
 Value,Disaggregation combinations using this value,Number of indicators
-CL_AGE.M36T59,3,1
-CL_AGE.Y0T14,3,2
-CL_AGE.Y0T17,1,1
-CL_AGE.Y0T4,10,1
-CL_AGE.Y15T24,3,1
-CL_AGE.Y16T24,3,2
-CL_AGE.Y16T30,1,1
-CL_AGE.Y25T34,2,1
-CL_AGE.Y55T64,2,1
-CL_AGE.Y_GE15,3,1
-CL_AGE.Y_GE16,4,2
-CL_AGE.Y_GE6,3,1
-CL_AGE.Y_GE65,2,1
+36 to 59 months old,3,1
+under 15 years old,3,2
+under 18 years old,1,1
+under 5 years old,10,1
+15 to 24 years old,3,1
+16 to 24 years old,3,2
+16 to 30 years old,1,1
+25 to 34 years old,2,1
+55 to 64 years old,2,1
+15 years old and over,3,1
+16 years old and over,4,2
+6 years old and over,3,1
+65 years old and over,2,1

@@ -1,17 +1,17 @@
-Year,Series,concept.SEX,Value
-2016,CL_SERIES.SL_TLF_UEM,,18.8
-2017,CL_SERIES.SL_TLF_UEM,,17.3
-2018,CL_SERIES.SL_TLF_UEM,,15.1
-2019,CL_SERIES.SL_TLF_UEM,,15.2
-2016,CL_SERIES.SL_TLF_UEM,CL_SEX.M,15.7
-2017,CL_SERIES.SL_TLF_UEM,CL_SEX.M,15.6
-2018,CL_SERIES.SL_TLF_UEM,CL_SEX.M,13.5
-2019,CL_SERIES.SL_TLF_UEM,CL_SEX.M,13.8
-2016,CL_SERIES.SL_TLF_UEM,CL_SEX.F,22.7
-2017,CL_SERIES.SL_TLF_UEM,CL_SEX.F,19.2
-2018,CL_SERIES.SL_TLF_UEM,CL_SEX.F,17.1
-2019,CL_SERIES.SL_TLF_UEM,CL_SEX.F,17.0
-2016,CL_SERIES.SL_TLF_UEMDIS,,20.8
-2017,CL_SERIES.SL_TLF_UEMDIS,,17.4
-2018,CL_SERIES.SL_TLF_UEMDIS,,14.1
-2019,CL_SERIES.SL_TLF_UEMDIS,,14.3
+Year,Series,Sex,Value
+2016,Unemployment rate,,18.8
+2017,Unemployment rate,,17.3
+2018,Unemployment rate,,15.1
+2019,Unemployment rate,,15.2
+2016,Unemployment rate,Male,15.7
+2017,Unemployment rate,Male,15.6
+2018,Unemployment rate,Male,13.5
+2019,Unemployment rate,Male,13.8
+2016,Unemployment rate,Female,22.7
+2017,Unemployment rate,Female,19.2
+2018,Unemployment rate,Female,17.1
+2019,Unemployment rate,Female,17.0
+2016,"Unemployment rate, by disability",,20.8
+2017,"Unemployment rate, by disability",,17.4
+2018,"Unemployment rate, by disability",,14.1
+2019,"Unemployment rate, by disability",,14.3

@@ -1,7 +1,7 @@
-Year,Series,concept.SEX,Value
-2015,CL_SERIES._L_RW_050201_1,CL_SEX.M,6.5
-2015,CL_SERIES.VC_VAW_PHYV,CL_SEX.F,17.6
-2015,CL_SERIES._L_RW_050201_2,CL_SEX.M,1.2
-2015,CL_SERIES.VC_VAW_SEXV,CL_SEX.F,8.3
-2015,CL_SERIES._L_RW_050201_3,CL_SEX.M,14.0
-2015,CL_SERIES.VC_VAW_PSYV,CL_SEX.F,18.5
+Year,Series,Sex,Value
+2015,Proportion of men subjected to physical violence by a current or former intimate partner in the previous 12 months,Male,6.5
+2015,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months,Female,17.6
+2015,Proportion of men subjected to sexual violence by a current or former intimate partner in the previous 12 months,Male,1.2
+2015,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months,Female,8.3
+2015,Proportion men to emotional violence by a current or former intimate partner in the previous 12 months,Male,14.0
+2015,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months,Female,18.5

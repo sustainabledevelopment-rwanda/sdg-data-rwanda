@@ -1,5 +1,5 @@
-Year,Series,concept.SEX,Value
-2015,CL_SERIES._L_RW_160103_1,CL_SEX.M,11
-2015,CL_SERIES._L_RW_160103_1,CL_SEX.F,14
-2015,CL_SERIES._L_RW_160103_2,CL_SEX.M,1
-2015,CL_SERIES._L_RW_160103_2,CL_SEX.F,8
+Year,Series,Sex,Value
+2015,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",Male,11
+2015,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",Female,14
+2015,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,Male,1
+2015,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,Female,8

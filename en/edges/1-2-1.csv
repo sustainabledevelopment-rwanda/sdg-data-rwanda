@@ -1,4 +1,4 @@
 From,To
-concept.REF_AREA,concept.SEX
-concept.REF_AREA,concept.URBANISATION
-concept.SEX,concept.AGE
+Reference area,Sex
+Reference area,Degree of urbanisation
+Sex,Age

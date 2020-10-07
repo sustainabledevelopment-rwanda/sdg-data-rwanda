@@ -1,42 +1,42 @@
-Year,Series,concept.EDUCATION_LEV,Value
-2016,CL_SERIES.SE_ACS_ELECT,CL_EDUCATION_LEV.ISCED11_02,13.1
-2017,CL_SERIES.SE_ACS_ELECT,CL_EDUCATION_LEV.ISCED11_02,32.3
-2018,CL_SERIES.SE_ACS_ELECT,CL_EDUCATION_LEV.ISCED11_02,39.8
-2016,CL_SERIES.SE_ACS_ELECT,CL_EDUCATION_LEV.ISCED11_1,30.0
-2017,CL_SERIES.SE_ACS_ELECT,CL_EDUCATION_LEV.ISCED11_1,55.8
-2018,CL_SERIES.SE_ACS_ELECT,CL_EDUCATION_LEV.ISCED11_1,58.2
-2016,CL_SERIES.SE_ACS_ELECT,CL_EDUCATION_LEV.AGG_2_3,46.1
-2017,CL_SERIES.SE_ACS_ELECT,CL_EDUCATION_LEV.AGG_2_3,71.2
-2018,CL_SERIES.SE_ACS_ELECT,CL_EDUCATION_LEV.AGG_2_3,74.2
-2016,CL_SERIES.SE_ACS_INTNT,CL_EDUCATION_LEV.ISCED11_1,9.8
-2017,CL_SERIES.SE_ACS_INTNT,CL_EDUCATION_LEV.ISCED11_1,25.1
-2018,CL_SERIES.SE_ACS_INTNT,CL_EDUCATION_LEV.ISCED11_1,30.0
-2016,CL_SERIES.SE_ACS_INTNT,CL_EDUCATION_LEV.AGG_2_3,35.4
-2017,CL_SERIES.SE_ACS_INTNT,CL_EDUCATION_LEV.AGG_2_3,41.3
-2018,CL_SERIES.SE_ACS_INTNT,CL_EDUCATION_LEV.AGG_2_3,52.9
-2016,CL_SERIES.SE_ACS_CMPTR,CL_EDUCATION_LEV.ISCED11_1,65.8
-2017,CL_SERIES.SE_ACS_CMPTR,CL_EDUCATION_LEV.ISCED11_1,69.2
-2018,CL_SERIES.SE_ACS_CMPTR,CL_EDUCATION_LEV.ISCED11_1,75.5
-2016,CL_SERIES.SE_ACS_CMPTR,CL_EDUCATION_LEV.AGG_2_3,77.3
-2017,CL_SERIES.SE_ACS_CMPTR,CL_EDUCATION_LEV.AGG_2_3,84.7
-2018,CL_SERIES.SE_ACS_CMPTR,CL_EDUCATION_LEV.AGG_2_3,84.3
-2016,CL_SERIES.SE_ACC_HNDWSH,CL_EDUCATION_LEV.ISCED11_02,19.9
-2017,CL_SERIES.SE_ACC_HNDWSH,CL_EDUCATION_LEV.ISCED11_02,24.0
-2018,CL_SERIES.SE_ACC_HNDWSH,CL_EDUCATION_LEV.ISCED11_02,28.6
-2016,CL_SERIES.SE_ACC_HNDWSH,CL_EDUCATION_LEV.ISCED11_1,45.2
-2017,CL_SERIES.SE_ACC_HNDWSH,CL_EDUCATION_LEV.ISCED11_1,64.5
-2018,CL_SERIES.SE_ACC_HNDWSH,CL_EDUCATION_LEV.ISCED11_1,66.0
-2017,CL_SERIES.SE_ACC_HNDWSH,CL_EDUCATION_LEV.AGG_2_3,70.6
-2018,CL_SERIES.SE_ACC_HNDWSH,CL_EDUCATION_LEV.AGG_2_3,76.9
-2017,CL_SERIES.SE_INF_DSBL,CL_EDUCATION_LEV.ISCED11_02,5.7
-2018,CL_SERIES.SE_INF_DSBL,CL_EDUCATION_LEV.ISCED11_02,8.2
-2017,CL_SERIES.SE_INF_DSBL,CL_EDUCATION_LEV.ISCED11_1,18.0
-2018,CL_SERIES.SE_INF_DSBL,CL_EDUCATION_LEV.ISCED11_1,24.0
-2017,CL_SERIES.SE_INF_DSBL,CL_EDUCATION_LEV.AGG_2_3,23.5
-2018,CL_SERIES.SE_INF_DSBL,CL_EDUCATION_LEV.AGG_2_3,28.6
-2017,CL_SERIES.SE_ACS_H2O,CL_EDUCATION_LEV.ISCED11_02,19.0
-2018,CL_SERIES.SE_ACS_H2O,CL_EDUCATION_LEV.ISCED11_02,27.5
-2017,CL_SERIES.SE_ACS_H2O,CL_EDUCATION_LEV.ISCED11_1,45.5
-2018,CL_SERIES.SE_ACS_H2O,CL_EDUCATION_LEV.ISCED11_1,53.6
-2017,CL_SERIES.SE_ACS_H2O,CL_EDUCATION_LEV.AGG_2_3,58.5
-2018,CL_SERIES.SE_ACS_H2O,CL_EDUCATION_LEV.AGG_2_3,71.9
+Year,Series,Education level,Value
+2016,Proportion of schools with access to electricity,Pre-primary education,13.1
+2017,Proportion of schools with access to electricity,Pre-primary education,32.3
+2018,Proportion of schools with access to electricity,Pre-primary education,39.8
+2016,Proportion of schools with access to electricity,Primary education,30.0
+2017,Proportion of schools with access to electricity,Primary education,55.8
+2018,Proportion of schools with access to electricity,Primary education,58.2
+2016,Proportion of schools with access to electricity,Secondary education (lower and upper secondary education),46.1
+2017,Proportion of schools with access to electricity,Secondary education (lower and upper secondary education),71.2
+2018,Proportion of schools with access to electricity,Secondary education (lower and upper secondary education),74.2
+2016,Proportion of schools with access to the internet for pedagogical purposes,Primary education,9.8
+2017,Proportion of schools with access to the internet for pedagogical purposes,Primary education,25.1
+2018,Proportion of schools with access to the internet for pedagogical purposes,Primary education,30.0
+2016,Proportion of schools with access to the internet for pedagogical purposes,Secondary education (lower and upper secondary education),35.4
+2017,Proportion of schools with access to the internet for pedagogical purposes,Secondary education (lower and upper secondary education),41.3
+2018,Proportion of schools with access to the internet for pedagogical purposes,Secondary education (lower and upper secondary education),52.9
+2016,Proportion of schools with access to computers for pedagogical purposes,Primary education,65.8
+2017,Proportion of schools with access to computers for pedagogical purposes,Primary education,69.2
+2018,Proportion of schools with access to computers for pedagogical purposes,Primary education,75.5
+2016,Proportion of schools with access to computers for pedagogical purposes,Secondary education (lower and upper secondary education),77.3
+2017,Proportion of schools with access to computers for pedagogical purposes,Secondary education (lower and upper secondary education),84.7
+2018,Proportion of schools with access to computers for pedagogical purposes,Secondary education (lower and upper secondary education),84.3
+2016,Proportion of schools with basic handwashing facilities,Pre-primary education,19.9
+2017,Proportion of schools with basic handwashing facilities,Pre-primary education,24.0
+2018,Proportion of schools with basic handwashing facilities,Pre-primary education,28.6
+2016,Proportion of schools with basic handwashing facilities,Primary education,45.2
+2017,Proportion of schools with basic handwashing facilities,Primary education,64.5
+2018,Proportion of schools with basic handwashing facilities,Primary education,66.0
+2017,Proportion of schools with basic handwashing facilities,Secondary education (lower and upper secondary education),70.6
+2018,Proportion of schools with basic handwashing facilities,Secondary education (lower and upper secondary education),76.9
+2017,Proportion of schools with access to adapted infrastructure and materials for students with disabilities,Pre-primary education,5.7
+2018,Proportion of schools with access to adapted infrastructure and materials for students with disabilities,Pre-primary education,8.2
+2017,Proportion of schools with access to adapted infrastructure and materials for students with disabilities,Primary education,18.0
+2018,Proportion of schools with access to adapted infrastructure and materials for students with disabilities,Primary education,24.0
+2017,Proportion of schools with access to adapted infrastructure and materials for students with disabilities,Secondary education (lower and upper secondary education),23.5
+2018,Proportion of schools with access to adapted infrastructure and materials for students with disabilities,Secondary education (lower and upper secondary education),28.6
+2017,Proportion of schools with access to basic drinking water,Pre-primary education,19.0
+2018,Proportion of schools with access to basic drinking water,Pre-primary education,27.5
+2017,Proportion of schools with access to basic drinking water,Primary education,45.5
+2018,Proportion of schools with access to basic drinking water,Primary education,53.6
+2017,Proportion of schools with access to basic drinking water,Secondary education (lower and upper secondary education),58.5
+2018,Proportion of schools with access to basic drinking water,Secondary education (lower and upper secondary education),71.9

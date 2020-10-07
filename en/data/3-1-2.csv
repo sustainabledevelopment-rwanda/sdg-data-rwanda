@@ -1,12 +1,12 @@
-Year,concept.REF_AREA,concept.URBANISATION,Value
-2005,CL_REF_AREA.RW,,38.6
-2008,CL_REF_AREA.RW,,52.0
-2010,CL_REF_AREA.RW,,69.0
-2015,CL_REF_AREA.RW,,91.0
-2015,CL_REF_AREA.RW,CL_URBANISATION.U,96.9
-2015,CL_REF_AREA.RW,CL_URBANISATION.R,89.4
-2015,CL_REF_AREA.1,,94.5
-2015,CL_REF_AREA.2,,90.1
-2015,CL_REF_AREA.3,,90.5
-2015,CL_REF_AREA.4,,92.2
-2015,CL_REF_AREA.5,,88.9
+Year,Reference area,Degree of urbanisation,Value
+2005,Rwanda,,38.6
+2008,Rwanda,,52.0
+2010,Rwanda,,69.0
+2015,Rwanda,,91.0
+2015,Rwanda,Urban,96.9
+2015,Rwanda,Rural,89.4
+2015,City of Kigali,,94.5
+2015,Southern Province,,90.1
+2015,Western Province,,90.5
+2015,Northern Province,,92.2
+2015,Eastern Province,,88.9

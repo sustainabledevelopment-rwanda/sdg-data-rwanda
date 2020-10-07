@@ -1,4 +1,4 @@
-Year,concept.URBANISATION,Value
+Year,Degree of urbanisation,Value
 2017,,87.5
-2017,CL_URBANISATION.U,94.2
-2017,CL_URBANISATION.R,86.0
+2017,Urban,94.2
+2017,Rural,86.0
