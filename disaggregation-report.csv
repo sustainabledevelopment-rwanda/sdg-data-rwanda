@@ -1,1 +1,8 @@
 Disaggregation,Number of indicators,Number of values
+concept.AGE,6,13
+concept.COMPOSITE_BREAKDOWN,1,13
+concept.EDUCATION_LEV,3,3
+concept.OCCUPATION,2,13
+concept.REF_AREA,4,36
+concept.SEX,15,2
+concept.URBANISATION,11,2
