@@ -38,7 +38,7 @@ src_dir: ''
 # folder. Further, each item can have any/all of the parameters that class uses.
 # The defaults below show what is used when this is omitted.
 inputs:
-  - class: InputSdmxMl
+  - class: InputSdmxMl_StructureSpecific
     path_pattern: sdmx-data/*.xml
     dimension_map:
       UNIT_MEASURE: 'Units'
