@@ -1,17 +1,1 @@
-Year,Series,Sex,Value
-2016,Unemployment rate,,18.8
-2017,Unemployment rate,,17.3
-2018,Unemployment rate,,15.1
-2019,Unemployment rate,,15.2
-2016,Unemployment rate,Male,15.7
-2017,Unemployment rate,Male,15.6
-2018,Unemployment rate,Male,13.5
-2019,Unemployment rate,Male,13.8
-2016,Unemployment rate,Female,22.7
-2017,Unemployment rate,Female,19.2
-2018,Unemployment rate,Female,17.1
-2019,Unemployment rate,Female,17.0
-2016,"Unemployment rate, by disability",,20.8
-2017,"Unemployment rate, by disability",,17.4
-2018,"Unemployment rate, by disability",,14.1
-2019,"Unemployment rate, by disability",,14.3
+Year,Value
