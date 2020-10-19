@@ -44,7 +44,7 @@ inputs:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
     drop_dimensions: SOURCE_DETAIL
-    dsd: 'RWA_C_V1_SDG DSD'
+    dsd: 'RWA_C_V1_SDG DSD.XML'
     import_translation_keys: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
