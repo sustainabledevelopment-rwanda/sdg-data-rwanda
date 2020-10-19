@@ -1,1 +1,137 @@
-Year,Value
+Year,Reference area,Sex,Age,Degree of urbanisation,Value
+2000,Rwanda,,,,58.9
+2005,Rwanda,,,,56.7
+2011,Rwanda,,,,44.9
+2014,Rwanda,,,,39.1
+2017,Rwanda,,,,38.2
+2014,Rwanda,Male,16 years old and over,,33.2
+2017,Rwanda,Male,16 years old and over,,31.6
+2014,Rwanda,Female,16 years old and over,,35.9
+2017,Rwanda,Female,16 years old and over,,34.8
+2014,Rwanda,Male,under 15 years old,,44.7
+2017,Rwanda,Male,under 15 years old,,44.2
+2014,Rwanda,Female,under 15 years old,,44.6
+2017,Rwanda,Female,under 15 years old,,44.8
+2005,Rwanda,,,Urban,28.5
+2011,Rwanda,,,Urban,22.1
+2014,Rwanda,,,Urban,15.9
+2017,Rwanda,,,Urban,15.8
+2005,Rwanda,,,Rural,61.9
+2011,Rwanda,,,Rural,48.7
+2014,Rwanda,,,Rural,43.7
+2017,Rwanda,,,Rural,43.1
+2000,City of Kigali,,,,22.7
+2005,City of Kigali,,,,20.8
+2011,City of Kigali,,,,16.8
+2014,City of Kigali,,,,20.9
+2017,City of Kigali,,,,13.9
+2000,Southern Province,,,,65.5
+2005,Southern Province,,,,66.7
+2011,Southern Province,,,,56.5
+2014,Southern Province,,,,38.4
+2017,Southern Province,,,,41.4
+2000,Western Province,,,,62.3
+2005,Western Province,,,,60.4
+2011,Western Province,,,,48.4
+2014,Western Province,,,,45.2
+2017,Western Province,,,,47.1
+2000,Northern Province,,,,64.2
+2005,Northern Province,,,,60.5
+2011,Northern Province,,,,42.8
+2014,Northern Province,,,,45.9
+2017,Northern Province,,,,42.3
+2000,Eastern Province,,,,59.3
+2005,Eastern Province,,,,52.1
+2011,Eastern Province,,,,42.6
+2014,Eastern Province,,,,38.0
+2017,Eastern Province,,,,37.4
+2011,Nyarugenge,,,,10.1
+2014,Nyarugenge,,,,19.9
+2017,Nyarugenge,,,,11.8
+2011,Gasabo,,,,26.0
+2014,Gasabo,,,,23.4
+2017,Gasabo,,,,15.8
+2011,Kicukiro,,,,8.3
+2014,Kicukiro,,,,16.3
+2017,Kicukiro,,,,11.4
+2011,Nyanza,,,,49.8
+2014,Nyanza,,,,38.0
+2017,Nyanza,,,,46.5
+2011,Gisagara,,,,59.4
+2014,Gisagara,,,,53.3
+2017,Gisagara,,,,55.6
+2011,Nyaruguru,,,,61.6
+2014,Nyaruguru,,,,47.9
+2017,Nyaruguru,,,,52.4
+2011,Huye,,,,46.6
+2014,Huye,,,,32.5
+2017,Huye,,,,40.2
+2011,Nyamagabe,,,,73.3
+2014,Nyamagabe,,,,41.5
+2017,Nyamagabe,,,,48.6
+2011,Ruhango,,,,60.4
+2014,Ruhango,,,,37.8
+2017,Ruhango,,,,38.0
+2011,Muhanga,,,,53.6
+2014,Muhanga,,,,30.5
+2017,Muhanga,,,,32.6
+2011,Kamonyi,,,,46.7
+2014,Kamonyi,,,,25.9
+2017,Kamonyi,,,,22.3
+2011,Karongi,,,,61.7
+2014,Karongi,,,,45.3
+2017,Karongi,,,,52.7
+2011,Rutsiro,,,,53.0
+2014,Rutsiro,,,,51.4
+2017,Rutsiro,,,,49.5
+2011,Rubavu,,,,35.8
+2014,Rubavu,,,,35.5
+2017,Rubavu,,,,35.7
+2011,Nyabihu,,,,28.6
+2014,Nyabihu,,,,39.6
+2017,Nyabihu,,,,46.8
+2011,Ngororero,,,,51.9
+2014,Ngororero,,,,49.6
+2017,Ngororero,,,,47.7
+2011,Rusizi,,,,45.0
+2014,Rusizi,,,,35.1
+2017,Rusizi,,,,33.5
+2011,Nyamasheke,,,,63.4
+2014,Nyamasheke,,,,62.0
+2017,Nyamasheke,,,,69.3
+2011,Rulindo,,,,42.9
+2014,Rulindo,,,,48.1
+2017,Rulindo,,,,54.2
+2011,Gakenke,,,,56.6
+2014,Gakenke,,,,42.0
+2017,Gakenke,,,,34.2
+2011,Musanze,,,,20.1
+2014,Musanze,,,,34.9
+2017,Musanze,,,,40.7
+2011,Burera,,,,45.2
+2014,Burera,,,,50.4
+2017,Burera,,,,49.8
+2011,Gicumbi,,,,49.3
+2014,Gicumbi,,,,55.3
+2017,Gicumbi,,,,34.7
+2011,Rwamagana,,,,30.4
+2014,Rwamagana,,,,25.4
+2017,Rwamagana,,,,18.9
+2011,Nyagatare,,,,37.8
+2014,Nyagatare,,,,44.1
+2017,Nyagatare,,,,44.8
+2011,Gatsibo,,,,43.1
+2014,Gatsibo,,,,43.8
+2017,Gatsibo,,,,42.1
+2011,Kayonza,,,,42.6
+2014,Kayonza,,,,26.4
+2017,Kayonza,,,,26.7
+2011,Kirehe,,,,47.9
+2014,Kirehe,,,,41.8
+2017,Kirehe,,,,44.6
+2011,Ngoma,,,,47.6
+2014,Ngoma,,,,46.8
+2017,Ngoma,,,,37.8
+2011,Bugesera,,,,48.4
+2014,Bugesera,,,,34.3
+2017,Bugesera,,,,40.3

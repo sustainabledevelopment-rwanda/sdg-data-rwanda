@@ -1,1 +1,12 @@
-Year,Value
+Year,Value,Units,Series
+2017,6.5,Percent,Proportion of population covered by core Social Protection programs
+2018,6.5,Percent,Proportion of population covered by core Social Protection programs
+2017,484435.0,Number,Number of members of Pension and occupational Hazards
+2018,560769.0,Number,Number of members of Pension and occupational Hazards
+2017,376836.0,Number,Number of population covered by Medical scheme
+2018,432450.0,Number,Number of population covered by Medical scheme
+2017,84.2,Percent,Proportion of population covered by Community-Based Health Insurance (Coverage rate)
+2018,83.3,Percent,Proportion of population covered by Community-Based Health Insurance (Coverage rate)
+2017,70.0,Percent,Proportion of population covered by Health insurance
+2018,73.9,Percent,Proportion of population covered by Health insurance
+2018,164601.0,Number,Number of actively contributing women covered by Maternity Leave Benefits

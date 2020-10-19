@@ -1,1 +1,10 @@
-Year,Value
+Year,Sex,Value
+2017,,21.4
+2018,,20.6
+2019,,17.9
+2017,Male,14.6
+2018,Male,13.5
+2019,Male,12.1
+2017,Female,26.0
+2018,Female,25.3
+2019,Female,22.3

@@ -1,1 +1,10 @@
-Year,Value
+Year,Series,Value
+2016,Number of deaths due to disaster,0.0018
+2017,Number of deaths due to disaster,0.00082
+2018,Number of deaths due to disaster,0.0025399999999999997
+2019,Number of deaths due to disaster,0.0008
+2016,Number of people affected by disaster,0.0017
+2017,Number of people affected by disaster,0.00151
+2018,Number of people affected by disaster,0.00346
+2019,Number of people affected by disaster,0.00212
+2016,Number of missing persons due to disaster,2e-05

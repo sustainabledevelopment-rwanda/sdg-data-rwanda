@@ -1,1 +1,25 @@
-Year,Value
+Year,Reference area,Degree of urbanisation,Value
+2011,Rwanda,,0.24
+2014,Rwanda,,0.17
+2017,Rwanda,,0.15
+2011,Rwanda,Urban,0.09
+2014,Rwanda,Urban,0.07
+2017,Rwanda,Urban,0.07
+2011,Rwanda,Rural,0.27
+2014,Rwanda,Rural,0.19
+2017,Rwanda,Rural,0.17
+2011,City of Kigali,,0.12
+2014,City of Kigali,,0.07
+2017,City of Kigali,,0.07
+2011,Southern Province,,0.29
+2014,Southern Province,,0.21
+2017,Southern Province,,0.19
+2011,Western Province,,0.25
+2014,Western Province,,0.19
+2017,Western Province,,0.16
+2011,Northern Province,,0.18
+2014,Northern Province,,0.14
+2017,Northern Province,,0.11
+2011,Eastern Province,,0.26
+2014,Eastern Province,,0.18
+2017,Eastern Province,,0.17

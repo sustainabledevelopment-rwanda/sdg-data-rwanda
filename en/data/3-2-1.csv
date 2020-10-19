@@ -1,1 +1,27 @@
-Year,Value
+Year,Reference area,Degree of urbanisation,Value
+2000,Rwanda,,196
+2005,Rwanda,,152
+2008,Rwanda,,103
+2010,Rwanda,,76
+2015,Rwanda,,50
+2008,Rwanda,Urban,87
+2010,Rwanda,Urban,81
+2015,Rwanda,Urban,51
+2008,Rwanda,Rural,142
+2010,Rwanda,Rural,105
+2015,Rwanda,Rural,70
+2008,City of Kigali,,102
+2010,City of Kigali,,79
+2015,City of Kigali,,42
+2008,Southern Province,,127
+2010,Southern Province,,96
+2015,Southern Province,,66
+2008,Western Province,,129
+2010,Western Province,,88
+2015,Western Province,,62
+2008,Northern Province,,115
+2010,Northern Province,,107
+2015,Northern Province,,60
+2008,Eastern Province,,174
+2010,Eastern Province,,125
+2015,Eastern Province,,86

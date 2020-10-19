@@ -1,1 +1,1 @@
-{"data":[],"edges":[]}
+{"data":{"Year":["2005","2008","2010","2015","2015","2015","2015","2015","2015","2015","2015"],"Reference area":["Rwanda","Rwanda","Rwanda","Rwanda","Rwanda","Rwanda","City of Kigali","Southern Province","Western Province","Northern Province","Eastern Province"],"Degree of urbanisation":[null,null,null,null,"Urban","Rural",null,null,null,null,null],"Value":[38.6,52.0,69.0,91.0,96.9,89.4,94.5,90.1,90.5,92.2,88.9]},"edges":{"From":["Reference area"],"To":["Degree of urbanisation"]}}

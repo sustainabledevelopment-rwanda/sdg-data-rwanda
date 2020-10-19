@@ -1,1 +1,41 @@
-Year,Value
+Year,Value,Units,Series
+2000,12.0,Percent,Manufacturing value added as a proportion of GDP
+2001,11.0,Percent,Manufacturing value added as a proportion of GDP
+2002,12.0,Percent,Manufacturing value added as a proportion of GDP
+2003,10.0,Percent,Manufacturing value added as a proportion of GDP
+2004,10.0,Percent,Manufacturing value added as a proportion of GDP
+2005,10.0,Percent,Manufacturing value added as a proportion of GDP
+2006,9.0,Percent,Manufacturing value added as a proportion of GDP
+2007,8.0,Percent,Manufacturing value added as a proportion of GDP
+2008,8.0,Percent,Manufacturing value added as a proportion of GDP
+2009,8.0,Percent,Manufacturing value added as a proportion of GDP
+2010,8.0,Percent,Manufacturing value added as a proportion of GDP
+2011,8.0,Percent,Manufacturing value added as a proportion of GDP
+2012,8.0,Percent,Manufacturing value added as a proportion of GDP
+2013,7.0,Percent,Manufacturing value added as a proportion of GDP
+2014,7.0,Percent,Manufacturing value added as a proportion of GDP
+2015,7.0,Percent,Manufacturing value added as a proportion of GDP
+2016,7.0,Percent,Manufacturing value added as a proportion of GDP
+2017,8.0,Percent,Manufacturing value added as a proportion of GDP
+2018,8.0,Percent,Manufacturing value added as a proportion of GDP
+2019,8.0,Percent,Manufacturing value added as a proportion of GDP
+2000,26.3,USD,Manufacturing value added per capita
+2001,22.9,USD,Manufacturing value added per capita
+2002,23.9,USD,Manufacturing value added per capita
+2003,23.1,USD,Manufacturing value added per capita
+2004,24.9,USD,Manufacturing value added per capita
+2005,29.4,USD,Manufacturing value added per capita
+2006,33.4,USD,Manufacturing value added per capita
+2007,36.4,USD,Manufacturing value added per capita
+2008,43.7,USD,Manufacturing value added per capita
+2009,47.2,USD,Manufacturing value added per capita
+2010,51.1,USD,Manufacturing value added per capita
+2011,57.2,USD,Manufacturing value added per capita
+2012,61.3,USD,Manufacturing value added per capita
+2013,50.6,USD,Manufacturing value added per capita
+2014,51.8,USD,Manufacturing value added per capita
+2015,52.7,USD,Manufacturing value added per capita
+2016,51.8,USD,Manufacturing value added per capita
+2017,60.2,USD,Manufacturing value added per capita
+2018,60.1,USD,Manufacturing value added per capita
+2019,66.9,USD,Manufacturing value added per capita
