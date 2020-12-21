@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <message:Structure xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:structure="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/structure" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common">
   <message:Header>
     <message:ID>IDREF1</message:ID>
@@ -6118,7 +6118,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of elected seats held by women in deliberative bodies of local government</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Proportion of elected seats held by women in deliberative bodies of local government</common:Name>
@@ -6139,7 +6139,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of seats held by women in national parliaments (% of total number of seats)</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Proportion of seats held by women in national parliaments (% of total number of seats)</common:Name>
@@ -6160,7 +6160,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Number of seats held by women in national parliaments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Number of seats held by women in national parliaments</common:Name>
@@ -6181,7 +6181,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Number of seats in national parliaments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Number of seats in national parliaments</common:Name>
@@ -6202,7 +6202,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of seats held by women in local governments (% of total number of seats)</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Proportion of seats held by women in local governments (% of total number of seats)</common:Name>
