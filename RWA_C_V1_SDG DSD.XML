@@ -6118,7 +6118,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of elected seats held by women in deliberative bodies of local government</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Proportion of elected seats held by women in deliberative bodies of local government</common:Name>
@@ -6139,7 +6139,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of seats held by women in national parliaments (% of total number of seats)</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Proportion of seats held by women in national parliaments (% of total number of seats)</common:Name>
@@ -6160,7 +6160,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of seats held by women in national parliaments</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Number of seats held by women in national parliaments</common:Name>
@@ -6181,7 +6181,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of seats in national parliaments</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Number of seats in national parliaments</common:Name>
@@ -6202,7 +6202,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of seats held by women in local governments (% of total number of seats)</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Proportion of seats held by women in local governments (% of total number of seats)</common:Name>
@@ -12841,7 +12841,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women Senates in national parliament</common:Name>
           <common:Description xml:lang="en">Proportion of Women Senates in national parliament</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_3" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_3">
@@ -12862,7 +12862,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women Governors and Mayor of Kigali City in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women Governors and Mayor of Kigali City in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_4" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_4">
@@ -12883,7 +12883,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women District Mayors in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women District Mayors in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_5" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_5">
@@ -12904,7 +12904,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women District Vice Mayors in Charge of Economic Affairs in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women District Vice Mayors in Charge of Economic Affairs in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_6" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_6">
@@ -12925,7 +12925,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women District Vice Mayors in Charge of Social Affairs in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women District Vice Mayors in Charge of Social Affairs in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_7" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_7">
@@ -12946,7 +12946,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women Districts Consultative Council in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women Districts Consultative Council in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_8" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_8">
@@ -12967,7 +12967,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women Sectors Consultative Council in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women Sectors Consultative Council in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_9" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_9">
@@ -12988,7 +12988,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women Cells Consultative Council in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women Cells Consultative Council in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_10" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_10">
@@ -13009,7 +13009,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women District Executive Secretaries  in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women District Executive Secretaries  in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_11" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_11">
@@ -13030,7 +13030,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women Sector Executive Secretaries in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women Sector Executive Secretaries in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_050501_12" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_050501_12">
@@ -13051,7 +13051,7 @@
               <common:AnnotationText xml:lang="en">Proportion of seats held by women in (a) national parliaments and (b) local governments</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of Women deputies in national parliament</common:Name>
+          <common:Name xml:lang="en">Proportion of Women Cell Executive Secretaries in local government</common:Name>
           <common:Description xml:lang="en">Proportion of Women Cell Executive Secretaries in local government</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_070102_1" urn="urn:sdmx:org.sdmx.infomodel.codelist.Code=NISR-SDGs:CL_SERIES(1.0)._L_RW_070102_1">
