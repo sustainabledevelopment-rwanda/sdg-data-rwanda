@@ -1,1 +1,13 @@
-Year,Value
+Year,Series,Sex,Value
+2018,Fatal occupational injuries among employees (rate),,6
+2019,Fatal occupational injuries among employees (rate),,5
+2018,Fatal occupational injuries among employees (rate),Male,7
+2019,Fatal occupational injuries among employees (rate),Male,5
+2018,Fatal occupational injuries among employees (rate),Female,0
+2019,Fatal occupational injuries among employees (rate),Female,4
+2018,Non-fatal occupational injuries among employees (rate),,94
+2019,Non-fatal occupational injuries among employees (rate),,95
+2018,Non-fatal occupational injuries among employees (rate),Male,93
+2019,Non-fatal occupational injuries among employees (rate),Male,95
+2018,Non-fatal occupational injuries among employees (rate),Female,100
+2019,Non-fatal occupational injuries among employees (rate),Female,96

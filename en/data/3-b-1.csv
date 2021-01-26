@@ -1,2 +1,8 @@
-Year,Value
-2015,93
+Year,Series,Age,Value
+2015,Children 12-23 months fully immunized,12 to 23 months,93
+2018,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),,97
+2019,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),,98
+2018,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),,92
+2019,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),,92
+2018,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),,97
+2019,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),,98

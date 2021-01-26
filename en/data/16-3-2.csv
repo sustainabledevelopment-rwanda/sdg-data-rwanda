@@ -1,3 +1,11 @@
-Year,Value
-2016,5.53
-2018,7.0
+Year,Series,Units,Value
+2015,Unsentenced detainees as a proportion of overall prison population,Percent,5
+2016,Unsentenced detainees as a proportion of overall prison population,Percent,6
+2017,Unsentenced detainees as a proportion of overall prison population,Percent,6
+2018,Unsentenced detainees as a proportion of overall prison population,Percent,9
+2019,Unsentenced detainees as a proportion of overall prison population,Percent,14
+2015,Unsentenced detainees (number),Number,2543
+2016,Unsentenced detainees (number),Number,3275
+2017,Unsentenced detainees (number),Number,3715
+2018,Unsentenced detainees (number),Number,6373
+2019,Unsentenced detainees (number),Number,10291

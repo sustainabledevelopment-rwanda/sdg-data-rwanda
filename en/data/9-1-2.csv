@@ -1,1 +1,16 @@
-Year,Value
+Year,Series,Units,Value
+2015,Mail volume (tonne kilometres),Metric Tons,304.96
+2016,Mail volume (tonne kilometres),Metric Tons,249.86
+2017,Mail volume (tonne kilometres),Metric Tons,266.55
+2018,Mail volume (tonne kilometres),Metric Tons,339.7
+2019,Mail volume (tonne kilometres),Metric Tons,254.87
+2015,Freight volume (tonne kilometres),Metric Tons,7577.46
+2016,Freight volume (tonne kilometres),Metric Tons,6660.87
+2017,Freight volume (tonne kilometres),Metric Tons,8226.09
+2018,Freight volume (tonne kilometres),Metric Tons,10732.41
+2019,Freight volume (tonne kilometres),Metric Tons,12094.79
+2015,Passenger volume (passenger kilometres),Number,641817.0
+2016,Passenger volume (passenger kilometres),Number,706075.0
+2017,Passenger volume (passenger kilometres),Number,825585.0
+2018,Passenger volume (passenger kilometres),Number,977631.0
+2019,Passenger volume (passenger kilometres),Number,1145867.0
