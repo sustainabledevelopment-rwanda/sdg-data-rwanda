@@ -1,11 +1,11 @@
 Year,Value,Units,Series
-2015,1.39,"Per 100,000 population",Suicide mortality rate
-2016,1.56,"Per 100,000 population",Suicide mortality rate
-2017,1.63,"Per 100,000 population",Suicide mortality rate
-2018,1.88,"Per 100,000 population",Suicide mortality rate
-2019,1.93,"Per 100,000 population",Suicide mortality rate
-2015,157.0,Number,Number of deaths attributed to suicide
-2016,181.0,Number,Number of deaths attributed to suicide
-2017,193.0,Number,Number of deaths attributed to suicide
-2018,228.0,Number,Number of deaths attributed to suicide
-2019,239.0,Number,Number of deaths attributed to suicide
+2015,1.39,"Per 100,000 population",Suicide mortality rate [3.4.2]
+2016,1.56,"Per 100,000 population",Suicide mortality rate [3.4.2]
+2017,1.63,"Per 100,000 population",Suicide mortality rate [3.4.2]
+2018,1.88,"Per 100,000 population",Suicide mortality rate [3.4.2]
+2019,1.93,"Per 100,000 population",Suicide mortality rate [3.4.2]
+2015,157.0,Number,Number of deaths attributed to suicide [3.4.2]
+2016,181.0,Number,Number of deaths attributed to suicide [3.4.2]
+2017,193.0,Number,Number of deaths attributed to suicide [3.4.2]
+2018,228.0,Number,Number of deaths attributed to suicide [3.4.2]
+2019,239.0,Number,Number of deaths attributed to suicide [3.4.2]

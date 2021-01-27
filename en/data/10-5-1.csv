@@ -1,15 +1,15 @@
 Year,Series,Value
-2016,Regulatory capital to assets (%),23.34
-2018,Regulatory capital to assets (%),25.5
-2016,Regulatory Tier 1 capital to risk-weighted assets (%),20.68
-2018,Regulatory Tier 1 capital to risk-weighted assets (%),20.84
-2016,Non-performing loans net of provisions to capital (%),17.05
-2018,Non-performing loans net of provisions to capital (%),10.97
-2016,Non-performing loans to total gross loans (%),7.56
-2018,Non-performing loans to total gross loans (%),6.4
-2016,Return on assets (%),2.62
-2018,Return on assets (%),2.8
-2016,Liquid assets to short term liabilities (%),111.87
-2018,Liquid assets to short term liabilities (%),129.55
-2016,Net open position in foreign exchange to capital (%),-1.61
-2018,Net open position in foreign exchange to capital (%),-9.09
+2016,Regulatory capital to assets (%) [10.5.1],23.34
+2018,Regulatory capital to assets (%) [10.5.1],25.5
+2016,Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],20.68
+2018,Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],20.84
+2016,Non-performing loans net of provisions to capital (%) [10.5.1],17.05
+2018,Non-performing loans net of provisions to capital (%) [10.5.1],10.97
+2016,Non-performing loans to total gross loans (%) [10.5.1],7.56
+2018,Non-performing loans to total gross loans (%) [10.5.1],6.4
+2016,Return on assets (%) [10.5.1],2.62
+2018,Return on assets (%) [10.5.1],2.8
+2016,Liquid assets to short term liabilities (%) [10.5.1],111.87
+2018,Liquid assets to short term liabilities (%) [10.5.1],129.55
+2016,Net open position in foreign exchange to capital (%) [10.5.1],-1.61
+2018,Net open position in foreign exchange to capital (%) [10.5.1],-9.09

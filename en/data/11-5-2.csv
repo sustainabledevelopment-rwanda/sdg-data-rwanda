@@ -1,10 +1,10 @@
 Year,Series,Units,Value
-2018,Direct economic loss attributed to disasters relative to GDP,Ratio,0.02
-2016,Number of destroyed or damaged health facilities attributed to disasters,Number,2.0
-2017,Number of destroyed or damaged health facilities attributed to disasters,Number,3.0
-2018,Number of destroyed or damaged health facilities attributed to disasters,Number,3.0
-2019,Number of destroyed or damaged health facilities attributed to disasters,Number,1.0
-2016,Number of destroyed or damaged educational facilities attributed to disasters,Number,82.0
-2017,Number of destroyed or damaged educational facilities attributed to disasters,Number,203.0
-2018,Number of destroyed or damaged educational facilities attributed to disasters,Number,73.0
-2019,Number of destroyed or damaged educational facilities attributed to disasters,Number,203.0
+2018,"Direct economic loss attributed to disasters relative to GDP [1.5.2, 11.5.2]",Ratio,0.02
+2016,Number of destroyed or damaged health facilities attributed to disasters [11.5.2],Number,2.0
+2017,Number of destroyed or damaged health facilities attributed to disasters [11.5.2],Number,3.0
+2018,Number of destroyed or damaged health facilities attributed to disasters [11.5.2],Number,3.0
+2019,Number of destroyed or damaged health facilities attributed to disasters [11.5.2],Number,1.0
+2016,Number of destroyed or damaged educational facilities attributed to disasters [11.5.2],Number,82.0
+2017,Number of destroyed or damaged educational facilities attributed to disasters [11.5.2],Number,203.0
+2018,Number of destroyed or damaged educational facilities attributed to disasters [11.5.2],Number,73.0
+2019,Number of destroyed or damaged educational facilities attributed to disasters [11.5.2],Number,203.0
