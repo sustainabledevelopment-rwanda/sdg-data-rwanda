@@ -78,7 +78,7 @@ translations:
     source: translations
   # This pulls in translations from DSD
   - class: TranslationInputSdmx
-    source: 'RWA_C_V1_SDG DSD.XML'
+    source: 'RWA_C_V2_SDG DSD.xml'
     
     
 # Reporting status extra fields
