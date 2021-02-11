@@ -43,6 +43,7 @@ inputs:
     dimension_map:
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
+      REF_AREA|RW: ''
     drop_dimensions: SOURCE_DETAIL
     dsd: 'RWA_C_V2_SDG DSD.xml'
     import_translation_keys: true
