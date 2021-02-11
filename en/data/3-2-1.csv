@@ -1,16 +1,16 @@
 Year,Reference area,Degree of urbanisation,Value
-2000,Rwanda,,196
-2005,Rwanda,,152
-2008,Rwanda,,103
-2010,Rwanda,,76
-2015,Rwanda,,50
-2020,Rwanda,,45
-2008,Rwanda,Urban,87
-2010,Rwanda,Urban,81
-2015,Rwanda,Urban,51
-2008,Rwanda,Rural,142
-2010,Rwanda,Rural,105
-2015,Rwanda,Rural,70
+2000,,,196
+2005,,,152
+2008,,,103
+2010,,,76
+2015,,,50
+2020,,,45
+2008,,Urban,87
+2010,,Urban,81
+2015,,Urban,51
+2008,,Rural,142
+2010,,Rural,105
+2015,,Rural,70
 2008,City of Kigali,,102
 2010,City of Kigali,,79
 2015,City of Kigali,,42

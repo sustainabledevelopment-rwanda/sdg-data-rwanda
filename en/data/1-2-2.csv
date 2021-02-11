@@ -1,13 +1,13 @@
 Year,Reference area,Degree of urbanisation,Value
-2011,Rwanda,,0.24
-2014,Rwanda,,0.17
-2017,Rwanda,,0.15
-2011,Rwanda,Urban,0.09
-2014,Rwanda,Urban,0.07
-2017,Rwanda,Urban,0.07
-2011,Rwanda,Rural,0.27
-2014,Rwanda,Rural,0.19
-2017,Rwanda,Rural,0.17
+2011,,,0.24
+2014,,,0.17
+2017,,,0.15
+2011,,Urban,0.09
+2014,,Urban,0.07
+2017,,Urban,0.07
+2011,,Rural,0.27
+2014,,Rural,0.19
+2017,,Rural,0.17
 2011,City of Kigali,,0.12
 2014,City of Kigali,,0.07
 2017,City of Kigali,,0.07

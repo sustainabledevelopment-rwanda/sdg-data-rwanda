@@ -1,1 +1,1 @@
-{"From":["concept.REF_AREA","concept.REF_AREA","concept.SEX"],"To":["concept.SEX","concept.URBANISATION","concept.AGE"]}
+{"From":["concept.SEX"],"To":["concept.AGE"]}
