@@ -12,7 +12,7 @@ def alter_meta(meta):
         meta['target_number'] = id_parts[0] + '.' + id_parts[1]
         meta['target_name'] = 'global_targets.' + id_parts[0] + '-' + id_parts[1] + '-title'
         meta['indicator_name'] = 'global_indicators.' + id_parts[0] + '-' + id_parts[1] + '-' + id_parts[2] + '-title'
-
+    return meta
 
 # Validate the indicators.
 validation_successful = open_sdg_check(config='config_data.yml', alter_meta=alter_meta)
