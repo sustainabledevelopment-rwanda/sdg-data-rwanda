@@ -127,29 +127,11 @@ prose:
             label: "Other information"
             translation_key: metadata_fields.other_info
             scope: national
-      - name: "quality_assurance"
-        field:
-            element: text
-            label: "Quality assurance"
-            translation_key: metadata_fields.quality_assurance
-            scope: national
-      - name: "international_comparability"
-        field:
-            element: text
-            label: "Comparability with international data/standards"
-            translation_key: metadata_fields.international_comparability
-            scope: national
       - name: "comments_limitations"
         field:
             element: text
             label: "Comments and limitations"
             translation_key: metadata_fields.comments_limitations
-            scope: national
-      - name: "rationale_interpretation"
-        field:
-            element: text
-            label: "Rationale and interpretation"
-            translation_key: metadata_fields.rationale_interpretation
             scope: national
       - name: "national_data_update_url"
         field:
