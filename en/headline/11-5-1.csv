@@ -1,1 +1,4 @@
-Year,Value
+Year,Value,Series
+2018,254,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]"
+2019,134,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]"
+2018,80164,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]"
