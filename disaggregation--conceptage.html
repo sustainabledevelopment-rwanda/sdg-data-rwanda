@@ -1,16 +1,29 @@
 
         <!DOCTYPE html>
-        <html>
+        <html lang="en">
         <head>
             <meta charset="utf-8">
             <meta http-equiv="X-UA-Compatible" content="IE=edge">
             <meta name="viewport" content="width=device-width, initial-scale=1">
 
-            <title>SDG data build documentation - Disaggregation: concept.AGE</title>
+            <title>Disaggregation: concept.AGE - SDG data build documentation</title>
 
-            <script defer src="https://use.fontawesome.com/releases/v5.0.2/js/all.js"></script>
+            <script defer src="https://use.fontawesome.com/releases/v5.15.1/js/all.js"></script>
             <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
-            <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/css/theme.bootstrap_4.min.css" integrity="sha256-vFn0MM8utz2N3JoNzRxHXUtfCJLz5Pb9ygBY2exIaqg=" crossorigin="anonymous" />
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
+            <style>
+                .btn-primary {
+                    background-color: #1D70B8;
+                    border-color: #1D70B8;
+                }
+                a {
+                    color: #1D70B8;
+                    text-decoration: underline;
+                }
+                .download-info {
+                    margin-left: 12px;
+                }
+            </style>
         </head>
         <body>
             <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -23,22 +36,26 @@
                     <h1 style="margin:20px 0">Disaggregation: concept.AGE</h1>
                     <div>
                         
-        <div class="list-group list-group-horizontal mb-4">
-            <a class="list-group-item list-group-item-action" href="#values-used">Values used in disaggregation</a>
-            <a class="list-group-item list-group-item-action" href="#indicators-using">Indicators using disaggregation</a>
+        <div role="navigation" aria-describedby="contents-heading">
+            <h2 id="contents-heading">On this page</h2>
+            <ul>
+                <li><a href="#values-used">Values used in disaggregation</a></li>
+                <li><a href="#indicators-using">Indicators using disaggregation</a></li>
+            </ul>
         </div>
         <div>
-            <h2 id="values-used">Values used in disaggregation</h2>
+            <h2 id="values-used" tabindex="-1">Values used in disaggregation</h2>
             
         <div class="my-3">
-            <a href="values--disaggregation--conceptage.csv" class="btn btn-primary">Download CSV</a>
+            <a href="values--disaggregation--conceptage.csv" role="button" class="btn btn-primary" aria-describedby="values--disaggregation--conceptage">Download CSV of values used in this disaggregation</a>
+            <div id="values--disaggregation--conceptage" class="download-info">Size: 320 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">14</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="values-table">
   <thead>
     <tr style="text-align: right;">
       <th>Value</th>
@@ -48,90 +65,97 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="disaggregation-value--cl_agem12t23.html">12 to 23 Months old</a></td>
+      <td><a href="disaggregation-value--cl_agem12t23.html">CL_AGE.M12T23</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agem36t59.html">36 to 59 months old</a></td>
+      <td><a href="disaggregation-value--cl_agem36t59.html">CL_AGE.M36T59</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey0t14.html">under 15 years old</a></td>
+      <td><a href="disaggregation-value--cl_agey0t14.html">CL_AGE.Y0T14</a></td>
       <td>3</td>
       <td>2</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey0t17.html">under 18 years old</a></td>
+      <td><a href="disaggregation-value--cl_agey0t17.html">CL_AGE.Y0T17</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey0t4.html">under 5 years old</a></td>
+      <td><a href="disaggregation-value--cl_agey0t4.html">CL_AGE.Y0T4</a></td>
       <td>10</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey15t24.html">15 to 24 years old</a></td>
+      <td><a href="disaggregation-value--cl_agey15t24.html">CL_AGE.Y15T24</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey16t24.html">16 to 24 years old</a></td>
+      <td><a href="disaggregation-value--cl_agey16t24.html">CL_AGE.Y16T24</a></td>
       <td>3</td>
       <td>2</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey16t30.html">16 to 30 years old</a></td>
+      <td><a href="disaggregation-value--cl_agey16t30.html">CL_AGE.Y16T30</a></td>
       <td>1</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey25t34.html">25 to 34 years old</a></td>
+      <td><a href="disaggregation-value--cl_agey25t34.html">CL_AGE.Y25T34</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey55t64.html">55 to 64 years old</a></td>
+      <td><a href="disaggregation-value--cl_agey55t64.html">CL_AGE.Y55T64</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey_ge15.html">15 years old and over</a></td>
+      <td><a href="disaggregation-value--cl_agey_ge15.html">CL_AGE.Y_GE15</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey_ge16.html">16 years old and over</a></td>
+      <td><a href="disaggregation-value--cl_agey_ge16.html">CL_AGE.Y_GE16</a></td>
       <td>4</td>
       <td>2</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey_ge6.html">6 years old and over</a></td>
+      <td><a href="disaggregation-value--cl_agey_ge6.html">CL_AGE.Y_GE6</a></td>
       <td>3</td>
       <td>1</td>
     </tr>
     <tr>
-      <td><a href="disaggregation-value--cl_agey_ge65.html">65 years old and over</a></td>
+      <td><a href="disaggregation-value--cl_agey_ge65.html">CL_AGE.Y_GE65</a></td>
       <td>2</td>
       <td>1</td>
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--cl_agem12t23.html\">CL_AGE.M12T23<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agem36t59.html\">CL_AGE.M36T59<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agey0t14.html\">CL_AGE.Y0T14<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cl_agey0t17.html\">CL_AGE.Y0T17<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agey0t4.html\">CL_AGE.Y0T4<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agey15t24.html\">CL_AGE.Y15T24<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agey16t24.html\">CL_AGE.Y16T24<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cl_agey16t30.html\">CL_AGE.Y16T30<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agey25t34.html\">CL_AGE.Y25T34<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agey55t64.html\">CL_AGE.Y55T64<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agey_ge15.html\">CL_AGE.Y_GE15<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agey_ge16.html\">CL_AGE.Y_GE16<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--cl_agey_ge6.html\">CL_AGE.Y_GE6<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--cl_agey_ge65.html\">CL_AGE.Y_GE65<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1}];
+            </script>
+            
         </div>
         <div>
-            <h2 id="indicators-using">Indicators using disaggregation</h2>
+            <h2 id="indicators-using" tabindex="-1">Indicators using disaggregation</h2>
             
         <div class="my-3">
-            <a href="indicators--disaggregation--conceptage.csv" class="btn btn-primary">Download CSV</a>
+            <a href="indicators--disaggregation--conceptage.csv" role="button" class="btn btn-primary" aria-describedby="indicators--disaggregation--conceptage">Download CSV of indicators using this disaggregation</a>
+            <div id="indicators--disaggregation--conceptage" class="download-info">Size: 59 Bytes</div>
         </div>
         
             
                 <div class="total-rows">
                     Total rows: <span class="total">7</span>
                 </div>
-                <table border="1" class="dataframe table table-striped table-bordered tablesorter">
+                <table border="1" class="dataframe table table-striped table-bordered" id="indicators-table">
   <thead>
     <tr style="text-align: right;">
       <th>Indicator</th>
@@ -161,17 +185,34 @@
     </tr>
   </tbody>
 </table>
+            <script type="text/javascript">
+            var sdgBuild = sdgBuild || {};
+            sdgBuild.tables = sdgBuild.tables || {};
+            sdgBuild.tables['indicators-table'] = [{"Indicator":"#1-2-1"},{"Indicator":"#3-b-1"},{"Indicator":"#4-2-1"},{"Indicator":"#4-5-1"},{"Indicator":"#5-3-1"},{"Indicator":"#8-5-1"},{"Indicator":"#8-6-1"}];
+            </script>
+            
         </div>
         
                     </div>
                 </div>
             </div>
-            <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+            <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+            <script src="https://cdn.datatables.net/1.10.23/js/jquery.dataTables.min.js"></script>
+            <script src="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.js"></script>
             <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
             <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.tablesorter/2.31.3/js/jquery.tablesorter.min.js" integrity="sha256-dtGH1XcAyKopMui5x20KnPxuGuSx9Rs6piJB/4Oqu6I=" crossorigin="anonymous"></script>
-            <script>$(".tablesorter").tablesorter({
-                theme: 'bootstrap'
-            });</script>
+            <script>
+            if (typeof sdgBuild !== 'undefined' && sdgBuild.tables) {
+                var tableIds = Object.keys(sdgBuild.tables);
+                for (var i = 0; i < tableIds.length; i++) {
+                    var tableId = tableIds[i];
+                    $('#' + tableId).openSdgTable(sdgBuild.tables[tableId]).find('td').each(function() {
+                        if (!isNaN($(this).text())) {
+                            $(this).css('text-align', 'right');
+                        }
+                    })
+                }
+            }
+            </script>
         </html>
         

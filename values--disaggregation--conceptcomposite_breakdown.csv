@@ -1,23 +1,23 @@
 Value,Disaggregation combinations using this value,Number of indicators
-"IHR Capacity: National legislation, policy and financing",1,1
-IHR Capacity: Coordination and National Focal Point communications,1,1
-IHR Capacity: Surveillance,1,1
-IHR Capacity: Response,1,1
-IHR Capacity: Preparedness,1,1
-IHR Capacity: Risk communication,1,1
-IHR Capacity: Human resources,1,1
-IHR Capacity: Laboratory,1,1
-IHR Capacity: Points of entry,1,1
-IHR Capacity: Zoonotic events,1,1
-IHR Capacity: Food safety,1,1
-IHR Capacity: Chemical events,1,1
-IHR Capacity: Radionuclear emergencies,1,1
-Skill: ICT Skill: Sending e-mails with attached files,3,1
-Skill: ICT Skill: connecting and installing new devices,3,1
-Skill: ICT Skill: Copying or moving a file or folder,3,1
-Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document,3,1
-Skill: ICT Skill: Writing a computer program using a specialized programming language,3,1
-Skill: ICT Skill: Creating electronic presentations with presentation software,3,1
-"Skill: ICT Skill: Finding, downloading, installing and configuring software",3,1
-Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet,3,1
-Skill: ICT Skill: Transferring files between a computer and other devices,3,1
+CL_COMP_BREAKDOWN.IHR_01,1,1
+CL_COMP_BREAKDOWN.IHR_02,1,1
+CL_COMP_BREAKDOWN.IHR_03,1,1
+CL_COMP_BREAKDOWN.IHR_04,1,1
+CL_COMP_BREAKDOWN.IHR_05,1,1
+CL_COMP_BREAKDOWN.IHR_06,1,1
+CL_COMP_BREAKDOWN.IHR_07,1,1
+CL_COMP_BREAKDOWN.IHR_08,1,1
+CL_COMP_BREAKDOWN.IHR_09,1,1
+CL_COMP_BREAKDOWN.IHR_10,1,1
+CL_COMP_BREAKDOWN.IHR_11,1,1
+CL_COMP_BREAKDOWN.IHR_12,1,1
+CL_COMP_BREAKDOWN.IHR_13,1,1
+CL_COMP_BREAKDOWN.SKILL_ICTATCH,3,1
+CL_COMP_BREAKDOWN.SKILL_ICTCDV,3,1
+CL_COMP_BREAKDOWN.SKILL_ICTCMFL,3,1
+CL_COMP_BREAKDOWN.SKILL_ICTCPT,3,1
+CL_COMP_BREAKDOWN.SKILL_ICTPRGM,3,1
+CL_COMP_BREAKDOWN.SKILL_ICTPST,3,1
+CL_COMP_BREAKDOWN.SKILL_ICTSFWR,3,1
+CL_COMP_BREAKDOWN.SKILL_ICTSSHT,3,1
+CL_COMP_BREAKDOWN.SKILL_ICTTRFF,3,1
