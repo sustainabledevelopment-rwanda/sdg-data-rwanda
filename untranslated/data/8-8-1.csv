@@ -1,13 +1,13 @@
-Year,Series,concept.SEX,Value
-2018,CL_SERIES.SL_EMP_FTLINJUR,,6
-2019,CL_SERIES.SL_EMP_FTLINJUR,,5
-2018,CL_SERIES.SL_EMP_FTLINJUR,CL_SEX.M,7
-2019,CL_SERIES.SL_EMP_FTLINJUR,CL_SEX.M,5
-2018,CL_SERIES.SL_EMP_FTLINJUR,CL_SEX.F,0
-2019,CL_SERIES.SL_EMP_FTLINJUR,CL_SEX.F,4
-2018,CL_SERIES.SL_EMP_INJUR,,94
-2019,CL_SERIES.SL_EMP_INJUR,,95
-2018,CL_SERIES.SL_EMP_INJUR,CL_SEX.M,93
-2019,CL_SERIES.SL_EMP_INJUR,CL_SEX.M,95
-2018,CL_SERIES.SL_EMP_INJUR,CL_SEX.F,100
-2019,CL_SERIES.SL_EMP_INJUR,CL_SEX.F,96
+Year,COMMENT_OBS,Series,SEX,Value
+2018,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,,6
+2019,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,,5
+2018,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,M,7
+2019,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,M,5
+2018,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,F,0
+2019,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,F,4
+2018,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,,94
+2019,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,,95
+2018,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,M,93
+2019,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,M,95
+2018,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,F,100
+2019,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,F,96

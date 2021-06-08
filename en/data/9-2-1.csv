@@ -1,41 +1,41 @@
-Year,Series,Units,Value
-2000,Manufacturing value added as a proportion of GDP [9.2.1],Percent,12.0
-2001,Manufacturing value added as a proportion of GDP [9.2.1],Percent,11.0
-2002,Manufacturing value added as a proportion of GDP [9.2.1],Percent,12.0
-2003,Manufacturing value added as a proportion of GDP [9.2.1],Percent,10.0
-2004,Manufacturing value added as a proportion of GDP [9.2.1],Percent,10.0
-2005,Manufacturing value added as a proportion of GDP [9.2.1],Percent,10.0
-2006,Manufacturing value added as a proportion of GDP [9.2.1],Percent,9.0
-2007,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.0
-2008,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.0
-2009,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.0
-2010,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.0
-2011,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.0
-2012,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.0
-2013,Manufacturing value added as a proportion of GDP [9.2.1],Percent,7.0
-2014,Manufacturing value added as a proportion of GDP [9.2.1],Percent,7.0
-2015,Manufacturing value added as a proportion of GDP [9.2.1],Percent,7.0
-2016,Manufacturing value added as a proportion of GDP [9.2.1],Percent,7.0
-2017,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.0
-2018,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.0
-2019,Manufacturing value added as a proportion of GDP [9.2.1],Percent,8.0
-2000,Manufacturing value added per capita [9.2.1],USD,26.307026
-2001,Manufacturing value added per capita [9.2.1],USD,22.859102
-2002,Manufacturing value added per capita [9.2.1],USD,23.911631
-2003,Manufacturing value added per capita [9.2.1],USD,23.066243
-2004,Manufacturing value added per capita [9.2.1],USD,24.87361
-2005,Manufacturing value added per capita [9.2.1],USD,29.378162
-2006,Manufacturing value added per capita [9.2.1],USD,33.413849
-2007,Manufacturing value added per capita [9.2.1],USD,36.364359
-2008,Manufacturing value added per capita [9.2.1],USD,43.683248
-2009,Manufacturing value added per capita [9.2.1],USD,47.190359
-2010,Manufacturing value added per capita [9.2.1],USD,51.114923
-2011,Manufacturing value added per capita [9.2.1],USD,57.189542
-2012,Manufacturing value added per capita [9.2.1],USD,61.268807
-2013,Manufacturing value added per capita [9.2.1],USD,50.556848
-2014,Manufacturing value added per capita [9.2.1],USD,51.77692
-2015,Manufacturing value added per capita [9.2.1],USD,52.728614
-2016,Manufacturing value added per capita [9.2.1],USD,51.820341
-2017,Manufacturing value added per capita [9.2.1],USD,60.198012
-2018,Manufacturing value added per capita [9.2.1],USD,60.087732
-2019,Manufacturing value added per capita [9.2.1],USD,66.920234
+Year,Observation-level footnotes,Series,Units,Value
+2000,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,12.0
+2001,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,11.0
+2002,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,12.0
+2003,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,10.0
+2004,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,10.0
+2005,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,10.0
+2006,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,9.0
+2007,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,8.0
+2008,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,8.0
+2009,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,8.0
+2010,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,8.0
+2011,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,8.0
+2012,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,8.0
+2013,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,7.0
+2014,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,7.0
+2015,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,7.0
+2016,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,7.0
+2017,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,8.0
+2018,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,8.0
+2019,Manufacturing value added as a proportion of GDP (%),NV_IND_MANF,PT,8.0
+2000,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,26.307026
+2001,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,22.859102
+2002,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,23.911631
+2003,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,23.066243
+2004,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,24.87361
+2005,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,29.378162
+2006,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,33.413849
+2007,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,36.364359
+2008,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,43.683248
+2009,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,47.190359
+2010,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,51.114923
+2011,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,57.189542
+2012,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,61.268807
+2013,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,50.556848
+2014,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,51.77692
+2015,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,52.728614
+2016,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,51.820341
+2017,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,60.198012
+2018,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,60.087732
+2019,Manufacturing value added per capita (USD),NV_IND_MANFPC,USD,66.920234

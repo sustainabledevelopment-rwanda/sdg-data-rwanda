@@ -1,16 +1,16 @@
-Year,Series,Units,Value
-2015,Mail volume (tonne kilometres) [9.1.2],Metric Tons,304.96
-2016,Mail volume (tonne kilometres) [9.1.2],Metric Tons,249.86
-2017,Mail volume (tonne kilometres) [9.1.2],Metric Tons,266.55
-2018,Mail volume (tonne kilometres) [9.1.2],Metric Tons,339.7
-2019,Mail volume (tonne kilometres) [9.1.2],Metric Tons,254.87
-2015,Freight volume (tonne kilometres) [9.1.2],Metric Tons,7577.46
-2016,Freight volume (tonne kilometres) [9.1.2],Metric Tons,6660.87
-2017,Freight volume (tonne kilometres) [9.1.2],Metric Tons,8226.09
-2018,Freight volume (tonne kilometres) [9.1.2],Metric Tons,10732.41
-2019,Freight volume (tonne kilometres) [9.1.2],Metric Tons,12094.79
-2015,Passenger volume (passenger kilometres) [9.1.2],Number,641817.0
-2016,Passenger volume (passenger kilometres) [9.1.2],Number,706075.0
-2017,Passenger volume (passenger kilometres) [9.1.2],Number,825585.0
-2018,Passenger volume (passenger kilometres) [9.1.2],Number,977631.0
-2019,Passenger volume (passenger kilometres) [9.1.2],Number,1145867.0
+Year,Observation-level footnotes,Series,Units,Value
+2015,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,304.96
+2016,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,249.86
+2017,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,266.55
+2018,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,339.7
+2019,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,254.87
+2015,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,7577.46
+2016,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,6660.87
+2017,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,8226.09
+2018,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,10732.41
+2019,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,12094.79
+2015,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,641817.0
+2016,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,706075.0
+2017,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,825585.0
+2018,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,977631.0
+2019,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,1145867.0

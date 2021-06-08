@@ -1,5 +1,5 @@
-Year,Series,Value
-2015,Moderately food insecure based on CARI Method,16.8
-2018,Moderately food insecure based on CARI Method,17.0
-2015,Severely food insecure based on CARI Method,2.6
-2018,Severely food insecure based on CARI Method,1.7
+Year,Observation-level footnotes,Series,Value
+2015,Moderately food insecure based on CARI Method,_L_RW_020102_1,16.8
+2018,Moderately food insecure based on CARI Method,_L_RW_020102_1,17.0
+2015,Severely food insecure based on CARI Method,_L_RW_020102_2,2.6
+2018,Severely food insecure based on CARI Method,_L_RW_020102_2,1.7

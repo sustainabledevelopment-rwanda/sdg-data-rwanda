@@ -1,1 +1,1 @@
-{"From":["concept.EDUCATION_LEV"],"To":["concept.SEX"]}
+{"From":["COMMENT_OBS","EDUCATION_LEV"],"To":["EDUCATION_LEV","SEX"]}

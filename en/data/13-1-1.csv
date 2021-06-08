@@ -1,4 +1,4 @@
-Year,Series,Value
-2018,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",254
-2019,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",134
-2018,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",80164
+Year,Observation-level footnotes,Series,Value
+2018,Number of deaths due to disaster,VC_DSR_MORT,254
+2019,Number of deaths due to disaster,VC_DSR_MORT,134
+2018,Number of people affected by disaster,VC_DSR_AFFCT,80164

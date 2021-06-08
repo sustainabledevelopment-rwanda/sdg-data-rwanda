@@ -1,11 +1,11 @@
-Year,Series,Units,Value
-2016,CL_SERIES.VC_VAW_DIST,CL_UNIT_MEASURE.PT,0.57
-2017,CL_SERIES.VC_VAW_DIST,CL_UNIT_MEASURE.PT,0.47
-2018,CL_SERIES.VC_VAW_DIST,CL_UNIT_MEASURE.PT,0.74
-2019,CL_SERIES.VC_VAW_DIST,CL_UNIT_MEASURE.PT,0.51
-2020,CL_SERIES.VC_VAW_DIST,CL_UNIT_MEASURE.PT,0.72
-2016,CL_SERIES.VC_HTF_DETV,CL_UNIT_MEASURE.NUMBER,66.0
-2017,CL_SERIES.VC_HTF_DETV,CL_UNIT_MEASURE.NUMBER,55.0
-2018,CL_SERIES.VC_HTF_DETV,CL_UNIT_MEASURE.NUMBER,89.0
-2019,CL_SERIES.VC_HTF_DETV,CL_UNIT_MEASURE.NUMBER,63.0
-2020,CL_SERIES.VC_HTF_DETV,CL_UNIT_MEASURE.NUMBER,91.0
+Year,COMMENT_OBS,Series,Units,Value
+2016,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.57
+2017,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.47
+2018,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.74
+2019,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.51
+2020,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.72
+2016,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,66.0
+2017,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,55.0
+2018,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,89.0
+2019,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,63.0
+2020,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,91.0

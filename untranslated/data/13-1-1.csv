@@ -1,4 +1,4 @@
-Year,Series,Value
-2018,CL_SERIES.VC_DSR_MORT,254
-2019,CL_SERIES.VC_DSR_MORT,134
-2018,CL_SERIES.VC_DSR_AFFCT,80164
+Year,COMMENT_OBS,Series,Value
+2018,Number of deaths due to disaster,VC_DSR_MORT,254
+2019,Number of deaths due to disaster,VC_DSR_MORT,134
+2018,Number of people affected by disaster,VC_DSR_AFFCT,80164

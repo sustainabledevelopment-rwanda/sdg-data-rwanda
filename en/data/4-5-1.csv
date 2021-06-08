@@ -1,37 +1,37 @@
-Year,Series,Age,Degree of urbanisation,Education level,Value
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",,,Primary education,1.01
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",,Urban,Primary education,0.95
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",,Rural,Primary education,1.02
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",,,Primary education,0.99
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",,Urban,Primary education,0.92
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",,Rural,Primary education,1.0
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",,,Primary education,0.86
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",,Urban,Primary education,0.95
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",,Rural,Primary education,0.85
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",,,Primary education,1.06
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",,Urban,Primary education,1.0
-2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",,Rural,Primary education,1.07
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",,,Secondary education (lower and upper secondary education),1.18
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",,Urban,Secondary education (lower and upper secondary education),0.99
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",,Rural,Secondary education (lower and upper secondary education),1.23
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",,,Secondary education (lower and upper secondary education),1.08
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",,Urban,Secondary education (lower and upper secondary education),0.84
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",,Rural,Secondary education (lower and upper secondary education),1.17
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",,,Secondary education (lower and upper secondary education),1.32
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",,Urban,Secondary education (lower and upper secondary education),1.7
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",,Rural,Secondary education (lower and upper secondary education),1.19
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",,,Secondary education (lower and upper secondary education),0.95
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",,Urban,Secondary education (lower and upper secondary education),0.94
-2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",,Rural,Secondary education (lower and upper secondary education),0.95
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],15 years old and over,,,0.89
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],15 years old and over,Urban,,0.92
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],15 years old and over,Rural,,0.89
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],15 to 24 years old,,,1.05
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],15 to 24 years old,Urban,,1.01
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],15 to 24 years old,Rural,,1.06
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],6 years old and over,,,0.95
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],6 years old and over,Urban,,0.96
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],6 years old and over,Rural,,0.95
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,,,2.2
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Urban,,0.0
-2017,Gender parity index for participation rate in formal and non-formal education and training [4.5.1],,Rural,,2.7
+Year,Observation-level footnotes,Series,Age,Degree of urbanisation,Education level,Value
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",_L_RW_040501_1,,,Primary education,1.01
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",_L_RW_040501_1,,Urban,Primary education,0.95
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",_L_RW_040501_1,,Rural,Primary education,1.02
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",_L_RW_040501_2,,,Primary education,0.99
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",_L_RW_040501_2,,Urban,Primary education,0.92
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",_L_RW_040501_2,,Rural,Primary education,1.0
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",_L_RW_040501_3,,,Primary education,0.86
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",_L_RW_040501_3,,Urban,Primary education,0.95
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",_L_RW_040501_3,,Rural,Primary education,0.85
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",_L_RW_040501_4,,,Primary education,1.06
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",_L_RW_040501_4,,Urban,Primary education,1.0
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",_L_RW_040501_4,,Rural,Primary education,1.07
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",_L_RW_040501_5,,,Secondary education (lower and upper secondary education),1.18
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",_L_RW_040501_5,,Urban,Secondary education (lower and upper secondary education),0.99
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",_L_RW_040501_5,,Rural,Secondary education (lower and upper secondary education),1.23
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",_L_RW_040501_6,,,Secondary education (lower and upper secondary education),1.08
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",_L_RW_040501_6,,Urban,Secondary education (lower and upper secondary education),0.84
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",_L_RW_040501_6,,Rural,Secondary education (lower and upper secondary education),1.17
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",_L_RW_040501_7,,,Secondary education (lower and upper secondary education),1.32
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",_L_RW_040501_7,,Urban,Secondary education (lower and upper secondary education),1.7
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",_L_RW_040501_7,,Rural,Secondary education (lower and upper secondary education),1.19
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",_L_RW_040501_8,,,Secondary education (lower and upper secondary education),0.95
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",_L_RW_040501_8,,Urban,Secondary education (lower and upper secondary education),0.94
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",_L_RW_040501_8,,Rural,Secondary education (lower and upper secondary education),0.95
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,SE_GPI_PART,15 years old and over,,,0.89
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,SE_GPI_PART,15 years old and over,Urban,,0.92
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,SE_GPI_PART,15 years old and over,Rural,,0.89
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,SE_GPI_PART,15 to 24 years old,,,1.05
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,SE_GPI_PART,15 to 24 years old,Urban,,1.01
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,SE_GPI_PART,15 to 24 years old,Rural,,1.06
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school,SE_GPI_PART,6 years old and over,,,0.95
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school,SE_GPI_PART,6 years old and over,Urban,,0.96
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school,SE_GPI_PART,6 years old and over,Rural,,0.95
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,SE_GPI_PART,,,,2.2
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,SE_GPI_PART,,Urban,,0.0
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,SE_GPI_PART,,Rural,,2.7

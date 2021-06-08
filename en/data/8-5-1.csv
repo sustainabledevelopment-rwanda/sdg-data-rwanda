@@ -1,67 +1,67 @@
-Year,Sex,Age,Occupation,Value
-2017,Male,,Managers,2.7
-2018,Male,,Managers,3.3
-2019,Male,,Managers,3.6
-2017,Female,,Managers,2.4
-2018,Female,,Managers,2.6
-2019,Female,,Managers,2.4
-2017,Male,,Professionals,1.6
-2018,Male,,Professionals,1.5
-2019,Male,,Professionals,1.4
-2017,Female,,Professionals,1.0
-2018,Female,,Professionals,1.0
-2019,Female,,Professionals,1.2
-2017,Male,,Technicians and associate professionals,1.7
-2018,Male,,Technicians and associate professionals,2.4
-2019,Male,,Technicians and associate professionals,1.4
-2017,Female,,Technicians and associate professionals,1.8
-2018,Female,,Technicians and associate professionals,1.7
-2019,Female,,Technicians and associate professionals,1.7
-2017,Male,,Clerical support workers,1.0
-2018,Male,,Clerical support workers,1.2
-2019,Male,,Clerical support workers,1.1
-2017,Female,,Clerical support workers,1.1
-2018,Female,,Clerical support workers,1.3
-2019,Female,,Clerical support workers,1.2
-2017,Male,,Service and sales workers,0.3
-2018,Male,,Service and sales workers,0.4
-2019,Male,,Service and sales workers,0.4
-2017,Female,,Service and sales workers,0.5
-2018,Female,,Service and sales workers,0.6
-2019,Female,,Service and sales workers,0.5
-2017,Male,,"Skilled agricultural, forestry and fishery workers",0.2
-2018,Male,,"Skilled agricultural, forestry and fishery workers",0.8
-2019,Male,,"Skilled agricultural, forestry and fishery workers",0.2
-2017,Female,,"Skilled agricultural, forestry and fishery workers",0.4
-2018,Female,,"Skilled agricultural, forestry and fishery workers",0.5
-2019,Female,,"Skilled agricultural, forestry and fishery workers",0.2
-2017,Male,,Craft and related trades workers,0.7
-2018,Male,,Craft and related trades workers,0.8
-2019,Male,,Craft and related trades workers,0.8
-2017,Female,,Craft and related trades workers,0.4
-2018,Female,,Craft and related trades workers,0.9
-2019,Female,,Craft and related trades workers,0.5
-2017,Male,,"Plant and machine operators, and assemblers",1.0
-2018,Male,,"Plant and machine operators, and assemblers",0.9
-2019,Male,,"Plant and machine operators, and assemblers",0.9
-2017,Female,,"Plant and machine operators, and assemblers",0.4
-2018,Female,,"Plant and machine operators, and assemblers",0.6
-2019,Female,,"Plant and machine operators, and assemblers",0.4
-2017,Male,,Elementary occupations,0.3
-2018,Male,,Elementary occupations,0.3
-2019,Male,,Elementary occupations,0.3
-2017,Female,,Elementary occupations,0.2
-2018,Female,,Elementary occupations,0.3
-2019,Female,,Elementary occupations,0.2
-2018,Male,16 years old and over,,480.0
-2018,Female,16 years old and over,,356.0
-2018,Male,16 to 24 years old,,273.0
-2018,Female,16 to 24 years old,,278.0
-2018,Male,25 to 34 years old,,506.0
-2018,Female,25 to 34 years old,,388.0
-2018,Male,55 to 64 years old,,449.0
-2018,Female,55 to 64 years old,,260.0
-2018,Male,65 years old and over,,434.0
-2018,Female,65 years old and over,,223.0
-2018,Male,,,249.0
-2018,Female,,,178.0
+Year,Observation-level footnotes,Sex,Age,Occupation,Value
+2017,Average hourly earnings for Managers,Male,,Managers,2.7
+2018,Average hourly earnings for Managers,Male,,Managers,3.3
+2019,Average hourly earnings for Managers,Male,,Managers,3.6
+2017,Average hourly earnings for Managers,Female,,Managers,2.4
+2018,Average hourly earnings for Managers,Female,,Managers,2.6
+2019,Average hourly earnings for Managers,Female,,Managers,2.4
+2017,Average hourly earnings for Professionals,Male,,Professionals,1.6
+2018,Average hourly earnings for Professionals,Male,,Professionals,1.5
+2019,Average hourly earnings for Professionals,Male,,Professionals,1.4
+2017,Average hourly earnings for Professionals,Female,,Professionals,1.0
+2018,Average hourly earnings for Professionals,Female,,Professionals,1.0
+2019,Average hourly earnings for Professionals,Female,,Professionals,1.2
+2017,Average hourly earnings for Technicians and associate professions,Male,,Technicians and associate professionals,1.7
+2018,Average hourly earnings for Technicians and associate professions,Male,,Technicians and associate professionals,2.4
+2019,Average hourly earnings for Technicians and associate professions,Male,,Technicians and associate professionals,1.4
+2017,Average hourly earnings for Technicians and associate professions,Female,,Technicians and associate professionals,1.8
+2018,Average hourly earnings for Technicians and associate professions,Female,,Technicians and associate professionals,1.7
+2019,Average hourly earnings for Technicians and associate professions,Female,,Technicians and associate professionals,1.7
+2017,Average hourly earnings for Clerical Support workers,Male,,Clerical support workers,1.0
+2018,Average hourly earnings for Clerical Support workers,Male,,Clerical support workers,1.2
+2019,Average hourly earnings for Clerical Support workers,Male,,Clerical support workers,1.1
+2017,Average hourly earnings for Clerical Support workers,Female,,Clerical support workers,1.1
+2018,Average hourly earnings for Clerical Support workers,Female,,Clerical support workers,1.3
+2019,Average hourly earnings for Clerical Support workers,Female,,Clerical support workers,1.2
+2017,Average hourly earnings for Service and sales workers,Male,,Service and sales workers,0.3
+2018,Average hourly earnings for Service and sales workers,Male,,Service and sales workers,0.4
+2019,Average hourly earnings for Service and sales workers,Male,,Service and sales workers,0.4
+2017,Average hourly earnings for Service and sales workers,Female,,Service and sales workers,0.5
+2018,Average hourly earnings for Service and sales workers,Female,,Service and sales workers,0.6
+2019,Average hourly earnings for Service and sales workers,Female,,Service and sales workers,0.5
+2017,"Average hourly earnings for Skilled agriculture, forestry and fishery workers",Male,,"Skilled agricultural, forestry and fishery workers",0.2
+2018,"Average hourly earnings for Skilled agriculture, forestry and fishery workers",Male,,"Skilled agricultural, forestry and fishery workers",0.8
+2019,"Average hourly earnings for Skilled agriculture, forestry and fishery workers",Male,,"Skilled agricultural, forestry and fishery workers",0.2
+2017,"Average hourly earnings for Skilled agriculture, forestry and fishery workers",Female,,"Skilled agricultural, forestry and fishery workers",0.4
+2018,"Average hourly earnings for Skilled agriculture, forestry and fishery workers",Female,,"Skilled agricultural, forestry and fishery workers",0.5
+2019,"Average hourly earnings for Skilled agriculture, forestry and fishery workers",Female,,"Skilled agricultural, forestry and fishery workers",0.2
+2017,Average hourly earnings for Craft and related trades workers,Male,,Craft and related trades workers,0.7
+2018,Average hourly earnings for Craft and related trades workers,Male,,Craft and related trades workers,0.8
+2019,Average hourly earnings for Craft and related trades workers,Male,,Craft and related trades workers,0.8
+2017,Average hourly earnings for Craft and related trades workers,Female,,Craft and related trades workers,0.4
+2018,Average hourly earnings for Craft and related trades workers,Female,,Craft and related trades workers,0.9
+2019,Average hourly earnings for Craft and related trades workers,Female,,Craft and related trades workers,0.5
+2017,"Average hourly earnings for Plant and Machine operators, and assemblers",Male,,"Plant and machine operators, and assemblers",1.0
+2018,"Average hourly earnings for Plant and Machine operators, and assemblers",Male,,"Plant and machine operators, and assemblers",0.9
+2019,"Average hourly earnings for Plant and Machine operators, and assemblers",Male,,"Plant and machine operators, and assemblers",0.9
+2017,"Average hourly earnings for Plant and Machine operators, and assemblers",Female,,"Plant and machine operators, and assemblers",0.4
+2018,"Average hourly earnings for Plant and Machine operators, and assemblers",Female,,"Plant and machine operators, and assemblers",0.6
+2019,"Average hourly earnings for Plant and Machine operators, and assemblers",Female,,"Plant and machine operators, and assemblers",0.4
+2017,Average hourly earnings for Elementary Occupations,Male,,Elementary occupations,0.3
+2018,Average hourly earnings for Elementary Occupations,Male,,Elementary occupations,0.3
+2019,Average hourly earnings for Elementary Occupations,Male,,Elementary occupations,0.3
+2017,Average hourly earnings for Elementary Occupations,Female,,Elementary occupations,0.2
+2018,Average hourly earnings for Elementary Occupations,Female,,Elementary occupations,0.3
+2019,Average hourly earnings for Elementary Occupations,Female,,Elementary occupations,0.2
+2018,Average hourly earnings,Male,16 years old and over,,480.0
+2018,Average hourly earnings,Female,16 years old and over,,356.0
+2018,Average hourly earnings,Male,16 to 24 years old,,273.0
+2018,Average hourly earnings,Female,16 to 24 years old,,278.0
+2018,Average hourly earnings,Male,25 to 34 years old,,506.0
+2018,Average hourly earnings,Female,25 to 34 years old,,388.0
+2018,Average hourly earnings,Male,55 to 64 years old,,449.0
+2018,Average hourly earnings,Female,55 to 64 years old,,260.0
+2018,Average hourly earnings,Male,65 years old and over,,434.0
+2018,Average hourly earnings,Female,65 years old and over,,223.0
+2018,"Average hourly earnings, Person with disability",Male,,,249.0
+2018,"Average hourly earnings, Person with disability",Female,,,178.0

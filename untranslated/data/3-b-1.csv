@@ -1,8 +1,8 @@
-Year,Series,concept.AGE,Value
-2015,CL_SERIES._L_RW_030B01_1,CL_AGE.M12T23,93
-2018,CL_SERIES.SH_ACS_DTP3,,97
-2019,CL_SERIES.SH_ACS_DTP3,,98
-2018,CL_SERIES.SH_ACS_MCV2,,92
-2019,CL_SERIES.SH_ACS_MCV2,,92
-2018,CL_SERIES.SH_ACS_PCV3,,97
-2019,CL_SERIES.SH_ACS_PCV3,,98
+Year,COMMENT_OBS,Series,AGE,Value
+2015,Children 12-23 months fully immunized,_L_RW_030B01_1,M12T23,93
+2018,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),SH_ACS_DTP3,,97
+2019,Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),SH_ACS_DTP3,,98
+2018,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),SH_ACS_MCV2,,92
+2019,Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),SH_ACS_MCV2,,92
+2018,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),SH_ACS_PCV3,,97
+2019,Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),SH_ACS_PCV3,,98

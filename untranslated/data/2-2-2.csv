@@ -1,8 +1,8 @@
-Year,Series,concept.SEX,Value
-2005,CL_SERIES.SH_STA_WAST,CL_SEX.M,5
-2010,CL_SERIES.SH_STA_WAST,CL_SEX.M,3
-2015,CL_SERIES.SH_STA_WAST,CL_SEX.M,2
-2020,CL_SERIES.SH_STA_WAST,CL_SEX.M,1
-2010,CL_SERIES.SN_STA_OVWGT,CL_SEX.F,7
-2015,CL_SERIES.SN_STA_OVWGT,CL_SEX.F,8
-2020,CL_SERIES.SN_STA_OVWGT,CL_SEX.F,6
+Year,COMMENT_OBS,Series,SEX,Value
+2005,Proportion of children moderately or severely wasted,SH_STA_WAST,M,5
+2010,Proportion of children moderately or severely wasted,SH_STA_WAST,M,3
+2015,Proportion of children moderately or severely wasted,SH_STA_WAST,M,2
+2020,Proportion of children moderately or severely wasted,SH_STA_WAST,M,1
+2010,Proportion of children moderately or severely overweight,SN_STA_OVWGT,F,7
+2015,Proportion of children moderately or severely overweight,SN_STA_OVWGT,F,8
+2020,Proportion of children moderately or severely overweight,SN_STA_OVWGT,F,6

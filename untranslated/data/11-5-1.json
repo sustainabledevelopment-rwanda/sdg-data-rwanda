@@ -1,1 +1,1 @@
-{"Year":["2018","2019","2018"],"Series":["CL_SERIES.VC_DSR_MORT","CL_SERIES.VC_DSR_MORT","CL_SERIES.VC_DSR_AFFCT"],"Value":[254,134,80164]}
+{"Year":["2018","2019","2018"],"COMMENT_OBS":["Number of deaths due to disaster","Number of deaths due to disaster","Number of people affected by disaster"],"Series":["VC_DSR_MORT","VC_DSR_MORT","VC_DSR_AFFCT"],"Value":[254,134,80164]}

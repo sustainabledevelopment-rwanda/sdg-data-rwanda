@@ -1,37 +1,37 @@
-Year,concept.URBANISATION,concept.COMPOSITE_BREAKDOWN,Value
-2017,,CL_COMP_BREAKDOWN.SKILL_ICTCMFL,4.6
-2020,,CL_COMP_BREAKDOWN.SKILL_ICTCMFL,5.2
-2017,CL_URBANISATION.U,CL_COMP_BREAKDOWN.SKILL_ICTCMFL,12.6
-2017,CL_URBANISATION.R,CL_COMP_BREAKDOWN.SKILL_ICTCMFL,2.3
-2017,,CL_COMP_BREAKDOWN.SKILL_ICTCPT,4.3
-2020,,CL_COMP_BREAKDOWN.SKILL_ICTCPT,7.3
-2017,CL_URBANISATION.U,CL_COMP_BREAKDOWN.SKILL_ICTCPT,11.7
-2017,CL_URBANISATION.R,CL_COMP_BREAKDOWN.SKILL_ICTCPT,2.2
-2017,,CL_COMP_BREAKDOWN.SKILL_ICTATCH,2.8
-2020,,CL_COMP_BREAKDOWN.SKILL_ICTATCH,3.8
-2017,CL_URBANISATION.U,CL_COMP_BREAKDOWN.SKILL_ICTATCH,8.6
-2017,CL_URBANISATION.R,CL_COMP_BREAKDOWN.SKILL_ICTATCH,1.2
-2017,,CL_COMP_BREAKDOWN.SKILL_ICTSSHT,2.6
-2020,,CL_COMP_BREAKDOWN.SKILL_ICTSSHT,3.6
-2017,CL_URBANISATION.U,CL_COMP_BREAKDOWN.SKILL_ICTSSHT,7.5
-2017,CL_URBANISATION.R,CL_COMP_BREAKDOWN.SKILL_ICTSSHT,1.2
-2017,,CL_COMP_BREAKDOWN.SKILL_ICTCDV,2.6
-2020,,CL_COMP_BREAKDOWN.SKILL_ICTCDV,4.0
-2017,CL_URBANISATION.U,CL_COMP_BREAKDOWN.SKILL_ICTCDV,7.8
-2017,CL_URBANISATION.R,CL_COMP_BREAKDOWN.SKILL_ICTCDV,1.1
-2017,,CL_COMP_BREAKDOWN.SKILL_ICTSFWR,1.6
-2020,,CL_COMP_BREAKDOWN.SKILL_ICTSFWR,2.3
-2017,CL_URBANISATION.U,CL_COMP_BREAKDOWN.SKILL_ICTSFWR,5.1
-2017,CL_URBANISATION.R,CL_COMP_BREAKDOWN.SKILL_ICTSFWR,0.6
-2017,,CL_COMP_BREAKDOWN.SKILL_ICTPST,0.9
-2020,,CL_COMP_BREAKDOWN.SKILL_ICTPST,1.8
-2017,CL_URBANISATION.U,CL_COMP_BREAKDOWN.SKILL_ICTPST,2.8
-2017,CL_URBANISATION.R,CL_COMP_BREAKDOWN.SKILL_ICTPST,0.4
-2017,,CL_COMP_BREAKDOWN.SKILL_ICTTRFF,1.8
-2020,,CL_COMP_BREAKDOWN.SKILL_ICTTRFF,3.3
-2017,CL_URBANISATION.U,CL_COMP_BREAKDOWN.SKILL_ICTTRFF,5.4
-2017,CL_URBANISATION.R,CL_COMP_BREAKDOWN.SKILL_ICTTRFF,0.8
-2017,,CL_COMP_BREAKDOWN.SKILL_ICTPRGM,1.8
-2020,,CL_COMP_BREAKDOWN.SKILL_ICTPRGM,0.9
-2017,CL_URBANISATION.U,CL_COMP_BREAKDOWN.SKILL_ICTPRGM,5.4
-2017,CL_URBANISATION.R,CL_COMP_BREAKDOWN.SKILL_ICTPRGM,0.8
+Year,COMMENT_OBS,URBANISATION,COMPOSITE_BREAKDOWN,Value
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Copying or moving a file or a folder,,SKILL_ICTCMFL,4.6
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Copying or moving a file or a folder,,SKILL_ICTCMFL,5.2
+2017,Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Copying or moving a file or a folder,U,SKILL_ICTCMFL,12.6
+2017,Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Copying or moving a file or a folder,R,SKILL_ICTCMFL,2.3
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using Copy and Paste,,SKILL_ICTCPT,4.3
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using Copy and Paste,,SKILL_ICTCPT,7.3
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using Copy and Paste,U,SKILL_ICTCPT,11.7
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using Copy and Paste,R,SKILL_ICTCPT,2.2
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Sending e-mails with attached files,,SKILL_ICTATCH,2.8
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Sending e-mails with attached files,,SKILL_ICTATCH,3.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Sending e-mails with attached files,U,SKILL_ICTATCH,8.6
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Sending e-mails with attached files,R,SKILL_ICTATCH,1.2
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using basic arithmetic formulae in a spreadsheet,,SKILL_ICTSSHT,2.6
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using basic arithmetic formulae in a spreadsheet,,SKILL_ICTSSHT,3.6
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using basic arithmetic formulae in a spreadsheet,U,SKILL_ICTSSHT,7.5
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using basic arithmetic formulae in a spreadsheet,R,SKILL_ICTSSHT,1.2
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Connecting and installing new devices,,SKILL_ICTCDV,2.6
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Connecting and installing new devices,,SKILL_ICTCDV,4.0
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Connecting and installing new devices,U,SKILL_ICTCDV,7.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Connecting and installing new devices,R,SKILL_ICTCDV,1.1
+2017,"Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Finding, downloading installing and configuring software",,SKILL_ICTSFWR,1.6
+2020,"Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Finding, downloading installing and configuring software",,SKILL_ICTSFWR,2.3
+2017,"Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Finding, downloading installing and configuring software",U,SKILL_ICTSFWR,5.1
+2017,"Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Finding, downloading installing and configuring software",R,SKILL_ICTSFWR,0.6
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Creating electronic presentations with presentation software,,SKILL_ICTPST,0.9
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Creating electronic presentations with presentation software,,SKILL_ICTPST,1.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Creating electronic presentations with presentation software,U,SKILL_ICTPST,2.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Creating electronic presentations with presentation software,R,SKILL_ICTPST,0.4
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Transferring files between a computer and other devices,,SKILL_ICTTRFF,1.8
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Transferring files between a computer and other devices,,SKILL_ICTTRFF,3.3
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Transferring files between a computer and other devices,U,SKILL_ICTTRFF,5.4
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Transferring files between a computer and other devices,R,SKILL_ICTTRFF,0.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Writing a computer program using a specialized programming language,,SKILL_ICTPRGM,1.8
+2020,Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Writing a computer program using a specialized programming language,,SKILL_ICTPRGM,0.9
+2017,Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Writing a computer program using a specialized programming language,U,SKILL_ICTPRGM,5.4
+2017,Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Writing a computer program using a specialized programming language,R,SKILL_ICTPRGM,0.8

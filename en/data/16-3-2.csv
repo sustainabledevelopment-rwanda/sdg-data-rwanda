@@ -1,11 +1,11 @@
-Year,Series,Units,Value
-2015,Unsentenced detainees as a proportion of overall prison population [16.3.2],Percent,5
-2016,Unsentenced detainees as a proportion of overall prison population [16.3.2],Percent,6
-2017,Unsentenced detainees as a proportion of overall prison population [16.3.2],Percent,6
-2018,Unsentenced detainees as a proportion of overall prison population [16.3.2],Percent,9
-2019,Unsentenced detainees as a proportion of overall prison population [16.3.2],Percent,14
-2015,Unsentenced detainees (number) [16.3.2],Number,2543
-2016,Unsentenced detainees (number) [16.3.2],Number,3275
-2017,Unsentenced detainees (number) [16.3.2],Number,3715
-2018,Unsentenced detainees (number) [16.3.2],Number,6373
-2019,Unsentenced detainees (number) [16.3.2],Number,10291
+Year,Observation-level footnotes,Series,Units,Value
+2015,Unsentenced detainees as a proportion of overall prison population,VC_PRS_UNSNT,PT,5
+2016,Unsentenced detainees as a proportion of overall prison population,VC_PRS_UNSNT,PT,6
+2017,Unsentenced detainees as a proportion of overall prison population,VC_PRS_UNSNT,PT,6
+2018,Unsentenced detainees as a proportion of overall prison population,VC_PRS_UNSNT,PT,9
+2019,Unsentenced detainees as a proportion of overall prison population,VC_PRS_UNSNT,PT,14
+2015,Unsentenced detainees (number),VC_PRS_UNSNTN,NUMBER,2543
+2016,Unsentenced detainees (number),VC_PRS_UNSNTN,NUMBER,3275
+2017,Unsentenced detainees (number),VC_PRS_UNSNTN,NUMBER,3715
+2018,Unsentenced detainees (number),VC_PRS_UNSNTN,NUMBER,6373
+2019,Unsentenced detainees (number),VC_PRS_UNSNTN,NUMBER,10291

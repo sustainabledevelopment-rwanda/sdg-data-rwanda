@@ -1,20 +1,20 @@
-Year,Series,Sex,Degree of urbanisation,Units,Value
-2017,Proportion of population covered by core Social Protection programs,,,Percent,6.5
-2018,Proportion of population covered by core Social Protection programs,,,Percent,6.5
-2017,Number of members of Pension and occupational Hazards,,,Number,484435.0
-2018,Number of members of Pension and occupational Hazards,,,Number,560769.0
-2017,Number of population covered by Medical scheme,,,Number,376836.0
-2018,Number of population covered by Medical scheme,,,Number,432450.0
-2017,Proportion of population covered by Community-Based Health Insurance (Coverage rate),,,Percent,84.2
-2018,Proportion of population covered by Community-Based Health Insurance (Coverage rate),,,Percent,83.3
-2017,Proportion of population covered by Health insurance,,,Percent,70.0
-2018,Proportion of population covered by Health insurance,,,Percent,73.9
-2017,Proportion of population covered by Health insurance,,Urban,Percent,73.8
-2018,Proportion of population covered by Health insurance,,Urban,Percent,79.5
-2017,Proportion of population covered by Health insurance,,Rural,Percent,69.2
-2018,Proportion of population covered by Health insurance,,Rural,Percent,72.7
-2017,Proportion of population covered by Health insurance,Male,,Percent,69.4
-2018,Proportion of population covered by Health insurance,Male,,Percent,73.4
-2017,Proportion of population covered by Health insurance,Female,,Percent,70.5
-2018,Proportion of population covered by Health insurance,Female,,Percent,74.5
-2018,Number of actively contributing women covered by Maternity Leave Benefits,,,Number,164601.0
+Year,Observation-level footnotes,Series,Sex,Degree of urbanisation,Units,Value
+2017,Proportion of population covered by core Social Protection programs,_L_RW_010301_1,,,PT,6.5
+2018,Proportion of population covered by core Social Protection programs,_L_RW_010301_1,,,PT,6.5
+2017,Number of members of Pension and occupational Hazards,_L_RW_010301_2,,,NUMBER,484435.0
+2018,Number of members of Pension and occupational Hazards,_L_RW_010301_2,,,NUMBER,560769.0
+2017,Number of population covered by Medical scheme,_L_RW_010301_3,,,NUMBER,376836.0
+2018,Number of population covered by Medical scheme,_L_RW_010301_3,,,NUMBER,432450.0
+2017,Proportion of population covered by Community-Based Health Insurance (Coverage rate),_L_RW_010301_4,,,PT,84.2
+2018,Proportion of population covered by Community-Based Health Insurance (Coverage rate),_L_RW_010301_4,,,PT,83.3
+2017,Proportion of population covered by Health insurance,_L_RW_010301_5,,,PT,70.0
+2018,Proportion of population covered by Health insurance,_L_RW_010301_5,,,PT,73.9
+2017,Proportion of population covered by Health insurance,_L_RW_010301_5,,Urban,PT,73.8
+2018,Proportion of population covered by Health insurance,_L_RW_010301_5,,Urban,PT,79.5
+2017,Proportion of population covered by Health insurance,_L_RW_010301_5,,Rural,PT,69.2
+2018,Proportion of population covered by Health insurance,_L_RW_010301_5,,Rural,PT,72.7
+2017,Proportion of population covered by Health insurance,_L_RW_010301_5,Male,,PT,69.4
+2018,Proportion of population covered by Health insurance,_L_RW_010301_5,Male,,PT,73.4
+2017,Proportion of population covered by Health insurance,_L_RW_010301_5,Female,,PT,70.5
+2018,Proportion of population covered by Health insurance,_L_RW_010301_5,Female,,PT,74.5
+2018,Number of actively contributing women covered by Maternity Leave Benefits,_L_RW_010301_6,,,NUMBER,164601.0
