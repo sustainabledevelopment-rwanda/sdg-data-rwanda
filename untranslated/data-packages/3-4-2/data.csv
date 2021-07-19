@@ -1,0 +1,11 @@
+Year,COMMENT_OBS,Series,Units,Value
+2015,Suicide mortality rate,SH_STA_SCIDE,PER_100000_POP,1.39
+2016,Suicide mortality rate,SH_STA_SCIDE,PER_100000_POP,1.56
+2017,Suicide mortality rate,SH_STA_SCIDE,PER_100000_POP,1.63
+2018,Suicide mortality rate,SH_STA_SCIDE,PER_100000_POP,1.88
+2019,Suicide mortality rate,SH_STA_SCIDE,PER_100000_POP,1.93
+2015,Number of deaths attributed to suicide,SH_STA_SCIDEN,NUMBER,157.0
+2016,Number of deaths attributed to suicide,SH_STA_SCIDEN,NUMBER,181.0
+2017,Number of deaths attributed to suicide,SH_STA_SCIDEN,NUMBER,193.0
+2018,Number of deaths attributed to suicide,SH_STA_SCIDEN,NUMBER,228.0
+2019,Number of deaths attributed to suicide,SH_STA_SCIDEN,NUMBER,239.0

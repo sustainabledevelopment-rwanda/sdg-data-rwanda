@@ -1,0 +1,53 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMPOSITE_BREAKDOWN",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "IHR Capacity: National legislation, policy and financing",
+                "IHR Capacity: Coordination and National Focal Point communications",
+                "IHR Capacity: Surveillance",
+                "IHR Capacity: Response",
+                "IHR Capacity: Preparedness",
+                "IHR Capacity: Risk communication",
+                "IHR Capacity: Human resources",
+                "IHR Capacity: Laboratory",
+                "IHR Capacity: Points of entry",
+                "IHR Capacity: Zoonotic events",
+                "IHR Capacity: Food safety",
+                "IHR Capacity: Chemical events",
+                "IHR Capacity: Radionuclear emergencies"
+              ]
+            },
+            "title": "Composite breakdown"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-d-1",
+  "title": "International Health Regulations (IHR) capacity and health emergency preparedness"
+}

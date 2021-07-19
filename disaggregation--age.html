@@ -13,15 +13,43 @@
             <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/open-sdg/open-sdg-table@0.4.0/open-sdg-table.min.css">
             <style>
                 .btn-primary {
-                    background-color: #1D70B8;
-                    border-color: #1D70B8;
+                    background-color: #00703c;
+                    padding: 8px 10px 7px;
+                    border: 2px solid transparent;
+                    border-radius: 0;
+                    color: #fff;
+                    box-shadow: 0 2px 0 #002d18;
+                    text-decoration: none;
+                }
+                .btn-primary:visited {
+                    color: #fff;
+                }
+                .btn-primary:hover, .btn-primary:not(:disabled):not(.disabled):active {
+                    background-color: #005a30;
+                    text-decoration: none;
+                    border: 2px solid transparent;
+                }
+                .btn-primary:focus:not(:active):not(:hover) {
+                    border-color: #fd0;
+                    color: #0b0c0c;
+                    background-color: #fd0;
+                    box-shadow: 0 2px 0 #0b0c0c;
                 }
                 a {
                     color: #1D70B8;
                     text-decoration: underline;
                 }
+                a:hover {
+                    color: #003078;
+                }
+                a:visited {
+                    color: #4c2c92;
+                }
                 .download-info {
                     margin-left: 12px;
+                }
+                .table-striped tbody tr:nth-of-type(2n+1) {
+                    background-color: #f3f2f1;
                 }
             </style>
         </head>
@@ -75,6 +103,26 @@
       <td>1</td>
     </tr>
     <tr>
+      <td><a href="disaggregation-value--y-ge15.html">Y_GE15</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--y-ge16.html">Y_GE16</a></td>
+      <td>4</td>
+      <td>2</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--y-ge6.html">Y_GE6</a></td>
+      <td>3</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td><a href="disaggregation-value--y-ge65.html">Y_GE65</a></td>
+      <td>2</td>
+      <td>1</td>
+    </tr>
+    <tr>
       <td><a href="disaggregation-value--y0t14.html">Y0T14</a></td>
       <td>3</td>
       <td>2</td>
@@ -114,32 +162,12 @@
       <td>2</td>
       <td>1</td>
     </tr>
-    <tr>
-      <td><a href="disaggregation-value--y_ge15.html">Y_GE15</a></td>
-      <td>3</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td><a href="disaggregation-value--y_ge16.html">Y_GE16</a></td>
-      <td>4</td>
-      <td>2</td>
-    </tr>
-    <tr>
-      <td><a href="disaggregation-value--y_ge6.html">Y_GE6</a></td>
-      <td>3</td>
-      <td>1</td>
-    </tr>
-    <tr>
-      <td><a href="disaggregation-value--y_ge65.html">Y_GE65</a></td>
-      <td>2</td>
-      <td>1</td>
-    </tr>
   </tbody>
 </table>
             <script type="text/javascript">
             var sdgBuild = sdgBuild || {};
             sdgBuild.tables = sdgBuild.tables || {};
-            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--m12t23.html\">M12T23<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--m36t59.html\">M36T59<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y0t14.html\">Y0T14<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--y0t17.html\">Y0T17<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y0t4.html\">Y0T4<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y15t24.html\">Y15T24<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y16t24.html\">Y16T24<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--y16t30.html\">Y16T30<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y25t34.html\">Y25T34<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y55t64.html\">Y55T64<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y_ge15.html\">Y_GE15<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y_ge16.html\">Y_GE16<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--y_ge6.html\">Y_GE6<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y_ge65.html\">Y_GE65<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1}];
+            sdgBuild.tables['values-table'] = [{"Value":"<a href=\"disaggregation-value--m12t23.html\">M12T23<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--m36t59.html\">M36T59<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y-ge15.html\">Y_GE15<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y-ge16.html\">Y_GE16<\/a>","Disaggregation combinations using this value":4,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--y-ge6.html\">Y_GE6<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y-ge65.html\">Y_GE65<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y0t14.html\">Y0T14<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--y0t17.html\">Y0T17<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y0t4.html\">Y0T4<\/a>","Disaggregation combinations using this value":10,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y15t24.html\">Y15T24<\/a>","Disaggregation combinations using this value":3,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y16t24.html\">Y16T24<\/a>","Disaggregation combinations using this value":3,"Number of indicators":2},{"Value":"<a href=\"disaggregation-value--y16t30.html\">Y16T30<\/a>","Disaggregation combinations using this value":1,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y25t34.html\">Y25T34<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1},{"Value":"<a href=\"disaggregation-value--y55t64.html\">Y55T64<\/a>","Disaggregation combinations using this value":2,"Number of indicators":1}];
             </script>
             
         </div>

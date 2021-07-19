@@ -1,0 +1,37 @@
+Year,COMMENT_OBS,Series,AGE,URBANISATION,EDUCATION_LEV,Value
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",_L_RW_040501_1,,,ISCED11_1,1.01
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",_L_RW_040501_1,,U,ISCED11_1,0.95
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",_L_RW_040501_1,,R,ISCED11_1,1.02
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",_L_RW_040501_2,,,ISCED11_1,0.99
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",_L_RW_040501_2,,U,ISCED11_1,0.92
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",_L_RW_040501_2,,R,ISCED11_1,1.0
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",_L_RW_040501_3,,,ISCED11_1,0.86
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",_L_RW_040501_3,,U,ISCED11_1,0.95
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",_L_RW_040501_3,,R,ISCED11_1,0.85
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",_L_RW_040501_4,,,ISCED11_1,1.06
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",_L_RW_040501_4,,U,ISCED11_1,1.0
+2017,"Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",_L_RW_040501_4,,R,ISCED11_1,1.07
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",_L_RW_040501_5,,,AGG_2_3,1.18
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",_L_RW_040501_5,,U,AGG_2_3,0.99
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",_L_RW_040501_5,,R,AGG_2_3,1.23
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",_L_RW_040501_6,,,AGG_2_3,1.08
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",_L_RW_040501_6,,U,AGG_2_3,0.84
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",_L_RW_040501_6,,R,AGG_2_3,1.17
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",_L_RW_040501_7,,,AGG_2_3,1.32
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",_L_RW_040501_7,,U,AGG_2_3,1.7
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",_L_RW_040501_7,,R,AGG_2_3,1.19
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",_L_RW_040501_8,,,AGG_2_3,0.95
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",_L_RW_040501_8,,U,AGG_2_3,0.94
+2017,"Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",_L_RW_040501_8,,R,AGG_2_3,0.95
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,SE_GPI_PART,Y_GE15,,,0.89
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,SE_GPI_PART,Y_GE15,U,,0.92
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,SE_GPI_PART,Y_GE15,R,,0.89
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,SE_GPI_PART,Y15T24,,,1.05
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,SE_GPI_PART,Y15T24,U,,1.01
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,SE_GPI_PART,Y15T24,R,,1.06
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school,SE_GPI_PART,Y_GE6,,,0.95
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school,SE_GPI_PART,Y_GE6,U,,0.96
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school,SE_GPI_PART,Y_GE6,R,,0.95
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,SE_GPI_PART,,,,2.2
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,SE_GPI_PART,,U,,0.0
+2017,Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,SE_GPI_PART,,R,,2.7

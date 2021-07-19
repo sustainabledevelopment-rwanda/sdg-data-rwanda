@@ -1,0 +1,5 @@
+Year,COMMENT_OBS,Series,OCCUPATION,Value
+2017,"Health workder density, Doctors",SH_MED_DEN,ISCO08_221,0.1
+2017,"Health workder density, Nurses",_L_RW_030C01_1,ISCO08_222_322_1,0.9
+2017,"Health workder density, Midwives",_L_RW_030C01_2,ISCO08_222_322_2,0.25
+2017,"Health workder density, Pharmacists",SH_MED_DEN,ISCO08_2262,0.06

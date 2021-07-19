@@ -1,0 +1,11 @@
+Year,COMMENT_OBS,Series,SEX,EDUCATION_LEV,Value
+2014,Literacy rate of children in P2,_L_RW_040101_1,,ISCED11A_0_G23,45.3
+2014,Numeracy rate of children in P2,_L_RW_040101_2,,ISCED11A_0_G23,32.9
+2018,Literacy rate of children in P3,_L_RW_040101_3,,ISCED11A_0_G23,54.9
+2018,Literacy rate of children in P3,_L_RW_040101_3,M,ISCED11A_0_G23,52.2
+2018,Literacy rate of children in P3,_L_RW_040101_3,F,ISCED11A_0_G23,56.4
+2018,Numeracy rate of children in P3,_L_RW_040101_4,,ISCED11A_0_G23,40.7
+2018,Numeracy rate of children in P3,_L_RW_040101_4,M,ISCED11A_0_G23,40.3
+2018,Numeracy rate of children in P3,_L_RW_040101_4,F,ISCED11A_0_G23,41.3
+2014,Literacy rate of children in P5,_L_RW_040101_5,,ISCED11_1,44.1
+2014,Numeracy rate of children in P5,_L_RW_040101_6,,ISCED11_1,38.3

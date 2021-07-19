@@ -1,0 +1,71 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Health workder density, Doctors",
+                "Health workder density, Midwives",
+                "Health workder density, Nurses",
+                "Health workder density, Pharmacists"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "OCCUPATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Medical doctors",
+                "Nurse",
+                "Midwives",
+                "Pharmacists"
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SH_MED_DEN",
+                "_L_RW_030C01_1",
+                "_L_RW_030C01_2"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "3-c-1",
+  "title": "Health worker density and distribution"
+}

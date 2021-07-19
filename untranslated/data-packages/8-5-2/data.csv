@@ -1,0 +1,17 @@
+Year,COMMENT_OBS,Series,SEX,Value
+2016,Unemployment rate,SL_TLF_UEM,,18.8
+2017,Unemployment rate,SL_TLF_UEM,,17.3
+2018,Unemployment rate,SL_TLF_UEM,,15.1
+2019,Unemployment rate,SL_TLF_UEM,,15.2
+2016,Unemployment rate,SL_TLF_UEM,M,15.7
+2017,Unemployment rate,SL_TLF_UEM,M,15.6
+2018,Unemployment rate,SL_TLF_UEM,M,13.5
+2019,Unemployment rate,SL_TLF_UEM,M,13.8
+2016,Unemployment rate,SL_TLF_UEM,F,22.7
+2017,Unemployment rate,SL_TLF_UEM,F,19.2
+2018,Unemployment rate,SL_TLF_UEM,F,17.1
+2019,Unemployment rate,SL_TLF_UEM,F,17.0
+2016,"Unemployment rate, by disability",SL_TLF_UEMDIS,,20.8
+2017,"Unemployment rate, by disability",SL_TLF_UEMDIS,,17.4
+2018,"Unemployment rate, by disability",SL_TLF_UEMDIS,,14.1
+2019,"Unemployment rate, by disability",SL_TLF_UEMDIS,,14.3

@@ -1,0 +1,67 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "23",
+                "36",
+                "25",
+                "37",
+                "54",
+                "53",
+                "43",
+                "52",
+                "32",
+                "31",
+                "34",
+                "45",
+                "27",
+                "41",
+                "42",
+                "24",
+                "35",
+                "11",
+                "44",
+                "12",
+                "33",
+                "57",
+                "55",
+                "26",
+                "28",
+                "51",
+                "21",
+                "22",
+                "56",
+                "13",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-1-1",
+  "title": "Forest area as a proportion of total land area"
+}

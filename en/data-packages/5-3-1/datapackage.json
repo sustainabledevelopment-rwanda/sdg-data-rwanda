@@ -1,0 +1,66 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "under 15 years old",
+                "under 18 years old"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of women aged 20-24 years who were married or in a union before age 15",
+                "Proportion of women aged 20-24 years who were married or in a union before age 18"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SP_DYN_MRBF15",
+                "SP_DYN_MRBF18"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "5-3-1",
+  "title": "Proportion of women aged 20–24 years who were married or in a union before age 15 and before age 18"
+}

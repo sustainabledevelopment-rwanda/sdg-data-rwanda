@@ -1,0 +1,85 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary",
+                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary",
+                "Proportion of schools with access to basic drinking water - Nursery",
+                "Proportion of schools with access to basic drinking water - Primary",
+                "Proportion of schools with access to basic drinking water - Secondary",
+                "Proportion of schools with access to computers for pedagogical purposes - Primary",
+                "Proportion of schools with access to computers for pedagogical purposes - Secondary",
+                "Proportion of schools with access to electricity - Nursery",
+                "Proportion of schools with access to electricity - Primary",
+                "Proportion of schools with access to electricity - Secondary",
+                "Proportion of schools with access to the internet for pedagogical purposes - Primary",
+                "Proportion of schools with access to the internet for pedagogical purposes - Secondary",
+                "Proportion of schools with basic handwashing facilities - Nursery",
+                "Proportion of schools with basic handwashing facilities - Primary",
+                "Proportion of schools with basic handwashing facilitiesr - Secondary"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Secondary education (lower and upper secondary education)",
+                "Pre-primary education",
+                "Primary education"
+              ]
+            },
+            "title": "Education level"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SE_ACC_HNDWSH",
+                "SE_ACS_CMPTR",
+                "SE_ACS_ELECT",
+                "SE_ACS_H2O",
+                "SE_ACS_INTNT",
+                "SE_INF_DSBL"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-a-1",
+  "title": "Proportion of schools with access to: (a) electricity; (b) the Internet for pedagogical purposes; (c) computers for pedagogical purposes; (d) adapted infrastructure and materials for students with disabilities; (e) basic drinking water; (f) single-sex basic sanitation facilities; and (g) basic handwashing facilities (as per the WASH indicator definitions)"
+}

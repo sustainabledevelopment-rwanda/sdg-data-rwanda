@@ -1,0 +1,70 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Nyarugenge",
+                "Gasabo",
+                "Kicukiro",
+                "Nyanza",
+                "Gisagara",
+                "Nyaruguru",
+                "Huye",
+                "Nyamagabe",
+                "Ruhango",
+                "Muhanga",
+                "Kamonyi",
+                "Karongi",
+                "Rutsiro",
+                "Rubavu",
+                "Nyabihu",
+                "Ngororero",
+                "Rusizi",
+                "Nyamasheke",
+                "Rulindo",
+                "Gakenke",
+                "Musanze",
+                "Burera",
+                "Gicumbi",
+                "Rwamagana",
+                "Nyagatare",
+                "Gatsibo",
+                "Kayonza",
+                "Kirehe",
+                "Ngoma",
+                "Bugesera"
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "15-1-1",
+  "title": "Forest area as a proportion of total land area"
+}

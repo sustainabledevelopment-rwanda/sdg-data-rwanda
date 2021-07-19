@@ -1,0 +1,14 @@
+Year,COMMENT_OBS,Series,SEX,AGE,Value
+2016,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",SE_DEV_ONTRK,,M36T59,63.1
+2016,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",SE_DEV_ONTRK,M,M36T59,62.6
+2016,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",SE_DEV_ONTRK,F,M36T59,63.6
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy",_L_RW_040201_1,,Y0T4,7.0
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy",_L_RW_040201_1,M,Y0T4,6.3
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy",_L_RW_040201_1,F,Y0T4,7.8
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical",_L_RW_040201_2,,Y0T4,92.3
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical",_L_RW_040201_2,M,Y0T4,92.4
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical",_L_RW_040201_2,F,Y0T4,92.2
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional",_L_RW_040201_3,,Y0T4,73.1
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional",_L_RW_040201_3,M,Y0T4,72.9
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional",_L_RW_040201_3,F,Y0T4,73.3
+2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Learning",_L_RW_040201_4,,Y0T4,85.7

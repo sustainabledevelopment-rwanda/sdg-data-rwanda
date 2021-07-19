@@ -1,0 +1,13 @@
+Year,Observation-level footnotes,Series,Sex,Value
+2018,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,,6
+2019,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,,5
+2018,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,Male,7
+2019,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,Male,5
+2018,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,Female,0
+2019,Fatal occupational injuries among employees (rate),SL_EMP_FTLINJUR,Female,4
+2018,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,,94
+2019,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,,95
+2018,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,Male,93
+2019,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,Male,95
+2018,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,Female,100
+2019,Non-fatal occupational injuries among employees (rate),SL_EMP_INJUR,Female,96

@@ -1,0 +1,101 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "string"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_RW_040501_1",
+                "_L_RW_040501_2",
+                "_L_RW_040501_3",
+                "_L_RW_040501_4",
+                "_L_RW_040501_5",
+                "_L_RW_040501_6",
+                "_L_RW_040501_7",
+                "_L_RW_040501_8",
+                "SE_GPI_PART",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y_GE15",
+                "Y15T24",
+                "Y_GE6",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "EDUCATION_LEV",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "ISCED11_1",
+                "AGG_2_3",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-5-1",
+  "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected,as data become available) for all education indicators on this list that can be disaggregated"
+}

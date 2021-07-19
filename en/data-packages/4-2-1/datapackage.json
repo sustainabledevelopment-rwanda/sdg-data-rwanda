@@ -1,0 +1,84 @@
+{
+  "resources": [
+    {
+      "path": "data.csv",
+      "name": "data",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "36 to 59 months old",
+                "under 5 years old"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",
+                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Learning",
+                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy",
+                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical",
+                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "SE_DEV_ONTRK",
+                "_L_RW_040201_1",
+                "_L_RW_040201_2",
+                "_L_RW_040201_3",
+                "_L_RW_040201_4"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      }
+    }
+  ],
+  "profile": "data-package",
+  "name": "4-2-1",
+  "title": "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex"
+}

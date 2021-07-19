@@ -1,0 +1,28 @@
+Year,Reference area,Degree of urbanisation,Value
+2000,,,196
+2005,,,152
+2008,,,103
+2010,,,76
+2015,,,50
+2020,,,45
+2008,,Urban,87
+2010,,Urban,81
+2015,,Urban,51
+2008,,Rural,142
+2010,,Rural,105
+2015,,Rural,70
+2008,City of Kigali,,102
+2010,City of Kigali,,79
+2015,City of Kigali,,42
+2008,Southern Province,,127
+2010,Southern Province,,96
+2015,Southern Province,,66
+2008,Western Province,,129
+2010,Western Province,,88
+2015,Western Province,,62
+2008,Northern Province,,115
+2010,Northern Province,,107
+2015,Northern Province,,60
+2008,Eastern Province,,174
+2010,Eastern Province,,125
+2015,Eastern Province,,86
