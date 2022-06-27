@@ -11,20 +11,18 @@
       "schema": {
         "fields": [
           {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
+            "name": "Year",
+            "type": "number"
           },
           {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
+            "name": "Value",
+            "type": "number"
           }
         ]
       }
     }
   ],
   "profile": "data-package",
-  "name": "GDP-Per-Capita",
+  "name": "1-15-1",
   "title": "GDP per capita"
 }
