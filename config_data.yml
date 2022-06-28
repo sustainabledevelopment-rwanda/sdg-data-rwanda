@@ -50,7 +50,7 @@ inputs:
     import_translation_keys: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
-    path_pattern: meta/*-*.md
+    path_pattern: meta/*.md
     # This specifies whether or not to use Git to calculate the "last updated"
     # dates for data files.
     git: true
@@ -60,6 +60,8 @@ inputs:
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
     git_data_dir: data
+  - class: InputCsvData
+    path_pattern: data/*.csv 
 
 # Translations
 # ------------
