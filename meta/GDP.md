@@ -1,5 +1,4 @@
 ---
-indicator_number: 1.15.1
 goal_meta_link: 'https://unstats.un.org/sdgs/metadata/files/Metadata-01-01-01a.pdf'
 goal_meta_link_text: United Nations Sustainable Development Goals Metadata (pdf 894kB)
 graph_type: line
