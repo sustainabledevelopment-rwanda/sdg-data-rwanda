@@ -13,14 +13,14 @@ Average hourly earnings for Technicians and associate professions,2,1
 "Average hourly earnings, Person with disability",2,1
 Average hourly earnings,10,1
 Both male and female for married couples own agriculture,1,1
-Children 12-23 months fully immunized,1,1
-Congo Basin,1,1
 Death rate due to road traffic injuries,1,1
+"Detected victims of human trafficking for forced labour, servitude and slavery (number)",1,1
+Detected victims of human trafficking for other purposes (number),1,1
+Detected victims of human trafficking for removal of organ (number),1,1
+Detected victims of human trafficking for sexual exploitaton (number),1,1
 Detected victims of human trafficking (number),1,1
-Direct economic loss attributed to disasters relative to GDP,1,1
 Fatal occupational injuries among employees (rate),3,1
 Forest Genetic Resources,1,1
-Freight volume (tonne kilometres),1,1
 Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,3,1
 Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,3,1
 Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,3,1
@@ -37,11 +37,11 @@ Gender parity index for participation rate in formal and non-formal education an
 "Health workder density, Midwives",1,1
 "Health workder density, Nurses",1,1
 "Health workder density, Pharmacists",1,1
+Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,1,1
 Liquid assets to short term liabilities (%),1,1
 Literacy rate of children in P2,1,1
 Literacy rate of children in P3,3,1
 Literacy rate of children in P5,1,1
-Mail volume (tonne kilometres),1,1
 Manufacturing value added as a proportion of GDP (%),1,1
 Manufacturing value added per capita (USD),1,1
 Mean time to Food market,1,1
@@ -50,7 +50,6 @@ Mean time to Primary School,1,1
 Mean time to Secondary,1,1
 Moderately food insecure based on CARI Method,1,1
 Net open position in foreign exchange to capital (%),1,1
-Nile Basin initiative,1,1
 Non-fatal occupational injuries among employees (rate),3,1
 Non-performing loans net of provisions to capital (%),1,1
 Non-performing loans to total gross loans (%),1,1
@@ -63,6 +62,7 @@ Number of deaths rate due to road traffic injuries,1,1
 Number of destroyed or damaged educational facilities attributed to disasters,1,1
 Number of destroyed or damaged health facilities attributed to disasters,1,1
 Number of members of Pension and occupational Hazards,1,1
+Number of missing persons due to disaster,1,1
 Number of people affected by disaster,1,1
 Number of population covered by Medical scheme,1,1
 "Number of victims of intentional homicide per 100,000 population",1,1
@@ -72,23 +72,19 @@ Numeracy rate of children in P3,3,1
 Numeracy rate of children in P5,1,1
 Only Men own agriculture,1,1
 Only Women own agriculture,1,1
-Passenger volume (passenger kilometres),1,1
 "Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",2,1
 Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,2,1
-Percentage of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months,1,1
-Percentage of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months,1,1
-Percentage of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months,1,1
-Percentage of men subjected to physical violence by a current or former intimate partner in the previous 12 months,1,1
-Percentage of men subjected to sexual violence by a current or former intimate partner in the previous 12 months,1,1
-Percentage of men to emotional violence by a current or former intimate partner in the previous 12 months,1,1
 Plant Genetic Resources,1,1
 "Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning",3,1
-Proportion of children moderately or severely overweight,1,1
-Proportion of children moderately or severely wasted,1,1
+Proportion of children moderately or severely overweight,3,1
+Proportion of children moderately or severely wasted,3,1
 "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Learning",1,1
 "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy",3,1
 "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical",3,1
 "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional",3,1
+Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months,1,1
+Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months,1,1
+Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months,1,1
 "Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",3,1
 "Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",3,1
 Proportion of population covered by at least a 2G mobile network,1,1
@@ -121,39 +117,27 @@ Proportion of schools with access to the internet for pedagogical purposes - Sec
 Proportion of schools with basic handwashing facilities - Nursery,1,1
 Proportion of schools with basic handwashing facilities - Primary,1,1
 Proportion of schools with basic handwashing facilitiesr - Secondary,1,1
-Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),1,1
-Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),1,1
-Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),1,1
-"Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure",1,1
+Proportion of seats held by women in local governments (% of total number of seats),10,1
+Proportion of seats held by women in national parliaments (% of total number of seats),2,1
+Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),3,1
+Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),3,1
+Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),3,1
 "Proportion of total government spending on essential services, education",1,1
 Proportion of total government spending on health,1,1
 Proportion of total government spending on social protection,1,1
 Proportion of women aged 20-24 years who were married or in a union before age 15,1,1
 Proportion of women aged 20-24 years who were married or in a union before age 18,1,1
-Proportion of Women Cell Executive Secretaries in local government,1,1
-Proportion of Women Cells Consultative Council in local government,1,1
-Proportion of Women deputies in national parliament,1,1
-Proportion of Women District Executive Secretaries in local government,1,1
-Proportion of Women District Mayors in local government,1,1
-Proportion of Women District Vice Mayors in Charge of Economic Affairs in local government,1,1
-Proportion of Women District Vice Mayors in Charge of Social Affairs in local government,1,1
-Proportion of Women Districts Consultative Council in local government,1,1
-Proportion of Women Governors and Mayor of Kigali City in local government,1,1
-Proportion of Women Sector Executive Secretaries in local government,1,1
-Proportion of Women Sectors Consultative Council in local government,1,1
-Proportion of Women senates in national parliament,1,1
 "Proportion of youth (aged 16-24 years) not in education, employment or training",1,1
 "Proportion of youth (aged 16-30 years) not in education, employment or training",1,1
-Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Copying or moving a file or a folder,2,1
-Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Writing a computer program using a specialized programming language,3,1
-Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Connecting and installing new devices,3,1
-Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Copying or moving a file or a folder,1,1
-Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Creating electronic presentations with presentation software,3,1
-"Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Finding, downloading installing and configuring software",3,1
-Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Sending e-mails with attached files,3,1
-Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Transferring files between a computer and other devices,3,1
-Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using Copy and Paste,3,1
-Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using basic arithmetic formulae in a spreadsheet,3,1
+Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language,3,1
+Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices,3,1
+Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder,3,1
+Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software,3,1
+"Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",3,1
+Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files,3,1
+Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices,3,1
+Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste,3,1
+Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet,3,1
 Regulatory capital to assets (%) - CAR,1,1
 Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,1,1
 Return on assets (%),1,1
@@ -163,3 +147,4 @@ Suicide mortality rate,1,1
 Unemployment rate,3,1
 Unsentenced detainees as a proportion of overall prison population,1,1
 Unsentenced detainees (number),1,1
+Water Use Efficiency (United States dollars per cubic meter),1,1

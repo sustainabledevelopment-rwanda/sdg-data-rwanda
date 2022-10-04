@@ -1,15 +1,29 @@
 Year,Observation-level footnotes,Series,Value
 2016,Regulatory capital to assets (%) - CAR,FI_FSI_FSKA,23.34
 2018,Regulatory capital to assets (%) - CAR,FI_FSI_FSKA,25.5
+2019,Regulatory capital to assets (%) - CAR,FI_FSI_FSKA,24.1
+2020,Regulatory capital to assets (%) - CAR,FI_FSI_FSKA,22.5
 2016,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,FI_FSI_FSKRTC,20.68
 2018,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,FI_FSI_FSKRTC,20.84
+2019,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,FI_FSI_FSKRTC,22.6
+2020,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,FI_FSI_FSKRTC,21.4
 2016,Non-performing loans net of provisions to capital (%),FI_FSI_FSKNL,17.05
 2018,Non-performing loans net of provisions to capital (%),FI_FSI_FSKNL,10.97
+2019,Non-performing loans net of provisions to capital (%),FI_FSI_FSKNL,10.97
+2020,Non-performing loans net of provisions to capital (%),FI_FSI_FSKNL,5.7
 2016,Non-performing loans to total gross loans (%),FI_FSI_FSANL,7.56
 2018,Non-performing loans to total gross loans (%),FI_FSI_FSANL,6.4
+2019,Non-performing loans to total gross loans (%),FI_FSI_FSANL,4.9
+2020,Non-performing loans to total gross loans (%),FI_FSI_FSANL,99.0
 2016,Return on assets (%),FI_FSI_FSERA,2.62
 2018,Return on assets (%),FI_FSI_FSERA,2.8
+2019,Return on assets (%),FI_FSI_FSERA,12.5
+2020,Return on assets (%),FI_FSI_FSERA,2.5
 2016,Liquid assets to short term liabilities (%),FI_FSI_FSLS,111.87
 2018,Liquid assets to short term liabilities (%),FI_FSI_FSLS,129.55
+2019,Liquid assets to short term liabilities (%),FI_FSI_FSLS,180.5
+2020,Liquid assets to short term liabilities (%),FI_FSI_FSLS,226.2
 2016,Net open position in foreign exchange to capital (%),FI_FSI_FSSNO,-1.61
 2018,Net open position in foreign exchange to capital (%),FI_FSI_FSSNO,-9.09
+2019,Net open position in foreign exchange to capital (%),FI_FSI_FSSNO,-4.0
+2020,Net open position in foreign exchange to capital (%),FI_FSI_FSSNO,-4.7

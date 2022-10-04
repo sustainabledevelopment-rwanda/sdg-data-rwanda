@@ -1,1 +1,1 @@
-{"data":{"Year":["2005","2010","2015","2020"],"Value":[51,44,38,33]},"edges":[]}
+{"data":{"Year":["2005","2010","2015","2020","2020","2020"],"SEX":[null,null,null,null,"M","F"],"AGE":[null,null,null,null,"Y0T4","Y0T4"],"Value":[51,44,38,33,37,29]},"edges":{"From":["SEX"],"To":["AGE"]}}

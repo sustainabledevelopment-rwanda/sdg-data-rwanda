@@ -19,12 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percentage of men subjected to physical violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of men subjected to sexual violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of men to emotional violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months",
+                "Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months",
+                "Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months",
+                "Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months",
                 ""
               ]
             }
@@ -34,23 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_050201_1",
                 "VC_VAW_PHYV",
-                "_L_RW_050201_2",
                 "VC_VAW_SEXV",
-                "_L_RW_050201_3",
                 "VC_VAW_PSYV",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
                 ""
               ]
             }

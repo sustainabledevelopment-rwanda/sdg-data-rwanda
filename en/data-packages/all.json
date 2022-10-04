@@ -379,6 +379,7 @@
               "enum": [
                 "",
                 "Number of deaths due to disaster",
+                "Number of missing persons due to disaster",
                 "Number of people affected by disaster"
               ]
             },
@@ -391,72 +392,11 @@
               "enum": [
                 "",
                 "VC_DSR_AFFCT",
+                "VC_DSR_MISS",
                 "VC_DSR_MORT"
               ]
             },
             "title": "Series"
-          },
-          {
-            "name": "Value",
-            "type": "integer",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
-    },
-    {
-      "path": "11-5-2/data.csv",
-      "name": "11-5-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Direct economic loss attributed to disasters relative to GDP",
-                "Number of destroyed or damaged educational facilities attributed to disasters",
-                "Number of destroyed or damaged health facilities attributed to disasters"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "VC_DSR_EFDN",
-                "VC_DSR_HFDN",
-                "VC_DSR_LSGP"
-              ]
-            },
-            "title": "Series"
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "NUMBER",
-                "RO"
-              ]
-            },
-            "title": "Units"
           },
           {
             "name": "Value",
@@ -470,7 +410,7 @@
           }
         ]
       },
-      "title": "Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters"
+      "title": "Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population"
     },
     {
       "path": "1-5-3/data.csv",
@@ -629,6 +569,29 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "under 5 years old"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"
@@ -690,7 +653,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -853,6 +816,18 @@
             "title": "Reference area"
           },
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "URBANISATION",
             "type": "string",
             "constraints": {
@@ -888,6 +863,30 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
           {
             "name": "Value",
             "type": "integer",
@@ -1105,8 +1104,31 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -1129,8 +1151,31 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -1152,6 +1197,18 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
           {
             "name": "Value",
             "type": "number",
@@ -1193,13 +1250,24 @@
             "constraints": {
               "enum": [
                 "",
-                "Children 12-23 months fully immunized",
                 "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3)",
                 "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2)",
                 "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3)"
               ]
             },
             "title": "Observation-level footnotes"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
           },
           {
             "name": "Series",
@@ -1209,15 +1277,14 @@
                 "",
                 "SH_ACS_DTP3",
                 "SH_ACS_MCV2",
-                "SH_ACS_PCV3",
-                "_L_RW_030B01_1"
+                "SH_ACS_PCV3"
               ]
             },
             "title": "Series"
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -1587,38 +1654,37 @@
             "constraints": {
               "enum": [
                 "",
-                "Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Copying or moving a file or a folder",
-                "Proportion of youth and adults with information and communications technology (ICT) skills  - ICT Skill: Writing a computer program using a specialized programming language",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Connecting and installing new devices",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Copying or moving a file or a folder",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Creating electronic presentations with presentation software",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Finding, downloading installing and configuring software",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Sending e-mails with attached files",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Transferring files between a computer and other devices",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using Copy and Paste",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - ICT Skill: Using basic arithmetic formulae in a spreadsheet"
+                "Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language",
+                "Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices",
+                "Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder",
+                "Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software",
+                "Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",
+                "Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files",
+                "Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices",
+                "Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste",
+                "Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet"
               ]
             },
             "title": "Observation-level footnotes"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "Skill: ICT Skill: Sending e-mails with attached files",
-                "Skill: ICT Skill: connecting and installing new devices",
-                "Skill: ICT Skill: Copying or moving a file or folder",
-                "Skill: ICT Skill: Using copy and paste tools to duplicate or move information within a document",
-                "Skill: ICT Skill: Writing a computer program using a specialized programming language",
-                "Skill: ICT Skill: Creating electronic presentations with presentation software",
-                "Skill: ICT Skill: Finding, downloading, installing and configuring software",
-                "Skill: ICT Skill: Using basic arithmetic formula in a spreadsheet",
-                "Skill: ICT Skill: Transferring files between a computer and other devices"
+                "SE_ADT_ACTS",
+                "_L_RW_040401_1",
+                "_L_RW_040401_2",
+                "_L_RW_040401_3",
+                "_L_RW_040401_4",
+                "_L_RW_040401_5",
+                "_L_RW_040401_6",
+                "_L_RW_040401_7",
+                "_L_RW_040401_8"
               ]
             },
-            "title": "Composite breakdown"
+            "title": "Series"
           },
           {
             "name": "URBANISATION",
@@ -1976,27 +2042,12 @@
             "constraints": {
               "enum": [
                 "",
-                "Percentage of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of men subjected to physical violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of men subjected to sexual violence by a current or former intimate partner in the previous 12 months",
-                "Percentage of men to emotional violence by a current or former intimate partner in the previous 12 months"
+                "Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months",
+                "Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months",
+                "Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months"
               ]
             },
             "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Female",
-                "Male"
-              ]
-            },
-            "title": "Sex"
           },
           {
             "name": "Series",
@@ -2006,10 +2057,7 @@
                 "",
                 "VC_VAW_PHYV",
                 "VC_VAW_PSYV",
-                "VC_VAW_SEXV",
-                "_L_RW_050201_1",
-                "_L_RW_050201_2",
-                "_L_RW_050201_3"
+                "VC_VAW_SEXV"
               ]
             },
             "title": "Series"
@@ -2164,18 +2212,8 @@
             "constraints": {
               "enum": [
                 "",
-                "Proportion of Women Cell Executive Secretaries in local government",
-                "Proportion of Women Cells Consultative Council in local government",
-                "Proportion of Women District Executive Secretaries in local government",
-                "Proportion of Women District Mayors in local government",
-                "Proportion of Women District Vice Mayors in Charge of Economic Affairs in local government",
-                "Proportion of Women District Vice Mayors in Charge of Social Affairs in local government",
-                "Proportion of Women Districts Consultative Council in local government",
-                "Proportion of Women Governors and Mayor of Kigali City in local government",
-                "Proportion of Women Sector Executive Secretaries in local government",
-                "Proportion of Women Sectors Consultative Council in local government",
-                "Proportion of Women deputies in national parliament",
-                "Proportion of Women senates in national parliament"
+                "Proportion of seats held by women in local governments (% of total number of seats)",
+                "Proportion of seats held by women in national parliaments (% of total number of seats)"
               ]
             },
             "title": "Observation-level footnotes"
@@ -2252,7 +2290,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -2306,8 +2344,7 @@
                 "",
                 "Both male and female for married couples own agriculture",
                 "Only Men own agriculture",
-                "Only Women own agriculture",
-                "Proportion of total agricultural population with ownership or secure rights over agricultural land, by sex; and (b) share of women among owners or rights-bearers of agricultural land, by type of tenure"
+                "Only Women own agriculture"
               ]
             },
             "title": "Observation-level footnotes"
@@ -2539,8 +2576,8 @@
       "title": "Proportion of bodies of water with good ambient water quality"
     },
     {
-      "path": "6-5-2/data.csv",
-      "name": "6-5-2",
+      "path": "6-4-2/data.csv",
+      "name": "6-4-2",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -2554,23 +2591,23 @@
             "constraints": {
               "enum": [
                 "",
-                "Congo Basin",
-                "Nile Basin initiative"
+                "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+                "Water Use Efficiency (United States dollars per cubic meter)"
               ]
             },
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Series",
+            "name": "Units",
             "type": "string",
             "constraints": {
               "enum": [
                 "",
-                "_L_RW_060502_1",
-                "_L_RW_060502_2"
+                "PT",
+                "USD_PER_M3"
               ]
             },
-            "title": "Series"
+            "title": "Units"
           },
           {
             "name": "Value",
@@ -2584,7 +2621,79 @@
           }
         ]
       },
+      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
+    },
+    {
+      "path": "6-5-1/data.csv",
+      "name": "6-5-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Degree of integrated water resources management implementation (0-100)"
+    },
+    {
+      "path": "6-5-2/data.csv",
+      "name": "6-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
       "title": "Proportion of transboundary basin area with an operational arrangement for water cooperation"
+    },
+    {
+      "path": "6-6-1/data.csv",
+      "name": "6-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Change in the extent of water-related ecosystems over time"
     },
     {
       "path": "7-1-1/data.csv",
@@ -2658,7 +2767,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -2904,6 +3013,18 @@
             "title": "Observation-level footnotes"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_L_RW_080601_1",
+                "_L_RW_080601_2"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
@@ -3097,7 +3218,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -3167,19 +3288,6 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Freight volume (tonne kilometres)",
-                "Mail volume (tonne kilometres)",
-                "Passenger volume (passenger kilometres)"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
           {
             "name": "Series",
             "type": "string",
@@ -3482,6 +3590,54 @@
         ]
       },
       "title": "Proportion of urban population living in slums, informal settlements or inadequate housing "
+    },
+    {
+      "path": "11-5-2/data.csv",
+      "name": "11-5-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Number of destroyed or damaged educational facilities attributed to disasters",
+                "Number of destroyed or damaged health facilities attributed to disasters"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "VC_DSR_EFDN",
+                "VC_DSR_HFDN"
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "Value",
+            "type": "integer",
+            "title": "Value"
+          },
+          {
+            "name": "Year",
+            "type": "string",
+            "title": "Year"
+          }
+        ]
+      },
+      "title": "Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters"
     },
     {
       "path": "12-4-1/data.csv",
@@ -3804,7 +3960,11 @@
               "enum": [
                 "",
                 "Age and sex distribution of detected victims of trafficking in persons (%)",
-                "Detected victims of human trafficking (number)"
+                "Detected victims of human trafficking (number)",
+                "Detected victims of human trafficking for forced labour, servitude and slavery (number)",
+                "Detected victims of human trafficking for other purposes (number)",
+                "Detected victims of human trafficking for removal of organ (number)",
+                "Detected victims of human trafficking for sexual exploitaton (number)"
               ]
             },
             "title": "Observation-level footnotes"
@@ -3816,6 +3976,10 @@
               "enum": [
                 "",
                 "VC_HTF_DETV",
+                "VC_HTF_DETVFL",
+                "VC_HTF_DETVOG",
+                "VC_HTF_DETVOP",
+                "VC_HTF_DETVSX",
                 "VC_VAW_DIST"
               ]
             },
@@ -3943,7 +4107,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -4038,8 +4202,20 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -4135,7 +4311,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
@@ -4183,7 +4359,7 @@
         "fields": [
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           },
           {
@@ -4253,6 +4429,18 @@
       "encoding": "utf-8",
       "schema": {
         "fields": [
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
           {
             "name": "Value",
             "type": "number",
@@ -5758,30 +5946,6 @@
       "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
     },
     {
-      "path": "6-6-1/data.csv",
-      "name": "6-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Change in the extent of water-related ecosystems over time"
-    },
-    {
       "path": "17-19-1/data.csv",
       "name": "17-19-1",
       "profile": "tabular-data-resource",
@@ -6406,30 +6570,6 @@
       "title": "Agricultural export subsidies"
     },
     {
-      "path": "6-4-2/data.csv",
-      "name": "6-4-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"
-    },
-    {
       "path": "1-5-4/data.csv",
       "name": "1-5-4",
       "profile": "tabular-data-resource",
@@ -6716,30 +6856,6 @@
         ]
       },
       "title": "Proportion of population with large household expenditures on health as a share of total household expenditure or income"
-    },
-    {
-      "path": "6-5-1/data.csv",
-      "name": "6-5-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          }
-        ]
-      },
-      "title": "Degree of integrated water resources management implementation (0-100)"
     },
     {
       "path": "3-9-2/data.csv",

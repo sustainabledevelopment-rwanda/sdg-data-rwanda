@@ -1,7 +1,7 @@
-Year,COMMENT_OBS,AGE,Value
-2017,"Proportion of youth (aged 16-24 years) not in education, employment or training",Y16T24,31.8
-2018,"Proportion of youth (aged 16-24 years) not in education, employment or training",Y16T24,30.7
-2019,"Proportion of youth (aged 16-24 years) not in education, employment or training",Y16T24,32.5
-2017,"Proportion of youth (aged 16-30 years) not in education, employment or training",Y16T30,34.6
-2018,"Proportion of youth (aged 16-30 years) not in education, employment or training",Y16T30,32.7
-2019,"Proportion of youth (aged 16-30 years) not in education, employment or training",Y16T30,34.3
+Year,COMMENT_OBS,Series,AGE,Value
+2017,"Proportion of youth (aged 16-24 years) not in education, employment or training",_L_RW_080601_1,Y16T24,31.8
+2018,"Proportion of youth (aged 16-24 years) not in education, employment or training",_L_RW_080601_1,Y16T24,30.7
+2019,"Proportion of youth (aged 16-24 years) not in education, employment or training",_L_RW_080601_1,Y16T24,32.5
+2017,"Proportion of youth (aged 16-30 years) not in education, employment or training",_L_RW_080601_2,Y16T30,34.6
+2018,"Proportion of youth (aged 16-30 years) not in education, employment or training",_L_RW_080601_2,Y16T30,32.7
+2019,"Proportion of youth (aged 16-30 years) not in education, employment or training",_L_RW_080601_2,Y16T30,34.3

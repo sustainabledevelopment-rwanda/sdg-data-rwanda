@@ -19,7 +19,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Direct economic loss attributed to disasters relative to GDP",
                 "Number of destroyed or damaged health facilities attributed to disasters",
                 "Number of destroyed or damaged educational facilities attributed to disasters",
                 ""
@@ -31,7 +30,6 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "VC_DSR_LSGP",
                 "VC_DSR_HFDN",
                 "VC_DSR_EFDN",
                 ""
@@ -39,19 +37,8 @@
             }
           },
           {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "RO",
-                "NUMBER",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

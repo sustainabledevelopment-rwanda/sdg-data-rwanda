@@ -11,6 +11,29 @@
       "schema": {
         "fields": [
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "under 5 years old"
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

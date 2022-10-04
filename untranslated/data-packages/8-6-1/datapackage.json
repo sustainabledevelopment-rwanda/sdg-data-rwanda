@@ -26,6 +26,17 @@
             }
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_RW_080601_1",
+                "_L_RW_080601_2",
+                ""
+              ]
+            }
+          },
+          {
             "name": "AGE",
             "type": "string",
             "constraints": {

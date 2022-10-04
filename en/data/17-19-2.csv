@@ -40,6 +40,7 @@ Year,Observation-level footnotes,Series,Value
 2017,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),SG_REG_BRTH90N,0
 2018,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),SG_REG_BRTH90N,0
 2019,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),SG_REG_BRTH90N,0
+2020,Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO),SG_REG_BRTH90N,0
 2000,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),SG_REG_DETH75N,0
 2001,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),SG_REG_DETH75N,0
 2002,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),SG_REG_DETH75N,0
@@ -60,3 +61,4 @@ Year,Observation-level footnotes,Series,Value
 2017,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),SG_REG_DETH75N,0
 2018,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),SG_REG_DETH75N,0
 2019,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),SG_REG_DETH75N,0
+2020,Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO),SG_REG_DETH75N,0

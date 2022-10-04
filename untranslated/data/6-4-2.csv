@@ -1,1 +1,3 @@
-Year,Value
+Year,COMMENT_OBS,Units,Value
+2016,Water Use Efficiency (United States dollars per cubic meter),USD_PER_M3,35
+2017,Level of water stress: freshwater withdrawal as a proportion of available freshwater resources,PT,7

@@ -1,3 +1,4 @@
-Year,Value
-2017,17.2
-2020,23.8
+Year,Sex,Value
+2020,,17.6
+2020,Male,23.0
+2020,Female,12.3

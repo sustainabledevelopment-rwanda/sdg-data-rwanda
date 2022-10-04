@@ -11,6 +11,30 @@
       "schema": {
         "fields": [
           {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Female",
+                "Male"
+              ]
+            },
+            "title": "Sex"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Rural",
+                "Urban"
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

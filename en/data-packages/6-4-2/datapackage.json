@@ -11,13 +11,37 @@
       "schema": {
         "fields": [
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "Level of water stress: freshwater withdrawal as a proportion of available freshwater resources",
+                "Water Use Efficiency (United States dollars per cubic meter)"
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "PT",
+                "USD_PER_M3"
+              ]
+            },
+            "title": "Units"
+          },
+          {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           },
           {
             "name": "Year",
-            "type": "number",
+            "type": "string",
             "title": "Year"
           }
         ]

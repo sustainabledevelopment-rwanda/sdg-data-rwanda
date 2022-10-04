@@ -35,6 +35,18 @@
             "title": "Observation-level footnotes"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "",
+                "_L_RW_080601_1",
+                "_L_RW_080601_2"
+              ]
+            },
+            "title": "Series"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"

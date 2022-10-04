@@ -11,30 +11,6 @@
       "schema": {
         "fields": [
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Congo Basin",
-                "Nile Basin initiative"
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "_L_RW_060502_1",
-                "_L_RW_060502_2"
-              ]
-            },
-            "title": "Series"
-          },
-          {
             "name": "Value",
             "type": "integer",
             "title": "Value"

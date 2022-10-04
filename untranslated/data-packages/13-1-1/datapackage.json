@@ -21,6 +21,7 @@
               "enum": [
                 "Number of deaths due to disaster",
                 "Number of people affected by disaster",
+                "Number of missing persons due to disaster",
                 ""
               ]
             }
@@ -32,13 +33,14 @@
               "enum": [
                 "VC_DSR_MORT",
                 "VC_DSR_AFFCT",
+                "VC_DSR_MISS",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       }

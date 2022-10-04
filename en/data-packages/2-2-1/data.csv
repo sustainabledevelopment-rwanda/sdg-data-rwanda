@@ -1,5 +1,7 @@
-Year,Value
-2005,51
-2010,44
-2015,38
-2020,33
+Year,Sex,Age,Value
+2005,,,51
+2010,,,44
+2015,,,38
+2020,,,33
+2020,Male,under 5 years old,37
+2020,Female,under 5 years old,29

@@ -4,8 +4,14 @@ Year,COMMENT_OBS,Series,Units,Value
 2018,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.74
 2019,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.51
 2020,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.72
+2021,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.47
 2016,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,66.0
 2017,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,55.0
 2018,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,89.0
 2019,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,63.0
 2020,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,91.0
+2021,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,61.0
+2021,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",VC_HTF_DETVFL,NUMBER,41.0
+2021,Detected victims of human trafficking for other purposes (number),VC_HTF_DETVOP,NUMBER,1.0
+2021,Detected victims of human trafficking for removal of organ (number),VC_HTF_DETVOG,NUMBER,0.0
+2021,Detected victims of human trafficking for sexual exploitaton (number),VC_HTF_DETVSX,NUMBER,19.0

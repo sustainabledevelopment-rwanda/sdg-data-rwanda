@@ -1,8 +1,12 @@
 Year,Observation-level footnotes,Series,Sex,Value
-2005,Proportion of children moderately or severely wasted,SH_STA_WAST,Male,5
-2010,Proportion of children moderately or severely wasted,SH_STA_WAST,Male,3
-2015,Proportion of children moderately or severely wasted,SH_STA_WAST,Male,2
-2020,Proportion of children moderately or severely wasted,SH_STA_WAST,Male,1
-2010,Proportion of children moderately or severely overweight,SN_STA_OVWGT,Female,7
-2015,Proportion of children moderately or severely overweight,SN_STA_OVWGT,Female,8
-2020,Proportion of children moderately or severely overweight,SN_STA_OVWGT,Female,6
+2005,Proportion of children moderately or severely wasted,SH_STA_WAST,,5.0
+2010,Proportion of children moderately or severely wasted,SH_STA_WAST,,3.0
+2015,Proportion of children moderately or severely wasted,SH_STA_WAST,,2.0
+2020,Proportion of children moderately or severely wasted,SH_STA_WAST,,0.9
+2020,Proportion of children moderately or severely wasted,SH_STA_WAST,Male,1.4
+2020,Proportion of children moderately or severely wasted,SH_STA_WAST,Female,1.1
+2010,Proportion of children moderately or severely overweight,SN_STA_OVWGT,,7.0
+2015,Proportion of children moderately or severely overweight,SN_STA_OVWGT,,8.0
+2020,Proportion of children moderately or severely overweight,SN_STA_OVWGT,,6.0
+2020,Proportion of children moderately or severely overweight,SN_STA_OVWGT,Male,6.0
+2020,Proportion of children moderately or severely overweight,SN_STA_OVWGT,Female,5.0

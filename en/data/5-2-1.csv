@@ -1,7 +1,7 @@
-Year,Observation-level footnotes,Series,Sex,Value
-2015,Percentage of men subjected to physical violence by a current or former intimate partner in the previous 12 months,_L_RW_050201_1,Male,6.5
-2015,Percentage of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months,VC_VAW_PHYV,Female,17.6
-2015,Percentage of men subjected to sexual violence by a current or former intimate partner in the previous 12 months,_L_RW_050201_2,Male,1.2
-2015,Percentage of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months,VC_VAW_SEXV,Female,8.3
-2015,Percentage of men to emotional violence by a current or former intimate partner in the previous 12 months,_L_RW_050201_3,Male,14.0
-2015,Percentage of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months,VC_VAW_PSYV,Female,18.5
+Year,Observation-level footnotes,Series,Value
+2015,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months,VC_VAW_PHYV,17.6
+2020,Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months,VC_VAW_PHYV,30.0
+2015,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months,VC_VAW_SEXV,8.3
+2020,Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months,VC_VAW_SEXV,19.7
+2015,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months,VC_VAW_PSYV,18.5
+2020,Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months,VC_VAW_PSYV,23.6

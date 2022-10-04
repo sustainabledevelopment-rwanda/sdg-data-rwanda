@@ -1,10 +1,9 @@
-Year,Observation-level footnotes,Series,Units,Value
-2018,Direct economic loss attributed to disasters relative to GDP,VC_DSR_LSGP,RO,0.02
-2016,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,NUMBER,2.0
-2017,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,NUMBER,3.0
-2018,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,NUMBER,3.0
-2019,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,NUMBER,1.0
-2016,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,NUMBER,82.0
-2017,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,NUMBER,203.0
-2018,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,NUMBER,73.0
-2019,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,NUMBER,203.0
+Year,Observation-level footnotes,Series,Value
+2016,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,2
+2017,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,3
+2018,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,3
+2019,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,1
+2016,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,82
+2017,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,203
+2018,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,73
+2019,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,203

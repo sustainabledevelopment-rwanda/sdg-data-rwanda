@@ -1,1 +1,1 @@
-{"data":{"Year":["2015","2020"],"Value":[48,58]},"edges":[]}
+{"data":{"Year":["2015","2020","2020","2020"],"Sex":["Female","Female",null,null],"Degree of urbanisation":[null,null,"Urban","Rural"],"Value":[48.0,73.7,72.3,74.0]},"edges":[]}
