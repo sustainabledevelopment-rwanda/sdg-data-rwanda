@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "VC_IHR_PSRC",
-                "VC_IHR_PSRCN",
+                "Number of victims of intentional homicide per 100,000 population [16.1.1]",
+                "Number of victims of intentional homicide [16.1.1]",
                 ""
               ]
             }
@@ -41,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
-                "NUMBER",
+                "Per 100,000 population",
+                "Number",
                 ""
               ]
             }

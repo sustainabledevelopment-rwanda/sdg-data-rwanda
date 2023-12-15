@@ -11,55 +11,55 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Health workder density, Doctors",
-                "Health workder density, Midwives",
                 "Health workder density, Nurses",
-                "Health workder density, Pharmacists"
+                "Health workder density, Midwives",
+                "Health workder density, Pharmacists",
+                ""
               ]
             },
             "title": "Observation-level footnotes"
-          },
-          {
-            "name": "OCCUPATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Medical doctors",
-                "Nurse",
-                "Midwives",
-                "Pharmacists"
-              ]
-            },
-            "title": "Occupation"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_MED_DEN",
-                "_L_RW_030C01_1",
-                "_L_RW_030C01_2"
+                "Health workder density [3.c.1]",
+                "Health workder density, Nurses",
+                "Health workder density, Midwives",
+                ""
               ]
             },
             "title": "Series"
           },
           {
+            "name": "Occupation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Medical doctors",
+                "Nurse",
+                "Midwives",
+                "Pharmacists",
+                ""
+              ]
+            },
+            "title": "Occupation"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

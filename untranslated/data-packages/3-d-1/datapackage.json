@@ -12,26 +12,26 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "IHR_01",
-                "IHR_02",
-                "IHR_03",
-                "IHR_04",
-                "IHR_05",
-                "IHR_06",
-                "IHR_07",
-                "IHR_08",
-                "IHR_09",
-                "IHR_10",
-                "IHR_11",
-                "IHR_12",
-                "IHR_13",
+                "IHR Capacity: National legislation, policy and financing",
+                "IHR Capacity: Coordination and National Focal Point communications",
+                "IHR Capacity: Surveillance",
+                "IHR Capacity: Response",
+                "IHR Capacity: Preparedness",
+                "IHR Capacity: Risk communication",
+                "IHR Capacity: Human resources",
+                "IHR Capacity: Laboratory",
+                "IHR Capacity: Points of entry",
+                "IHR Capacity: Zoonotic events",
+                "IHR Capacity: Food safety",
+                "IHR Capacity: Chemical events",
+                "IHR Capacity: Radionuclear emergencies",
                 ""
               ]
             }

@@ -1,1 +1,1 @@
-{"data":{"Year":["2005","2010","2015","2020","2020","2020"],"Sex":[null,null,null,null,"Male","Female"],"Age":[null,null,null,null,"under 5 years old","under 5 years old"],"Value":[51,44,38,33,37,29]},"edges":{"From":["Sex"],"To":["Age"]}}
+{"data":{"Year":[2005,2010,2015,2020,2020,2020],"Sex":[null,null,null,null,"Male","Female"],"Age":[null,null,null,null,"under 5 years old","under 5 years old"],"Value":[51,44,38,33,37,29]},"edges":{"From":["Sex"],"To":["Age"]}}

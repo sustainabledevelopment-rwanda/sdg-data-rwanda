@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -40,49 +40,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_040501_1",
-                "_L_RW_040501_2",
-                "_L_RW_040501_3",
-                "_L_RW_040501_4",
-                "_L_RW_040501_5",
-                "_L_RW_040501_6",
-                "_L_RW_040501_7",
-                "_L_RW_040501_8",
-                "SE_GPI_PART",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",
+                "Gender parity index for participation rate in formal and non-formal education and training [4.5.1]",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE15",
-                "Y15T24",
-                "Y_GE6",
+                "15 years old and over",
+                "15 to 24 years old",
+                "6 years old and over",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11_1",
-                "AGG_2_3",
+                "Primary education",
+                "Secondary education (lower and upper secondary education)",
                 ""
               ]
             }

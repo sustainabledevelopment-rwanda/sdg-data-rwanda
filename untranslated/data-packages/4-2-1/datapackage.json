@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -33,33 +33,33 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SE_DEV_ONTRK",
-                "_L_RW_040201_1",
-                "_L_RW_040201_2",
-                "_L_RW_040201_3",
-                "_L_RW_040201_4",
+                "Proportion of children who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning [4.2.1]",
+                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy",
+                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical",
+                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional",
+                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Learning",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "M36T59",
-                "Y0T4",
+                "36 to 59 months old",
+                "under 5 years old",
                 ""
               ]
             }

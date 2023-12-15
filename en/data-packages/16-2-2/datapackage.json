@@ -11,17 +11,22 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Age and sex distribution of detected victims of trafficking in persons (%)",
                 "Detected victims of human trafficking (number)",
                 "Detected victims of human trafficking for forced labour, servitude and slavery (number)",
                 "Detected victims of human trafficking for other purposes (number)",
                 "Detected victims of human trafficking for removal of organ (number)",
-                "Detected victims of human trafficking for sexual exploitaton (number)"
+                "Detected victims of human trafficking for sexual exploitaton (number)",
+                ""
               ]
             },
             "title": "Observation-level footnotes"
@@ -31,13 +36,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "VC_HTF_DETV",
-                "VC_HTF_DETVFL",
-                "VC_HTF_DETVOG",
-                "VC_HTF_DETVOP",
-                "VC_HTF_DETVSX",
-                "VC_VAW_DIST"
+                "Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]",
+                "Detected victims of human trafficking (number) [16.2.2]",
+                "Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",
+                "Detected victims of human trafficking for other purposes (number) [16.2.2]",
+                "Detected victims of human trafficking for removal of organ (number) [16.2.2]",
+                "Detected victims of human trafficking for sexual exploitaton (number) [16.2.2]",
+                ""
               ]
             },
             "title": "Series"
@@ -47,9 +52,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "NUMBER",
-                "PT"
+                "Percent",
+                "Number",
+                ""
               ]
             },
             "title": "Units"
@@ -58,11 +63,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -34,34 +34,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_040101_1",
-                "_L_RW_040101_2",
-                "_L_RW_040101_3",
-                "_L_RW_040101_4",
-                "_L_RW_040101_5",
-                "_L_RW_040101_6",
+                "Literacy rate of children in P2",
+                "Numeracy rate of children in P2",
+                "Literacy rate of children in P3",
+                "Numeracy rate of children in P3",
+                "Literacy rate of children in P5",
+                "Numeracy rate of children in P5",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "EDUCATION_LEV",
+            "name": "Education level",
             "type": "string",
             "constraints": {
               "enum": [
-                "ISCED11A_0_G23",
-                "ISCED11_1",
+                "Some primary education, grades 2 or 3",
+                "Primary education",
                 ""
               ]
             }

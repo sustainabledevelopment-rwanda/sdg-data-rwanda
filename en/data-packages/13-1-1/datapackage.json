@@ -11,14 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Number of deaths due to disaster",
+                "Number of people affected by disaster",
                 "Number of missing persons due to disaster",
-                "Number of people affected by disaster"
+                ""
               ]
             },
             "title": "Observation-level footnotes"
@@ -28,10 +33,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "VC_DSR_AFFCT",
-                "VC_DSR_MISS",
-                "VC_DSR_MORT"
+                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
+                "Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",
+                "Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",
+                ""
               ]
             },
             "title": "Series"
@@ -40,11 +45,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

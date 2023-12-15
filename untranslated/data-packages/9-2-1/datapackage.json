@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "NV_IND_MANF",
-                "NV_IND_MANFPC",
+                "Manufacturing value added as a proportion of GDP [9.2.1]",
+                "Manufacturing value added per capita [9.2.1]",
                 ""
               ]
             }
@@ -41,7 +41,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "Percent",
                 "USD",
                 ""
               ]

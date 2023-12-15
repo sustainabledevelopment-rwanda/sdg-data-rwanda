@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -31,19 +31,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_050A01_1",
-                "_L_RW_050A01_2",
+                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
+                "Both male and female for married couples own agriculture",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "F",
-                "M",
+                "Female",
+                "Male",
                 ""
               ]
             }

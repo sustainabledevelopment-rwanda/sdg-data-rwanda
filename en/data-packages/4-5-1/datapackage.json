@@ -11,92 +11,92 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "15 to 24 years old",
-                "15 years old and over",
-                "6 years old and over"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",
                 "Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above",
                 "Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex",
                 "Gender parity index for participation rate in formal and non-formal education and training  - Percentage of individuals (6 + years) that have ever attended school",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate"
+                "Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex",
+                ""
               ]
             },
             "title": "Observation-level footnotes"
-          },
-          {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "Secondary education (lower and upper secondary education)",
-                "Primary education"
-              ]
-            },
-            "title": "Education level"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SE_GPI_PART",
-                "_L_RW_040501_1",
-                "_L_RW_040501_2",
-                "_L_RW_040501_3",
-                "_L_RW_040501_4",
-                "_L_RW_040501_5",
-                "_L_RW_040501_6",
-                "_L_RW_040501_7",
-                "_L_RW_040501_8"
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",
+                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",
+                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",
+                "Gender parity index for participation rate in formal and non-formal education and training [4.5.1]",
+                ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "URBANISATION",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "15 years old and over",
+                "15 to 24 years old",
+                "6 years old and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
+            "name": "Degree of urbanisation",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
                 "Rural",
-                "Urban"
+                ""
               ]
             },
             "title": "Degree of urbanisation"
           },
           {
+            "name": "Education level",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Primary education",
+                "Secondary education (lower and upper secondary education)",
+                ""
+              ]
+            },
+            "title": "Education level"
+          },
+          {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

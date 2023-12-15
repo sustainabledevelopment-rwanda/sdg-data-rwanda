@@ -11,15 +11,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Proportion (%) of population using basic drinking water services",
                 "Proportion (%) of population using limited drinking water services",
+                "Proportion (%) of population using unimproved drinking water services",
                 "Proportion (%) of population using surface drinking water services",
-                "Proportion (%) of population using unimproved drinking water services"
+                ""
               ]
             },
             "title": "Observation-level footnotes"
@@ -29,11 +34,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "_L_RW_060101_1",
-                "_L_RW_060101_2",
-                "_L_RW_060101_3",
-                "_L_RW_060101_4"
+                "Proportion (%) of population using basic drinking water services",
+                "Proportion (%) of population using limited drinking water services",
+                "Proportion (%) of population using unimproved drinking water services",
+                "Proportion (%) of population using surface drinking water services",
+                ""
               ]
             },
             "title": "Series"
@@ -42,11 +47,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -35,13 +35,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "FI_FSI_FSKA",
-                "FI_FSI_FSKRTC",
-                "FI_FSI_FSKNL",
-                "FI_FSI_FSANL",
-                "FI_FSI_FSERA",
-                "FI_FSI_FSLS",
-                "FI_FSI_FSSNO",
+                "Regulatory capital to assets (%) [10.5.1]",
+                "Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1]",
+                "Non-performing loans net of provisions to capital (%) [10.5.1]",
+                "Non-performing loans to total gross loans (%) [10.5.1]",
+                "Return on assets (%) [10.5.1]",
+                "Liquid assets to short term liabilities (%) [10.5.1]",
+                "Net open position in foreign exchange to capital (%) [10.5.1]",
                 ""
               ]
             }

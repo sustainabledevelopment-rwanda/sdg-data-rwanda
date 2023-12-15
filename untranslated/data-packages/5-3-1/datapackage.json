@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -30,19 +30,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SP_DYN_MRBF15",
-                "SP_DYN_MRBF18",
+                "Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]",
+                "Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]",
                 ""
               ]
             }
           },
           {
-            "name": "AGE",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "Y0T14",
-                "Y0T17",
+                "under 15 years old",
+                "under 18 years old",
                 ""
               ]
             }

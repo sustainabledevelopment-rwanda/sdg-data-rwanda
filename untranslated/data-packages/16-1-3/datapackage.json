@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -30,19 +30,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_160103_1",
-                "_L_RW_160103_2",
+                "Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",
+                "Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }

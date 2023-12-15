@@ -11,41 +11,46 @@
       "schema": {
         "fields": [
           {
-            "name": "REF_AREA",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Reference area",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Nyarugenge",
-                "Gasabo",
-                "Kicukiro",
-                "Nyanza",
-                "Gisagara",
                 "Nyaruguru",
-                "Huye",
-                "Nyamagabe",
-                "Ruhango",
-                "Muhanga",
-                "Kamonyi",
-                "Karongi",
-                "Rutsiro",
-                "Rubavu",
-                "Nyabihu",
-                "Ngororero",
                 "Rusizi",
+                "Nyamagabe",
                 "Nyamasheke",
+                "Kayonza",
+                "Gatsibo",
+                "Musanze",
+                "Nyagatare",
+                "Rutsiro",
+                "Karongi",
+                "Nyabihu",
+                "Gicumbi",
+                "Muhanga",
                 "Rulindo",
                 "Gakenke",
-                "Musanze",
+                "Huye",
+                "Ngororero",
+                "Nyarugenge",
                 "Burera",
-                "Gicumbi",
-                "Rwamagana",
-                "Nyagatare",
-                "Gatsibo",
-                "Kayonza",
+                "Gasabo",
+                "Rubavu",
+                "Bugesera",
                 "Kirehe",
+                "Ruhango",
+                "Kamonyi",
+                "Rwamagana",
+                "Nyanza",
+                "Gisagara",
                 "Ngoma",
-                "Bugesera"
+                "Kicukiro",
+                ""
               ]
             },
             "title": "Reference area"
@@ -54,11 +59,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

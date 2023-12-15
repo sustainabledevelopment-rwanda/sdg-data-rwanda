@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_STA_SCIDE",
-                "SH_STA_SCIDEN",
+                "Suicide mortality rate [3.4.2]",
+                "Number of deaths attributed to suicide [3.4.2]",
                 ""
               ]
             }
@@ -41,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
-                "NUMBER",
+                "Per 100,000 population",
+                "Number",
                 ""
               ]
             }

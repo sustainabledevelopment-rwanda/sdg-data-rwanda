@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SG_REG_CENSUSN",
-                "SG_REG_BRTH90N",
-                "SG_REG_DETH75N",
+                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
+                "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2]",
+                "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2]",
                 ""
               ]
             }

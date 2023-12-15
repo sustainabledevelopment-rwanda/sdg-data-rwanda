@@ -12,16 +12,16 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "IS_TRP_MAILTKM",
-                "IS_RDP_FRGVOL",
-                "IS_RDP_PFVOL",
+                "Mail volume (tonne kilometres) [9.1.2]",
+                "Freight volume (tonne kilometres) [9.1.2]",
+                "Passenger volume (passenger kilometres) [9.1.2]",
                 ""
               ]
             }
@@ -31,8 +31,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "T",
-                "NUMBER",
+                "Metric Tons",
+                "Number",
                 ""
               ]
             }

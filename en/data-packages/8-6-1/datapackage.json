@@ -11,50 +11,38 @@
       "schema": {
         "fields": [
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "",
-                "16 to 24 years old",
-                "16 to 30 years old"
-              ]
-            },
-            "title": "Age"
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
           },
           {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "Proportion of youth (aged 16-24 years) not in education, employment or training",
-                "Proportion of youth (aged 16-30 years) not in education, employment or training"
+                "Proportion of youth (aged 16-30 years) not in education, employment or training",
+                ""
               ]
             },
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Series",
+            "name": "Age",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "_L_RW_080601_1",
-                "_L_RW_080601_2"
+                "16 to 24 years old",
+                "16 to 30 years old",
+                ""
               ]
             },
-            "title": "Series"
+            "title": "Age"
           },
           {
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

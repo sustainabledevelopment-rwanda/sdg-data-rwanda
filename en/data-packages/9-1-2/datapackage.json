@@ -11,14 +11,19 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "IS_RDP_FRGVOL",
-                "IS_RDP_PFVOL",
-                "IS_TRP_MAILTKM"
+                "Mail volume (tonne kilometres) [9.1.2]",
+                "Freight volume (tonne kilometres) [9.1.2]",
+                "Passenger volume (passenger kilometres) [9.1.2]",
+                ""
               ]
             },
             "title": "Series"
@@ -28,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "NUMBER",
-                "T"
+                "Metric Tons",
+                "Number",
+                ""
               ]
             },
             "title": "Units"
@@ -39,11 +44,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

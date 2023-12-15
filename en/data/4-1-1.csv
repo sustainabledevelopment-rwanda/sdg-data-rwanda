@@ -1,11 +1,11 @@
 Year,Observation-level footnotes,Series,Sex,Education level,Value
-2014,Literacy rate of children in P2,_L_RW_040101_1,,"Some primary education, grades 2 or 3",45.3
-2014,Numeracy rate of children in P2,_L_RW_040101_2,,"Some primary education, grades 2 or 3",32.9
-2018,Literacy rate of children in P3,_L_RW_040101_3,,"Some primary education, grades 2 or 3",54.9
-2018,Literacy rate of children in P3,_L_RW_040101_3,Male,"Some primary education, grades 2 or 3",52.2
-2018,Literacy rate of children in P3,_L_RW_040101_3,Female,"Some primary education, grades 2 or 3",56.4
-2018,Numeracy rate of children in P3,_L_RW_040101_4,,"Some primary education, grades 2 or 3",40.7
-2018,Numeracy rate of children in P3,_L_RW_040101_4,Male,"Some primary education, grades 2 or 3",40.3
-2018,Numeracy rate of children in P3,_L_RW_040101_4,Female,"Some primary education, grades 2 or 3",41.3
-2014,Literacy rate of children in P5,_L_RW_040101_5,,Primary education,44.1
-2014,Numeracy rate of children in P5,_L_RW_040101_6,,Primary education,38.3
+2014,Literacy rate of children in P2,Literacy rate of children in P2,,"Some primary education, grades 2 or 3",45.3
+2014,Numeracy rate of children in P2,Numeracy rate of children in P2,,"Some primary education, grades 2 or 3",32.9
+2018,Literacy rate of children in P3,Literacy rate of children in P3,,"Some primary education, grades 2 or 3",54.9
+2018,Literacy rate of children in P3,Literacy rate of children in P3,Male,"Some primary education, grades 2 or 3",52.2
+2018,Literacy rate of children in P3,Literacy rate of children in P3,Female,"Some primary education, grades 2 or 3",56.4
+2018,Numeracy rate of children in P3,Numeracy rate of children in P3,,"Some primary education, grades 2 or 3",40.7
+2018,Numeracy rate of children in P3,Numeracy rate of children in P3,Male,"Some primary education, grades 2 or 3",40.3
+2018,Numeracy rate of children in P3,Numeracy rate of children in P3,Female,"Some primary education, grades 2 or 3",41.3
+2014,Literacy rate of children in P5,Literacy rate of children in P5,,Primary education,44.1
+2014,Numeracy rate of children in P5,Numeracy rate of children in P5,,Primary education,38.3

@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -32,10 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_010401_1",
-                "_L_RW_010401_2",
-                "_L_RW_010401_3",
-                "_L_RW_010401_4",
+                "Mean time to Food market",
+                "Mean time to Primary School",
+                "Mean time to Secondary",
+                "Mean time to Health center",
                 ""
               ]
             }

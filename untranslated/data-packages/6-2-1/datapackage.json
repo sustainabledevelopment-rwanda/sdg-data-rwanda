@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -32,10 +32,10 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_SAN_HNDWSH",
-                "_L_RW_060201_1",
-                "_L_RW_060201_2",
-                "SH_SAN_DEFECT",
+                "Proportion of population with basic handwashing facilities on premises [6.2.1]",
+                "Proportion (%) of population using limited sanitation services",
+                "Proportion (%) of population using unimproved sanitation services",
+                "Proportion of population practicing open defecation [6.2.1]",
                 ""
               ]
             }

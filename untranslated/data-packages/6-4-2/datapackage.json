@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "USD_PER_M3",
-                "PT",
+                "United States dollars per cubic metre",
+                "Percent",
                 ""
               ]
             }

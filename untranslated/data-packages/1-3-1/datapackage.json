@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -34,34 +34,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_010301_1",
-                "_L_RW_010301_2",
-                "_L_RW_010301_3",
-                "_L_RW_010301_4",
-                "_L_RW_010301_5",
-                "_L_RW_010301_6",
+                "Proportion of population covered by core Social Protection programs",
+                "Number of members of Pension and occupational Hazards",
+                "Number of population covered by Medical scheme",
+                "Proportion of population covered by Community-Based Health Insurance (Coverage rate)",
+                "Proportion of population covered by Health insurance",
+                "Number of actively contributing women covered by Maternity Leave Benefits",
                 ""
               ]
             }
           },
           {
-            "name": "SEX",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "M",
-                "F",
+                "Male",
+                "Female",
                 ""
               ]
             }
           },
           {
-            "name": "URBANISATION",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "U",
-                "R",
+                "Urban",
+                "Rural",
                 ""
               ]
             }
@@ -71,8 +71,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
-                "NUMBER",
+                "Percent",
+                "Number",
                 ""
               ]
             }

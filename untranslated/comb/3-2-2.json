@@ -1,1 +1,1 @@
-{"data":{"Year":["2005","2008","2010","2015","2020","2020","2020","2020","2020"],"SEX":[null,null,null,null,null,null,null,"M","F"],"URBANISATION":[null,null,null,null,null,"U","R",null,null],"Value":[37,28,27,20,19,15,20,21,17]},"edges":[]}
+{"data":{"Year":[2005,2008,2010,2015,2020,2020,2020,2020,2020],"Sex":[null,null,null,null,null,null,null,"Male","Female"],"Degree of urbanisation":[null,null,null,null,null,"Urban","Rural",null,null],"Value":[37,28,27,20,19,15,20,21,17]},"edges":[]}

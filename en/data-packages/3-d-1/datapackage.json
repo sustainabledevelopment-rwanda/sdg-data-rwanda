@@ -11,11 +11,15 @@
       "schema": {
         "fields": [
           {
-            "name": "COMPOSITE_BREAKDOWN",
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "Composite breakdown",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
                 "IHR Capacity: National legislation, policy and financing",
                 "IHR Capacity: Coordination and National Focal Point communications",
                 "IHR Capacity: Surveillance",
@@ -28,7 +32,8 @@
                 "IHR Capacity: Zoonotic events",
                 "IHR Capacity: Food safety",
                 "IHR Capacity: Chemical events",
-                "IHR Capacity: Radionuclear emergencies"
+                "IHR Capacity: Radionuclear emergencies",
+                ""
               ]
             },
             "title": "Composite breakdown"
@@ -37,11 +42,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

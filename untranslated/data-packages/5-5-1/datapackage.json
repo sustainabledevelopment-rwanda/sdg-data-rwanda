@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -30,18 +30,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_050501_1",
-                "_L_RW_050501_2",
-                "_L_RW_050501_3",
-                "_L_RW_050501_4",
-                "_L_RW_050501_5",
-                "_L_RW_050501_6",
-                "_L_RW_050501_7",
-                "_L_RW_050501_8",
-                "_L_RW_050501_9",
-                "_L_RW_050501_10",
-                "_L_RW_050501_11",
-                "_L_RW_050501_12",
+                "Proportion of Women deputies in national parliament",
+                "Proportion of Women senates in national parliament",
+                "Proportion of Women Governors and Mayor of Kigali City in local government",
+                "Proportion of Women District Mayors in local government",
+                "Proportion of Women District Vice Mayors in Charge of Economic Affairs in local government",
+                "Proportion of Women District Vice Mayors in Charge of Social Affairs in local government",
+                "Proportion of Women Districts Consultative Council in local government",
+                "Proportion of Women Sectors Consultative Council in local government",
+                "Proportion of Women Cells Consultative Council in local government",
+                "Proportion of Women District Executive Secretaries in local government",
+                "Proportion of Women Sector Executive Secretaries in local government",
+                "Proportion of Women Cell Executive Secretaries in local government",
                 ""
               ]
             }

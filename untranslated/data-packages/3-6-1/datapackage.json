@@ -12,7 +12,7 @@
         "fields": [
           {
             "name": "Year",
-            "type": "string"
+            "type": "integer"
           },
           {
             "name": "COMMENT_OBS",
@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SH_STA_TRAF",
-                "SH_STA_TRAFN",
+                "Death rate due to road traffic injuries [3.6.1]",
+                "Number of deaths rate due to road traffic injuries [3.6.1]",
                 ""
               ]
             }
@@ -41,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PER_100000_POP",
-                "NUMBER",
+                "Per 100,000 population",
+                "Number",
                 ""
               ]
             }

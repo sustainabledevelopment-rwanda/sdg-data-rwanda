@@ -11,13 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Number of destroyed or damaged health facilities attributed to disasters",
                 "Number of destroyed or damaged educational facilities attributed to disasters",
-                "Number of destroyed or damaged health facilities attributed to disasters"
+                ""
               ]
             },
             "title": "Observation-level footnotes"
@@ -27,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "VC_DSR_EFDN",
-                "VC_DSR_HFDN"
+                "Number of destroyed or damaged health facilities attributed to disasters [11.5.2]",
+                "Number of destroyed or damaged educational facilities attributed to disasters [11.5.2]",
+                ""
               ]
             },
             "title": "Series"
@@ -38,11 +43,6 @@
             "name": "Value",
             "type": "integer",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

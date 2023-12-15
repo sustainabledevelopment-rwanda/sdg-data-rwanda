@@ -1,7 +1,7 @@
-Year,URBANISATION,Value
+Year,Degree of urbanisation,Value
 2017,,36.7
 2020,,54.8
-2017,U,63.0
-2020,U,61.6
-2017,R,30.5
-2020,R,47.9
+2017,Urban,63.0
+2020,Urban,61.6
+2017,Rural,30.5
+2020,Rural,47.9

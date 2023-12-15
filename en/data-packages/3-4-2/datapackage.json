@@ -11,13 +11,18 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
+                "Suicide mortality rate",
                 "Number of deaths attributed to suicide",
-                "Suicide mortality rate"
+                ""
               ]
             },
             "title": "Observation-level footnotes"
@@ -27,9 +32,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_STA_SCIDE",
-                "SH_STA_SCIDEN"
+                "Suicide mortality rate [3.4.2]",
+                "Number of deaths attributed to suicide [3.4.2]",
+                ""
               ]
             },
             "title": "Series"
@@ -39,9 +44,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "NUMBER",
-                "PER_100000_POP"
+                "Per 100,000 population",
+                "Number",
+                ""
               ]
             },
             "title": "Units"
@@ -50,11 +55,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

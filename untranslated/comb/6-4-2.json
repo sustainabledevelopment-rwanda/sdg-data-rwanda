@@ -1,1 +1,1 @@
-{"data":{"Year":["2016","2017"],"COMMENT_OBS":["Water Use Efficiency (United States dollars per cubic meter)","Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"],"Units":["USD_PER_M3","PT"],"Value":[35,7]},"edges":[]}
+{"data":{"Year":[2016,2017],"COMMENT_OBS":["Water Use Efficiency (United States dollars per cubic meter)","Level of water stress: freshwater withdrawal as a proportion of available freshwater resources"],"Units":["United States dollars per cubic metre","Percent"],"Value":[35,7]},"edges":[]}

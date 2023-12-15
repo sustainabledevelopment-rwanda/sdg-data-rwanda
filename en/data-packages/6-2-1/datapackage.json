@@ -11,15 +11,20 @@
       "schema": {
         "fields": [
           {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "Proportion (%) of population practicing open defecation",
+                "Proportion (%) of population with basic handwashing facilities on premises",
                 "Proportion (%) of population using limited sanitation services",
                 "Proportion (%) of population using unimproved sanitation services",
-                "Proportion (%) of population with basic handwashing facilities on premises"
+                "Proportion (%) of population practicing open defecation",
+                ""
               ]
             },
             "title": "Observation-level footnotes"
@@ -29,11 +34,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "",
-                "SH_SAN_DEFECT",
-                "SH_SAN_HNDWSH",
-                "_L_RW_060201_1",
-                "_L_RW_060201_2"
+                "Proportion of population with basic handwashing facilities on premises [6.2.1]",
+                "Proportion (%) of population using limited sanitation services",
+                "Proportion (%) of population using unimproved sanitation services",
+                "Proportion of population practicing open defecation [6.2.1]",
+                ""
               ]
             },
             "title": "Series"
@@ -42,11 +47,6 @@
             "name": "Value",
             "type": "number",
             "title": "Value"
-          },
-          {
-            "name": "Year",
-            "type": "string",
-            "title": "Year"
           }
         ]
       }

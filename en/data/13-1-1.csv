@@ -1,10 +1,10 @@
 Year,Observation-level footnotes,Series,Value
-2016,Number of deaths due to disaster,VC_DSR_MORT,0.0018
-2017,Number of deaths due to disaster,VC_DSR_MORT,0.00082
-2018,Number of deaths due to disaster,VC_DSR_MORT,0.00254
-2019,Number of deaths due to disaster,VC_DSR_MORT,0.0008
-2016,Number of people affected by disaster,VC_DSR_AFFCT,0.0017
-2017,Number of people affected by disaster,VC_DSR_AFFCT,0.00151
-2018,Number of people affected by disaster,VC_DSR_AFFCT,0.00346
-2019,Number of people affected by disaster,VC_DSR_AFFCT,0.00212
-2016,Number of missing persons due to disaster,VC_DSR_MISS,2e-05
+2016,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.0018
+2017,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.00082
+2018,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.00254
+2019,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.0008
+2016,Number of people affected by disaster,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",0.0017
+2017,Number of people affected by disaster,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",0.00151
+2018,Number of people affected by disaster,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",0.00346
+2019,Number of people affected by disaster,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",0.00212
+2016,Number of missing persons due to disaster,"Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]",2e-05
