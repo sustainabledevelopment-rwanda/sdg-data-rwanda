@@ -46,7 +46,7 @@ inputs:
       REF_AREA|RW: ''
     drop_dimensions:
       - SOURCE_DETAIL
-    dsd: 'RWA_C_V3_SDG DSD.xml'
+    dsd: 'RWA_C_V2_SDG DSD.xml'
     import_translation_keys: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
