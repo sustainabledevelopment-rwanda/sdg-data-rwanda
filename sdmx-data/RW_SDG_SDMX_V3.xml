@@ -1526,7 +1526,6 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="1.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Law N0 43/2013 of 16/06/2013 Governing Land in Rwanda, Guarantees women equal rights with men on land access, ownership and utilization (1=Yes, 0=No)" SOURCE_DETAIL="MINIJUST"></Obs>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="IT_MOB_OWN" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2014" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Proportion of individuals who own a mobile telephone (Population 16 years and above)" SOURCE_DETAIL="EICV and RPHC5/2022"></Obs>
     <Obs TIME_PERIOD="2017" OBS_VALUE="36.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Proportion of individuals who own a mobile telephone (Population 16 years and above)" SOURCE_DETAIL="EICV and RPHC5/2022"></Obs>
     <Obs TIME_PERIOD="2020" OBS_VALUE="54.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2020" COMMENT_OBS="Proportion of individuals who own a mobile telephone (Population 16 years and above)" SOURCE_DETAIL="EICV and RPHC5/2022"></Obs>
     <Obs TIME_PERIOD="2022" OBS_VALUE="58.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Proportion of individuals who own a mobile telephone (Population 16 years and above)" SOURCE_DETAIL="EICV and RPHC5/2022"></Obs>
