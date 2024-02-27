@@ -16,11 +16,11 @@ Both male and female for married couples own agriculture,1,1
 Death rate due to road traffic injuries,1,1
 "Detected victims of human trafficking for forced labour, servitude and slavery (number)",1,1
 Detected victims of human trafficking for other purposes (number),1,1
-Detected victims of human trafficking for removal of organ (number),1,1
 Detected victims of human trafficking for sexual exploitaton (number),1,1
 Detected victims of human trafficking (number),1,1
 Fatal occupational injuries among employees (rate),3,1
 Forest Genetic Resources,1,1
+Freight volume (tonne kilometres),1,1
 Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population aged 15 and above,3,1
 Gender parity index for participation rate in formal and non-formal education and training  - Literacy rate among the population between 15 and 24,3,1
 Gender parity index for participation rate in formal and non-formal education and training  - Participation rate in organized learning (one year before the official primary entry age) by sex,3,1
@@ -42,12 +42,7 @@ Liquid assets to short term liabilities (%),1,1
 Literacy rate of children in P2,1,1
 Literacy rate of children in P3,3,1
 Literacy rate of children in P5,1,1
-Manufacturing value added as a proportion of GDP (%),1,1
-Manufacturing value added per capita (USD),1,1
-Mean time to Food market,1,1
-Mean time to Health center,1,1
-Mean time to Primary School,1,1
-Mean time to Secondary,1,1
+Mail volume (tonne kilometres),1,1
 Moderately food insecure based on CARI Method,1,1
 Net open position in foreign exchange to capital (%),1,1
 Non-fatal occupational injuries among employees (rate),3,1
@@ -62,7 +57,6 @@ Number of deaths rate due to road traffic injuries,1,1
 Number of destroyed or damaged educational facilities attributed to disasters,1,1
 Number of destroyed or damaged health facilities attributed to disasters,1,1
 Number of members of Pension and occupational Hazards,1,1
-Number of missing persons due to disaster,1,1
 Number of people affected by disaster,1,1
 Number of population covered by Medical scheme,1,1
 "Number of victims of intentional homicide per 100,000 population",1,1
@@ -72,6 +66,7 @@ Numeracy rate of children in P3,3,1
 Numeracy rate of children in P5,1,1
 Only Men own agriculture,1,1
 Only Women own agriculture,1,1
+Passenger volume (passenger kilometres),1,1
 "Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",2,1
 Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,2,1
 Plant Genetic Resources,1,1
@@ -93,14 +88,6 @@ Proportion of population covered by at least a 4G mobile network,1,1
 Proportion of population covered by Community-Based Health Insurance (Coverage rate),1,1
 Proportion of population covered by core Social Protection programs,1,1
 Proportion of population covered by Health insurance,5,1
-Proportion (%) of population practicing open defecation,1,1
-Proportion (%) of population using basic drinking water services,1,1
-Proportion (%) of population using limited drinking water services,1,1
-Proportion (%) of population using limited sanitation services,1,1
-Proportion (%) of population using surface drinking water services,1,1
-Proportion (%) of population using unimproved drinking water services,1,1
-Proportion (%) of population using unimproved sanitation services,1,1
-Proportion (%) of population with basic handwashing facilities on premises,1,1
 Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery,1,1
 Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary,1,1
 Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary,1,1
@@ -122,6 +109,8 @@ Proportion of seats held by women in national parliaments (% of total number of 
 Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3),3,1
 Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2),3,1
 Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3),3,1
+"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Co- owned)",1,1
+"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",2,1
 "Proportion of total government spending on essential services, education",1,1
 Proportion of total government spending on health,1,1
 Proportion of total government spending on social protection,1,1

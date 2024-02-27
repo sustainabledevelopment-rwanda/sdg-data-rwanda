@@ -1,13 +1,4 @@
-Year,COMMENT_OBS,Series,Value
-2014,Mean time to Food market,Mean time to Food market,51.6
-2017,Mean time to Food market,Mean time to Food market,50.0
-2020,Mean time to Food market,Mean time to Food market,47.4
-2014,Mean time to Primary School,Mean time to Primary School,25.6
-2017,Mean time to Primary School,Mean time to Primary School,25.4
-2020,Mean time to Primary School,Mean time to Primary School,22.7
-2014,Mean time to Secondary,Mean time to Secondary,38.3
-2017,Mean time to Secondary,Mean time to Secondary,44.4
-2020,Mean time to Secondary,Mean time to Secondary,49.3
-2014,Mean time to Health center,Mean time to Health center,56.9
-2017,Mean time to Health center,Mean time to Health center,49.9
-2020,Mean time to Health center,Mean time to Health center,47.3
+Year,Sex,Value
+2019,,38.2
+2019,Male,31.6
+2019,Female,34.8

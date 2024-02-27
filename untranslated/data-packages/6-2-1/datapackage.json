@@ -15,32 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion (%) of population with basic handwashing facilities on premises",
-                "Proportion (%) of population using limited sanitation services",
-                "Proportion (%) of population using unimproved sanitation services",
-                "Proportion (%) of population practicing open defecation",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population with basic handwashing facilities on premises [6.2.1]",
-                "Proportion (%) of population using limited sanitation services",
-                "Proportion (%) of population using unimproved sanitation services",
-                "Proportion of population practicing open defecation [6.2.1]",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

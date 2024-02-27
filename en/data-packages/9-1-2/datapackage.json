@@ -16,6 +16,19 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Mail volume (tonne kilometres)",
+                "Freight volume (tonne kilometres)",
+                "Passenger volume (passenger kilometres)",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "Series",
             "type": "string",
             "constraints": {

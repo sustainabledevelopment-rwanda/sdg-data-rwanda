@@ -15,27 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "Degree of urbanisation",
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion (%) of population using basic drinking water services",
-                "Proportion (%) of population using limited drinking water services",
-                "Proportion (%) of population using unimproved drinking water services",
-                "Proportion (%) of population using surface drinking water services",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion (%) of population using basic drinking water services",
-                "Proportion (%) of population using limited drinking water services",
-                "Proportion (%) of population using unimproved drinking water services",
-                "Proportion (%) of population using surface drinking water services",
+                "Urban",
+                "Rural",
                 ""
               ]
             }

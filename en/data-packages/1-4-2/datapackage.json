@@ -16,6 +16,18 @@
             "title": "Year"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",
+                "Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Co- owned)",
+                ""
+              ]
+            },
+            "title": "Observation-level footnotes"
+          },
+          {
             "name": "Sex",
             "type": "string",
             "constraints": {
@@ -29,7 +41,7 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]

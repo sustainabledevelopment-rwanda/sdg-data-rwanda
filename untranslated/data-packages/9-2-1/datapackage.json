@@ -15,39 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing value added as a proportion of GDP (%)",
-                "Manufacturing value added per capita (USD)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Manufacturing value added as a proportion of GDP [9.2.1]",
-                "Manufacturing value added per capita [9.2.1]",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Units",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Percent",
-                "USD",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }

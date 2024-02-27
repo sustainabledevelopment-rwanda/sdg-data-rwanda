@@ -15,27 +15,12 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
+            "name": "Sex",
             "type": "string",
             "constraints": {
               "enum": [
-                "Mean time to Food market",
-                "Mean time to Primary School",
-                "Mean time to Secondary",
-                "Mean time to Health center",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "Series",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mean time to Food market",
-                "Mean time to Primary School",
-                "Mean time to Secondary",
-                "Mean time to Health center",
+                "Male",
+                "Female",
                 ""
               ]
             }

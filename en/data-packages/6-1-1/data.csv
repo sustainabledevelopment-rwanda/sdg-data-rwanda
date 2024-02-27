@@ -1,5 +1,15 @@
-Year,Observation-level footnotes,Series,Value
-2020,Proportion (%) of population using basic drinking water services,Proportion (%) of population using basic drinking water services,68.0
-2020,Proportion (%) of population using limited drinking water services,Proportion (%) of population using limited drinking water services,20.9
-2020,Proportion (%) of population using unimproved drinking water services,Proportion (%) of population using unimproved drinking water services,6.4
-2020,Proportion (%) of population using surface drinking water services,Proportion (%) of population using surface drinking water services,4.8
+Year,Degree of urbanisation,Value
+2010,,74.0
+2015,,73.0
+2020,,80.0
+2022,,82.0
+2005,Urban,55.4
+2010,Urban,90.0
+2015,Urban,91.0
+2020,Urban,96.0
+2022,Urban,95.7
+2005,Rural,22.6
+2010,Rural,71.0
+2015,Rural,69.2
+2020,Rural,77.0
+2022,Rural,76.7

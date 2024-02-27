@@ -1,3 +1,6 @@
-Year,Sex,Value
-2018,Male,2010860
-2018,Female,2079909
+Year,COMMENT_OBS,Sex,Value
+2018,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",Male,17.0
+2022,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",Male,11.1
+2018,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",Female,18.0
+2022,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",Female,18.7
+2022,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Co- owned)",,48.3

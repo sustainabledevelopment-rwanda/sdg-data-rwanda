@@ -1,13 +1,17 @@
 Year,COMMENT_OBS,Series,Units,Value
-2015,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.39
-2016,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.56
-2017,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.63
-2018,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.88
-2019,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.93
-2020,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",2.9
+2015,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.4
+2016,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.6
+2017,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.6
+2018,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.8
+2019,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",1.9
+2020,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",2.3
+2021,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",2.7
+2022,Suicide mortality rate,Suicide mortality rate [3.4.2],"Per 100,000 population",2.8
 2015,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,157.0
 2016,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,181.0
 2017,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,193.0
-2018,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,228.0
-2019,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,239.0
-2020,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,285.0
+2018,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,226.0
+2019,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,241.0
+2020,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,298.0
+2021,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,353.0
+2022,Number of deaths attributed to suicide,Number of deaths attributed to suicide [3.4.2],Number,370.0

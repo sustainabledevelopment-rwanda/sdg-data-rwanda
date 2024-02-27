@@ -1,19 +1,21 @@
-Year,Series,Units,Value
-2015,Mail volume (tonne kilometres) [9.1.2],Metric Tons,304.96
-2016,Mail volume (tonne kilometres) [9.1.2],Metric Tons,249.86
-2017,Mail volume (tonne kilometres) [9.1.2],Metric Tons,266.55
-2018,Mail volume (tonne kilometres) [9.1.2],Metric Tons,339.7
-2019,Mail volume (tonne kilometres) [9.1.2],Metric Tons,254.87
-2020,Mail volume (tonne kilometres) [9.1.2],Metric Tons,173.59
-2015,Freight volume (tonne kilometres) [9.1.2],Metric Tons,7577.46
-2016,Freight volume (tonne kilometres) [9.1.2],Metric Tons,6660.87
-2017,Freight volume (tonne kilometres) [9.1.2],Metric Tons,8226.09
-2018,Freight volume (tonne kilometres) [9.1.2],Metric Tons,10732.41
-2019,Freight volume (tonne kilometres) [9.1.2],Metric Tons,12094.79
-2020,Freight volume (tonne kilometres) [9.1.2],Metric Tons,11176.73
-2015,Passenger volume (passenger kilometres) [9.1.2],Number,641817.0
-2016,Passenger volume (passenger kilometres) [9.1.2],Number,706075.0
-2017,Passenger volume (passenger kilometres) [9.1.2],Number,825585.0
-2018,Passenger volume (passenger kilometres) [9.1.2],Number,977631.0
-2019,Passenger volume (passenger kilometres) [9.1.2],Number,1145867.0
-2020,Passenger volume (passenger kilometres) [9.1.2],Number,350351.0
+Year,Observation-level footnotes,Series,Units,Value
+2015,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,305.0
+2016,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,249.9
+2017,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,266.6
+2018,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,339.7
+2019,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,254.9
+2020,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,173.6
+2015,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,7577.5
+2016,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,6660.9
+2017,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,8226.1
+2018,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,10732.4
+2019,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,12094.8
+2020,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,11176.7
+2015,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,641817.0
+2016,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,771454.0
+2017,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,856167.0
+2018,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,1151300.0
+2019,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,1145867.0
+2020,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,277942.0
+2021,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,614215.0
+2022,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,788386.0
