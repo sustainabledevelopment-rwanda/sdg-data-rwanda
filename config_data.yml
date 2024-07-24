@@ -116,4 +116,19 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This can be uncommented and updated so allow links to your indicator pages.
 # The URL here should have [id] instead of the indicator ID.
 #docs_indicator_url: https://my-github-org/my-site-repository/[id]
-# This is a comment
+
+
+# Git
+# ---
+# This specifies whether or not to use Git dates to calculate the "last updated"
+# date for data files.
+git: true
+
+# Git Data Director
+# -----------------
+# This specifies an alternate folder to look in for Git-versioned data files,
+# when calculating the "last updated" dates for data files. This defaults to
+# "data" (the folder where the data files actually exist.) Most sites will not
+# need to change this setting. It is intended for sites where the data needs
+# to be converted/processed/etc in some way before being processed by sdg-build.
+git_data_dir: sdmx-data
