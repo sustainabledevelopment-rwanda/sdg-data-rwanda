@@ -14,17 +14,14 @@ def alter_meta(meta):
         meta['indicator_name'] = 'global_indicators.' + id_parts[0] + '-' + id_parts[1] + '-' + id_parts[2] + '-title'
     return meta
 
-# Validate the indicators.
-validation_successful = open_sdg_check(config='config_data.yml', alter_meta=alter_meta)
-
-# If everything was valid, perform the build.
-if not validation_successful:
-    raise Exception('There were validation errors. See output above.')
-
 def alter_data(df):
   if "REF_AREA" in df:
     df["GeoCode"]=df["REF_AREA"]
   return df
 
 # Validate the indicators.
-validation_successful = open_sdg_check(config='config_data.yml', alter_data=alter_data)
+validation_successful = open_sdg_check(config='config_data.yml', alter_meta=alter_meta, alter_data=alter_data)
+
+# If everything was valid, perform the build.
+if not validation_successful:
+    raise Exception('There were validation errors. See output above.')
