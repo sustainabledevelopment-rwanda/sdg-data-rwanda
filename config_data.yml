@@ -97,7 +97,7 @@ reporting_status_extra_fields: []
 # Note that the GeoJSON files can either be remote (as in the example below) or
 # local, relative to the src_dir specified above.
 map_layers:
-  - geojson_file: geojsons/rwanda-province.geojson
+  - geojson_file: geojsons/RwandaRegions.geojson
     name_property: name
     id_property: id
     output_subfolder: regions
