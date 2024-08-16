@@ -102,6 +102,8 @@ map_layers:
     id_property: id
     output_subfolder: regions
     filename_prefix: indicator_
+    exclude_columns:
+      - REF_AREA
 
 # Documentation settings
 # ----------------------
