@@ -137,13 +137,11 @@ prose:
         field:
             element: hidden
             label: "Data last updated"
-            translation_key: metadata_fields.data_last_updated
             scope: national
       - name: "metadata_last_updated"
         field:
             element: hidden
             label: "Metadata last updated"
-            translation_key: metadata_fields.metadata_last_updated
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
