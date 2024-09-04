@@ -39,13 +39,19 @@ src_dir: ''
 # The defaults below show what is used when this is omitted.
 inputs:
   - class: InputSdmxMl_Multiple
-    path_pattern: sdmx-data/*.xml
+    path_pattern: data/*.xml
     dimension_map:
+      REF_AREA|RW: ''
       UNIT_MEASURE: 'Units'
       SERIES: 'Series'
-      REF_AREA|RW: ''
     drop_dimensions:
-      - SOURCE_DETAIL
+      - FREQ
+      - REPORTING_TYPE
+      - NATURE
+      - TIME_PERIOD
+    import_series_attributes: true
+    import_observation_attributes: true
+    import_codes: true
     dsd: 'RWA_C_V2_SDG DSD.xml'
     import_translation_keys: true
   - class: InputYamlMdMeta
