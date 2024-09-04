@@ -133,29 +133,17 @@ prose:
             label: "Comments and limitations"
             translation_key: metadata_fields.comments_limitations
             scope: national
-      - name: "national_data_update_url"
+      - name: "data_last_updated"
         field:
             element: hidden
             label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url
+            translation_key: metadata_fields.data_last_updated
             scope: national
-      - name: "national_data_update_url_text"
-        field:
-            element: hidden
-            label: "Data last updated"
-            translation_key: metadata_fields.national_data_update_url_text
-            scope: national
-      - name: "national_metadata_update_url"
+      - name: "metadata_last_updated"
         field:
             element: hidden
             label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url
-            scope: national
-      - name: "national_metadata_update_url_text"
-        field:
-            element: hidden
-            label: "Metadata last updated"
-            translation_key: metadata_fields.national_metadata_update_url_text
+            translation_key: metadata_fields.metadata_last_updated
             scope: national
        ######### Data Info #########
       - name: "reporting_status"
