@@ -48,6 +48,7 @@ inputs:
       - SOURCE_DETAIL
     dsd: 'RWA_C_V2_SDG DSD.xml'
     import_translation_keys: true
+    import_codes: true
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
     path_pattern: meta/*-*.md
