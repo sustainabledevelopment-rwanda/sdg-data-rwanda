@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]",
-                "Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]",
+                "SP_DYN_MRBF15",
+                "SP_DYN_MRBF18",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [

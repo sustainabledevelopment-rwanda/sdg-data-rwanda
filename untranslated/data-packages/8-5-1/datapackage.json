@@ -35,44 +35,44 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 years old and over",
-                "16 to 24 years old",
-                "25 to 34 years old",
-                "55 to 64 years old",
-                "65 years old and over",
+                "Y_GE16",
+                "Y16T24",
+                "Y25T34",
+                "Y55T64",
+                "Y_GE65",
                 ""
               ]
             }
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Managers",
-                "Professionals",
-                "Technicians and associate professionals",
-                "Clerical support workers",
-                "Service and sales workers",
-                "Skilled agricultural, forestry and fishery workers",
-                "Craft and related trades workers",
-                "Plant and machine operators, and assemblers",
-                "Elementary occupations",
+                "ISCO08_1",
+                "ISCO08_2",
+                "ISCO08_3",
+                "ISCO08_4",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO08_8",
+                "ISCO08_9",
                 ""
               ]
             }

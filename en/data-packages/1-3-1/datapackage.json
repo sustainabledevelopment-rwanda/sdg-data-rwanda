@@ -36,19 +36,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population covered by core Social Protection programs",
-                "Number of members of Pension and occupational Hazards",
-                "Number of population covered by Medical scheme",
-                "Proportion of population covered by Community-Based Health Insurance (Coverage rate)",
-                "Proportion of population covered by Health insurance",
-                "Number of actively contributing women covered by Maternity Leave Benefits",
+                "_L_RW_010301_1",
+                "_L_RW_010301_2",
+                "_L_RW_010301_3",
+                "_L_RW_010301_4",
+                "_L_RW_010301_5",
+                "_L_RW_010301_6",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -60,7 +60,7 @@
             "title": "Sex"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -76,8 +76,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
-                "Number",
+                "PT",
+                "NUMBER",
                 ""
               ]
             },

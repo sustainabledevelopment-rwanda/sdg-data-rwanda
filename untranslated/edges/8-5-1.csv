@@ -1,4 +1,4 @@
 From,To
-COMMENT_OBS,Sex
-Sex,Age
-Sex,Occupation
+COMMENT_OBS,SEX
+SEX,AGE
+SEX,OCCUPATION

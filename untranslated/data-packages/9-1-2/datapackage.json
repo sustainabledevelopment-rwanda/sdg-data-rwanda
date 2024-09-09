@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mail volume (tonne kilometres) [9.1.2]",
-                "Freight volume (tonne kilometres) [9.1.2]",
-                "Passenger volume (passenger kilometres) [9.1.2]",
+                "IS_TRP_MAILTKM",
+                "IS_RDP_FRGVOL",
+                "IS_RDP_PFVOL",
                 ""
               ]
             }
@@ -43,8 +43,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Metric Tons",
-                "Number",
+                "T",
+                "NUMBER",
                 ""
               ]
             }

@@ -1,12 +1,12 @@
 Year,Observation-level footnotes,Series,Value
-2016,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.0018
-2018,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.00254
-2019,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.00298
-2020,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.0012
-2021,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.0021
-2022,Number of deaths due to disaster,"Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",0.0022
-2016,Number of people affected by disaster,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",0.17
-2018,Number of people affected by disaster,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",0.802
-2019,Number of people affected by disaster,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",0.0041
-2020,Number of people affected by disaster,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",0.0025
-2021,Number of people affected by disaster,"Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",0.0041
+2016,Number of deaths due to disaster,VC_DSR_MORT,0.0018
+2018,Number of deaths due to disaster,VC_DSR_MORT,0.00254
+2019,Number of deaths due to disaster,VC_DSR_MORT,0.00298
+2020,Number of deaths due to disaster,VC_DSR_MORT,0.0012
+2021,Number of deaths due to disaster,VC_DSR_MORT,0.0021
+2022,Number of deaths due to disaster,VC_DSR_MORT,0.0022
+2016,Number of people affected by disaster,VC_DSR_AFFCT,0.17
+2018,Number of people affected by disaster,VC_DSR_AFFCT,0.802
+2019,Number of people affected by disaster,VC_DSR_AFFCT,0.0041
+2020,Number of people affected by disaster,VC_DSR_AFFCT,0.0025
+2021,Number of people affected by disaster,VC_DSR_AFFCT,0.0041

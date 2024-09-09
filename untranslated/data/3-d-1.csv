@@ -1,53 +1,53 @@
-Year,Composite breakdown,Value
-2013,"IHR Capacity: National legislation, policy and financing",0.0
-2014,"IHR Capacity: National legislation, policy and financing",25.0
-2015,"IHR Capacity: National legislation, policy and financing",0.0
-2017,"IHR Capacity: National legislation, policy and financing",25.0
-2013,IHR Capacity: Coordination and National Focal Point communications,16.0
-2014,IHR Capacity: Coordination and National Focal Point communications,26.0
-2015,IHR Capacity: Coordination and National Focal Point communications,10.0
-2017,IHR Capacity: Coordination and National Focal Point communications,73.0
-2013,IHR Capacity: Surveillance,80.0
-2014,IHR Capacity: Surveillance,85.0
-2015,IHR Capacity: Surveillance,90.0
-2017,IHR Capacity: Surveillance,80.0
-2013,IHR Capacity: Response,72.0
-2014,IHR Capacity: Response,71.0
-2015,IHR Capacity: Response,70.0
-2017,IHR Capacity: Response,94.0
-2013,IHR Capacity: Preparedness,8.0
-2014,IHR Capacity: Preparedness,26.0
-2015,IHR Capacity: Preparedness,26.0
-2017,IHR Capacity: Preparedness,70.0
-2013,IHR Capacity: Risk communication,57.0
-2014,IHR Capacity: Risk communication,71.0
-2015,IHR Capacity: Risk communication,71.0
-2017,IHR Capacity: Risk communication,43.0
-2013,IHR Capacity: Human resources,40.0
-2014,IHR Capacity: Human resources,40.0
-2015,IHR Capacity: Human resources,60.0
-2017,IHR Capacity: Human resources,60.0
-2013,IHR Capacity: Laboratory,96.0
-2014,IHR Capacity: Laboratory,100.0
-2015,IHR Capacity: Laboratory,96.0
-2017,IHR Capacity: Laboratory,96.0
-2013,IHR Capacity: Points of entry,3.0
-2014,IHR Capacity: Points of entry,3.0
-2015,IHR Capacity: Points of entry,6.0
-2017,IHR Capacity: Points of entry,66.0
-2013,IHR Capacity: Zoonotic events,44.0
-2014,IHR Capacity: Zoonotic events,44.0
-2015,IHR Capacity: Zoonotic events,56.0
-2017,IHR Capacity: Zoonotic events,100.0
-2013,IHR Capacity: Food safety,33.0
-2014,IHR Capacity: Food safety,27.0
-2015,IHR Capacity: Food safety,27.0
-2017,IHR Capacity: Food safety,60.0
-2013,IHR Capacity: Chemical events,8.0
-2014,IHR Capacity: Chemical events,8.0
-2015,IHR Capacity: Chemical events,8.0
-2017,IHR Capacity: Chemical events,54.0
-2013,IHR Capacity: Radionuclear emergencies,0.0
-2014,IHR Capacity: Radionuclear emergencies,8.0
-2015,IHR Capacity: Radionuclear emergencies,8.0
-2017,IHR Capacity: Radionuclear emergencies,38.0
+Year,COMPOSITE_BREAKDOWN,Value
+2013,IHR_01,0.0
+2014,IHR_01,25.0
+2015,IHR_01,0.0
+2017,IHR_01,25.0
+2013,IHR_02,16.0
+2014,IHR_02,26.0
+2015,IHR_02,10.0
+2017,IHR_02,73.0
+2013,IHR_03,80.0
+2014,IHR_03,85.0
+2015,IHR_03,90.0
+2017,IHR_03,80.0
+2013,IHR_04,72.0
+2014,IHR_04,71.0
+2015,IHR_04,70.0
+2017,IHR_04,94.0
+2013,IHR_05,8.0
+2014,IHR_05,26.0
+2015,IHR_05,26.0
+2017,IHR_05,70.0
+2013,IHR_06,57.0
+2014,IHR_06,71.0
+2015,IHR_06,71.0
+2017,IHR_06,43.0
+2013,IHR_07,40.0
+2014,IHR_07,40.0
+2015,IHR_07,60.0
+2017,IHR_07,60.0
+2013,IHR_08,96.0
+2014,IHR_08,100.0
+2015,IHR_08,96.0
+2017,IHR_08,96.0
+2013,IHR_09,3.0
+2014,IHR_09,3.0
+2015,IHR_09,6.0
+2017,IHR_09,66.0
+2013,IHR_10,44.0
+2014,IHR_10,44.0
+2015,IHR_10,56.0
+2017,IHR_10,100.0
+2013,IHR_11,33.0
+2014,IHR_11,27.0
+2015,IHR_11,27.0
+2017,IHR_11,60.0
+2013,IHR_12,8.0
+2014,IHR_12,8.0
+2015,IHR_12,8.0
+2017,IHR_12,54.0
+2013,IHR_13,0.0
+2014,IHR_13,8.0
+2015,IHR_13,8.0
+2017,IHR_13,38.0

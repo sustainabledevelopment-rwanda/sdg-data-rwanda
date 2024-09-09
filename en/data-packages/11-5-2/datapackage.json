@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of destroyed or damaged health facilities attributed to disasters [11.5.2]",
-                "Number of destroyed or damaged educational facilities attributed to disasters [11.5.2]",
+                "VC_DSR_HFDN",
+                "VC_DSR_EFDN",
                 ""
               ]
             },

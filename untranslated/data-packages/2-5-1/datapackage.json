@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Plant Genetic Resources",
-                "Forest Genetic Resources",
-                "Animal Genetic Resources",
+                "_L_RW_020501_1",
+                "_L_RW_020501_2",
+                "_L_RW_020501_3",
                 ""
               ]
             }

@@ -1,37 +1,37 @@
-Year,COMMENT_OBS,Degree of urbanisation,Value
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder,,4.6
-2020,Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder,,5.2
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder,Urban,12.6
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder,Rural,2.3
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste,,4.3
-2020,Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste,,7.3
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste,Urban,11.7
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste,Rural,2.2
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files,,2.8
-2020,Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files,,3.8
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files,Urban,8.6
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files,Rural,1.2
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet,,2.6
-2020,Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet,,3.6
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet,Urban,7.5
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet,Rural,1.2
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices,,2.6
-2020,Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices,,4.0
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices,Urban,7.8
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices,Rural,1.1
-2017,"Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",,1.6
-2020,"Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",,2.3
-2017,"Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",Urban,5.1
-2017,"Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",Rural,0.6
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software,,0.9
-2020,Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software,,1.8
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software,Urban,2.8
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software,Rural,0.4
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices,,1.8
-2020,Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices,,3.3
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices,Urban,5.4
-2017,Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices,Rural,0.8
-2017,Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language,,1.8
-2020,Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language,,0.9
-2017,Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language,Urban,5.4
-2017,Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language,Rural,0.8
+Year,COMMENT_OBS,Series,URBANISATION,Value
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder,SE_ADT_ACTS,,4.6
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder,SE_ADT_ACTS,,5.2
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder,SE_ADT_ACTS,U,12.6
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder,SE_ADT_ACTS,R,2.3
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste,_L_RW_040401_1,,4.3
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste,_L_RW_040401_1,,7.3
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste,_L_RW_040401_1,U,11.7
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste,_L_RW_040401_1,R,2.2
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files,_L_RW_040401_2,,2.8
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files,_L_RW_040401_2,,3.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files,_L_RW_040401_2,U,8.6
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files,_L_RW_040401_2,R,1.2
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet,_L_RW_040401_3,,2.6
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet,_L_RW_040401_3,,3.6
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet,_L_RW_040401_3,U,7.5
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet,_L_RW_040401_3,R,1.2
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices,_L_RW_040401_4,,2.6
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices,_L_RW_040401_4,,4.0
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices,_L_RW_040401_4,U,7.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices,_L_RW_040401_4,R,1.1
+2017,"Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",_L_RW_040401_5,,1.6
+2020,"Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",_L_RW_040401_5,,2.3
+2017,"Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",_L_RW_040401_5,U,5.1
+2017,"Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",_L_RW_040401_5,R,0.6
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software,_L_RW_040401_6,,0.9
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software,_L_RW_040401_6,,1.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software,_L_RW_040401_6,U,2.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software,_L_RW_040401_6,R,0.4
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices,_L_RW_040401_7,,1.8
+2020,Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices,_L_RW_040401_7,,3.3
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices,_L_RW_040401_7,U,5.4
+2017,Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices,_L_RW_040401_7,R,0.8
+2017,Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language,_L_RW_040401_8,,1.8
+2020,Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language,_L_RW_040401_8,,0.9
+2017,Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language,_L_RW_040401_8,U,5.4
+2017,Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language,_L_RW_040401_8,R,0.8

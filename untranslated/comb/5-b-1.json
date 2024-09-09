@@ -1,1 +1,1 @@
-{"data":{"Year":[2017,2020,2022,2017,2020,2022,2017,2020,2022],"Degree of urbanisation":[null,null,null,"Urban","Urban","Urban","Rural","Rural","Rural"],"Value":[36.7,54.8,58.6,63.0,61.6,77.6,30.5,47.9,50.9]},"edges":[]}
+{"data":{"Year":[2017,2020,2022,2017,2020,2022,2017,2020,2022],"URBANISATION":[null,null,null,"U","U","U","R","R","R"],"Value":[36.7,54.8,58.6,63.0,61.6,77.6,30.5,47.9,50.9]},"edges":[]}

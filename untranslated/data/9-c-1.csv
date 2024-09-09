@@ -1,18 +1,18 @@
 Year,COMMENT_OBS,Series,Value
-2015,Proportion of population covered by at least a 2G mobile network,Proportion of population covered by at least a 2G mobile network [9.c.1],99.9
-2016,Proportion of population covered by at least a 2G mobile network,Proportion of population covered by at least a 2G mobile network [9.c.1],99.9
-2017,Proportion of population covered by at least a 2G mobile network,Proportion of population covered by at least a 2G mobile network [9.c.1],99.9
-2018,Proportion of population covered by at least a 2G mobile network,Proportion of population covered by at least a 2G mobile network [9.c.1],99.9
-2019,Proportion of population covered by at least a 2G mobile network,Proportion of population covered by at least a 2G mobile network [9.c.1],99.9
-2022,Proportion of population covered by at least a 2G mobile network,Proportion of population covered by at least a 2G mobile network [9.c.1],99.9
-2015,Proportion of population covered by at least a 3G mobile network,Proportion of population covered by at least a 3G mobile network [9.c.1],88.0
-2016,Proportion of population covered by at least a 3G mobile network,Proportion of population covered by at least a 3G mobile network [9.c.1],92.1
-2017,Proportion of population covered by at least a 3G mobile network,Proportion of population covered by at least a 3G mobile network [9.c.1],93.4
-2018,Proportion of population covered by at least a 3G mobile network,Proportion of population covered by at least a 3G mobile network [9.c.1],93.4
-2019,Proportion of population covered by at least a 3G mobile network,Proportion of population covered by at least a 3G mobile network [9.c.1],97.4
-2022,Proportion of population covered by at least a 3G mobile network,Proportion of population covered by at least a 3G mobile network [9.c.1],93.4
-2016,Proportion of population covered by at least a 4G mobile network,Proportion of population covered by at least a 4G mobile network [9.c.1],62.0
-2017,Proportion of population covered by at least a 4G mobile network,Proportion of population covered by at least a 4G mobile network [9.c.1],89.0
-2018,Proportion of population covered by at least a 4G mobile network,Proportion of population covered by at least a 4G mobile network [9.c.1],96.6
-2019,Proportion of population covered by at least a 4G mobile network,Proportion of population covered by at least a 4G mobile network [9.c.1],98.9
-2022,Proportion of population covered by at least a 4G mobile network,Proportion of population covered by at least a 4G mobile network [9.c.1],98.2
+2015,Proportion of population covered by at least a 2G mobile network,IT_MOB_2GNTWK,99.9
+2016,Proportion of population covered by at least a 2G mobile network,IT_MOB_2GNTWK,99.9
+2017,Proportion of population covered by at least a 2G mobile network,IT_MOB_2GNTWK,99.9
+2018,Proportion of population covered by at least a 2G mobile network,IT_MOB_2GNTWK,99.9
+2019,Proportion of population covered by at least a 2G mobile network,IT_MOB_2GNTWK,99.9
+2022,Proportion of population covered by at least a 2G mobile network,IT_MOB_2GNTWK,99.9
+2015,Proportion of population covered by at least a 3G mobile network,IT_MOB_3GNTWK,88.0
+2016,Proportion of population covered by at least a 3G mobile network,IT_MOB_3GNTWK,92.1
+2017,Proportion of population covered by at least a 3G mobile network,IT_MOB_3GNTWK,93.4
+2018,Proportion of population covered by at least a 3G mobile network,IT_MOB_3GNTWK,93.4
+2019,Proportion of population covered by at least a 3G mobile network,IT_MOB_3GNTWK,97.4
+2022,Proportion of population covered by at least a 3G mobile network,IT_MOB_3GNTWK,93.4
+2016,Proportion of population covered by at least a 4G mobile network,IT_MOB_4GNTWK,62.0
+2017,Proportion of population covered by at least a 4G mobile network,IT_MOB_4GNTWK,89.0
+2018,Proportion of population covered by at least a 4G mobile network,IT_MOB_4GNTWK,96.6
+2019,Proportion of population covered by at least a 4G mobile network,IT_MOB_4GNTWK,98.9
+2022,Proportion of population covered by at least a 4G mobile network,IT_MOB_4GNTWK,98.2

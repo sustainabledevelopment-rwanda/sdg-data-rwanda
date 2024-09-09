@@ -1,15 +1,15 @@
 Value,Disaggregation combinations using this value,Number of indicators
-12 to 23 Months old,3,1
-15 to 24 years old,3,1
-15 years old and over,3,1
-16 to 24 years old,3,2
-16 to 30 years old,1,1
-16 years old and over,4,2
-25 to 34 years old,2,1
-36 to 59 months old,3,1
-55 to 64 years old,2,1
-6 years old and over,3,1
-65 years old and over,2,1
-under 15 years old,3,2
-under 18 years old,1,1
-under 5 years old,12,2
+M12T23,3,1
+M36T59,3,1
+Y0T14,3,2
+Y0T17,1,1
+Y0T4,12,2
+Y15T24,3,1
+Y16T24,3,2
+Y16T30,1,1
+Y25T34,2,1
+Y55T64,2,1
+Y_GE15,3,1
+Y_GE16,4,2
+Y_GE6,3,1
+Y_GE65,2,1

@@ -1,9 +1,9 @@
 Year,Series,Units,Value
-2019,Fixed broadband subscriptions per 100 inhabitants [17.6.1],Percent,0.1
-2020,Fixed broadband subscriptions per 100 inhabitants [17.6.1],Percent,0.14
-2021,Fixed broadband subscriptions per 100 inhabitants [17.6.1],Percent,0.25
-2022,Fixed broadband subscriptions per 100 inhabitants [17.6.1],Percent,0.36
-2019,Fixed broadband subscriptions (number) [17.6.1],Number,9420.0
-2020,Fixed broadband subscriptions (number) [17.6.1],Number,17685.0
-2021,Fixed broadband subscriptions (number) [17.6.1],Number,31902.0
-2022,Fixed broadband subscriptions (number) [17.6.1],Number,47772.0
+2019,IT_NET_BBND,PT,0.1
+2020,IT_NET_BBND,PT,0.14
+2021,IT_NET_BBND,PT,0.25
+2022,IT_NET_BBND,PT,0.36
+2019,IT_NET_BBNDN,NUMBER,9420.0
+2020,IT_NET_BBNDN,NUMBER,17685.0
+2021,IT_NET_BBNDN,NUMBER,31902.0
+2022,IT_NET_BBNDN,NUMBER,47772.0

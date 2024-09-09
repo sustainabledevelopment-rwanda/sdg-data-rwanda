@@ -46,19 +46,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of schools with access to electricity [4.a.1]",
-                "Proportion of schools with access to the internet for pedagogical purposes [4.a.1]",
-                "Proportion of schools with access to computers for pedagogical purposes [4.a.1]",
-                "Proportion of schools with basic handwashing facilities [4.a.1]",
-                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities [4.a.1]",
-                "Proportion of schools with access to basic drinking water [4.a.1]",
+                "SE_ACS_ELECT",
+                "SE_ACS_INTNT",
+                "SE_ACS_CMPTR",
+                "SE_ACC_HNDWSH",
+                "SE_INF_DSBL",
+                "SE_ACS_H2O",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [

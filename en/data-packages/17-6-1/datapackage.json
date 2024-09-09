@@ -20,8 +20,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fixed broadband subscriptions per 100 inhabitants [17.6.1]",
-                "Fixed broadband subscriptions (number) [17.6.1]",
+                "IT_NET_BBND",
+                "IT_NET_BBNDN",
                 ""
               ]
             },
@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
-                "Number",
+                "PT",
+                "NUMBER",
                 ""
               ]
             },

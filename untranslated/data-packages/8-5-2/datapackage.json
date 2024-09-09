@@ -30,19 +30,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unemployment rate [8.5.2]",
-                "Unemployment rate, by disability [8.5.2]",
+                "SL_TLF_UEM",
+                "SL_TLF_UEMDIS",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }

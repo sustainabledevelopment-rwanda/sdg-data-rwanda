@@ -42,22 +42,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",
-                "Gender parity index for participation rate in formal and non-formal education and training [4.5.1]",
+                "_L_RW_040501_1",
+                "_L_RW_040501_2",
+                "_L_RW_040501_3",
+                "_L_RW_040501_4",
+                "_L_RW_040501_5",
+                "_L_RW_040501_6",
+                "_L_RW_040501_7",
+                "_L_RW_040501_8",
+                "SE_GPI_PART",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
@@ -70,7 +70,7 @@
             "title": "Age"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
@@ -82,7 +82,7 @@
             "title": "Degree of urbanisation"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [

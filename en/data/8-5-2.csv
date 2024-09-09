@@ -1,28 +1,28 @@
 Year,Observation-level footnotes,Series,Sex,Value
-2016,Unemployment rate,Unemployment rate [8.5.2],,18.8
-2017,Unemployment rate,Unemployment rate [8.5.2],,17.3
-2018,Unemployment rate,Unemployment rate [8.5.2],,15.1
-2019,Unemployment rate,Unemployment rate [8.5.2],,15.2
-2020,Unemployment rate,Unemployment rate [8.5.2],,17.9
-2021,Unemployment rate,Unemployment rate [8.5.2],,21.1
-2022,Unemployment rate,Unemployment rate [8.5.2],,20.5
-2016,Unemployment rate,Unemployment rate [8.5.2],Male,15.7
-2017,Unemployment rate,Unemployment rate [8.5.2],Male,15.6
-2018,Unemployment rate,Unemployment rate [8.5.2],Male,13.5
-2019,Unemployment rate,Unemployment rate [8.5.2],Male,13.8
-2020,Unemployment rate,Unemployment rate [8.5.2],Male,15.9
-2021,Unemployment rate,Unemployment rate [8.5.2],Male,18.5
-2022,Unemployment rate,Unemployment rate [8.5.2],Male,17.9
-2016,Unemployment rate,Unemployment rate [8.5.2],Female,22.7
-2017,Unemployment rate,Unemployment rate [8.5.2],Female,19.2
-2018,Unemployment rate,Unemployment rate [8.5.2],Female,17.1
-2019,Unemployment rate,Unemployment rate [8.5.2],Female,17.0
-2020,Unemployment rate,Unemployment rate [8.5.2],Female,20.3
-2021,Unemployment rate,Unemployment rate [8.5.2],Female,18.5
-2022,Unemployment rate,Unemployment rate [8.5.2],Female,23.7
-2016,"Unemployment rate, by disability","Unemployment rate, by disability [8.5.2]",,20.8
-2017,"Unemployment rate, by disability","Unemployment rate, by disability [8.5.2]",,17.4
-2018,"Unemployment rate, by disability","Unemployment rate, by disability [8.5.2]",,14.1
-2019,"Unemployment rate, by disability","Unemployment rate, by disability [8.5.2]",,14.3
-2021,"Unemployment rate, by disability","Unemployment rate, by disability [8.5.2]",,21.1
-2022,"Unemployment rate, by disability","Unemployment rate, by disability [8.5.2]",,16.3
+2016,Unemployment rate,SL_TLF_UEM,,18.8
+2017,Unemployment rate,SL_TLF_UEM,,17.3
+2018,Unemployment rate,SL_TLF_UEM,,15.1
+2019,Unemployment rate,SL_TLF_UEM,,15.2
+2020,Unemployment rate,SL_TLF_UEM,,17.9
+2021,Unemployment rate,SL_TLF_UEM,,21.1
+2022,Unemployment rate,SL_TLF_UEM,,20.5
+2016,Unemployment rate,SL_TLF_UEM,Male,15.7
+2017,Unemployment rate,SL_TLF_UEM,Male,15.6
+2018,Unemployment rate,SL_TLF_UEM,Male,13.5
+2019,Unemployment rate,SL_TLF_UEM,Male,13.8
+2020,Unemployment rate,SL_TLF_UEM,Male,15.9
+2021,Unemployment rate,SL_TLF_UEM,Male,18.5
+2022,Unemployment rate,SL_TLF_UEM,Male,17.9
+2016,Unemployment rate,SL_TLF_UEM,Female,22.7
+2017,Unemployment rate,SL_TLF_UEM,Female,19.2
+2018,Unemployment rate,SL_TLF_UEM,Female,17.1
+2019,Unemployment rate,SL_TLF_UEM,Female,17.0
+2020,Unemployment rate,SL_TLF_UEM,Female,20.3
+2021,Unemployment rate,SL_TLF_UEM,Female,18.5
+2022,Unemployment rate,SL_TLF_UEM,Female,23.7
+2016,"Unemployment rate, by disability",SL_TLF_UEMDIS,,20.8
+2017,"Unemployment rate, by disability",SL_TLF_UEMDIS,,17.4
+2018,"Unemployment rate, by disability",SL_TLF_UEMDIS,,14.1
+2019,"Unemployment rate, by disability",SL_TLF_UEMDIS,,14.3
+2021,"Unemployment rate, by disability",SL_TLF_UEMDIS,,21.1
+2022,"Unemployment rate, by disability",SL_TLF_UEMDIS,,16.3

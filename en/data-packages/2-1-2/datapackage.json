@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Moderately food insecure based on CARI Method",
-                "Severely food insecure based on CARI Method",
+                "_L_RW_020102_1",
+                "_L_RW_020102_2",
                 ""
               ]
             },

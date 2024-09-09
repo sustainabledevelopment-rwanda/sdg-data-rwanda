@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "United States dollars per cubic metre",
-                "Percent",
+                "USD_PER_M3",
+                "PT",
                 ""
               ]
             },

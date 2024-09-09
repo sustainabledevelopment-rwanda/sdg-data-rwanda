@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Death rate due to road traffic injuries [3.6.1]",
-                "Number of deaths rate due to road traffic injuries [3.6.1]",
+                "SH_STA_TRAF",
+                "SH_STA_TRAFN",
                 ""
               ]
             },
@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 population",
-                "Number",
+                "PER_100000_POP",
+                "NUMBER",
                 ""
               ]
             },

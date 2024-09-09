@@ -30,8 +30,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Suicide mortality rate [3.4.2]",
-                "Number of deaths attributed to suicide [3.4.2]",
+                "SH_STA_SCIDE",
+                "SH_STA_SCIDEN",
                 ""
               ]
             }
@@ -41,8 +41,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 population",
-                "Number",
+                "PER_100000_POP",
+                "NUMBER",
                 ""
               ]
             }

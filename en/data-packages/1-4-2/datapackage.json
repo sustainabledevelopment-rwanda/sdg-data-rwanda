@@ -28,7 +28,7 @@
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [

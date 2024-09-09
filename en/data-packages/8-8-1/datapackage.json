@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fatal occupational injuries among employees (rate) [8.8.1]",
-                "Non-fatal occupational injuries among employees (rate) [8.8.1]",
+                "SL_EMP_FTLINJUR",
+                "SL_EMP_INJUR",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [

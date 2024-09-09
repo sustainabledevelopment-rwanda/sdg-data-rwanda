@@ -1,8 +1,8 @@
 Disaggregation,Number of indicators,Number of values
-Age,8,14
-Composite breakdown,1,13
-Degree of urbanisation,13,2
-Education level,4,4
-Occupation,2,13
-Reference area,5,35
-Sex,27,2
+AGE,8,14
+COMPOSITE_BREAKDOWN,1,13
+EDUCATION_LEV,4,4
+OCCUPATION,2,13
+REF_AREA,2,30
+SEX,27,2
+URBANISATION,13,2

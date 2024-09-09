@@ -30,19 +30,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of children moderately or severely wasted [2.2.2]",
-                "Proportion of children moderately or severely overweight [2.2.2]",
+                "SH_STA_WAST",
+                "SN_STA_OVWGT",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }

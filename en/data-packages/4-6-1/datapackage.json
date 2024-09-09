@@ -32,15 +32,15 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",
-                "Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",
+                "_L_RW_040601_1",
+                "_L_RW_040601_2",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [

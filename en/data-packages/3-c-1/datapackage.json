@@ -34,16 +34,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Health workder density [3.c.1]",
-                "Health workder density, Nurses",
-                "Health workder density, Midwives",
+                "SH_MED_DEN",
+                "_L_RW_030C01_1",
+                "_L_RW_030C01_2",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [

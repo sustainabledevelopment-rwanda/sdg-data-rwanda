@@ -1,21 +1,21 @@
 Year,Observation-level footnotes,Series,Units,Value
-2015,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,305.0
-2016,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,249.9
-2017,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,266.6
-2018,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,339.7
-2019,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,254.9
-2020,Mail volume (tonne kilometres),Mail volume (tonne kilometres) [9.1.2],Metric Tons,173.6
-2015,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,7577.5
-2016,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,6660.9
-2017,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,8226.1
-2018,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,10732.4
-2019,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,12094.8
-2020,Freight volume (tonne kilometres),Freight volume (tonne kilometres) [9.1.2],Metric Tons,11176.7
-2015,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,641817.0
-2016,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,771454.0
-2017,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,856167.0
-2018,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,1151300.0
-2019,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,1145867.0
-2020,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,277942.0
-2021,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,614215.0
-2022,Passenger volume (passenger kilometres),Passenger volume (passenger kilometres) [9.1.2],Number,788386.0
+2015,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,305.0
+2016,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,249.9
+2017,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,266.6
+2018,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,339.7
+2019,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,254.9
+2020,Mail volume (tonne kilometres),IS_TRP_MAILTKM,T,173.6
+2015,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,7577.5
+2016,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,6660.9
+2017,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,8226.1
+2018,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,10732.4
+2019,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,12094.8
+2020,Freight volume (tonne kilometres),IS_RDP_FRGVOL,T,11176.7
+2015,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,641817.0
+2016,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,771454.0
+2017,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,856167.0
+2018,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,1151300.0
+2019,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,1145867.0
+2020,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,277942.0
+2021,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,614215.0
+2022,Passenger volume (passenger kilometres),IS_RDP_PFVOL,NUMBER,788386.0

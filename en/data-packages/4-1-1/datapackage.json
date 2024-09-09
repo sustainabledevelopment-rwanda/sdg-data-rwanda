@@ -36,19 +36,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Literacy rate of children in P2",
-                "Numeracy rate of children in P2",
-                "Literacy rate of children in P3",
-                "Numeracy rate of children in P3",
-                "Literacy rate of children in P5",
-                "Numeracy rate of children in P5",
+                "_L_RW_040101_1",
+                "_L_RW_040101_2",
+                "_L_RW_040101_3",
+                "_L_RW_040101_4",
+                "_L_RW_040101_5",
+                "_L_RW_040101_6",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -60,7 +60,7 @@
             "title": "Sex"
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [

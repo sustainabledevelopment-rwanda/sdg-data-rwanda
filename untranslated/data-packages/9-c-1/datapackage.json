@@ -31,9 +31,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population covered by at least a 2G mobile network [9.c.1]",
-                "Proportion of population covered by at least a 3G mobile network [9.c.1]",
-                "Proportion of population covered by at least a 4G mobile network [9.c.1]",
+                "IT_MOB_2GNTWK",
+                "IT_MOB_3GNTWK",
+                "IT_MOB_4GNTWK",
                 ""
               ]
             }

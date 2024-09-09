@@ -33,9 +33,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]",
-                "Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]",
-                "Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                "VC_VAW_PHYV",
+                "VC_VAW_SEXV",
+                "VC_VAW_PSYV",
                 ""
               ]
             },

@@ -1,7 +1,7 @@
 Year,Observation-level footnotes,Series,Value
-2015,"Proportion of total government spending on essential services, education","Proportion of total government spending on essential services, education [1.a.2]",306461030.3
-2017,"Proportion of total government spending on essential services, education","Proportion of total government spending on essential services, education [1.a.2]",289046729.2
-2015,Proportion of total government spending on health,Proportion of total government spending on health [1.a.2],283367184.1
-2017,Proportion of total government spending on health,Proportion of total government spending on health [1.a.2],237201290.8
-2015,Proportion of total government spending on social protection,Proportion of total government spending on social protection [1.a.2],103794273.9
-2017,Proportion of total government spending on social protection,Proportion of total government spending on social protection [1.a.2],109465948.7
+2015,"Proportion of total government spending on essential services, education",SD_XPD_ESED,306461030.3
+2017,"Proportion of total government spending on essential services, education",SD_XPD_ESED,289046729.2
+2015,Proportion of total government spending on health,SG_XPD_HLTH,283367184.1
+2017,Proportion of total government spending on health,SG_XPD_HLTH,237201290.8
+2015,Proportion of total government spending on social protection,SG_XPD_PROT,103794273.9
+2017,Proportion of total government spending on social protection,SG_XPD_PROT,109465948.7

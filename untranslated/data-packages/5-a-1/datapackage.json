@@ -31,19 +31,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
-                "Both male and female for married couples own agriculture",
+                "_L_RW_050A01_1",
+                "_L_RW_050A01_2",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }

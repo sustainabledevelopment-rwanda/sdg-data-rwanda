@@ -33,16 +33,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1]",
-                "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1]",
-                "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1]",
+                "SH_ACS_DTP3",
+                "SH_ACS_MCV2",
+                "SH_ACS_PCV3",
                 ""
               ]
             },
             "title": "Series"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
@@ -54,7 +54,7 @@
             "title": "Sex"
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [

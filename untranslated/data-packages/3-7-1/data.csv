@@ -1,8 +1,8 @@
-Year,Sex,Degree of urbanisation,Value
-2010,Female,,62.0
-2015,Female,,66.0
-2020,Female,,73.7
-2015,,Urban,69.0
-2020,,Urban,72.3
-2015,,Rural,65.0
-2020,,Rural,74.0
+Year,SEX,URBANISATION,Value
+2010,F,,62.0
+2015,F,,66.0
+2020,F,,73.7
+2015,,U,69.0
+2020,,U,72.3
+2015,,R,65.0
+2020,,R,74.0

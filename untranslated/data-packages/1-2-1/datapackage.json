@@ -15,81 +15,85 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
-                "Nyarugenge",
-                "Gasabo",
-                "Kicukiro",
-                "Nyanza",
-                "Gisagara",
-                "Nyaruguru",
-                "Huye",
-                "Nyamagabe",
-                "Ruhango",
-                "Muhanga",
-                "Kamonyi",
-                "Karongi",
-                "Rutsiro",
-                "Rubavu",
-                "Nyabihu",
-                "Ngororero",
-                "Rusizi",
-                "Nyamasheke",
-                "Rulindo",
-                "Gakenke",
-                "Musanze",
-                "Burera",
-                "Gicumbi",
-                "Rwamagana",
-                "Nyagatare",
-                "Gatsibo",
-                "Kayonza",
-                "Kirehe",
-                "Ngoma",
-                "Bugesera",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "11",
+                "12",
+                "13",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 years old and over",
-                "under 15 years old",
+                "Y_GE16",
+                "Y0T14",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",

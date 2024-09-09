@@ -28,7 +28,19 @@
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Age",
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_RW_080601_1",
+                "_L_RW_080601_2",
+                ""
+              ]
+            },
+            "title": "Series"
+          },
+          {
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [

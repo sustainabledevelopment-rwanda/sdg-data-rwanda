@@ -32,8 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unsentenced detainees as a proportion of overall prison population [16.3.2]",
-                "Unsentenced detainees (number) [16.3.2]",
+                "VC_PRS_UNSNT",
+                "VC_PRS_UNSNTN",
                 ""
               ]
             },
@@ -44,8 +44,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
-                "Number",
+                "PT",
+                "NUMBER",
                 ""
               ]
             },

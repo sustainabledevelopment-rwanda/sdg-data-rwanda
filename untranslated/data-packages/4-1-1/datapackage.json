@@ -34,34 +34,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Literacy rate of children in P2",
-                "Numeracy rate of children in P2",
-                "Literacy rate of children in P3",
-                "Numeracy rate of children in P3",
-                "Literacy rate of children in P5",
-                "Numeracy rate of children in P5",
+                "_L_RW_040101_1",
+                "_L_RW_040101_2",
+                "_L_RW_040101_3",
+                "_L_RW_040101_4",
+                "_L_RW_040101_5",
+                "_L_RW_040101_6",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Some primary education, grades 2 or 3",
-                "Primary education",
+                "ISCED11A_0_G23",
+                "ISCED11_1",
                 ""
               ]
             }

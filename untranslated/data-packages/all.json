@@ -39,81 +39,85 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
-                "Nyarugenge",
-                "Gasabo",
-                "Kicukiro",
-                "Nyanza",
-                "Gisagara",
-                "Nyaruguru",
-                "Huye",
-                "Nyamagabe",
-                "Ruhango",
-                "Muhanga",
-                "Kamonyi",
-                "Karongi",
-                "Rutsiro",
-                "Rubavu",
-                "Nyabihu",
-                "Ngororero",
-                "Rusizi",
-                "Nyamasheke",
-                "Rulindo",
-                "Gakenke",
-                "Musanze",
-                "Burera",
-                "Gicumbi",
-                "Rwamagana",
-                "Nyagatare",
-                "Gatsibo",
-                "Kayonza",
-                "Kirehe",
-                "Ngoma",
-                "Bugesera",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
+                "11",
+                "12",
+                "13",
+                "21",
+                "22",
+                "23",
+                "24",
+                "25",
+                "26",
+                "27",
+                "28",
+                "31",
+                "32",
+                "33",
+                "34",
+                "35",
+                "36",
+                "37",
+                "41",
+                "42",
+                "43",
+                "44",
+                "45",
+                "51",
+                "52",
+                "53",
+                "54",
+                "55",
+                "56",
+                "57",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 years old and over",
-                "under 15 years old",
+                "Y_GE16",
+                "Y0T14",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -138,29 +142,33 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -204,34 +212,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population covered by core Social Protection programs",
-                "Number of members of Pension and occupational Hazards",
-                "Number of population covered by Medical scheme",
-                "Proportion of population covered by Community-Based Health Insurance (Coverage rate)",
-                "Proportion of population covered by Health insurance",
-                "Number of actively contributing women covered by Maternity Leave Benefits",
+                "_L_RW_010301_1",
+                "_L_RW_010301_2",
+                "_L_RW_010301_3",
+                "_L_RW_010301_4",
+                "_L_RW_010301_5",
+                "_L_RW_010301_6",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
@@ -241,8 +249,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
-                "Number",
+                "PT",
+                "NUMBER",
                 ""
               ]
             }
@@ -270,12 +278,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -314,12 +322,12 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -362,8 +370,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]",
-                "Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]",
+                "VC_DSR_MORT",
+                "VC_DSR_AFFCT",
                 ""
               ]
             }
@@ -451,9 +459,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of total government spending on essential services, education [1.a.2]",
-                "Proportion of total government spending on health [1.a.2]",
-                "Proportion of total government spending on social protection [1.a.2]",
+                "SD_XPD_ESED",
+                "SG_XPD_HLTH",
+                "SG_XPD_PROT",
                 ""
               ]
             }
@@ -496,8 +504,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Moderately food insecure based on CARI Method",
-                "Severely food insecure based on CARI Method",
+                "_L_RW_020102_1",
+                "_L_RW_020102_2",
                 ""
               ]
             }
@@ -525,22 +533,22 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 5 years old",
+                "Y0T4",
                 ""
               ]
             }
@@ -583,19 +591,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of children moderately or severely wasted [2.2.2]",
-                "Proportion of children moderately or severely overweight [2.2.2]",
+                "SH_STA_WAST",
+                "SN_STA_OVWGT",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -639,9 +647,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Plant Genetic Resources",
-                "Forest Genetic Resources",
-                "Animal Genetic Resources",
+                "_L_RW_020501_1",
+                "_L_RW_020501_2",
+                "_L_RW_020501_3",
                 ""
               ]
             }
@@ -691,29 +699,33 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -738,40 +750,44 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "City of Kigali",
-                "Southern Province",
-                "Western Province",
-                "Northern Province",
-                "Eastern Province",
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -796,23 +812,23 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
@@ -943,8 +959,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Suicide mortality rate [3.4.2]",
-                "Number of deaths attributed to suicide [3.4.2]",
+                "SH_STA_SCIDE",
+                "SH_STA_SCIDEN",
                 ""
               ]
             }
@@ -954,8 +970,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 population",
-                "Number",
+                "PER_100000_POP",
+                "NUMBER",
                 ""
               ]
             }
@@ -998,8 +1014,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Death rate due to road traffic injuries [3.6.1]",
-                "Number of deaths rate due to road traffic injuries [3.6.1]",
+                "SH_STA_TRAF",
+                "SH_STA_TRAFN",
                 ""
               ]
             }
@@ -1009,8 +1025,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 population",
-                "Number",
+                "PER_100000_POP",
+                "NUMBER",
                 ""
               ]
             }
@@ -1038,22 +1054,22 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
@@ -1081,22 +1097,22 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
@@ -1124,12 +1140,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -1173,30 +1189,30 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1]",
-                "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1]",
-                "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1]",
+                "SH_ACS_DTP3",
+                "SH_ACS_MCV2",
+                "SH_ACS_PCV3",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "12 to 23 Months old",
+                "M12T23",
                 ""
               ]
             }
@@ -1241,22 +1257,22 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Health workder density [3.c.1]",
-                "Health workder density, Nurses",
-                "Health workder density, Midwives",
+                "SH_MED_DEN",
+                "_L_RW_030C01_1",
+                "_L_RW_030C01_2",
                 ""
               ]
             }
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Medical doctors",
-                "Nurse",
-                "Midwives",
-                "Pharmacists",
+                "ISCO08_221",
+                "ISCO08_222_322_1",
+                "ISCO08_222_322_2",
+                "ISCO08_2262",
                 ""
               ]
             }
@@ -1284,23 +1300,23 @@
             "type": "integer"
           },
           {
-            "name": "Composite breakdown",
+            "name": "COMPOSITE_BREAKDOWN",
             "type": "string",
             "constraints": {
               "enum": [
-                "IHR Capacity: National legislation, policy and financing",
-                "IHR Capacity: Coordination and National Focal Point communications",
-                "IHR Capacity: Surveillance",
-                "IHR Capacity: Response",
-                "IHR Capacity: Preparedness",
-                "IHR Capacity: Risk communication",
-                "IHR Capacity: Human resources",
-                "IHR Capacity: Laboratory",
-                "IHR Capacity: Points of entry",
-                "IHR Capacity: Zoonotic events",
-                "IHR Capacity: Food safety",
-                "IHR Capacity: Chemical events",
-                "IHR Capacity: Radionuclear emergencies",
+                "IHR_01",
+                "IHR_02",
+                "IHR_03",
+                "IHR_04",
+                "IHR_05",
+                "IHR_06",
+                "IHR_07",
+                "IHR_08",
+                "IHR_09",
+                "IHR_10",
+                "IHR_11",
+                "IHR_12",
+                "IHR_13",
                 ""
               ]
             }
@@ -1347,34 +1363,34 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Literacy rate of children in P2",
-                "Numeracy rate of children in P2",
-                "Literacy rate of children in P3",
-                "Numeracy rate of children in P3",
-                "Literacy rate of children in P5",
-                "Numeracy rate of children in P5",
+                "_L_RW_040101_1",
+                "_L_RW_040101_2",
+                "_L_RW_040101_3",
+                "_L_RW_040101_4",
+                "_L_RW_040101_5",
+                "_L_RW_040101_6",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Some primary education, grades 2 or 3",
-                "Primary education",
+                "ISCED11A_0_G23",
+                "ISCED11_1",
                 ""
               ]
             }
@@ -1420,33 +1436,33 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of children who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning [4.2.1]",
-                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy",
-                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical",
-                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional",
-                "Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Learning",
+                "SE_DEV_ONTRK",
+                "_L_RW_040201_1",
+                "_L_RW_040201_2",
+                "_L_RW_040201_3",
+                "_L_RW_040201_4",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "36 to 59 months old",
-                "under 5 years old",
+                "M36T59",
+                "Y0T4",
                 ""
               ]
             }
@@ -1474,12 +1490,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -1507,12 +1523,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -1558,12 +1574,30 @@
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "SE_ADT_ACTS",
+                "_L_RW_040401_1",
+                "_L_RW_040401_2",
+                "_L_RW_040401_3",
+                "_L_RW_040401_4",
+                "_L_RW_040401_5",
+                "_L_RW_040401_6",
+                "_L_RW_040401_7",
+                "_L_RW_040401_8",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "U",
+                "R",
                 ""
               ]
             }
@@ -1616,49 +1650,49 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate",
-                "Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate",
-                "Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate",
-                "Gender parity index for participation rate in formal and non-formal education and training [4.5.1]",
+                "_L_RW_040501_1",
+                "_L_RW_040501_2",
+                "_L_RW_040501_3",
+                "_L_RW_040501_4",
+                "_L_RW_040501_5",
+                "_L_RW_040501_6",
+                "_L_RW_040501_7",
+                "_L_RW_040501_8",
+                "SE_GPI_PART",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "15 years old and over",
-                "15 to 24 years old",
-                "6 years old and over",
+                "Y_GE15",
+                "Y15T24",
+                "Y_GE6",
                 ""
               ]
             }
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Primary education",
-                "Secondary education (lower and upper secondary education)",
+                "ISCED11_1",
+                "AGG_2_3",
                 ""
               ]
             }
@@ -1701,19 +1735,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",
-                "Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",
+                "_L_RW_040601_1",
+                "_L_RW_040601_2",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -1770,24 +1804,24 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of schools with access to electricity [4.a.1]",
-                "Proportion of schools with access to the internet for pedagogical purposes [4.a.1]",
-                "Proportion of schools with access to computers for pedagogical purposes [4.a.1]",
-                "Proportion of schools with basic handwashing facilities [4.a.1]",
-                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities [4.a.1]",
-                "Proportion of schools with access to basic drinking water [4.a.1]",
+                "SE_ACS_ELECT",
+                "SE_ACS_INTNT",
+                "SE_ACS_CMPTR",
+                "SE_ACC_HNDWSH",
+                "SE_INF_DSBL",
+                "SE_ACS_H2O",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary education",
-                "Primary education",
-                "Secondary education (lower and upper secondary education)",
+                "ISCED11_02",
+                "ISCED11_1",
+                "AGG_2_3",
                 ""
               ]
             }
@@ -1815,24 +1849,24 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Education level",
+            "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
-                "Pre-primary education",
-                "Primary education",
-                "Secondary education (lower and upper secondary education)",
+                "ISCED11_02",
+                "ISCED11_1",
+                "AGG_2_3",
                 ""
               ]
             }
@@ -1898,9 +1932,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months [5.2.1]",
-                "Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months [5.2.1]",
-                "Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months [5.2.1]",
+                "VC_VAW_PHYV",
+                "VC_VAW_SEXV",
+                "VC_VAW_PSYV",
                 ""
               ]
             }
@@ -1965,19 +1999,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of women aged 20-24 years who were married or in a union before age 15 [5.3.1]",
-                "Proportion of women aged 20-24 years who were married or in a union before age 18 [5.3.1]",
+                "SP_DYN_MRBF15",
+                "SP_DYN_MRBF18",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "under 15 years old",
-                "under 18 years old",
+                "Y0T14",
+                "Y0T17",
                 ""
               ]
             }
@@ -2005,12 +2039,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -2053,18 +2087,18 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of Women deputies in national parliament",
-                "Proportion of Women senates in national parliament",
-                "Proportion of Women Governors and Mayor of Kigali City in local government",
-                "Proportion of Women District Mayors in local government",
-                "Proportion of Women District Vice Mayors in Charge of Economic Affairs in local government",
-                "Proportion of Women District Vice Mayors in Charge of Social Affairs in local government",
-                "Proportion of Women Districts Consultative Council in local government",
-                "Proportion of Women Sectors Consultative Council in local government",
-                "Proportion of Women Cells Consultative Council in local government",
-                "Proportion of Women District Executive Secretaries in local government",
-                "Proportion of Women Sector Executive Secretaries in local government",
-                "Proportion of Women Cell Executive Secretaries in local government",
+                "_L_RW_050501_1",
+                "_L_RW_050501_2",
+                "_L_RW_050501_3",
+                "_L_RW_050501_4",
+                "_L_RW_050501_5",
+                "_L_RW_050501_6",
+                "_L_RW_050501_7",
+                "_L_RW_050501_8",
+                "_L_RW_050501_9",
+                "_L_RW_050501_10",
+                "_L_RW_050501_11",
+                "_L_RW_050501_12",
                 ""
               ]
             }
@@ -2174,19 +2208,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of total agricultural population with ownership or secure rights over agricultural land [5.a.1]",
-                "Both male and female for married couples own agriculture",
+                "_L_RW_050A01_1",
+                "_L_RW_050A01_2",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Female",
-                "Male",
+                "F",
+                "M",
                 ""
               ]
             }
@@ -2236,12 +2270,12 @@
             "type": "integer"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
@@ -2269,12 +2303,12 @@
             "type": "integer"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
@@ -2361,8 +2395,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "United States dollars per cubic metre",
-                "Percent",
+                "USD_PER_M3",
+                "PT",
                 ""
               ]
             }
@@ -2478,12 +2512,12 @@
             "type": "integer"
           },
           {
-            "name": "Degree of urbanisation",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Urban",
-                "Rural",
+                "U",
+                "R",
                 ""
               ]
             }
@@ -2597,44 +2631,44 @@
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
           },
           {
-            "name": "Age",
+            "name": "AGE",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 years old and over",
-                "16 to 24 years old",
-                "25 to 34 years old",
-                "55 to 64 years old",
-                "65 years old and over",
+                "Y_GE16",
+                "Y16T24",
+                "Y25T34",
+                "Y55T64",
+                "Y_GE65",
                 ""
               ]
             }
           },
           {
-            "name": "Occupation",
+            "name": "OCCUPATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Managers",
-                "Professionals",
-                "Technicians and associate professionals",
-                "Clerical support workers",
-                "Service and sales workers",
-                "Skilled agricultural, forestry and fishery workers",
-                "Craft and related trades workers",
-                "Plant and machine operators, and assemblers",
-                "Elementary occupations",
+                "ISCO08_1",
+                "ISCO08_2",
+                "ISCO08_3",
+                "ISCO08_4",
+                "ISCO08_5",
+                "ISCO08_6",
+                "ISCO08_7",
+                "ISCO08_8",
+                "ISCO08_9",
                 ""
               ]
             }
@@ -2677,19 +2711,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unemployment rate [8.5.2]",
-                "Unemployment rate, by disability [8.5.2]",
+                "SL_TLF_UEM",
+                "SL_TLF_UEMDIS",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -2728,12 +2762,23 @@
             }
           },
           {
-            "name": "Age",
+            "name": "Series",
             "type": "string",
             "constraints": {
               "enum": [
-                "16 to 24 years old",
-                "16 to 30 years old",
+                "_L_RW_080601_1",
+                "_L_RW_080601_2",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y16T24",
+                "Y16T30",
                 ""
               ]
             }
@@ -2761,12 +2806,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -2809,19 +2854,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fatal occupational injuries among employees (rate) [8.8.1]",
-                "Non-fatal occupational injuries among employees (rate) [8.8.1]",
+                "SL_EMP_FTLINJUR",
+                "SL_EMP_INJUR",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -2908,8 +2953,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of automated teller machines (ATMs) per 100,000 adults [8.10.1]",
-                "Number of commercial bank branches per 100,000 adults [8.10.1]",
+                "FB_ATM_TOTL",
+                "FB_CBK_BRCH",
                 ""
               ]
             }
@@ -3019,9 +3064,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Mail volume (tonne kilometres) [9.1.2]",
-                "Freight volume (tonne kilometres) [9.1.2]",
-                "Passenger volume (passenger kilometres) [9.1.2]",
+                "IS_TRP_MAILTKM",
+                "IS_RDP_FRGVOL",
+                "IS_RDP_PFVOL",
                 ""
               ]
             }
@@ -3031,8 +3076,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Metric Tons",
-                "Number",
+                "T",
+                "NUMBER",
                 ""
               ]
             }
@@ -3186,9 +3231,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of population covered by at least a 2G mobile network [9.c.1]",
-                "Proportion of population covered by at least a 3G mobile network [9.c.1]",
-                "Proportion of population covered by at least a 4G mobile network [9.c.1]",
+                "IT_MOB_2GNTWK",
+                "IT_MOB_3GNTWK",
+                "IT_MOB_4GNTWK",
                 ""
               ]
             }
@@ -3280,13 +3325,13 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Regulatory capital to assets (%) [10.5.1]",
-                "Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1]",
-                "Non-performing loans net of provisions to capital (%) [10.5.1]",
-                "Non-performing loans to total gross loans (%) [10.5.1]",
-                "Return on assets (%) [10.5.1]",
-                "Liquid assets to short term liabilities (%) [10.5.1]",
-                "Net open position in foreign exchange to capital (%) [10.5.1]",
+                "FI_FSI_FSKA",
+                "FI_FSI_FSKRTC",
+                "FI_FSI_FSKNL",
+                "FI_FSI_FSANL",
+                "FI_FSI_FSERA",
+                "FI_FSI_FSLS",
+                "FI_FSI_FSSNO",
                 ""
               ]
             }
@@ -3395,8 +3440,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of destroyed or damaged health facilities attributed to disasters [11.5.2]",
-                "Number of destroyed or damaged educational facilities attributed to disasters [11.5.2]",
+                "VC_DSR_HFDN",
+                "VC_DSR_EFDN",
                 ""
               ]
             }
@@ -3490,43 +3535,47 @@
             "type": "integer"
           },
           {
-            "name": "Reference area",
+            "name": "REF_AREA",
             "type": "string",
             "constraints": {
               "enum": [
-                "Nyaruguru",
-                "Rusizi",
-                "Nyamagabe",
-                "Nyamasheke",
-                "Kayonza",
-                "Gatsibo",
-                "Musanze",
-                "Nyagatare",
-                "Rutsiro",
-                "Karongi",
-                "Nyabihu",
-                "Gicumbi",
-                "Muhanga",
-                "Rulindo",
-                "Gakenke",
-                "Huye",
-                "Ngororero",
-                "Nyarugenge",
-                "Burera",
-                "Gasabo",
-                "Rubavu",
-                "Bugesera",
-                "Kirehe",
-                "Ruhango",
-                "Kamonyi",
-                "Rwamagana",
-                "Nyanza",
-                "Gisagara",
-                "Ngoma",
-                "Kicukiro",
+                "23",
+                "36",
+                "25",
+                "37",
+                "54",
+                "53",
+                "43",
+                "52",
+                "32",
+                "31",
+                "34",
+                "45",
+                "27",
+                "41",
+                "42",
+                "24",
+                "35",
+                "11",
+                "44",
+                "12",
+                "33",
+                "57",
+                "55",
+                "26",
+                "28",
+                "51",
+                "21",
+                "22",
+                "56",
+                "13",
                 ""
               ]
             }
+          },
+          {
+            "name": "GeoCode",
+            "type": "string"
           },
           {
             "name": "Value",
@@ -3676,8 +3725,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Number of victims of intentional homicide per 100,000 population [16.1.1]",
-                "Number of victims of intentional homicide [16.1.1]",
+                "VC_IHR_PSRC",
+                "VC_IHR_PSRCN",
                 ""
               ]
             }
@@ -3687,8 +3736,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Per 100,000 population",
-                "Number",
+                "PER_100000_POP",
+                "NUMBER",
                 ""
               ]
             }
@@ -3731,19 +3780,19 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",
-                "Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months",
+                "_L_RW_160103_1",
+                "_L_RW_160103_2",
                 ""
               ]
             }
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -3833,11 +3882,11 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]",
-                "Detected victims of human trafficking (number) [16.2.2]",
-                "Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",
-                "Detected victims of human trafficking for other purposes (number) [16.2.2]",
-                "Detected victims of human trafficking for sexual exploitaton (number) [16.2.2]",
+                "VC_VAW_DIST",
+                "VC_HTF_DETV",
+                "VC_HTF_DETVFL",
+                "VC_HTF_DETVOP",
+                "VC_HTF_DETVSX",
                 ""
               ]
             }
@@ -3847,8 +3896,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
-                "Number",
+                "PT",
+                "NUMBER",
                 ""
               ]
             }
@@ -3891,8 +3940,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Unsentenced detainees as a proportion of overall prison population [16.3.2]",
-                "Unsentenced detainees (number) [16.3.2]",
+                "VC_PRS_UNSNT",
+                "VC_PRS_UNSNTN",
                 ""
               ]
             }
@@ -3902,8 +3951,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
-                "Number",
+                "PT",
+                "NUMBER",
                 ""
               ]
             }
@@ -4041,12 +4090,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -4210,8 +4259,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Fixed broadband subscriptions per 100 inhabitants [17.6.1]",
-                "Fixed broadband subscriptions (number) [17.6.1]",
+                "IT_NET_BBND",
+                "IT_NET_BBNDN",
                 ""
               ]
             }
@@ -4221,8 +4270,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Percent",
-                "Number",
+                "PT",
+                "NUMBER",
                 ""
               ]
             }
@@ -4250,12 +4299,12 @@
             "type": "integer"
           },
           {
-            "name": "Sex",
+            "name": "SEX",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "M",
+                "F",
                 ""
               ]
             }
@@ -4387,9 +4436,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Countries that have conducted at least one population and housing census in the last 10 years (1 = YES; 0 = NO) [17.19.2]",
-                "Countries with birth registration data that are at least 90 percent complete (1 = YES; 0 = NO) [17.19.2]",
-                "Countries with death registration data that are at least 75 percent complete (1 = YES; 0 = NO) [17.19.2]",
+                "SG_REG_CENSUSN",
+                "SG_REG_BRTH90N",
+                "SG_REG_DETH75N",
                 ""
               ]
             }

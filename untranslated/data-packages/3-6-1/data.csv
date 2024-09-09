@@ -1,21 +1,21 @@
 Year,COMMENT_OBS,Series,Units,Value
-2013,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",2.9
-2014,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",3.3
-2015,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",5.2
-2016,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",5.1
-2017,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",4.6
-2018,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",4.9
-2019,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",5.4
-2020,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",5.2
-2021,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",4.9
-2022,Death rate due to road traffic injuries,Death rate due to road traffic injuries [3.6.1],"Per 100,000 population",6.0
-2013,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,315.0
-2014,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,366.0
-2015,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,351.0
-2016,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,593.0
-2017,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,549.0
-2018,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,597.0
-2019,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,673.0
-2020,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,675.0
-2021,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,663.0
-2022,Number of deaths rate due to road traffic injuries,Number of deaths rate due to road traffic injuries [3.6.1],Number,794.0
+2013,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,2.9
+2014,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,3.3
+2015,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,5.2
+2016,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,5.1
+2017,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,4.6
+2018,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,4.9
+2019,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,5.4
+2020,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,5.2
+2021,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,4.9
+2022,Death rate due to road traffic injuries,SH_STA_TRAF,PER_100000_POP,6.0
+2013,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,315.0
+2014,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,366.0
+2015,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,351.0
+2016,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,593.0
+2017,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,549.0
+2018,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,597.0
+2019,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,673.0
+2020,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,675.0
+2021,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,663.0
+2022,Number of deaths rate due to road traffic injuries,SH_STA_TRAFN,NUMBER,794.0

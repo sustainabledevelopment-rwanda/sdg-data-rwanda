@@ -1,16 +1,16 @@
-Year,COMMENT_OBS,Series,Sex,Value
-2005,Proportion of children moderately or severely wasted,Proportion of children moderately or severely wasted [2.2.2],,5.0
-2010,Proportion of children moderately or severely wasted,Proportion of children moderately or severely wasted [2.2.2],,3.0
-2015,Proportion of children moderately or severely wasted,Proportion of children moderately or severely wasted [2.2.2],,2.0
-2020,Proportion of children moderately or severely wasted,Proportion of children moderately or severely wasted [2.2.2],,1.1
-2015,Proportion of children moderately or severely wasted,Proportion of children moderately or severely wasted [2.2.2],Male,2.4
-2020,Proportion of children moderately or severely wasted,Proportion of children moderately or severely wasted [2.2.2],Male,0.9
-2015,Proportion of children moderately or severely wasted,Proportion of children moderately or severely wasted [2.2.2],Female,2.0
-2020,Proportion of children moderately or severely wasted,Proportion of children moderately or severely wasted [2.2.2],Female,1.4
-2010,Proportion of children moderately or severely overweight,Proportion of children moderately or severely overweight [2.2.2],,7.0
-2015,Proportion of children moderately or severely overweight,Proportion of children moderately or severely overweight [2.2.2],,8.0
-2020,Proportion of children moderately or severely overweight,Proportion of children moderately or severely overweight [2.2.2],,5.6
-2015,Proportion of children moderately or severely overweight,Proportion of children moderately or severely overweight [2.2.2],Male,8.1
-2020,Proportion of children moderately or severely overweight,Proportion of children moderately or severely overweight [2.2.2],Male,5.8
-2015,Proportion of children moderately or severely overweight,Proportion of children moderately or severely overweight [2.2.2],Female,7.3
-2020,Proportion of children moderately or severely overweight,Proportion of children moderately or severely overweight [2.2.2],Female,5.4
+Year,COMMENT_OBS,Series,SEX,Value
+2005,Proportion of children moderately or severely wasted,SH_STA_WAST,,5.0
+2010,Proportion of children moderately or severely wasted,SH_STA_WAST,,3.0
+2015,Proportion of children moderately or severely wasted,SH_STA_WAST,,2.0
+2020,Proportion of children moderately or severely wasted,SH_STA_WAST,,1.1
+2015,Proportion of children moderately or severely wasted,SH_STA_WAST,M,2.4
+2020,Proportion of children moderately or severely wasted,SH_STA_WAST,M,0.9
+2015,Proportion of children moderately or severely wasted,SH_STA_WAST,F,2.0
+2020,Proportion of children moderately or severely wasted,SH_STA_WAST,F,1.4
+2010,Proportion of children moderately or severely overweight,SN_STA_OVWGT,,7.0
+2015,Proportion of children moderately or severely overweight,SN_STA_OVWGT,,8.0
+2020,Proportion of children moderately or severely overweight,SN_STA_OVWGT,,5.6
+2015,Proportion of children moderately or severely overweight,SN_STA_OVWGT,M,8.1
+2020,Proportion of children moderately or severely overweight,SN_STA_OVWGT,M,5.8
+2015,Proportion of children moderately or severely overweight,SN_STA_OVWGT,F,7.3
+2020,Proportion of children moderately or severely overweight,SN_STA_OVWGT,F,5.4
