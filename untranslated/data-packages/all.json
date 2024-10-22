@@ -5904,28 +5904,6 @@
       "title": "Proportion of total research budget allocated to research in the field of marine technology"
     },
     {
-      "path": "17-6-2/data.csv",
-      "name": "17-6-2",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Fixed Internet broadband subscriptions per 100 inhabitants, by speed"
-    },
-    {
       "path": "11-7-2/data.csv",
       "name": "11-7-2",
       "profile": "tabular-data-resource",
