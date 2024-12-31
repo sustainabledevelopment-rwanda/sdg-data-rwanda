@@ -15,6 +15,17 @@
             "type": "integer"
           },
           {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "SG_DSR_SILS",
+                "SG_DSR_SILN",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

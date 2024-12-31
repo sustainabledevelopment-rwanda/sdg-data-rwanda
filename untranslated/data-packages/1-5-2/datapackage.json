@@ -12,7 +12,53 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of Houses damaged by disaster",
+                "Number of Ha for crops damaged",
+                "Number of Classrooms damaged",
+                "Number of Health Centers damaged",
+                "Number of Bridges damaged",
+                "Number of Administrative Offices damaged",
+                "Number of Transmission lines damaged",
+                "Number of Water supply damaged",
+                "Number of Markets damaged",
+                "Number of Factories damaged",
+                "Number of Ha for forests damaged",
+                "Number of churches damaged",
+                "Number of road sections damaged",
+                "Number of Cattles and livestock lost",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "_L_RW_010502_1",
+                "_L_RW_010502_2",
+                "_L_RW_010502_3",
+                "_L_RW_010502_4",
+                "_L_RW_010502_5",
+                "_L_RW_010502_6",
+                "_L_RW_010502_7",
+                "_L_RW_010502_8",
+                "_L_RW_010502_9",
+                "_L_RW_010502_10",
+                "_L_RW_010502_11",
+                "_L_RW_010502_12",
+                "_L_RW_010502_13",
+                "_L_RW_010502_14",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",

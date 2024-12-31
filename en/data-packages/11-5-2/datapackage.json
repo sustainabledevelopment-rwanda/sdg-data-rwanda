@@ -22,6 +22,7 @@
               "enum": [
                 "Number of destroyed or damaged health facilities attributed to disasters",
                 "Number of destroyed or damaged educational facilities attributed to disasters",
+                "Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters",
                 ""
               ]
             },
@@ -34,6 +35,7 @@
               "enum": [
                 "VC_DSR_HFDN",
                 "VC_DSR_EFDN",
+                "VC_DSR_CILN",
                 ""
               ]
             },
@@ -41,7 +43,7 @@
           },
           {
             "name": "Value",
-            "type": "number",
+            "type": "integer",
             "title": "Value"
           }
         ]

@@ -1,1 +1,1 @@
-{"Year":[2005,2008,2010,2015,2020,2015,2020,2015,2020,2015,2020,2015,2020],"SEX":[null,null,null,null,null,null,null,null,null,"M","M","F","F"],"URBANISATION":[null,null,null,null,null,"U","U","R","R",null,null,null,null],"Value":[37.0,28.0,27.0,20.0,19.0,15.0,15.0,24.0,20.0,25.0,21.0,20.0,17.0]}
+{"Year":[2005,2008,2010,2015,2020,2015,2020,2015,2020,2015,2020,2015,2020],"SEX":[null,null,null,null,null,null,null,null,null,"M","M","F","F"],"URBANISATION":[null,null,null,null,null,"U","U","R","R",null,null,null,null],"Value":[37,28,27,20,19,15,15,24,20,25,21,20,17]}

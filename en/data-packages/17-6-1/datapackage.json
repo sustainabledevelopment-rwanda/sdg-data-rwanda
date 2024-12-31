@@ -32,7 +32,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "PT",
+                "PER_100_POP",
                 "NUMBER",
                 ""
               ]

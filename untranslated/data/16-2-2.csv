@@ -1,22 +1,22 @@
 Year,COMMENT_OBS,Series,Units,Value
-2016,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.5
-2017,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.8
-2018,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.5
-2019,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.7
-2020,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.5
+2016,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.47
+2017,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.75
+2018,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.52
+2019,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.72
+2020,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.47
 2021,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.3
-2022,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.4
-2016,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,55.0
-2017,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,89.0
-2018,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,63.0
-2019,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,91.0
-2020,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,61.0
-2021,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,41.0
-2022,Detected victims of human trafficking (number),VC_HTF_DETV,NUMBER,58.0
-2020,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",VC_HTF_DETVFL,NUMBER,41.0
-2021,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",VC_HTF_DETVFL,NUMBER,15.0
-2022,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",VC_HTF_DETVFL,NUMBER,29.0
-2020,Detected victims of human trafficking for other purposes (number),VC_HTF_DETVOP,NUMBER,1.0
-2020,Detected victims of human trafficking for sexual exploitaton (number),VC_HTF_DETVSX,NUMBER,19.0
-2021,Detected victims of human trafficking for sexual exploitaton (number),VC_HTF_DETVSX,NUMBER,26.0
-2022,Detected victims of human trafficking for sexual exploitaton (number),VC_HTF_DETVSX,NUMBER,29.0
+2022,Age and sex distribution of detected victims of trafficking in persons (%),VC_VAW_DIST,PT,0.44
+2016,Detected victims of human trafficking (number),VC_HTF_DETV,PER_100000_POP,55.0
+2017,Detected victims of human trafficking (number),VC_HTF_DETV,PER_100000_POP,89.0
+2018,Detected victims of human trafficking (number),VC_HTF_DETV,PER_100000_POP,63.0
+2019,Detected victims of human trafficking (number),VC_HTF_DETV,PER_100000_POP,91.0
+2020,Detected victims of human trafficking (number),VC_HTF_DETV,PER_100000_POP,61.0
+2021,Detected victims of human trafficking (number),VC_HTF_DETV,PER_100000_POP,41.0
+2022,Detected victims of human trafficking (number),VC_HTF_DETV,PER_100000_POP,58.0
+2020,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",VC_HTF_DETVFL,PER_100000_POP,41.0
+2021,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",VC_HTF_DETVFL,PER_100000_POP,15.0
+2022,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",VC_HTF_DETVFL,PER_100000_POP,29.0
+2020,Detected victims of human trafficking for other purposes (number),VC_HTF_DETVOP,PER_100000_POP,1.0
+2020,Detected victims of human trafficking for sexual exploitaton (number),VC_HTF_DETVSX,PER_100000_POP,19.0
+2021,Detected victims of human trafficking for sexual exploitaton (number),VC_HTF_DETVSX,PER_100000_POP,26.0
+2022,Detected victims of human trafficking for sexual exploitaton (number),VC_HTF_DETVSX,PER_100000_POP,29.0

@@ -16,54 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Average hourly earnings for Managers",
-                "Average hourly earnings for Professionals",
-                "Average hourly earnings for Technicians and associate professions",
-                "Average hourly earnings for Clerical Support workers",
-                "Average hourly earnings for Service and sales workers",
-                "Average hourly earnings for Skilled agriculture, forestry and fishery workers",
-                "Average hourly earnings for Craft and related trades workers",
-                "Average hourly earnings for Plant and Machine operators, and assemblers",
-                "Average hourly earnings for Elementary Occupations",
-                "Average hourly earnings",
-                "Average hourly earnings, Person with disability",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Male",
-                "Female",
-                ""
-              ]
-            },
-            "title": "Sex"
-          },
-          {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "16 years old and over",
-                "16 to 24 years old",
-                "25 to 34 years old",
-                "55 to 64 years old",
-                "65 years old and over",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "OCCUPATION",
             "type": "string",
             "constraints": {

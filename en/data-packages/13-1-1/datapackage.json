@@ -34,6 +34,8 @@
               "enum": [
                 "VC_DSR_MORT",
                 "VC_DSR_AFFCT",
+                "VC_DSR_MTMP",
+                "VC_DSR_DAFF",
                 ""
               ]
             },

@@ -1,1 +1,5 @@
-Year,Value
+Year,Sex,Value
+2021,Male,2.5
+2022,Male,5.3
+2021,Female,7.7
+2022,Female,11.1

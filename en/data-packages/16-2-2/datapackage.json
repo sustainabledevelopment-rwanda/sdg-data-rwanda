@@ -51,7 +51,7 @@
             "constraints": {
               "enum": [
                 "PT",
-                "NUMBER",
+                "PER_100000_POP",
                 ""
               ]
             },

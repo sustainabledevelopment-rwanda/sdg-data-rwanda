@@ -15,28 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation",
-                "Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Co- owned)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SEX",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "M",
-                "F",
-                ""
-              ]
-            }
-          },
-          {
             "name": "Value",
             "type": "number"
           }
