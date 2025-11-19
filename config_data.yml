@@ -46,7 +46,7 @@ inputs:
       REF_AREA|RW: ''
     drop_dimensions:
       - SOURCE_DETAIL
-    dsd: 'RWA_2024_SDG DSD.xml'
+    dsd: 'RWA_2025_SDG DSD.xml'
     import_translation_keys: true
     import_codes: true
   - class: InputYamlMdMeta
@@ -80,7 +80,7 @@ translations:
     source: translations
   # This pulls in translations from DSD
   - class: TranslationInputSdmx
-    source: 'RWA_2024_SDG DSD.xml'
+    source: 'RWA_2025_SDG DSD.xml'
     
     
 # Reporting status extra fields
