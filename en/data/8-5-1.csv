@@ -1,55 +1,64 @@
 Year,Occupation,Value
-2017,Managers,2365.160351
-2018,Managers,2531.085938
-2019,Managers,2285.529851
-2020,Managers,2518.977786
-2021,Managers,2346.022733
-2022,Managers,2337.480897
-2017,Professionals,973.513148
-2018,Professionals,982.11568
-2019,Professionals,981.95724
-2020,Professionals,1175.487921
-2021,Professionals,960.207386
-2022,Professionals,1097.436651
-2017,Technicians and associate professionals,1517.061028
-2018,Technicians and associate professionals,1290.70148
-2019,Technicians and associate professionals,1389.925115
-2020,Technicians and associate professionals,1653.726211
-2021,Technicians and associate professionals,1469.291637
-2022,Technicians and associate professionals,1288.863877
-2017,Clerical support workers,941.34733
-2018,Clerical support workers,935.810424
-2019,Clerical support workers,890.285374
-2020,Clerical support workers,923.873289
-2021,Clerical support workers,855.14472
-2022,Clerical support workers,949.242512
-2017,Service and sales workers,366.90114
-2018,Service and sales workers,325.274914
-2019,Service and sales workers,339.597433
-2020,Service and sales workers,372.173349
-2021,Service and sales workers,399.89315
-2022,Service and sales workers,429.67188
-2017,"Skilled agricultural, forestry and fishery workers",297.549868
-2018,"Skilled agricultural, forestry and fishery workers",205.950146
-2019,"Skilled agricultural, forestry and fishery workers",293.819049
-2020,"Skilled agricultural, forestry and fishery workers",733.182009
-2021,"Skilled agricultural, forestry and fishery workers",288.995142
-2022,"Skilled agricultural, forestry and fishery workers",352.97723
-2017,Craft and related trades workers,524.295824
-2018,Craft and related trades workers,497.205883
-2019,Craft and related trades workers,546.015258
-2020,Craft and related trades workers,524.847062
-2021,Craft and related trades workers,629.23229
-2022,Craft and related trades workers,656.094823
-2017,"Plant and machine operators, and assemblers",543.760246
-2018,"Plant and machine operators, and assemblers",590.761371
-2019,"Plant and machine operators, and assemblers",598.900272
-2020,"Plant and machine operators, and assemblers",558.700949
-2021,"Plant and machine operators, and assemblers",622.363535
-2022,"Plant and machine operators, and assemblers",769.514654
-2017,Elementary occupations,162.272505
-2018,Elementary occupations,163.092471
-2019,Elementary occupations,165.576745
-2020,Elementary occupations,195.805426
-2021,Elementary occupations,195.974561
-2022,Elementary occupations,211.869809
+2017,Managers,2365.2
+2018,Managers,2531.1
+2019,Managers,2285.5
+2020,Managers,2519.0
+2021,Managers,2346.0
+2022,Managers,2337.5
+2023,Managers,3496.3
+2017,Professionals,973.5
+2018,Professionals,982.1
+2019,Professionals,982.0
+2020,Professionals,1175.5
+2021,Professionals,960.2
+2022,Professionals,1097.4
+2023,Professionals,1226.4
+2017,Technicians and associate professionals,1517.1
+2018,Technicians and associate professionals,1290.7
+2019,Technicians and associate professionals,1389.9
+2020,Technicians and associate professionals,1653.7
+2021,Technicians and associate professionals,1469.3
+2022,Technicians and associate professionals,1288.9
+2023,Technicians and associate professionals,1725.8
+2017,Clerical support workers,941.3
+2018,Clerical support workers,935.8
+2019,Clerical support workers,890.3
+2020,Clerical support workers,923.9
+2021,Clerical support workers,855.1
+2022,Clerical support workers,949.2
+2023,Clerical support workers,968.8
+2017,Service and sales workers,366.9
+2018,Service and sales workers,325.3
+2019,Service and sales workers,339.6
+2020,Service and sales workers,372.2
+2021,Service and sales workers,399.9
+2022,Service and sales workers,429.7
+2023,Service and sales workers,421.9
+2017,"Skilled agricultural, forestry and fishery workers",297.5
+2018,"Skilled agricultural, forestry and fishery workers",206.0
+2019,"Skilled agricultural, forestry and fishery workers",293.8
+2020,"Skilled agricultural, forestry and fishery workers",733.2
+2021,"Skilled agricultural, forestry and fishery workers",289.0
+2022,"Skilled agricultural, forestry and fishery workers",353.0
+2023,"Skilled agricultural, forestry and fishery workers",342.5
+2017,Craft and related trades workers,524.3
+2018,Craft and related trades workers,497.2
+2019,Craft and related trades workers,546.0
+2020,Craft and related trades workers,524.8
+2021,Craft and related trades workers,629.2
+2022,Craft and related trades workers,656.1
+2023,Craft and related trades workers,755.9
+2017,"Plant and machine operators, and assemblers",543.8
+2018,"Plant and machine operators, and assemblers",590.8
+2019,"Plant and machine operators, and assemblers",598.9
+2020,"Plant and machine operators, and assemblers",558.7
+2021,"Plant and machine operators, and assemblers",622.4
+2022,"Plant and machine operators, and assemblers",769.5
+2023,"Plant and machine operators, and assemblers",780.9
+2017,Elementary occupations,162.3
+2018,Elementary occupations,163.1
+2019,Elementary occupations,165.6
+2020,Elementary occupations,195.8
+2021,Elementary occupations,196.0
+2022,Elementary occupations,211.9
+2023,Elementary occupations,252.5

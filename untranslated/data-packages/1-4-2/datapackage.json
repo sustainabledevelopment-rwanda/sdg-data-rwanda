@@ -15,6 +15,39 @@
             "type": "integer"
           },
           {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Total Number of adult population who have land",
+                "Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Owned by other)",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Units",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "NUMBER",
+                "PT",
+                ""
+              ]
+            }
+          },
+          {
             "name": "Value",
             "type": "number"
           }

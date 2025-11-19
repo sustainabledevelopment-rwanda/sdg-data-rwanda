@@ -1,2 +1,5 @@
-Year,Value
-2022,21.9
+Year,Observation-level footnotes,Sex,Units,Value
+2023,Total Number of adult population who have land,,NUMBER,4218003.0
+2023,Total Number of adult population who have land,Male,NUMBER,2081442.0
+2023,Total Number of adult population who have land,Female,NUMBER,2136561.0
+2022,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Owned by other)",,PT,21.9
