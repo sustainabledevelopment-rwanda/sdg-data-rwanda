@@ -6,38 +6,46 @@ Year,Reference area,Degree of urbanisation,GeoCode,Value
 2014,,,,0.2
 2017,,,,0.2
 2022,,,,0.1
+2024,,,,0.1
 2011,,Urban,,0.1
 2012,,Urban,,0.1
 2014,,Urban,,0.1
 2017,,Urban,,0.1
 2022,,Urban,,0.1
+2024,,Urban,,0.1
 2011,,Rural,,0.3
 2012,,Rural,,0.2
 2014,,Rural,,0.2
 2017,,Rural,,0.2
 2022,,Rural,,0.2
+2024,,Rural,,0.2
 2011,City of Kigali,,1,0.1
 2012,City of Kigali,,1,0.1
 2014,City of Kigali,,1,0.1
 2017,City of Kigali,,1,0.1
 2022,City of Kigali,,1,0.0
+2024,City of Kigali,,1,0.1
 2011,Southern Province,,2,0.3
 2012,Southern Province,,2,0.2
 2014,Southern Province,,2,0.2
 2017,Southern Province,,2,0.2
 2022,Southern Province,,2,0.1
+2024,Southern Province,,2,0.2
 2011,Western Province,,3,0.3
 2012,Western Province,,3,0.2
 2014,Western Province,,3,0.2
 2017,Western Province,,3,0.2
 2022,Western Province,,3,0.2
+2024,Western Province,,3,0.1
 2011,Northern Province,,4,0.2
 2012,Northern Province,,4,0.2
 2014,Northern Province,,4,0.1
 2017,Northern Province,,4,0.1
 2022,Northern Province,,4,0.1
+2024,Northern Province,,4,0.1
 2011,Eastern Province,,5,0.3
 2012,Eastern Province,,5,0.2
 2014,Eastern Province,,5,0.2
 2017,Eastern Province,,5,0.2
 2022,Eastern Province,,5,0.2
+2024,Eastern Province,,5,0.2

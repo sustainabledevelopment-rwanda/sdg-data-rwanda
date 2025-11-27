@@ -4,16 +4,19 @@ Year,Observation-level footnotes,Series,Education level,Value
 2018,Proportion of schools with access to electricity - Nursery,SE_ACS_ELECT,Pre-primary education,39.8
 2019,Proportion of schools with access to electricity - Nursery,SE_ACS_ELECT,Pre-primary education,46.3
 2021,Proportion of schools with access to electricity - Nursery,SE_ACS_ELECT,Pre-primary education,79.2
+2024,Proportion of schools with access to electricity - Nursery,SE_ACS_ELECT,Pre-primary education,82.1
 2016,Proportion of schools with access to electricity - Primary,SE_ACS_ELECT,Primary education,30.0
 2017,Proportion of schools with access to electricity - Primary,SE_ACS_ELECT,Primary education,55.8
 2018,Proportion of schools with access to electricity - Primary,SE_ACS_ELECT,Primary education,58.2
 2019,Proportion of schools with access to electricity - Primary,SE_ACS_ELECT,Primary education,75.0
 2021,Proportion of schools with access to electricity - Primary,SE_ACS_ELECT,Primary education,78.2
+2024,Proportion of schools with access to electricity - Primary,SE_ACS_ELECT,Primary education,80.5
 2016,Proportion of schools with access to electricity - Secondary,SE_ACS_ELECT,Secondary education (lower and upper secondary education),46.1
 2017,Proportion of schools with access to electricity - Secondary,SE_ACS_ELECT,Secondary education (lower and upper secondary education),71.2
 2018,Proportion of schools with access to electricity - Secondary,SE_ACS_ELECT,Secondary education (lower and upper secondary education),74.2
 2019,Proportion of schools with access to electricity - Secondary,SE_ACS_ELECT,Secondary education (lower and upper secondary education),87.9
 2021,Proportion of schools with access to electricity - Secondary,SE_ACS_ELECT,Secondary education (lower and upper secondary education),80.9
+2024,Proportion of schools with access to electricity - Secondary,SE_ACS_ELECT,Secondary education (lower and upper secondary education),91.4
 2016,Proportion of schools with access to the internet for pedagogical purposes - Primary,SE_ACS_INTNT,Primary education,9.8
 2017,Proportion of schools with access to the internet for pedagogical purposes - Primary,SE_ACS_INTNT,Primary education,25.1
 2018,Proportion of schools with access to the internet for pedagogical purposes - Primary,SE_ACS_INTNT,Primary education,30.0
@@ -21,62 +24,75 @@ Year,Observation-level footnotes,Series,Education level,Value
 2021,Proportion of schools with access to the internet for pedagogical purposes - Primary,SE_ACS_INTNT,Primary education,31.8
 2022,Proportion of schools with access to the internet for pedagogical purposes - Primary,SE_ACS_INTNT,Primary education,54.1
 2023,Proportion of schools with access to the internet for pedagogical purposes - Primary,SE_ACS_INTNT,Primary education,56.5
+2024,Proportion of schools with access to the internet for pedagogical purposes - Primary,SE_ACS_INTNT,Primary education,59.4
 2016,Proportion of schools with access to the internet for pedagogical purposes - Secondary,SE_ACS_INTNT,Secondary education (lower and upper secondary education),35.4
 2017,Proportion of schools with access to the internet for pedagogical purposes - Secondary,SE_ACS_INTNT,Secondary education (lower and upper secondary education),41.3
 2018,Proportion of schools with access to the internet for pedagogical purposes - Secondary,SE_ACS_INTNT,Secondary education (lower and upper secondary education),52.9
 2019,Proportion of schools with access to the internet for pedagogical purposes - Secondary,SE_ACS_INTNT,Secondary education (lower and upper secondary education),61.1
 2021,Proportion of schools with access to the internet for pedagogical purposes - Secondary,SE_ACS_INTNT,Secondary education (lower and upper secondary education),73.2
+2024,Proportion of schools with access to the internet for pedagogical purposes - Secondary,SE_ACS_INTNT,Secondary education (lower and upper secondary education),77.6
 2016,Proportion of schools with access to computers for pedagogical purposes - Primary,SE_ACS_CMPTR,Primary education,65.8
 2017,Proportion of schools with access to computers for pedagogical purposes - Primary,SE_ACS_CMPTR,Primary education,69.2
 2018,Proportion of schools with access to computers for pedagogical purposes - Primary,SE_ACS_CMPTR,Primary education,75.5
 2019,Proportion of schools with access to computers for pedagogical purposes - Primary,SE_ACS_CMPTR,Primary education,83.4
 2021,Proportion of schools with access to computers for pedagogical purposes - Primary,SE_ACS_CMPTR,Primary education,97.9
+2024,Proportion of schools with access to computers for pedagogical purposes - Primary,SE_ACS_CMPTR,Primary education,97.9
 2016,Proportion of schools with access to computers for pedagogical purposes - Secondary,SE_ACS_CMPTR,Secondary education (lower and upper secondary education),77.3
 2017,Proportion of schools with access to computers for pedagogical purposes - Secondary,SE_ACS_CMPTR,Secondary education (lower and upper secondary education),84.7
 2018,Proportion of schools with access to computers for pedagogical purposes - Secondary,SE_ACS_CMPTR,Secondary education (lower and upper secondary education),84.3
 2019,Proportion of schools with access to computers for pedagogical purposes - Secondary,SE_ACS_CMPTR,Secondary education (lower and upper secondary education),85.4
 2021,Proportion of schools with access to computers for pedagogical purposes - Secondary,SE_ACS_CMPTR,Secondary education (lower and upper secondary education),99.6
+2024,Proportion of schools with access to computers for pedagogical purposes - Secondary,SE_ACS_CMPTR,Secondary education (lower and upper secondary education),99.4
 2016,Proportion of schools with basic handwashing facilities - Nursery,SE_ACC_HNDWSH,Pre-primary education,19.9
 2017,Proportion of schools with basic handwashing facilities - Nursery,SE_ACC_HNDWSH,Pre-primary education,24.0
 2018,Proportion of schools with basic handwashing facilities - Nursery,SE_ACC_HNDWSH,Pre-primary education,28.6
 2019,Proportion of schools with basic handwashing facilities - Nursery,SE_ACC_HNDWSH,Pre-primary education,29.3
 2021,Proportion of schools with basic handwashing facilities - Nursery,SE_ACC_HNDWSH,Pre-primary education,98.9
+2024,Proportion of schools with basic handwashing facilities - Nursery,SE_ACC_HNDWSH,Pre-primary education,93.4
 2016,Proportion of schools with basic handwashing facilities - Primary,SE_ACC_HNDWSH,Primary education,45.2
 2017,Proportion of schools with basic handwashing facilities - Primary,SE_ACC_HNDWSH,Primary education,64.8
 2018,Proportion of schools with basic handwashing facilities - Primary,SE_ACC_HNDWSH,Primary education,66.0
 2019,Proportion of schools with basic handwashing facilities - Primary,SE_ACC_HNDWSH,Primary education,67.5
 2021,Proportion of schools with basic handwashing facilities - Primary,SE_ACC_HNDWSH,Primary education,99.3
+2024,Proportion of schools with basic handwashing facilities - Primary,SE_ACC_HNDWSH,Primary education,93.6
 2017,Proportion of schools with basic handwashing facilitiesr - Secondary,SE_ACC_HNDWSH,Secondary education (lower and upper secondary education),63.1
 2018,Proportion of schools with basic handwashing facilitiesr - Secondary,SE_ACC_HNDWSH,Secondary education (lower and upper secondary education),76.1
 2019,Proportion of schools with basic handwashing facilitiesr - Secondary,SE_ACC_HNDWSH,Secondary education (lower and upper secondary education),76.8
 2021,Proportion of schools with basic handwashing facilitiesr - Secondary,SE_ACC_HNDWSH,Secondary education (lower and upper secondary education),99.5
+2024,Proportion of schools with basic handwashing facilitiesr - Secondary,SE_ACC_HNDWSH,Secondary education (lower and upper secondary education),96.5
 2017,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery,SE_INF_DSBL,Pre-primary education,5.7
 2018,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery,SE_INF_DSBL,Pre-primary education,8.2
 2019,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery,SE_INF_DSBL,Pre-primary education,10.5
 2020,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery,SE_INF_DSBL,Pre-primary education,15.5
 2021,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery,SE_INF_DSBL,Pre-primary education,67.3
+2024,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery,SE_INF_DSBL,Pre-primary education,66.0
 2017,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary,SE_INF_DSBL,Primary education,18.1
 2018,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary,SE_INF_DSBL,Primary education,23.5
 2019,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary,SE_INF_DSBL,Primary education,23.2
 2020,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary,SE_INF_DSBL,Primary education,37.7
 2021,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary,SE_INF_DSBL,Primary education,69.6
+2024,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary,SE_INF_DSBL,Primary education,67.2
 2017,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary,SE_INF_DSBL,Secondary education (lower and upper secondary education),17.9
 2018,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary,SE_INF_DSBL,Secondary education (lower and upper secondary education),27.8
 2019,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary,SE_INF_DSBL,Secondary education (lower and upper secondary education),30.5
 2020,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary,SE_INF_DSBL,Secondary education (lower and upper secondary education),43.6
 2021,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary,SE_INF_DSBL,Secondary education (lower and upper secondary education),72.9
+2024,Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary,SE_INF_DSBL,Secondary education (lower and upper secondary education),72.4
 2017,Proportion of schools with access to basic drinking water - Nursery,SE_ACS_H2O,Pre-primary education,19.2
 2018,Proportion of schools with access to basic drinking water - Nursery,SE_ACS_H2O,Pre-primary education,27.5
 2019,Proportion of schools with access to basic drinking water - Nursery,SE_ACS_H2O,Pre-primary education,27.1
 2020,Proportion of schools with access to basic drinking water - Nursery,SE_ACS_H2O,Pre-primary education,31.4
 2021,Proportion of schools with access to basic drinking water - Nursery,SE_ACS_H2O,Pre-primary education,56.8
+2024,Proportion of schools with access to basic drinking water - Nursery,SE_ACS_H2O,Pre-primary education,73.4
 2017,Proportion of schools with access to basic drinking water - Primary,SE_ACS_H2O,Primary education,45.5
 2018,Proportion of schools with access to basic drinking water - Primary,SE_ACS_H2O,Primary education,53.6
 2019,Proportion of schools with access to basic drinking water - Primary,SE_ACS_H2O,Primary education,51.8
 2020,Proportion of schools with access to basic drinking water - Primary,SE_ACS_H2O,Primary education,41.8
 2021,Proportion of schools with access to basic drinking water - Primary,SE_ACS_H2O,Primary education,55.6
+2024,Proportion of schools with access to basic drinking water - Primary,SE_ACS_H2O,Primary education,69.0
 2017,Proportion of schools with access to basic drinking water - Secondary,SE_ACS_H2O,Secondary education (lower and upper secondary education),51.2
 2018,Proportion of schools with access to basic drinking water - Secondary,SE_ACS_H2O,Secondary education (lower and upper secondary education),69.1
 2019,Proportion of schools with access to basic drinking water - Secondary,SE_ACS_H2O,Secondary education (lower and upper secondary education),69.8
 2020,Proportion of schools with access to basic drinking water - Secondary,SE_ACS_H2O,Secondary education (lower and upper secondary education),44.7
 2021,Proportion of schools with access to basic drinking water - Secondary,SE_ACS_H2O,Secondary education (lower and upper secondary education),63.0
+2024,Proportion of schools with access to basic drinking water - Secondary,SE_ACS_H2O,Secondary education (lower and upper secondary education),87.5

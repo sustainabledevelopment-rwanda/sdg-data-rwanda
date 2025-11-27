@@ -4,134 +4,176 @@ Year,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
 2011,,,,,,44.9
 2014,,,,,,39.1
 2017,,,,,,38.2
+2024,,,,,,27.4
 2014,,Male,16 years old and over,,,33.2
 2017,,Male,16 years old and over,,,31.6
+2024,,Male,16 years old and over,,,24.9
 2014,,Female,16 years old and over,,,35.9
 2017,,Female,16 years old and over,,,34.8
+2024,,Female,16 years old and over,,,25.4
 2014,,Male,under 15 years old,,,44.7
 2017,,Male,under 15 years old,,,44.2
+2024,,Male,under 15 years old,,,31.0
 2014,,Female,under 15 years old,,,44.6
 2017,,Female,under 15 years old,,,44.8
+2024,,Female,under 15 years old,,,29.9
 2005,,,,Urban,,28.5
 2011,,,,Urban,,22.1
 2014,,,,Urban,,15.9
 2017,,,,Urban,,15.8
+2024,,,,Urban,,16.7
 2005,,,,Rural,,61.9
 2011,,,,Rural,,48.7
 2014,,,,Rural,,43.7
 2017,,,,Rural,,43.1
+2024,,,,Rural,,31.6
 2000,City of Kigali,,,,1,22.7
 2005,City of Kigali,,,,1,20.8
 2011,City of Kigali,,,,1,16.8
 2014,City of Kigali,,,,1,20.9
 2017,City of Kigali,,,,1,13.9
+2024,City of Kigali,,,,1,9.1
 2000,Southern Province,,,,2,65.5
 2005,Southern Province,,,,2,66.7
 2011,Southern Province,,,,2,56.5
 2014,Southern Province,,,,2,38.4
 2017,Southern Province,,,,2,41.4
+2024,Southern Province,,,,2,34.7
 2000,Western Province,,,,3,62.3
 2005,Western Province,,,,3,60.4
 2011,Western Province,,,,3,48.4
 2014,Western Province,,,,3,45.2
 2017,Western Province,,,,3,47.1
+2024,Western Province,,,,3,37.4
 2000,Northern Province,,,,4,64.2
 2005,Northern Province,,,,4,60.5
 2011,Northern Province,,,,4,42.8
 2014,Northern Province,,,,4,45.9
 2017,Northern Province,,,,4,42.3
+2024,Northern Province,,,,4,20.2
 2000,Eastern Province,,,,5,59.3
 2005,Eastern Province,,,,5,52.1
 2011,Eastern Province,,,,5,42.6
 2014,Eastern Province,,,,5,38.0
 2017,Eastern Province,,,,5,37.4
+2024,Eastern Province,,,,5,26.8
 2011,Nyarugenge,,,,11,10.1
 2014,Nyarugenge,,,,11,19.9
 2017,Nyarugenge,,,,11,11.8
+2024,Nyarugenge,,,,11,6.8
 2011,Gasabo,,,,12,26.0
 2014,Gasabo,,,,12,23.4
 2017,Gasabo,,,,12,15.8
+2024,Gasabo,,,,12,11.1
 2011,Kicukiro,,,,13,8.3
 2014,Kicukiro,,,,13,16.3
 2017,Kicukiro,,,,13,11.4
+2024,Kicukiro,,,,13,6.9
 2011,Nyanza,,,,21,49.8
 2014,Nyanza,,,,21,38.0
 2017,Nyanza,,,,21,46.5
+2024,Nyanza,,,,21,43.3
 2011,Gisagara,,,,22,59.4
 2014,Gisagara,,,,22,53.3
 2017,Gisagara,,,,22,55.6
+2024,Gisagara,,,,22,45.6
 2011,Nyaruguru,,,,23,61.6
 2014,Nyaruguru,,,,23,47.9
 2017,Nyaruguru,,,,23,52.4
+2024,Nyaruguru,,,,23,39.7
 2011,Huye,,,,24,46.6
 2014,Huye,,,,24,32.5
 2017,Huye,,,,24,40.2
+2024,Huye,,,,24,24.2
 2011,Nyamagabe,,,,25,73.3
 2014,Nyamagabe,,,,25,41.5
 2017,Nyamagabe,,,,25,48.6
+2024,Nyamagabe,,,,25,51.4
 2011,Ruhango,,,,26,60.4
 2014,Ruhango,,,,26,37.8
 2017,Ruhango,,,,26,38.0
+2024,Ruhango,,,,26,15.0
 2011,Muhanga,,,,27,53.6
 2014,Muhanga,,,,27,30.5
 2017,Muhanga,,,,27,32.6
+2024,Muhanga,,,,27,15.0
 2011,Kamonyi,,,,28,46.7
 2014,Kamonyi,,,,28,25.9
 2017,Kamonyi,,,,28,22.3
+2024,Kamonyi,,,,28,39.7
 2011,Karongi,,,,31,61.7
 2014,Karongi,,,,31,45.3
 2017,Karongi,,,,31,52.7
+2024,Karongi,,,,31,38.2
 2011,Rutsiro,,,,32,53.0
 2014,Rutsiro,,,,32,51.4
 2017,Rutsiro,,,,32,49.5
+2024,Rutsiro,,,,32,40.8
 2011,Rubavu,,,,33,35.8
 2014,Rubavu,,,,33,35.5
 2017,Rubavu,,,,33,35.7
+2024,Rubavu,,,,33,38.8
 2011,Nyabihu,,,,34,28.6
 2014,Nyabihu,,,,34,39.6
 2017,Nyabihu,,,,34,46.8
+2024,Nyabihu,,,,34,20.2
 2011,Ngororero,,,,35,51.9
 2014,Ngororero,,,,35,49.6
 2017,Ngororero,,,,35,47.7
+2024,Ngororero,,,,35,30.2
 2011,Rusizi,,,,36,45.0
 2014,Rusizi,,,,36,35.1
 2017,Rusizi,,,,36,33.5
+2024,Rusizi,,,,36,44.2
 2011,Nyamasheke,,,,37,63.4
 2014,Nyamasheke,,,,37,62.0
 2017,Nyamasheke,,,,37,69.3
+2024,Nyamasheke,,,,37,42.8
 2011,Rulindo,,,,41,42.9
 2014,Rulindo,,,,41,48.1
 2017,Rulindo,,,,41,54.2
+2024,Rulindo,,,,41,21.6
 2011,Gakenke,,,,42,56.6
 2014,Gakenke,,,,42,42.0
 2017,Gakenke,,,,42,34.2
+2024,Gakenke,,,,42,24.5
 2011,Musanze,,,,43,20.1
 2014,Musanze,,,,43,34.9
 2017,Musanze,,,,43,40.7
+2024,Musanze,,,,43,21.0
 2011,Burera,,,,44,45.2
 2014,Burera,,,,44,50.4
 2017,Burera,,,,44,49.8
+2024,Burera,,,,44,22.0
 2011,Gicumbi,,,,45,49.3
 2014,Gicumbi,,,,45,55.3
 2017,Gicumbi,,,,45,34.7
+2024,Gicumbi,,,,45,13.3
 2011,Rwamagana,,,,51,30.4
 2014,Rwamagana,,,,51,25.4
 2017,Rwamagana,,,,51,18.9
+2024,Rwamagana,,,,51,23.8
 2011,Nyagatare,,,,52,37.8
 2014,Nyagatare,,,,52,44.1
 2017,Nyagatare,,,,52,44.8
+2024,Nyagatare,,,,52,36.4
 2011,Gatsibo,,,,53,43.1
 2014,Gatsibo,,,,53,43.8
 2017,Gatsibo,,,,53,42.1
+2024,Gatsibo,,,,53,18.4
 2011,Kayonza,,,,54,42.6
 2014,Kayonza,,,,54,26.4
 2017,Kayonza,,,,54,26.7
+2024,Kayonza,,,,54,36.6
 2011,Kirehe,,,,55,47.9
 2014,Kirehe,,,,55,41.8
 2017,Kirehe,,,,55,44.6
+2024,Kirehe,,,,55,14.2
 2011,Ngoma,,,,56,47.6
 2014,Ngoma,,,,56,46.8
 2017,Ngoma,,,,56,37.8
+2024,Ngoma,,,,56,30.9
 2011,Bugesera,,,,57,48.4
 2014,Bugesera,,,,57,34.3
 2017,Bugesera,,,,57,40.3
+2024,Bugesera,,,,57,23.7
