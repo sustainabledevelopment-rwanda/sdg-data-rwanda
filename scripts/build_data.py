@@ -14,12 +14,9 @@ def alter_meta(meta):
         meta['indicator_name'] = 'global_indicators.' + id_parts[0] + '-' + id_parts[1] + '-' + id_parts[2] + '-title'
     return meta
 
-open_sdg_build(config='config_data.yml', alter_meta=alter_meta)
-
-
 def alter_data(df):
   if "REF_AREA" in df:
     df["GeoCode"]=df["REF_AREA"]
   return df
- 
-open_sdg_build(config='config_data.yml', alter_data=alter_data)
+
+open_sdg_build(config='config_data.yml', alter_data=alter_data, alter_meta=alter_meta)
