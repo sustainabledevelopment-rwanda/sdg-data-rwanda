@@ -1,1 +1,44 @@
-Year,Value
+Year,Observation-level footnotes,Series,Units,Value
+2003,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,5.7
+2004,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,10.4
+2005,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,-0.3
+2006,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,3.7
+2007,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,6.9
+2008,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,6.8
+2009,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,5.3
+2010,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,7.6
+2011,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,4.1
+2012,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,4.1
+2013,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,5.8
+2014,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,5.5
+2015,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,2.8
+2016,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,3.3
+2017,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,1.3
+2018,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,5.8
+2019,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,6.8
+2020,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,-5.7
+2021,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,8.3
+2022,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,5.7
+2023,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,5.9
+2024,Annual growth rate of real GDP per capita,MD_NY_GDP_PCAP,PT,6.5
+2017,Unemployment rate,MD_SL_TLF_UEM,PT,17.3
+2018,Unemployment rate,MD_SL_TLF_UEM,PT,15.1
+2019,Unemployment rate,MD_SL_TLF_UEM,PT,15.2
+2020,Unemployment rate,MD_SL_TLF_UEM,PT,17.9
+2021,Unemployment rate,MD_SL_TLF_UEM,PT,20.9
+2022,Unemployment rate,MD_SL_TLF_UEM,PT,20.5
+2023,Unemployment rate,MD_SL_TLF_UEM,PT,17.2
+2024,Unemployment rate,MD_SL_TLF_UEM,PT,14.9
+2012,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,88.3
+2013,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,95.4
+2014,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,100.0
+2015,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,100.2
+2016,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,106.4
+2017,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,120.6
+2018,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,119.1
+2019,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,118.5
+2020,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,134.5
+2021,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,137.5
+2022,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,143.3
+2023,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,186.7
+2024,"Consumer Price Index (CPI), annual at February",MD_CPI,NUMBER,192.6
