@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v11.8.1-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=NISR-SDGs:SDG(1.3):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>IREF1769770062305</message:ID>
+    <message:ID>IREF1770210772683</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2026-01-30T00:00:00Z</message:Prepared>
+    <message:Prepared>2026-02-04T00:00:00Z</message:Prepared>
     <message:Sender id="BIS"/>
     <message:Structure structureID="NISR-SDGs_SDG_1_3" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=NISR-SDGs:SDG(1.3):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
@@ -2551,6 +2551,28 @@
     <Obs TIME_PERIOD="2021" OBS_VALUE="100.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2021" COMMENT_OBS="Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2022" OBS_VALUE="100.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="100.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="VC_DSR_MORT_1" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PER_100000_POP">
+    <Obs TIME_PERIOD="2016" OBS_VALUE="1.59" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2016" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="0.69" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="2.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="1.08" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2019" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="2.35" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2020" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="0.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2021" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="1.55" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="1.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="1.38" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="VC_DSR_AFFCT_1" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PER_100000_POP">
+    <Obs TIME_PERIOD="2016" OBS_VALUE="1.51" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2016" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="1.28" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="2.86" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="2.19" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2019" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="3.27" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2020" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="1.91" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2021" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="3.04" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="3.01" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="3.25" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Disaster Communication System/MINEMA Assessment"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SG_HAZ_CMRBASEL" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="BOOL">
     <Obs TIME_PERIOD="2004" OBS_VALUE="1.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2004" COMMENT_OBS="Compliance with the Basel Convention on hazardous waste and other chemicals" SOURCE_DETAIL="REMA"/>
