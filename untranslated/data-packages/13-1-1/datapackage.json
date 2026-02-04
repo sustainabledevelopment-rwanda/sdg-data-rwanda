@@ -12,7 +12,29 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number"
+            "type": "integer"
+          },
+          {
+            "name": "COMMENT_OBS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Number of deaths due to disaster per 100,000 population",
+                "Number of persons injured or missing due to disaster per 100,000 population",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "Series",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "VC_DSR_MORT_1",
+                "VC_DSR_AFFCT_1",
+                ""
+              ]
+            }
           },
           {
             "name": "Value",
