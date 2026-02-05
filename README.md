@@ -45,15 +45,15 @@ When changes are deployed to the data site, this automatically triggers the stag
 
 The **production site repository** controls the production site. This is the main public site used for SDG reporting.
 
-The `develop` branch of the production site respository serves from the `github-pages` branch on that repository.
+The `master` branch of the production site respository serves from the `github-pages` branch on that repository.
 
 It deploys to the **production site** at https://sustainabledevelopment-rwanda.github.io/.  
 
 When changes to data are deployed to the data site, they are automatically applied to the production site. There is no specific deployment process involved, instead the production site pulls data directly from the data site. Since the data site deploys when changes are merged to the `develop` branch, users should be careful only to merge changes to the `develop` branch of the data repository when these are ready to go live on the production site. 
 
-When changes are merged to the `master` branch of the production site, changes to metadata from the data repository are applied to the production site. Without this refresh, changes to metadata in the data repository will only go to the staging site. 
+When changes are merged to the `master` branch of the production site, changes to metadata from the data repository are applied to the production site. Without this merge, changes to metadata in the data repository will only go to the staging site. 
 
-To change the layout or content of the production site aside from the data and metadata content, code can be edited directly in the production site repository; changes will then deploy to the production site directly.
+To change the layout or content of the production site aside from the data and metadata content, code can be edited directly in the production site repository and merged to the `master` branch; changes will then deploy to the production site directly.
 
 # Data update process
 
@@ -150,7 +150,9 @@ If you are not sure how to complete the actions described in this step, please s
 
 Once you have updated or added a data series, you will most likely need to update the metadata associated with the indicator. At the least, you may wish to change the last updated date to match your recent update. If you have added a new data series, you may need to fill in the metadata from scratch.
 
-This repository contains a folder, "meta", which holds metadata files for all indicators. Editing these files will update the metadata on the staging site. Then, a merge to the `master` branch of the production site repository will deploy the updates to the production site.
+This repository contains a folder, "meta", which holds metadata files for all indicators. Editing these files then merging to the `develop` branch will trigger a deployment process to update the metadata on the staging site. 
+
+Then, a merge to the `master` branch of the production site repository will deploy the updates to the production site.
 
 You will need to have write permissions in the production site repository to update metadata on the production site.
 
