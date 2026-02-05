@@ -21,33 +21,39 @@ The three repositories described in the previous section are linked in the deplo
 
 ### Data site
 
-The **data repository** is used to hold and update data for SDG reporting.
+The **data repository** is used to hold and update data for SDG reporting. 
 
-It deploys to the **data site** at https://sustainabledevelopment-rwanda.github.io/sdg-data-rwanda/. 
+The `develop` branch of the data respository serves from the `gh-pages` branch on this repository.
 
-In the standard implementation of Open SDG, this site is used to upload data updates directly. In this implementation, it is not used for this purpose, but is still used to hold data which is updated externally (see **Data update process** below). It usually takes around 5 minutes after an update is merged to the data repository for the deployment to take place.
+It deploys to the **data site** at https://sustainabledevelopment-rwanda.github.io/sdg-data-rwanda/.
 
-The main branch of the data repository is "develop". Changes merged to "develop" will trigger the deployment process.
+It usually takes around 5 minutes after an update is merged to the data repository for the deployment to take place.
+
+In the standard implementation of Open SDG, the data site is used to upload data updates directly. In this implementation, it is not used for this purpose, but is still used to hold data which is updated externally (see **Data update process** below). 
 
 ### Staging site
 
 The **staging site repository** controls a copy of the main SDG reporting site, intended for testing. 
 
-It deploys to the staging site at https://github.com/sustainabledevelopment-rwanda/sdg-site-rwanda. 
+The `develop` branch of the staging site respository serves from the `gh-pages` branch on that repository.
 
-In this implementation, this site is also currently not used.
+It deploys to the **staging site** at https://github.com/sustainabledevelopment-rwanda/sdg-site-rwanda. 
 
-When changes are deployed to the data site, this automatically triggers the staging site to deploy. This takes around 5 more minutes. Thus, the data repository also indirectly deploys to this site.
+When changes are deployed to the data site, this automatically triggers the staging site to deploy. This takes around 5 more minutes. Thus, the data repository also indirectly deploys to the staging site. Direct changes to the staging site repository will also deploy in the same way, but it is not recommended to use this repository for most changes.
 
 ### Production site
 
 The **production site repository** controls the production site. This is the main public site used for SDG reporting.
 
-It deploys to the production site at https://sustainabledevelopment-rwanda.github.io/.  
+The `master` branch of the production site respository serves from the `github-pages` branch on that repository.
 
-When changes are deployed to the data site, they are automatically applied to the production site. There is no deployment process involved, instead the production site code pulls data directly from the data site. Users should be careful only to merge changes to the data repository when these are ready to go live on the production site. 
+It deploys to the **production site** at https://sustainabledevelopment-rwanda.github.io/.  
 
-To change the layout or content of the web page aside from the data content, code can be edited directly in the production site repository; changes will then deploy to the production site directly.
+When changes to data are deployed to the data site, they are automatically applied to the production site. There is no specific deployment process involved, instead the production site pulls data directly from the data site. Since the data site deploys when changes are merged to the `develop` branch, users should be careful only to merge changes to the `develop` branch of the data repository when these are ready to go live on the production site. 
+
+When changes are merged to the `master` branch of the production site, changes to metadata from the data repository are applied to the production site. Without this merge, changes to metadata in the data repository will only go to the staging site. 
+
+To change the layout or content of the production site aside from the data and metadata content, code can be edited directly in the production site repository and merged to the `master` branch; changes will then deploy to the production site directly.
 
 # Data update process
 
@@ -144,13 +150,11 @@ If you are not sure how to complete the actions described in this step, please s
 
 Once you have updated or added a data series, you will most likely need to update the metadata associated with the indicator. At the least, you may wish to change the last updated date to match your recent update. If you have added a new data series, you may need to fill in the metadata from scratch.
 
-This repository contains a folder, "meta", which holds metadata files for all indicators. Editing these files will update the metadata on the staging site.
+This repository contains a folder, "meta", which holds metadata files for all indicators. Editing these files then merging to the `develop` branch will trigger a deployment process to update the metadata on the staging site. 
 
-To update the metadata on the production site, you can directly edit the relevant index.html file in the production site repository: [sustainabledevelopment-rwanda.github.io](https://github.com/sustainabledevelopment-rwanda/sustainabledevelopment-rwanda.github.io).
+Then, a merge to the `master` branch of the production site repository will deploy the updates to the production site.
 
-You will need to have write permissions in the production site repository to update metadata.
-
-If you are adding data series for a new indicator which did not previously have any data reported, you will also need to modify the index.html file by toggling data_showdata to "true" and adding display code for the graphs and tables. You can compare with the index.html file for a different indicator which already has data displayed and copy the missing code over to your indicator.
+You will need to have write permissions in the production site repository to update metadata on the production site.
 
 # Contact
 
