@@ -27,6 +27,8 @@ It deploys to the **data site** at https://sustainabledevelopment-rwanda.github.
 
 In the standard implementation of Open SDG, this site is used to upload data updates directly. In this implementation, it is not used for this purpose, but is still used to hold data which is updated externally (see **Data update process** below). It usually takes around 5 minutes after an update is merged to the data repository for the deployment to take place.
 
+The main branch of the data repository is "develop". Changes merged to "develop" will trigger the deployment process.
+
 ### Staging site
 
 The **staging site repository** controls a copy of the main SDG reporting site, intended for testing. 
@@ -51,8 +53,10 @@ To change the layout or content of the web page aside from the data content, cod
 
 This section describes how to update existing data series or add new data series to the SDG reporting site. 
 
+You will need to have write permissions in this repository to update data.
+
 Data for SDG reporting is mainained through three files in this repository:
-- Excel file: [2025_RW-SDG_Data.xlsx](https://github.com/sustainabledevelopment-rwanda/sdg-data-rwanda/blob/develop/2025_RW-SDG_Data.xlsx)
+- Excel file: [2025_RW-SDG_Data.xlsx](https://github.com/sustainabledevelopment-rwanda/sdg-data-rwanda/blob/develop/data/2025_RW-SDG_Data.xlsx) (in the folder "data")
 - SDMX file: [2025_RWA-SDG_Data.xml](https://github.com/sustainabledevelopment-rwanda/sdg-data-rwanda/blob/develop/sdmx-data/2025_RWA-SDG_Data.xml) (in the folder "sdmx-data")
 - DSD file: [RWA_2025_SDG DSD.xml](https://github.com/sustainabledevelopment-rwanda/sdg-data-rwanda/blob/develop/RWA_2025_SDG%20DSD.xml)
 
@@ -144,8 +148,10 @@ This repository contains a folder, "meta", which holds metadata files for all in
 
 Instead, metadata can be edited directly in the relevant index.html file in the production site repository: [sustainabledevelopment-rwanda.github.io](https://github.com/sustainabledevelopment-rwanda/sustainabledevelopment-rwanda.github.io).
 
+You will need to have write permissions in the production site repository to update metadata.
+
 # Contact
 
-SDG reporting for Rwanda, including this repo, is managed by the [National Institute of Statistics of Rwanda (NISR)](https://statistics.gov.rw/). NISR can be contacted at [info@statistics.gov.rw](mailto:info@statistics.gov.rw).
+SDG reporting for Rwanda, including this repository, is managed by the [National Institute of Statistics of Rwanda (NISR)](https://statistics.gov.rw/). NISR can be contacted at [info@statistics.gov.rw](mailto:info@statistics.gov.rw).
 
 
