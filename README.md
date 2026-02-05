@@ -144,11 +144,13 @@ If you are not sure how to complete the actions described in this step, please s
 
 Once you have updated or added a data series, you will most likely need to update the metadata associated with the indicator. At the least, you may wish to change the last updated date to match your recent update. If you have added a new data series, you may need to fill in the metadata from scratch.
 
-This repository contains a folder, "meta", which holds metadata files for all indicators. Currently, these files are not used. 
+This repository contains a folder, "meta", which holds metadata files for all indicators. Editing these files will update the metadata on the staging site.
 
-Instead, metadata can be edited directly in the relevant index.html file in the production site repository: [sustainabledevelopment-rwanda.github.io](https://github.com/sustainabledevelopment-rwanda/sustainabledevelopment-rwanda.github.io).
+To update the metadata on the production site, you can directly edit the relevant index.html file in the production site repository: [sustainabledevelopment-rwanda.github.io](https://github.com/sustainabledevelopment-rwanda/sustainabledevelopment-rwanda.github.io).
 
 You will need to have write permissions in the production site repository to update metadata.
+
+If you are adding data series for a new indicator which did not previously have any data reported, you will also need to modify the index.html file by toggling data_showdata to "true" and adding display code for the graphs and tables. You can compare with the index.html file for a different indicator which already has data displayed and copy the missing code over to your indicator.
 
 # Contact
 
