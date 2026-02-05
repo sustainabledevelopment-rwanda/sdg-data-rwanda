@@ -46,11 +46,11 @@ jobs:
     - name: Deploy to GitHub Pages
       uses: JamesIves/github-pages-deploy-action@v4.6.0
       with:
-        REPOSITORY_NAME: sustainabledevelopment-rwanda/sdg-data-prod
-        ACCESS_TOKEN: ${{ secrets.token }}
-        BRANCH: gh-pages
-        FOLDER: _site
-        CLEAN: true
+        repository_name: sustainabledevelopment-rwanda/sdg-data-prod
+        token: ${{ secrets.token }}
+        branch: gh-pages
+        folder: _site
+        clean: true
     - name: Waiting 4 minutes for live data deployment
       run: |
         sleep 240
