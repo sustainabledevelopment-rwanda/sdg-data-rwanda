@@ -3436,34 +3436,6 @@
           <common:Name xml:lang="en">Proportion of people with secure tenure rights to land out of total adult population [1.4.2]</common:Name>
           <common:Description xml:lang="en">Proportion of people with secure tenure rights to land out of total adult population [1.4.2]</common:Description>
         </structure:Code>
-        <structure:Code id="VC_DSR_AFFCT">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C010501</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">280</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [1.5.1]</common:Name>
-          <common:Description xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [1.5.1]</common:Description>
-        </structure:Code>
         <structure:Code id="VC_DSR_MORT">
           <common:Annotations>
             <common:Annotation>
@@ -3479,7 +3451,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths due to disaster per 100,000 population</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -3491,6 +3463,34 @@
           </common:Annotations>
           <common:Name xml:lang="en">Number of deaths due to disaster per 100,000 population [1.5.1]</common:Name>
           <common:Description xml:lang="en">Number of deaths due to disaster per 100,000 population [1.5.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="VC_DSR_AFFCT">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">280</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [1.5.1]</common:Name>
+          <common:Description xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [1.5.1]</common:Description>
         </structure:Code>
         <structure:Code id="VC_DSR_MTMP">
           <common:Annotations>
@@ -3507,7 +3507,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths due to disaster per 100,000 population</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -3535,7 +3535,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -14031,7 +14031,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths due to disaster per 100,000 population</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -14059,7 +14059,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -14199,7 +14199,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">(a) Index of coastal eutrophication; and (b) plastic debris densityi</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">(a) Index of coastal eutrophication; and (b) plastic debris density</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
