@@ -3436,73 +3436,17 @@
           <common:Name xml:lang="en">Proportion of people with secure tenure rights to land out of total adult population [1.4.2]</common:Name>
           <common:Description xml:lang="en">Proportion of people with secure tenure rights to land out of total adult population [1.4.2]</common:Description>
         </structure:Code>
-        <structure:Code id="VC_DSR_MISS">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">270</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of missing persons due to disaster [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="VC_DSR_AFFCT">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">280</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of people affected by disaster [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
         <structure:Code id="VC_DSR_MORT">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">C010501</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
@@ -3517,20 +3461,48 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of deaths due to disaster [1.5.1, 11.5.1, 13.1.1]</common:Description>
+          <common:Name xml:lang="en">Number of deaths due to disaster per 100,000 population [1.5.1]</common:Name>
+          <common:Description xml:lang="en">Number of deaths due to disaster per 100,000 population [1.5.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="VC_DSR_AFFCT">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">280</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [1.5.1]</common:Name>
+          <common:Description xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [1.5.1]</common:Description>
         </structure:Code>
         <structure:Code id="VC_DSR_MTMP">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">C110501</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
@@ -3545,48 +3517,20 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of deaths and missing persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="VC_DSR_MMHN">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">310</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of deaths and missing persons attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Description>
+          <common:Name xml:lang="en">Number of deaths due to disaster per 100,000 population [11.5.1]</common:Name>
+          <common:Description xml:lang="en">Number of deaths due to disaster per 100,000 population [11.5.1]</common:Description>
         </structure:Code>
         <structure:Code id="VC_DSR_DAFF">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">11.5.1</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">C110501</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
@@ -3601,204 +3545,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of directly affected persons attributed to disasters per 100,000 population [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="VC_DSR_IJILN">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">330</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of injured or ill people attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="VC_DSR_PDAN">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">340</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of people whose damaged dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="VC_DSR_DDHN">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">350</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number damaged dwellings attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number damaged dwellings attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="VC_DSR_PDYN">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">360</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of people whose destroyed dwellings were attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="VC_DSR_DYDN">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">370</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of destroyed dwellings attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of destroyed dwellings attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="VC_DSR_PDLN">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">380</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of people whose livelihoods were disrupted or destroyed, attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number of people whose livelihoods were disrupted or destroyed, attributed to disasters [1.5.1, 11.5.1, 13.1.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="VC_DSR_DYHN">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C200303</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">390</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number destroyed dwellings attributed to disasters, by hazard type [1.5.1, 11.5.1, 13.1.1]</common:Name>
-          <common:Description xml:lang="en">Number destroyed dwellings attributed to disasters, by hazard type [1.5.1, 11.5.1, 13.1.1]</common:Description>
+          <common:Name xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [11.5.1]</common:Name>
+          <common:Description xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [11.5.1]</common:Description>
         </structure:Code>
         <structure:Code id="SG_DSR_SFDRR">
           <common:Annotations>
@@ -14268,6 +14016,62 @@
           <common:Name xml:lang="en">Fossil-fuel pre-tax subsidies (consumption and production) as a proportion of total GDP [12.c.1]</common:Name>
           <common:Description xml:lang="en">Fossil-fuel pre-tax subsidies (consumption and production) as a proportion of total GDP [12.c.1]</common:Description>
         </structure:Code>
+        <structure:Code id="VC_DSR_MORT_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C130101</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4150</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Number of deaths due to disaster per 100,000 population [13.1.1]</common:Name>
+          <common:Description xml:lang="en">Number of deaths due to disaster per 100,000 population [13.1.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="VC_DSR_AFFCT_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">13.1.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C130101</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Number of deaths, missing persons and directly affected persons attributed to disasters per 100,000 population</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4150</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [13.1.1]</common:Name>
+          <common:Description xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [13.1.1]</common:Description>
+        </structure:Code>
         <structure:Code id="EN_ATM_GHGT_AIP">
           <common:Annotations>
             <common:Annotation>
@@ -14395,7 +14199,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">(a) Index of coastal eutrophication; and (b) plastic debris densityi</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">(a) Index of coastal eutrophication; and (b) plastic debris density</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -18015,6 +17819,90 @@
           </common:Annotations>
           <common:Name xml:lang="en">Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]</common:Name>
           <common:Description xml:lang="en">Average tariff applied by developed countries, preferential status, by type of product (%)  [17.12.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="MD_NY_GDP_PCAP">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual growth rate of real GDP per capita</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual growth rate of real GDP per capita [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual growth rate of real GDP per capita [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="MD_SL_TLF_UEM">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Unemployment rate</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Unemployment rate [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Unemployment rate [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="MD_CPI">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Consumer Price Index (CPI), annual at February</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Consumer Price Index (CPI), annual at February [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Consumer Price Index (CPI), annual at February [17.13.1]</common:Description>
         </structure:Code>
         <structure:Code id="SG_CPA_SDEV">
           <common:Annotations>
