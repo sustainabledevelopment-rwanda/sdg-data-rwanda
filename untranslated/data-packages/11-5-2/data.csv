@@ -1,19 +1,92 @@
 Year,COMMENT_OBS,Series,Value
-2018,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,3.0
-2019,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,1.0
-2020,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,4.0
-2021,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,3.0
-2022,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,1.0
-2023,Number of destroyed or damaged health facilities attributed to disasters,VC_DSR_HFDN,5.0
-2018,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,73.0
-2019,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,203.0
-2020,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,96.0
-2021,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,381.0
-2022,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,323.0
-2023,Number of destroyed or damaged educational facilities attributed to disasters,VC_DSR_EFDN,154.0
-2018,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,977.0
-2019,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,338.0
-2020,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,4382.0
-2021,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,323.0
-2022,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,533.0
-2023,Number of other destroyed or damaged critical infrastructure units and facilities attributed to disasters,VC_DSR_CILN,1445.0
+2018,Number of Houses damaged by disaster,_L_RW_110502_1,15910.0
+2019,Number of Houses damaged by disaster,_L_RW_110502_1,5691.0
+2020,Number of Houses damaged by disaster,_L_RW_110502_1,8098.0
+2021,Number of Houses damaged by disaster,_L_RW_110502_1,4808.0
+2022,Number of Houses damaged by disaster,_L_RW_110502_1,4156.0
+2023,Number of Houses damaged by disaster,_L_RW_110502_1,9955.0
+2024,Number of Houses damaged by disaster,_L_RW_110502_1,2005.0
+2018,Number of Ha for crops damaged,_L_RW_110502_2,13337.0
+2019,Number of Ha for crops damaged,_L_RW_110502_2,10610.0
+2020,Number of Ha for crops damaged,_L_RW_110502_2,4661.5
+2021,Number of Ha for crops damaged,_L_RW_110502_2,3802.3
+2022,Number of Ha for crops damaged,_L_RW_110502_2,1917.7
+2023,Number of Ha for crops damaged,_L_RW_110502_2,2176.3
+2024,Number of Ha for crops damaged,_L_RW_110502_2,1355.3
+2018,Number of Classrooms damaged,_L_RW_110502_3,73.0
+2019,Number of Classrooms damaged,_L_RW_110502_3,203.0
+2020,Number of Classrooms damaged,_L_RW_110502_3,96.0
+2021,Number of Classrooms damaged,_L_RW_110502_3,381.0
+2022,Number of Classrooms damaged,_L_RW_110502_3,323.0
+2023,Number of Classrooms damaged,_L_RW_110502_3,154.0
+2024,Number of Classrooms damaged,_L_RW_110502_3,81.0
+2018,Number of Health Centers damaged,_L_RW_110502_4,3.0
+2019,Number of Health Centers damaged,_L_RW_110502_4,1.0
+2020,Number of Health Centers damaged,_L_RW_110502_4,4.0
+2021,Number of Health Centers damaged,_L_RW_110502_4,3.0
+2022,Number of Health Centers damaged,_L_RW_110502_4,1.0
+2023,Number of Health Centers damaged,_L_RW_110502_4,5.0
+2024,Number of Health Centers damaged,_L_RW_110502_4,2.0
+2018,Number of Bridges damaged,_L_RW_110502_5,64.0
+2019,Number of Bridges damaged,_L_RW_110502_5,40.0
+2020,Number of Bridges damaged,_L_RW_110502_5,103.0
+2021,Number of Bridges damaged,_L_RW_110502_5,39.0
+2022,Number of Bridges damaged,_L_RW_110502_5,59.0
+2023,Number of Bridges damaged,_L_RW_110502_5,57.0
+2024,Number of Bridges damaged,_L_RW_110502_5,42.0
+2018,Number of Administrative Offices damaged,_L_RW_110502_6,12.0
+2019,Number of Administrative Offices damaged,_L_RW_110502_6,21.0
+2020,Number of Administrative Offices damaged,_L_RW_110502_6,17.0
+2021,Number of Administrative Offices damaged,_L_RW_110502_6,23.0
+2022,Number of Administrative Offices damaged,_L_RW_110502_6,21.0
+2023,Number of Administrative Offices damaged,_L_RW_110502_6,25.0
+2024,Number of Administrative Offices damaged,_L_RW_110502_6,11.0
+2018,Number of Transmission lines damaged,_L_RW_110502_7,26.0
+2019,Number of Transmission lines damaged,_L_RW_110502_7,72.0
+2020,Number of Transmission lines damaged,_L_RW_110502_7,98.0
+2021,Number of Transmission lines damaged,_L_RW_110502_7,73.0
+2022,Number of Transmission lines damaged,_L_RW_110502_7,80.0
+2023,Number of Transmission lines damaged,_L_RW_110502_7,32.0
+2024,Number of Transmission lines damaged,_L_RW_110502_7,34.0
+2018,Number of Water supply damaged,_L_RW_110502_8,1.0
+2019,Number of Water supply damaged,_L_RW_110502_8,6.0
+2020,Number of Water supply damaged,_L_RW_110502_8,26.0
+2021,Number of Water supply damaged,_L_RW_110502_8,13.0
+2022,Number of Water supply damaged,_L_RW_110502_8,1.0
+2023,Number of Water supply damaged,_L_RW_110502_8,8.0
+2024,Number of Water supply damaged,_L_RW_110502_8,3.0
+2019,Number of Markets damaged,_L_RW_110502_9,4.0
+2020,Number of Markets damaged,_L_RW_110502_9,6.0
+2021,Number of Markets damaged,_L_RW_110502_9,4.0
+2022,Number of Markets damaged,_L_RW_110502_9,2.0
+2023,Number of Markets damaged,_L_RW_110502_9,5.0
+2024,Number of Markets damaged,_L_RW_110502_9,0.0
+2019,Number of Factories damaged,_L_RW_110502_10,2.0
+2020,Number of Factories damaged,_L_RW_110502_10,1.0
+2021,Number of Factories damaged,_L_RW_110502_10,4.0
+2022,Number of Factories damaged,_L_RW_110502_10,4.0
+2023,Number of Factories damaged,_L_RW_110502_10,7.0
+2024,Number of Factories damaged,_L_RW_110502_10,3.0
+2020,Number of Ha for forests damaged,_L_RW_110502_11,458.0
+2021,Number of Ha for forests damaged,_L_RW_110502_11,167.0
+2022,Number of Ha for forests damaged,_L_RW_110502_11,73.0
+2023,Number of Ha for forests damaged,_L_RW_110502_11,41.0
+2024,Number of Ha for forests damaged,_L_RW_110502_11,306.0
+2018,Number of churches damaged,_L_RW_110502_12,27.0
+2019,Number of churches damaged,_L_RW_110502_12,50.0
+2020,Number of churches damaged,_L_RW_110502_12,22.0
+2022,Number of churches damaged,_L_RW_110502_12,20.0
+2023,Number of churches damaged,_L_RW_110502_12,30.0
+2024,Number of churches damaged,_L_RW_110502_12,12.0
+2018,Number of road sections damaged,_L_RW_110502_13,32.0
+2019,Number of road sections damaged,_L_RW_110502_13,30.0
+2020,Number of road sections damaged,_L_RW_110502_13,154.0
+2022,Number of road sections damaged,_L_RW_110502_13,72.0
+2023,Number of road sections damaged,_L_RW_110502_13,32.0
+2024,Number of road sections damaged,_L_RW_110502_13,69.0
+2018,Number of Cattles and livestock lost,_L_RW_110502_14,815.0
+2019,Number of Cattles and livestock lost,_L_RW_110502_14,113.0
+2020,Number of Cattles and livestock lost,_L_RW_110502_14,3497.0
+2022,Number of Cattles and livestock lost,_L_RW_110502_14,201.0
+2023,Number of Cattles and livestock lost,_L_RW_110502_14,1208.0
+2024,Number of Cattles and livestock lost,_L_RW_110502_14,3146.0

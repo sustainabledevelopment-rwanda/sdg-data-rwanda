@@ -21,9 +21,9 @@
             "constraints": {
               "enum": [
                 "Health workder density, Doctors",
+                "Health workder density, Pharmacists",
                 "Health workder density, Nurses",
                 "Health workder density, Midwives",
-                "Health workder density, Pharmacists",
                 ""
               ]
             },
@@ -35,6 +35,7 @@
             "constraints": {
               "enum": [
                 "SH_MED_DEN",
+                "SH_MED_DEN_PHARM",
                 "_L_RW_030C01_1",
                 "_L_RW_030C01_2",
                 ""
@@ -48,9 +49,9 @@
             "constraints": {
               "enum": [
                 "Medical doctors",
+                "Pharmacists",
                 "Nurse",
                 "Midwives",
-                "Pharmacists",
                 ""
               ]
             },

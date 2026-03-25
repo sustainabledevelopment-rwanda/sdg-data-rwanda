@@ -19,9 +19,9 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Proportion of total government spending on essential services, education",
                 "Proportion of total government spending on health",
                 "Proportion of total government spending on social protection",
+                "Proportion of total government spending on essential services, education",
                 ""
               ]
             }
@@ -31,16 +31,16 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "SD_XPD_ESED",
                 "SG_XPD_HLTH",
                 "SG_XPD_PROT",
+                "SD_XPD_ESED",
                 ""
               ]
             }
           },
           {
             "name": "Value",
-            "type": "number"
+            "type": "integer"
           }
         ]
       }

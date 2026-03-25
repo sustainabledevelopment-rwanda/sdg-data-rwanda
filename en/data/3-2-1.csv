@@ -1,37 +1,37 @@
 Year,Reference area,Sex,Degree of urbanisation,GeoCode,Value
-2000,,,,,196.0
-2005,,,,,152.0
-2008,,,,,103.0
-2010,,,,,76.0
-2015,,,,,50.0
-2020,,,,,45.0
-2020,,Male,,,47.0
-2020,,Female,,,43.0
-2008,,,Urban,,87.0
-2010,,,Urban,,81.0
-2015,,,Urban,,51.0
-2020,,,Urban,,35.0
-2008,,,Rural,,142.0
-2010,,,Rural,,105.0
-2015,,,Rural,,70.0
-2020,,,Rural,,48.0
-2008,City of Kigali,,,1,102.0
-2010,City of Kigali,,,1,79.0
-2015,City of Kigali,,,1,42.0
-2020,City of Kigali,,,1,31.0
-2008,Southern Province,,,2,127.0
-2010,Southern Province,,,2,96.0
-2015,Southern Province,,,2,66.0
-2020,Southern Province,,,2,56.0
-2008,Western Province,,,3,129.0
-2010,Western Province,,,3,88.0
-2015,Western Province,,,3,62.0
-2020,Western Province,,,3,44.0
-2008,Northern Province,,,4,115.0
-2010,Northern Province,,,4,107.0
-2015,Northern Province,,,4,60.0
-2020,Northern Province,,,4,57.0
-2008,Eastern Province,,,5,174.0
-2010,Eastern Province,,,5,125.0
-2015,Eastern Province,,,5,86.0
-2020,Eastern Province,,,5,56.0
+2000,,,,,196
+2005,,,,,152
+2008,,,,,103
+2010,,,,,76
+2015,,,,,50
+2020,,,,,45
+2020,,Male,,,47
+2020,,Female,,,43
+2008,,,Urban,,87
+2010,,,Urban,,81
+2015,,,Urban,,51
+2020,,,Urban,,35
+2008,,,Rural,,142
+2010,,,Rural,,105
+2015,,,Rural,,70
+2020,,,Rural,,48
+2008,City of Kigali,,,1,102
+2010,City of Kigali,,,1,79
+2015,City of Kigali,,,1,42
+2020,City of Kigali,,,1,31
+2008,Southern Province,,,2,127
+2010,Southern Province,,,2,96
+2015,Southern Province,,,2,66
+2020,Southern Province,,,2,56
+2008,Western Province,,,3,129
+2010,Western Province,,,3,88
+2015,Western Province,,,3,62
+2020,Western Province,,,3,44
+2008,Northern Province,,,4,115
+2010,Northern Province,,,4,107
+2015,Northern Province,,,4,60
+2020,Northern Province,,,4,57
+2008,Eastern Province,,,5,174
+2010,Eastern Province,,,5,125
+2015,Eastern Province,,,5,86
+2020,Eastern Province,,,5,56
