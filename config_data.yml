@@ -54,13 +54,13 @@ inputs:
     path_pattern: meta/*-*.md
     # This specifies whether or not to use Git to calculate the "last updated"
     # dates for data files.
-    git: true
+    git: false
     # This specifies an alternate folder to look in for Git-versioned data files,
     # when calculating the "last updated" dates for data files. This defaults to
     # "data" (the folder where the data files actually exist.) Most sites will not
     # need to change this setting. It is intended for sites where the data needs
     # to be "built" before being processed by sdg-build.
-    git_data_dir: data
+    # git_data_dir: data
 
 # Translations
 # ------------
@@ -125,7 +125,7 @@ docs_intro: This is a list of examples of endpoints and output that are
 # ---
 # This specifies whether or not to use Git dates to calculate the "last updated"
 # date for data files.
-git: true
+git: false
 
 # Git Data Director
 # -----------------
@@ -134,4 +134,4 @@ git: true
 # "data" (the folder where the data files actually exist.) Most sites will not
 # need to change this setting. It is intended for sites where the data needs
 # to be converted/processed/etc in some way before being processed by sdg-build.
-git_data_dir: data
+# git_data_dir: data
