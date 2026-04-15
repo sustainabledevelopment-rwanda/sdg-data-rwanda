@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,Sex,GeoCode,Value
-2023,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,,5.3
-2024,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,,5.1
-2023,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,,11.8
-2024,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,,10.8
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2023,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,Percent,,5.3
+2024,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,Percent,,5.1
+2023,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,Percent,,11.8
+2024,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,Percent,,10.8

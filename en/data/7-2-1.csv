@@ -1,4 +1,4 @@
-Year,SERIES,Reference area,GeoCode,Value
-2014,Renewable energy share in the total final electricity generation,,,53.0
-2017,Renewable energy share in the total final electricity generation,,,61.0
-2020,Renewable energy share in the total final electricity generation,,,62.3
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Renewable energy share in the total final electricity generation,,Percent,,53.0
+2017,Renewable energy share in the total final electricity generation,,Percent,,61.0
+2020,Renewable energy share in the total final electricity generation,,Percent,,62.3

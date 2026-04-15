@@ -1,7 +1,7 @@
-Year,Value,GeoCode,SERIES
-2017,33,,Prevalence of undernourishment [2.1.1]
-2018,32,,Prevalence of undernourishment [2.1.1]
-2019,34,,Prevalence of undernourishment [2.1.1]
-2020,32,,Prevalence of undernourishment [2.1.1]
-2021,32,,Prevalence of undernourishment [2.1.1]
-2022,29,,Prevalence of undernourishment [2.1.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2017,33,,Percent,Prevalence of undernourishment [2.1.1]
+2018,32,,Percent,Prevalence of undernourishment [2.1.1]
+2019,34,,Percent,Prevalence of undernourishment [2.1.1]
+2020,32,,Percent,Prevalence of undernourishment [2.1.1]
+2021,32,,Percent,Prevalence of undernourishment [2.1.1]
+2022,29,,Percent,Prevalence of undernourishment [2.1.1]

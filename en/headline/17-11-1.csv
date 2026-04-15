@@ -1,5 +1,5 @@
-Year,Value,GeoCode,SERIES
-2016,1534.4,,Exports goods and services in Million USD
-2017,1979.9,,Exports goods and services in Million USD
-2018,2039.2,,Exports goods and services in Million USD
-2020,2159.7,,Exports goods and services in Million USD
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,1534.4,,USD,Exports goods and services in Million USD
+2017,1979.9,,USD,Exports goods and services in Million USD
+2018,2039.2,,USD,Exports goods and services in Million USD
+2020,2159.7,,USD,Exports goods and services in Million USD

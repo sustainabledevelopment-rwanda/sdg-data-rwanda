@@ -1,51 +1,51 @@
-Year,SERIES,Reference area,Degree of urbanisation,GeoCode,Value
-2005,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,,0.4
-2010,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,,0.4
-2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,,0.2
-2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,,0.2
-2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,,0.2
-2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,,0.2
-2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,,0.1
-2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,,0.1
-2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,,0.1
-2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,,0.1
-2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,,0.1
-2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,,0.1
-2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,,0.1
-2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,,0.1
-2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,,0.3
-2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,,0.2
-2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,,0.2
-2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,,0.2
-2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,,0.2
-2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,,0.2
-2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,1,0.1
-2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,1,0.1
-2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,1,0.1
-2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,1,0.1
-2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,1,0.0
-2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,1,0.1
-2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,2,0.3
-2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,2,0.2
-2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,2,0.2
-2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,2,0.2
-2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,2,0.1
-2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,2,0.2
-2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,3,0.3
-2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,3,0.2
-2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,3,0.2
-2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,3,0.2
-2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,3,0.2
-2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,3,0.1
-2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,4,0.2
-2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,4,0.2
-2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,4,0.1
-2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,4,0.1
-2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,4,0.1
-2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,4,0.1
-2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,5,0.3
-2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,5,0.2
-2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,5,0.2
-2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,5,0.2
-2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,5,0.2
-2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,5,0.2
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2005,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,Index,,0.4
+2010,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,Index,,0.4
+2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,Index,,0.2
+2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,Index,,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,Index,,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,Index,,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,Index,,0.1
+2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,,Index,,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,Index,,0.1
+2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,Index,,0.1
+2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,Index,,0.1
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,Index,,0.1
+2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,Index,,0.1
+2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Urban,Index,,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,Index,,0.3
+2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,Index,,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,Index,,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,Index,,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,Index,,0.2
+2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],,Rural,Index,,0.2
+2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,Index,1,0.1
+2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,Index,1,0.1
+2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,Index,1,0.1
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,Index,1,0.1
+2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,Index,1,0.0
+2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],City of Kigali,,Index,1,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,Index,2,0.3
+2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,Index,2,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,Index,2,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,Index,2,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,Index,2,0.1
+2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Southern Province,,Index,2,0.2
+2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,Index,3,0.3
+2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,Index,3,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,Index,3,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,Index,3,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,Index,3,0.2
+2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Western Province,,Index,3,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,Index,4,0.2
+2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,Index,4,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,Index,4,0.1
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,Index,4,0.1
+2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,Index,4,0.1
+2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Northern Province,,Index,4,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,Index,5,0.3
+2012,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,Index,5,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,Index,5,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,Index,5,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,Index,5,0.2
+2024,Proportion of population living in poverty in all its dimensions according to national definitions [1.2.2],Eastern Province,,Index,5,0.2

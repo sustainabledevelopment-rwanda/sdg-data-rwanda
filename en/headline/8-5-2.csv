@@ -1,18 +1,18 @@
-Year,Value,GeoCode,SERIES
-2016,18.8,,Unemployment rate [8.5.2]
-2017,17.3,,Unemployment rate [8.5.2]
-2018,15.1,,Unemployment rate [8.5.2]
-2019,15.2,,Unemployment rate [8.5.2]
-2020,17.9,,Unemployment rate [8.5.2]
-2021,20.9,,Unemployment rate [8.5.2]
-2022,20.5,,Unemployment rate [8.5.2]
-2023,17.2,,Unemployment rate [8.5.2]
-2024,14.9,,Unemployment rate [8.5.2]
-2016,20.8,,"Unemployment rate, by disability [8.5.2]"
-2017,17.4,,"Unemployment rate, by disability [8.5.2]"
-2018,14.1,,"Unemployment rate, by disability [8.5.2]"
-2019,14.3,,"Unemployment rate, by disability [8.5.2]"
-2021,21.1,,"Unemployment rate, by disability [8.5.2]"
-2022,16.4,,"Unemployment rate, by disability [8.5.2]"
-2023,18.9,,"Unemployment rate, by disability [8.5.2]"
-2024,14.9,,"Unemployment rate, by disability [8.5.2]"
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,18.8,,Percent,Unemployment rate [8.5.2]
+2017,17.3,,Percent,Unemployment rate [8.5.2]
+2018,15.1,,Percent,Unemployment rate [8.5.2]
+2019,15.2,,Percent,Unemployment rate [8.5.2]
+2020,17.9,,Percent,Unemployment rate [8.5.2]
+2021,20.9,,Percent,Unemployment rate [8.5.2]
+2022,20.5,,Percent,Unemployment rate [8.5.2]
+2023,17.2,,Percent,Unemployment rate [8.5.2]
+2024,14.9,,Percent,Unemployment rate [8.5.2]
+2016,20.8,,Percent,"Unemployment rate, by disability [8.5.2]"
+2017,17.4,,Percent,"Unemployment rate, by disability [8.5.2]"
+2018,14.1,,Percent,"Unemployment rate, by disability [8.5.2]"
+2019,14.3,,Percent,"Unemployment rate, by disability [8.5.2]"
+2021,21.1,,Percent,"Unemployment rate, by disability [8.5.2]"
+2022,16.4,,Percent,"Unemployment rate, by disability [8.5.2]"
+2023,18.9,,Percent,"Unemployment rate, by disability [8.5.2]"
+2024,14.9,,Percent,"Unemployment rate, by disability [8.5.2]"

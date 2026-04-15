@@ -1,8 +1,8 @@
-Year,Value,GeoCode,SERIES
-2017,21.4,,Proportion of time spent on unpaid care work [5.4.1]
-2018,20.6,,Proportion of time spent on unpaid care work [5.4.1]
-2019,17.9,,Proportion of time spent on unpaid care work [5.4.1]
-2021,17.9,,Proportion of time spent on unpaid care work [5.4.1]
-2022,17.3,,Proportion of time spent on unpaid care work [5.4.1]
-2023,19.5,,Proportion of time spent on unpaid care work [5.4.1]
-2024,17.7,,Proportion of time spent on unpaid care work [5.4.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2017,21.4,,Number,Proportion of time spent on unpaid care work [5.4.1]
+2018,20.6,,Number,Proportion of time spent on unpaid care work [5.4.1]
+2019,17.9,,Number,Proportion of time spent on unpaid care work [5.4.1]
+2021,17.9,,Number,Proportion of time spent on unpaid care work [5.4.1]
+2022,17.3,,Number,Proportion of time spent on unpaid care work [5.4.1]
+2023,19.5,,Number,Proportion of time spent on unpaid care work [5.4.1]
+2024,17.7,,Number,Proportion of time spent on unpaid care work [5.4.1]

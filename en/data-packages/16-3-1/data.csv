@@ -1,4 +1,4 @@
-Year,SERIES,Reference area,GeoCode,Value
-2021,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,,7.5
-2023,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,,7.3
-2024,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,,6.4
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2021,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,Percent,,7.5
+2023,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,Percent,,7.3
+2024,"Police reporting rate for physical assault, by sex (%) [16.3.1]",,Percent,,6.4

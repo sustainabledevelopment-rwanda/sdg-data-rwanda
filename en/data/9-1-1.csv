@@ -1,2 +1,2 @@
-Year,SERIES,Reference area,Degree of urbanisation,GeoCode,Value
-2018,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],,Rural,,63
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2018,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],,Rural,Percent,,63

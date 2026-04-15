@@ -1,6 +1,6 @@
-Year,Value,GeoCode,SERIES
-2020,12.2,,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]
-2021,8.2,,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]
-2022,12.8,,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]
-2023,12.8,,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]
-2024,12.8,,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2020,12.2,,Percent,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]
+2021,8.2,,Percent,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]
+2022,12.8,,Percent,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]
+2023,12.8,,Percent,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]
+2024,12.8,,Percent,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2]

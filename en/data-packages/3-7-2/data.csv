@@ -1,5 +1,5 @@
-Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
-2015,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,,,7.0
-2020,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,,,31.8
-2020,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,,15 to 19 years old,Urban,,32.4
-2020,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,,15 to 19 years old,Rural,,31.6
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2015,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,,"Per 1,000 population",,7.0
+2020,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,,"Per 1,000 population",,31.8
+2020,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,,15 to 19 years old,Urban,"Per 1,000 population",,32.4
+2020,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,,15 to 19 years old,Rural,"Per 1,000 population",,31.6

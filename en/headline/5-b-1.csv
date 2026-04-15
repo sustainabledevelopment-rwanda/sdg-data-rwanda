@@ -1,5 +1,5 @@
-Year,Value,GeoCode,SERIES
-2017,36.7,,Proportion of individuals who own a mobile telephone [5.b.1]
-2020,54.8,,Proportion of individuals who own a mobile telephone [5.b.1]
-2022,58.6,,Proportion of individuals who own a mobile telephone [5.b.1]
-2024,85.0,,Proportion of individuals who own a mobile telephone [5.b.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2017,36.7,,Percent,Proportion of individuals who own a mobile telephone [5.b.1]
+2020,54.8,,Percent,Proportion of individuals who own a mobile telephone [5.b.1]
+2022,58.6,,Percent,Proportion of individuals who own a mobile telephone [5.b.1]
+2024,85.0,,Percent,Proportion of individuals who own a mobile telephone [5.b.1]

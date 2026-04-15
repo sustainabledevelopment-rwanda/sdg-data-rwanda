@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,Sex,GeoCode,Value
-2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",,,,84.6
-2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",,Male,,84.2
-2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",,Female,,85.0
-2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",,,,84.8
-2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",,Male,,84.7
-2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",,Female,,84.9
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",,,Percent,,84.6
+2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",,Male,Percent,,84.2
+2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population",,Female,Percent,,85.0
+2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",,,Percent,,84.8
+2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",,Male,Percent,,84.7
+2017,"Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population",,Female,Percent,,84.9

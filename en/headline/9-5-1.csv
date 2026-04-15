@@ -1,4 +1,4 @@
-Year,Value,GeoCode,SERIES
-2016,0.6,,Research and development expenditure as a proportion of GDP [9.5.1]
-2018,0.7,,Research and development expenditure as a proportion of GDP [9.5.1]
-2022,0.7,,Research and development expenditure as a proportion of GDP [9.5.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,0.6,,Percent,Research and development expenditure as a proportion of GDP [9.5.1]
+2018,0.7,,Percent,Research and development expenditure as a proportion of GDP [9.5.1]
+2022,0.7,,Percent,Research and development expenditure as a proportion of GDP [9.5.1]

@@ -1,7 +1,7 @@
-Year,SERIES,Reference area,GeoCode,Value
-2016,Annual growth rate of real GDP per employed person [8.2.1],,,2.3
-2017,Annual growth rate of real GDP per employed person [8.2.1],,,0.6
-2018,Annual growth rate of real GDP per employed person [8.2.1],,,21.3
-2019,Annual growth rate of real GDP per employed person [8.2.1],,,-12.0
-2020,Annual growth rate of real GDP per employed person [8.2.1],,,10.3
-2021,Annual growth rate of real GDP per employed person [8.2.1],,,4.1
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2016,Annual growth rate of real GDP per employed person [8.2.1],,Percent,,2.3
+2017,Annual growth rate of real GDP per employed person [8.2.1],,Percent,,0.6
+2018,Annual growth rate of real GDP per employed person [8.2.1],,Percent,,21.3
+2019,Annual growth rate of real GDP per employed person [8.2.1],,Percent,,-12.0
+2020,Annual growth rate of real GDP per employed person [8.2.1],,Percent,,10.3
+2021,Annual growth rate of real GDP per employed person [8.2.1],,Percent,,4.1

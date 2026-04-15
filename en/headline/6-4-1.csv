@@ -1,2 +1,2 @@
-Year,Value,GeoCode,SERIES
-2020,12.9,,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2020,12.9,,United States dollars per cubic metre,Water Use Efficiency (United States dollars per cubic meter) [6.4.1]

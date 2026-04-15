@@ -1,9 +1,9 @@
-Year,Value,GeoCode,SERIES
-2015,24.3,,Total government revenue as a proportion of GDP [17.1.1]
-2016,23.5,,Total government revenue as a proportion of GDP [17.1.1]
-2017,22.3,,Total government revenue as a proportion of GDP [17.1.1]
-2018,23.3,,Total government revenue as a proportion of GDP [17.1.1]
-2019,23.7,,Total government revenue as a proportion of GDP [17.1.1]
-2020,23.5,,Total government revenue as a proportion of GDP [17.1.1]
-2021,25.0,,Total government revenue as a proportion of GDP [17.1.1]
-2022,26.0,,Total government revenue as a proportion of GDP [17.1.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,24.3,,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2016,23.5,,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2017,22.3,,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2018,23.3,,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2019,23.7,,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2020,23.5,,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2021,25.0,,Percent,Total government revenue as a proportion of GDP [17.1.1]
+2022,26.0,,Percent,Total government revenue as a proportion of GDP [17.1.1]

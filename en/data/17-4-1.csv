@@ -1,10 +1,10 @@
-Year,SERIES,Reference area,GeoCode,Value
-2014,External Debt in nominal terms,,,4.6
-2015,External Debt in nominal terms,,,4.2
-2016,External Debt in nominal terms,,,4.6
-2017,External Debt in nominal terms,,,3.0
-2018,External Debt in nominal terms,,,4.0
-2019,External Debt in nominal terms,,,9.0
-2020,External Debt in nominal terms,,,5.0
-2021,External Debt in nominal terms,,,34.0
-2022,External Debt in nominal terms,,,6.8
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,External Debt in nominal terms,,Percent,,4.6
+2015,External Debt in nominal terms,,Percent,,4.2
+2016,External Debt in nominal terms,,Percent,,4.6
+2017,External Debt in nominal terms,,Percent,,3.0
+2018,External Debt in nominal terms,,Percent,,4.0
+2019,External Debt in nominal terms,,Percent,,9.0
+2020,External Debt in nominal terms,,Percent,,5.0
+2021,External Debt in nominal terms,,Percent,,34.0
+2022,External Debt in nominal terms,,Percent,,6.8

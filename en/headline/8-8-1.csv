@@ -1,5 +1,5 @@
-Year,Value,GeoCode,SERIES
-2018,6,,Fatal occupational injuries among employees (rate) [8.8.1]
-2019,5,,Fatal occupational injuries among employees (rate) [8.8.1]
-2018,94,,Non-fatal occupational injuries among employees (rate) [8.8.1]
-2019,95,,Non-fatal occupational injuries among employees (rate) [8.8.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2018,6,,Percent,Fatal occupational injuries among employees (rate) [8.8.1]
+2019,5,,Percent,Fatal occupational injuries among employees (rate) [8.8.1]
+2018,94,,Percent,Non-fatal occupational injuries among employees (rate) [8.8.1]
+2019,95,,Percent,Non-fatal occupational injuries among employees (rate) [8.8.1]

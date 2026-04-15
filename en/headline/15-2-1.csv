@@ -1,4 +1,4 @@
-Year,Value,GeoCode,SERIES
-2016,14.1,,Above-ground biomass in forest (tonnes) [15.2.1]
-2019,33.0,,Above-ground biomass in forest (tonnes) [15.2.1]
-2022,38.5,,Above-ground biomass in forest (tonnes) [15.2.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,14.1,,Percent,Above-ground biomass in forest (tonnes) [15.2.1]
+2019,33.0,,Percent,Above-ground biomass in forest (tonnes) [15.2.1]
+2022,38.5,,Percent,Above-ground biomass in forest (tonnes) [15.2.1]

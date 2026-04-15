@@ -30,6 +30,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -137,6 +141,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "string"
           },
@@ -190,6 +198,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -253,6 +265,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -301,6 +317,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -353,6 +373,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -390,6 +414,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -431,6 +459,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -468,6 +500,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -509,6 +545,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -546,6 +586,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -587,6 +631,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -624,6 +672,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -686,6 +738,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -746,6 +802,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -785,6 +845,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -822,6 +886,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -877,6 +945,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -955,6 +1027,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "string"
           },
@@ -1026,6 +1102,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1063,6 +1143,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -1104,6 +1188,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1141,6 +1229,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -1182,6 +1274,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1219,6 +1315,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -1260,6 +1360,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1297,6 +1401,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -1369,6 +1477,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1439,6 +1551,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1478,6 +1594,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1515,6 +1635,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -1577,6 +1701,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1637,6 +1765,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1687,6 +1819,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -1750,6 +1886,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1809,6 +1949,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -1882,6 +2026,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -1940,6 +2088,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2002,6 +2154,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2050,6 +2206,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2125,6 +2285,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2173,6 +2337,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2224,6 +2392,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2288,6 +2460,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2337,6 +2513,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2374,6 +2554,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2436,6 +2620,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2486,6 +2674,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2523,6 +2715,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2574,6 +2770,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2621,6 +2821,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2673,6 +2877,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2721,6 +2929,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2773,6 +2985,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2810,6 +3026,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2851,6 +3071,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2888,6 +3112,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -2929,6 +3157,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -2966,6 +3198,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3007,6 +3243,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3046,6 +3286,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3083,6 +3327,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3135,6 +3383,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3172,6 +3424,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3213,6 +3469,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3252,6 +3512,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3289,6 +3553,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3339,6 +3607,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3398,6 +3670,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3448,6 +3724,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3496,6 +3776,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3558,6 +3842,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3608,6 +3896,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3645,6 +3937,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3686,6 +3982,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3725,6 +4025,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3762,6 +4066,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3813,6 +4121,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3850,6 +4162,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3891,6 +4207,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -3928,6 +4248,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -3969,6 +4293,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4006,6 +4334,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4047,6 +4379,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4084,6 +4420,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4125,6 +4465,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4162,6 +4506,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4203,6 +4551,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4240,6 +4592,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4291,6 +4647,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4328,6 +4688,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4369,6 +4733,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4406,6 +4774,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4447,6 +4819,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4484,6 +4860,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4555,6 +4935,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "string"
           },
@@ -4592,6 +4976,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4633,6 +5021,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4670,6 +5062,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4711,6 +5107,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4748,6 +5148,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4800,6 +5204,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4837,6 +5245,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4878,6 +5290,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -4915,6 +5331,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -4967,6 +5387,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5004,6 +5428,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -5045,6 +5473,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5082,6 +5514,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -5123,6 +5559,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5160,6 +5600,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -5201,6 +5645,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5238,6 +5686,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -5300,6 +5752,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5337,6 +5793,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -5378,6 +5838,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5415,6 +5879,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -5456,6 +5924,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5493,6 +5965,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -5534,6 +6010,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5571,6 +6051,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -5623,6 +6107,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5660,6 +6148,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",
@@ -5701,6 +6193,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5740,6 +6236,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },
@@ -5777,6 +6277,10 @@
                 ""
               ]
             }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
           },
           {
             "name": "GeoCode",

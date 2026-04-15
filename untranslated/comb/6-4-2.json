@@ -1,1 +1,1 @@
-{"data":{"Year":[2018,2020],"SERIES":["ER_H2O_STRESS","ER_H2O_STRESS"],"REF_AREA":[null,null],"GeoCode":[null,null],"Value":[9.0,11.2]},"edges":[]}
+{"data":{"Year":[2018,2020],"SERIES":["ER_H2O_STRESS","ER_H2O_STRESS"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"GeoCode":[null,null],"Value":[9.0,11.2]},"edges":[]}

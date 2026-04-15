@@ -1,13 +1,13 @@
-Year,SERIES,Reference area,Degree of urbanisation,GeoCode,Value
-2017,Proportion of individuals who own a mobile telephone [5.b.1],,,,36.7
-2020,Proportion of individuals who own a mobile telephone [5.b.1],,,,54.8
-2022,Proportion of individuals who own a mobile telephone [5.b.1],,,,58.6
-2024,Proportion of individuals who own a mobile telephone [5.b.1],,,,85.0
-2017,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,,63.0
-2020,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,,61.6
-2022,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,,77.6
-2024,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,,94.0
-2017,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,,30.5
-2020,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,,47.9
-2022,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,,50.9
-2024,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,,80.6
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2017,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,36.7
+2020,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,54.8
+2022,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,58.6
+2024,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,85.0
+2017,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,63.0
+2020,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,61.6
+2022,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,77.6
+2024,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,94.0
+2017,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,30.5
+2020,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,47.9
+2022,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,50.9
+2024,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,80.6

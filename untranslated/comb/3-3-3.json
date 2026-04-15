@@ -1,1 +1,1 @@
-{"data":{"Year":[2015,2021,2022,2023,2024],"SERIES":["SH_STA_MALR","SH_STA_MALR","SH_STA_MALR","SH_STA_MALR","SH_STA_MALR"],"REF_AREA":[null,null,null,null,null],"GeoCode":[null,null,null,null,null],"Value":[308,114,76,47,45]},"edges":[]}
+{"data":{"Year":[2015,2021,2022,2023,2024],"SERIES":["SH_STA_MALR","SH_STA_MALR","SH_STA_MALR","SH_STA_MALR","SH_STA_MALR"],"REF_AREA":[null,null,null,null,null],"UNIT_MEASURE":["PER_1000_POP","PER_1000_POP","PER_1000_POP","PER_1000_POP","PER_1000_POP"],"GeoCode":[null,null,null,null,null],"Value":[308,114,76,47,45]},"edges":[]}

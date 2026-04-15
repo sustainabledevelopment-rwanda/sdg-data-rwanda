@@ -1,13 +1,13 @@
-Year,Value,GeoCode,SERIES
-2015,16.8,,Moderately food insecure based on CARI Method
-2018,17.0,,Moderately food insecure based on CARI Method
-2019,18.8,,Moderately food insecure based on CARI Method
-2020,16.8,,Moderately food insecure based on CARI Method
-2021,19.0,,Moderately food insecure based on CARI Method
-2024,16.0,,Moderately food insecure based on CARI Method
-2015,2.6,,Severely food insecure based on CARI Method
-2018,1.7,,Severely food insecure based on CARI Method
-2019,1.8,,Severely food insecure based on CARI Method
-2020,2.6,,Severely food insecure based on CARI Method
-2021,2.0,,Severely food insecure based on CARI Method
-2024,1.0,,Severely food insecure based on CARI Method
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2015,16.8,,Percent,Moderately food insecure based on CARI Method
+2018,17.0,,Percent,Moderately food insecure based on CARI Method
+2019,18.8,,Percent,Moderately food insecure based on CARI Method
+2020,16.8,,Percent,Moderately food insecure based on CARI Method
+2021,19.0,,Percent,Moderately food insecure based on CARI Method
+2024,16.0,,Percent,Moderately food insecure based on CARI Method
+2015,2.6,,Percent,Severely food insecure based on CARI Method
+2018,1.7,,Percent,Severely food insecure based on CARI Method
+2019,1.8,,Percent,Severely food insecure based on CARI Method
+2020,2.6,,Percent,Severely food insecure based on CARI Method
+2021,2.0,,Percent,Severely food insecure based on CARI Method
+2024,1.0,,Percent,Severely food insecure based on CARI Method

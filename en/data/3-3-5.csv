@@ -1,4 +1,4 @@
-Year,SERIES,Reference area,GeoCode,Value
-2016,Number of people requiring interventions against neglected tropical diseases [3.3.5],,,4815291
-2021,Number of people requiring interventions against neglected tropical diseases [3.3.5],,,4935596
-2022,Number of people requiring interventions against neglected tropical diseases [3.3.5],,,11532788
+Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2016,Number of people requiring interventions against neglected tropical diseases [3.3.5],,Number,,4815291
+2021,Number of people requiring interventions against neglected tropical diseases [3.3.5],,Number,,4935596
+2022,Number of people requiring interventions against neglected tropical diseases [3.3.5],,Number,,11532788

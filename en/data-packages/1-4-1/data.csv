@@ -1,4 +1,4 @@
-Year,SERIES,Reference area,Sex,GeoCode,Value
-2019,Proportion of population living in households with access to basic services [1.4.1],,,,38.2
-2019,Proportion of population living in households with access to basic services [1.4.1],,Male,,31.6
-2019,Proportion of population living in households with access to basic services [1.4.1],,Female,,34.8
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2019,Proportion of population living in households with access to basic services [1.4.1],,,Percent,,38.2
+2019,Proportion of population living in households with access to basic services [1.4.1],,Male,Percent,,31.6
+2019,Proportion of population living in households with access to basic services [1.4.1],,Female,Percent,,34.8

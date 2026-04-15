@@ -1,12 +1,12 @@
-Year,Value,GeoCode,SERIES
-2013,74.2,,Percentage of citizen satisfaction in their participation in decision making
-2014,75.3,,Percentage of citizen satisfaction in their participation in decision making
-2015,75.4,,Percentage of citizen satisfaction in their participation in decision making
-2016,77.0,,Percentage of citizen satisfaction in their participation in decision making
-2017,76.8,,Percentage of citizen satisfaction in their participation in decision making
-2018,73.0,,Percentage of citizen satisfaction in their participation in decision making
-2019,82.0,,Percentage of citizen satisfaction in their participation in decision making
-2020,84.2,,Percentage of citizen satisfaction in their participation in decision making
-2021,87.1,,Percentage of citizen satisfaction in their participation in decision making
-2023,84.0,,Percentage of citizen satisfaction in their participation in decision making
-2024,88.4,,Percentage of citizen satisfaction in their participation in decision making
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2013,74.2,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2014,75.3,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2015,75.4,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2016,77.0,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2017,76.8,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2018,73.0,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2019,82.0,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2020,84.2,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2021,87.1,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2023,84.0,,Percent,Percentage of citizen satisfaction in their participation in decision making
+2024,88.4,,Percent,Percentage of citizen satisfaction in their participation in decision making

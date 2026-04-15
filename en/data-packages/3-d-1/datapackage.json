@@ -54,6 +54,11 @@
             "title": "Composite breakdown"
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
             "name": "GeoCode",
             "type": "number",
             "title": "GeoCode"

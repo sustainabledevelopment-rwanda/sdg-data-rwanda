@@ -1,4 +1,4 @@
-Year,Value,GeoCode,SERIES
-2017,1.2,,Proportion (%) of Households with primary reliance on clean cooking fuels
-2020,4.2,,Proportion (%) of Households with primary reliance on clean cooking fuels
-2024,5.4,,Proportion (%) of Households with primary reliance on clean cooking fuels
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2017,1.2,,Percent,Proportion (%) of Households with primary reliance on clean cooking fuels
+2020,4.2,,Percent,Proportion (%) of Households with primary reliance on clean cooking fuels
+2024,5.4,,Percent,Proportion (%) of Households with primary reliance on clean cooking fuels

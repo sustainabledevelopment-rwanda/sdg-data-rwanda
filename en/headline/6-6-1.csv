@@ -1,2 +1,2 @@
-Year,Value,GeoCode,SERIES
-2016,0.9,,Water body extent (permanent) (% of total land area) [6.6.1]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,0.9,,Percent,Water body extent (permanent) (% of total land area) [6.6.1]

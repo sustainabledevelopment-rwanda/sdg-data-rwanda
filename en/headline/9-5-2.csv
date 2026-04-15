@@ -1,6 +1,6 @@
-Year,Value,GeoCode,SERIES
-2008,10.9,,Researchers (in full-time equivalent) per million inhabitants [9.5.2]
-2009,12.6,,Researchers (in full-time equivalent) per million inhabitants [9.5.2]
-2013,15.5,,Researchers (in full-time equivalent) per million inhabitants [9.5.2]
-2016,13.9,,Researchers (in full-time equivalent) per million inhabitants [9.5.2]
-2019,58.8,,Researchers (in full-time equivalent) per million inhabitants [9.5.2]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2008,10.9,,Per million population,Researchers (in full-time equivalent) per million inhabitants [9.5.2]
+2009,12.6,,Per million population,Researchers (in full-time equivalent) per million inhabitants [9.5.2]
+2013,15.5,,Per million population,Researchers (in full-time equivalent) per million inhabitants [9.5.2]
+2016,13.9,,Per million population,Researchers (in full-time equivalent) per million inhabitants [9.5.2]
+2019,58.8,,Per million population,Researchers (in full-time equivalent) per million inhabitants [9.5.2]

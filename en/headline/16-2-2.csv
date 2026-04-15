@@ -1,22 +1,22 @@
-Year,Value,GeoCode,SERIES
-2016,0.5,,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
-2017,0.8,,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
-2018,0.5,,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
-2019,0.7,,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
-2020,0.5,,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
-2021,0.3,,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
-2022,0.4,,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
-2016,55.0,,Detected victims of human trafficking (number) [16.2.2]
-2017,89.0,,Detected victims of human trafficking (number) [16.2.2]
-2018,63.0,,Detected victims of human trafficking (number) [16.2.2]
-2019,91.0,,Detected victims of human trafficking (number) [16.2.2]
-2020,61.0,,Detected victims of human trafficking (number) [16.2.2]
-2021,41.0,,Detected victims of human trafficking (number) [16.2.2]
-2022,58.0,,Detected victims of human trafficking (number) [16.2.2]
-2020,41.0,,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]"
-2021,15.0,,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]"
-2022,29.0,,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]"
-2020,1.0,,Detected victims of human trafficking for other purposes (number) [16.2.2]
-2020,19.0,,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2]
-2021,26.0,,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2]
-2022,29.0,,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2]
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2016,0.5,,Percent,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
+2017,0.8,,Percent,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
+2018,0.5,,Percent,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
+2019,0.7,,Percent,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
+2020,0.5,,Percent,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
+2021,0.3,,Percent,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
+2022,0.4,,Percent,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2]
+2016,55.0,,"Per 100,000 population",Detected victims of human trafficking (number) [16.2.2]
+2017,89.0,,"Per 100,000 population",Detected victims of human trafficking (number) [16.2.2]
+2018,63.0,,"Per 100,000 population",Detected victims of human trafficking (number) [16.2.2]
+2019,91.0,,"Per 100,000 population",Detected victims of human trafficking (number) [16.2.2]
+2020,61.0,,"Per 100,000 population",Detected victims of human trafficking (number) [16.2.2]
+2021,41.0,,"Per 100,000 population",Detected victims of human trafficking (number) [16.2.2]
+2022,58.0,,"Per 100,000 population",Detected victims of human trafficking (number) [16.2.2]
+2020,41.0,,"Per 100,000 population","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]"
+2021,15.0,,"Per 100,000 population","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]"
+2022,29.0,,"Per 100,000 population","Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]"
+2020,1.0,,"Per 100,000 population",Detected victims of human trafficking for other purposes (number) [16.2.2]
+2020,19.0,,"Per 100,000 population",Detected victims of human trafficking for sexual exploitaton (number) [16.2.2]
+2021,26.0,,"Per 100,000 population",Detected victims of human trafficking for sexual exploitaton (number) [16.2.2]
+2022,29.0,,"Per 100,000 population",Detected victims of human trafficking for sexual exploitaton (number) [16.2.2]

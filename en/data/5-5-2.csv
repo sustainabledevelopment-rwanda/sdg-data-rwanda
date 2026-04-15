@@ -1,8 +1,8 @@
-Year,SERIES,Reference area,Sex,GeoCode,Value
-2016,Proportion of women in managerial positions [5.5.2],,Female,,26.9
-2017,Proportion of women in managerial positions [5.5.2],,Female,,29.5
-2018,Proportion of women in managerial positions [5.5.2],,Female,,34.1
-2019,Proportion of women in managerial positions [5.5.2],,Female,,32.5
-2021,Proportion of women in managerial positions [5.5.2],,Female,,34.8
-2022,Proportion of women in managerial positions [5.5.2],,Female,,26.1
-2023,Proportion of women in managerial positions [5.5.2],,Female,,39.6
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2016,Proportion of women in managerial positions [5.5.2],,Female,Percent,,26.9
+2017,Proportion of women in managerial positions [5.5.2],,Female,Percent,,29.5
+2018,Proportion of women in managerial positions [5.5.2],,Female,Percent,,34.1
+2019,Proportion of women in managerial positions [5.5.2],,Female,Percent,,32.5
+2021,Proportion of women in managerial positions [5.5.2],,Female,Percent,,34.8
+2022,Proportion of women in managerial positions [5.5.2],,Female,Percent,,26.1
+2023,Proportion of women in managerial positions [5.5.2],,Female,Percent,,39.6

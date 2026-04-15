@@ -60,6 +60,10 @@
             }
           },
           {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
             "name": "GeoCode",
             "type": "number"
           },

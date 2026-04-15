@@ -1,41 +1,41 @@
-Year,SERIES,Reference area,Sex,Degree of urbanisation,GeoCode,Value
-2017,Proportion of population covered by core Social Protection programs [1.3.1],,,,,6.5
-2018,Proportion of population covered by core Social Protection programs [1.3.1],,,,,6.5
-2022,Proportion of population covered by core Social Protection programs [1.3.1],,,,,11.0
-2017,Number of members of Pension and occupational Hazards [1.3.1],,,,,484435.0
-2018,Number of members of Pension and occupational Hazards [1.3.1],,,,,560769.0
-2020,Number of members of Pension and occupational Hazards [1.3.1],,,,,610263.0
-2022,Number of members of Pension and occupational Hazards [1.3.1],,,,,705713.0
-2017,Number of population covered by Medical scheme [1.3.1],,,,,376836.0
-2018,Number of population covered by Medical scheme [1.3.1],,,,,432450.0
-2019,Number of population covered by Medical scheme [1.3.1],,,,,532297.0
-2020,Number of population covered by Medical scheme [1.3.1],,,,,579623.0
-2021,Number of population covered by Medical scheme [1.3.1],,,,,554048.0
-2022,Number of population covered by Medical scheme [1.3.1],,,,,608436.0
-2017,Proportion of population covered by Community-Based Health Insurance [1.3.1],,,,,84.2
-2018,Proportion of population covered by Community-Based Health Insurance [1.3.1],,,,,83.3
-2019,Proportion of population covered by Community-Based Health Insurance [1.3.1],,,,,80.0
-2022,Proportion of population covered by Community-Based Health Insurance [1.3.1],,,,,93.0
-2017,Proportion of population covered by Health insurance [1.3.1],,,,,70.0
-2018,Proportion of population covered by Health insurance [1.3.1],,,,,73.9
-2020,Proportion of population covered by Health insurance [1.3.1],,,,,86.0
-2022,Proportion of population covered by Health insurance [1.3.1],,,,,97.3
-2017,Proportion of population covered by Health insurance [1.3.1],,,Urban,,73.8
-2018,Proportion of population covered by Health insurance [1.3.1],,,Urban,,79.5
-2020,Proportion of population covered by Health insurance [1.3.1],,,Urban,,87.2
-2022,Proportion of population covered by Health insurance [1.3.1],,,Urban,,96.7
-2017,Proportion of population covered by Health insurance [1.3.1],,,Rural,,69.2
-2018,Proportion of population covered by Health insurance [1.3.1],,,Rural,,72.7
-2020,Proportion of population covered by Health insurance [1.3.1],,,Rural,,85.6
-2022,Proportion of population covered by Health insurance [1.3.1],,,Rural,,97.5
-2017,Proportion of population covered by Health insurance [1.3.1],,Male,,,69.4
-2018,Proportion of population covered by Health insurance [1.3.1],,Male,,,73.4
-2020,Proportion of population covered by Health insurance [1.3.1],,Male,,,83.0
-2022,Proportion of population covered by Health insurance [1.3.1],,Male,,,97.1
-2017,Proportion of population covered by Health insurance [1.3.1],,Female,,,70.5
-2018,Proportion of population covered by Health insurance [1.3.1],,Female,,,74.5
-2020,Proportion of population covered by Health insurance [1.3.1],,Female,,,83.3
-2022,Proportion of population covered by Health insurance [1.3.1],,Female,,,97.5
-2018,Number of actively contributing women covered by Maternity Leave Benefits [1.3.1],,,,,164601.0
-2020,Number of actively contributing women covered by Maternity Leave Benefits [1.3.1],,,,,227152.0
-2022,Number of actively contributing women covered by Maternity Leave Benefits [1.3.1],,,,,233982.0
+Year,SERIES,Reference area,Sex,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2017,Proportion of population covered by core Social Protection programs [1.3.1],,,,Percent,,6.5
+2018,Proportion of population covered by core Social Protection programs [1.3.1],,,,Percent,,6.5
+2022,Proportion of population covered by core Social Protection programs [1.3.1],,,,Percent,,11.0
+2017,Number of members of Pension and occupational Hazards [1.3.1],,,,Number,,484435.0
+2018,Number of members of Pension and occupational Hazards [1.3.1],,,,Number,,560769.0
+2020,Number of members of Pension and occupational Hazards [1.3.1],,,,Number,,610263.0
+2022,Number of members of Pension and occupational Hazards [1.3.1],,,,Number,,705713.0
+2017,Number of population covered by Medical scheme [1.3.1],,,,Number,,376836.0
+2018,Number of population covered by Medical scheme [1.3.1],,,,Number,,432450.0
+2019,Number of population covered by Medical scheme [1.3.1],,,,Number,,532297.0
+2020,Number of population covered by Medical scheme [1.3.1],,,,Number,,579623.0
+2021,Number of population covered by Medical scheme [1.3.1],,,,Number,,554048.0
+2022,Number of population covered by Medical scheme [1.3.1],,,,Number,,608436.0
+2017,Proportion of population covered by Community-Based Health Insurance [1.3.1],,,,Percent,,84.2
+2018,Proportion of population covered by Community-Based Health Insurance [1.3.1],,,,Percent,,83.3
+2019,Proportion of population covered by Community-Based Health Insurance [1.3.1],,,,Percent,,80.0
+2022,Proportion of population covered by Community-Based Health Insurance [1.3.1],,,,Percent,,93.0
+2017,Proportion of population covered by Health insurance [1.3.1],,,,Percent,,70.0
+2018,Proportion of population covered by Health insurance [1.3.1],,,,Percent,,73.9
+2020,Proportion of population covered by Health insurance [1.3.1],,,,Percent,,86.0
+2022,Proportion of population covered by Health insurance [1.3.1],,,,Percent,,97.3
+2017,Proportion of population covered by Health insurance [1.3.1],,,Urban,Percent,,73.8
+2018,Proportion of population covered by Health insurance [1.3.1],,,Urban,Percent,,79.5
+2020,Proportion of population covered by Health insurance [1.3.1],,,Urban,Percent,,87.2
+2022,Proportion of population covered by Health insurance [1.3.1],,,Urban,Percent,,96.7
+2017,Proportion of population covered by Health insurance [1.3.1],,,Rural,Percent,,69.2
+2018,Proportion of population covered by Health insurance [1.3.1],,,Rural,Percent,,72.7
+2020,Proportion of population covered by Health insurance [1.3.1],,,Rural,Percent,,85.6
+2022,Proportion of population covered by Health insurance [1.3.1],,,Rural,Percent,,97.5
+2017,Proportion of population covered by Health insurance [1.3.1],,Male,,Percent,,69.4
+2018,Proportion of population covered by Health insurance [1.3.1],,Male,,Percent,,73.4
+2020,Proportion of population covered by Health insurance [1.3.1],,Male,,Percent,,83.0
+2022,Proportion of population covered by Health insurance [1.3.1],,Male,,Percent,,97.1
+2017,Proportion of population covered by Health insurance [1.3.1],,Female,,Percent,,70.5
+2018,Proportion of population covered by Health insurance [1.3.1],,Female,,Percent,,74.5
+2020,Proportion of population covered by Health insurance [1.3.1],,Female,,Percent,,83.3
+2022,Proportion of population covered by Health insurance [1.3.1],,Female,,Percent,,97.5
+2018,Number of actively contributing women covered by Maternity Leave Benefits [1.3.1],,,,Number,,164601.0
+2020,Number of actively contributing women covered by Maternity Leave Benefits [1.3.1],,,,Number,,227152.0
+2022,Number of actively contributing women covered by Maternity Leave Benefits [1.3.1],,,,Number,,233982.0
