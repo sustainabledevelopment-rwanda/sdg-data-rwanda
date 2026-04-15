@@ -1,5 +1,5 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,Exports goods and services in Million USD,MINECOFIN,_L_RW_171101_1,,USD,,1534.4
-2017,Exports goods and services in Million USD,MINECOFIN,_L_RW_171101_1,,USD,,1979.9
-2018,Exports goods and services in Million USD,MINECOFIN,_L_RW_171101_1,,USD,,2039.2
-2020,Exports goods and services in Million USD,MINECOFIN,_L_RW_171101_1,,USD,,2159.7
+Year,SERIES,REF_AREA,GeoCode,Value
+2016,_L_RW_171101_1,,,1534.4
+2017,_L_RW_171101_1,,,1979.9
+2018,_L_RW_171101_1,,,2039.2
+2020,_L_RW_171101_1,,,2159.7

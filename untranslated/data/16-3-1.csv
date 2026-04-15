@@ -1,4 +1,4 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2021,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,"Rwanda Governance Score Card, RGB",VC_PRR_PHYV,,PT,,7.5
-2023,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,"Rwanda Governance Score Card, RGB",VC_PRR_PHYV,,PT,,7.3
-2024,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,"Rwanda Governance Score Card, RGB",VC_PRR_PHYV,,PT,,6.4
+Year,SERIES,REF_AREA,GeoCode,Value
+2021,VC_PRR_PHYV,,,7.5
+2023,VC_PRR_PHYV,,,7.3
+2024,VC_PRR_PHYV,,,6.4

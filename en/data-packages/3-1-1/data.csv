@@ -1,6 +1,6 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2000,Maternal mortality ratio,"DHS, NISR",Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,1071
-2005,Maternal mortality ratio,"DHS, NISR",Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,750
-2010,Maternal mortality ratio,"DHS, NISR",Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,476
-2015,Maternal mortality ratio,"DHS, NISR",Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,210
-2020,Maternal mortality ratio,"DHS, NISR",Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,203
+Year,SERIES,Reference area,GeoCode,Value
+2000,Maternal mortality ratio [3.1.1],,,1071
+2005,Maternal mortality ratio [3.1.1],,,750
+2010,Maternal mortality ratio [3.1.1],,,476
+2015,Maternal mortality ratio [3.1.1],,,210
+2020,Maternal mortality ratio [3.1.1],,,203

@@ -1,5 +1,5 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",MINECOFIN,GF_FRN_FDIODASS,,PT,,4.0
-2017,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",MINECOFIN,GF_FRN_FDIODASS,,PT,,4.1
-2020,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",MINECOFIN,GF_FRN_FDIODASS,,PT,,3.3
-2021,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",MINECOFIN,GF_FRN_FDIODASS,,PT,,3.7
+Year,SERIES,REF_AREA,GeoCode,Value
+2016,GF_FRN_FDIODASS,,,4.0
+2017,GF_FRN_FDIODASS,,,4.1
+2020,GF_FRN_FDIODASS,,,3.3
+2021,GF_FRN_FDIODASS,,,3.7

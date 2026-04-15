@@ -1,10 +1,10 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
-2014,Proportion of children engaged in economic activity,"EICV, NISR",SL_TLF_CHLDEA,,,Y5T17,PT,,5.5
-2017,Proportion of children engaged in economic activity,"EICV, NISR",SL_TLF_CHLDEA,,,Y5T17,PT,,3.6
-2024,Proportion of children engaged in economic activity,"EICV, NISR",SL_TLF_CHLDEA,,,Y5T17,PT,,3.3
-2014,Proportion of children engaged in economic activity,"EICV, NISR",SL_TLF_CHLDEA,,M,Y5T17,PT,,6.4
-2017,Proportion of children engaged in economic activity,"EICV, NISR",SL_TLF_CHLDEA,,M,Y5T17,PT,,4.0
-2024,Proportion of children engaged in economic activity,"EICV, NISR",SL_TLF_CHLDEA,,M,Y5T17,PT,,3.6
-2014,Proportion of children engaged in economic activity,"EICV, NISR",SL_TLF_CHLDEA,,F,Y5T17,PT,,4.7
-2017,Proportion of children engaged in economic activity,"EICV, NISR",SL_TLF_CHLDEA,,F,Y5T17,PT,,3.2
-2024,Proportion of children engaged in economic activity,"EICV, NISR",SL_TLF_CHLDEA,,F,Y5T17,PT,,3.0
+Year,SERIES,REF_AREA,SEX,AGE,GeoCode,Value
+2014,SL_TLF_CHLDEA,,,Y5T17,,5.5
+2017,SL_TLF_CHLDEA,,,Y5T17,,3.6
+2024,SL_TLF_CHLDEA,,,Y5T17,,3.3
+2014,SL_TLF_CHLDEA,,M,Y5T17,,6.4
+2017,SL_TLF_CHLDEA,,M,Y5T17,,4.0
+2024,SL_TLF_CHLDEA,,M,Y5T17,,3.6
+2014,SL_TLF_CHLDEA,,F,Y5T17,,4.7
+2017,SL_TLF_CHLDEA,,F,Y5T17,,3.2
+2024,SL_TLF_CHLDEA,,F,Y5T17,,3.0

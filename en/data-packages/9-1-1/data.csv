@@ -1,5 +1,2 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2018,Proportion of the rural population who live within 2 km of an all-season road,"Study on road and
-public transport
-accessibility in Rwanda
-(MININFRA)",Proportion of the rural population who live within 2 km of an all-season road [9.1.1],,Rural,Percent,,63
+Year,SERIES,Reference area,Degree of urbanisation,GeoCode,Value
+2018,Proportion of the rural population who live within 2 km of an all-season road [9.1.1],,Rural,,63

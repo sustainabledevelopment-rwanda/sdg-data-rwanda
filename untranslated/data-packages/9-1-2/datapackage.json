@@ -15,28 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Mail volume (tonne kilometres)",
-                "Freight volume (tonne kilometres)",
-                "Passenger volume (passenger kilometres)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MININFRA",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -48,10 +26,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "GeoCode",

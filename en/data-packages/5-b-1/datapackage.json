@@ -16,28 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of individuals who own a mobile telephone (Population 16 years and above)",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EICV and RPHC5/2022",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -63,11 +41,6 @@
               ]
             },
             "title": "Degree of urbanisation"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

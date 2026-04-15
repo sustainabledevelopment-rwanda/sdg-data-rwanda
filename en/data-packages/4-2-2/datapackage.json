@@ -16,28 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Participation rate in organized learning (one year before the official primary entry age)",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MINEDUC, Education Admin data, 2023",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -74,11 +52,6 @@
               ]
             },
             "title": "Education level"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

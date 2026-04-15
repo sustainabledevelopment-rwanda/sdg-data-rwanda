@@ -15,26 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "UNSD, Global SDG database",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -46,10 +26,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "GeoCode",

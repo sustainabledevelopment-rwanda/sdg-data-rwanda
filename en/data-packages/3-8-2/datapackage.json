@@ -16,28 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "HMIS (Health sector annual report 2020/21)",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -51,11 +29,6 @@
               ]
             },
             "title": "Reference area"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

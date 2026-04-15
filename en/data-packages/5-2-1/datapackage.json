@@ -16,30 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of ever-partnered women and girls subjected to physical violence by a current or former intimate partner in the previous 12 months",
-                "Proportion of ever-partnered women and girls subjected to sexual violence by a current or former intimate partner in the previous 12 months",
-                "Proportion of ever-partnered women and girls subjected to psychological violence by a current or former intimate partner in the previous 12 months",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DHS, NISR",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -64,11 +40,6 @@
               ]
             },
             "title": "Sex"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

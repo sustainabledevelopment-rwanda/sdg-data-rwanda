@@ -1,36 +1,6 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2018,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,ER_WLD_TRPOACH,,PT,,0
-2019,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,ER_WLD_TRPOACH,,PT,,0
-2020,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,ER_WLD_TRPOACH,,PT,,0
-2021,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,ER_WLD_TRPOACH,,PT,,0
-2022,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,ER_WLD_TRPOACH,,PT,,0
+Year,SERIES,REF_AREA,GeoCode,Value
+2018,ER_WLD_TRPOACH,,,0
+2019,ER_WLD_TRPOACH,,,0
+2020,ER_WLD_TRPOACH,,,0
+2021,ER_WLD_TRPOACH,,,0
+2022,ER_WLD_TRPOACH,,,0

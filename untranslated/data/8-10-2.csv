@@ -1,6 +1,6 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2006,Percentage of households with at least one savings account,"EICV, NISR",_L_RW_081002_1,,PT,,18.9
-2011,Percentage of households with at least one savings account,"EICV, NISR",_L_RW_081002_1,,PT,,36.1
-2014,Percentage of households with at least one savings account,"EICV, NISR",_L_RW_081002_1,,PT,,54.1
-2016,Percentage of households with at least one savings account,"EICV, NISR",_L_RW_081002_1,,PT,,68.0
-2020,Percentage of households with at least one savings account,"EICV, NISR",_L_RW_081002_1,,PT,,93.0
+Year,SERIES,REF_AREA,GeoCode,Value
+2006,_L_RW_081002_1,,,18.9
+2011,_L_RW_081002_1,,,36.1
+2014,_L_RW_081002_1,,,54.1
+2016,_L_RW_081002_1,,,68.0
+2020,_L_RW_081002_1,,,93.0

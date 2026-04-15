@@ -16,28 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "International Health Regulations (IHR) capacity, by type of IHR capacity",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "WHO, International Health Regulations (2005) Monitoring Framework Country Profiles",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -74,11 +52,6 @@
               ]
             },
             "title": "Composite breakdown"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

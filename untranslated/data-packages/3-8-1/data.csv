@@ -1,4 +1,4 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2010,Universal health coverage,DHS/STEPS/Census/HMIS,SH_ACS_UNHC,,PT,,45.3
-2015,Universal health coverage,DHS/STEPS/Census/HMIS,SH_ACS_UNHC,,PT,,53.1
-2020,Universal health coverage,DHS/STEPS/Census/HMIS,SH_ACS_UNHC,,PT,,53.7
+Year,SERIES,REF_AREA,GeoCode,Value
+2010,SH_ACS_UNHC,,,45.3
+2015,SH_ACS_UNHC,,,53.1
+2020,SH_ACS_UNHC,,,53.7

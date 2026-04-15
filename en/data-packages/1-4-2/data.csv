@@ -1,5 +1,5 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2023,Total Number of adult population who have land,"Rwanda Land Dashboard, 2023",Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,,Number,,4218003.0
-2023,Total Number of adult population who have land,"Rwanda Land Dashboard, 2023",Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Male,Number,,2081442.0
-2023,Total Number of adult population who have land,"Rwanda Land Dashboard, 2023",Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,Number,,2136561.0
-2022,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Owned by other)","Rwanda Land Dashboard, 2023",Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,,Percent,,21.9
+Year,SERIES,Reference area,Sex,GeoCode,Value
+2023,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,,,4218003.0
+2023,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Male,,2081442.0
+2023,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,Female,,2136561.0
+2022,Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2],,,,21.9

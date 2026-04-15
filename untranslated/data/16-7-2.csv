@@ -1,12 +1,12 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2013,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,74.2
-2014,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,75.3
-2015,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,75.4
-2016,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,77.0
-2017,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,76.8
-2018,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,73.0
-2019,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,82.0
-2020,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,84.2
-2021,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,87.1
-2023,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,84.0
-2024,Percentage of citizen satisfaction in their participation in decision making,"Rwanda Governance Score Card, RGB",_L_RW_160702_1,,PT,,88.4
+Year,SERIES,REF_AREA,GeoCode,Value
+2013,_L_RW_160702_1,,,74.2
+2014,_L_RW_160702_1,,,75.3
+2015,_L_RW_160702_1,,,75.4
+2016,_L_RW_160702_1,,,77.0
+2017,_L_RW_160702_1,,,76.8
+2018,_L_RW_160702_1,,,73.0
+2019,_L_RW_160702_1,,,82.0
+2020,_L_RW_160702_1,,,84.2
+2021,_L_RW_160702_1,,,87.1
+2023,_L_RW_160702_1,,,84.0
+2024,_L_RW_160702_1,,,88.4

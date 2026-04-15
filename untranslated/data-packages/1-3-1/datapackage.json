@@ -15,33 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of population covered by core Social Protection programs",
-                "Number of members of Pension and occupational Hazards",
-                "Number of population covered by Medical scheme",
-                "Proportion of population covered by Community-Based Health Insurance (Coverage rate)",
-                "Proportion of population covered by Health insurance",
-                "Number of actively contributing women covered by Maternity Leave Benefits",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",
-                "Census 2022",
-                "NISR, DHS 2019/20 and Census 2022",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -75,10 +48,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "GeoCode",

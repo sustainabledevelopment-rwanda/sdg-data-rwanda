@@ -15,41 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of schools with access to electricity - Nursery",
-                "Proportion of schools with access to electricity - Primary",
-                "Proportion of schools with access to electricity - Secondary",
-                "Proportion of schools with access to the internet for pedagogical purposes - Primary",
-                "Proportion of schools with access to the internet for pedagogical purposes - Secondary",
-                "Proportion of schools with access to computers for pedagogical purposes - Primary",
-                "Proportion of schools with access to computers for pedagogical purposes - Secondary",
-                "Proportion of schools with basic handwashing facilities - Nursery",
-                "Proportion of schools with basic handwashing facilities - Primary",
-                "Proportion of schools with basic handwashing facilitiesr - Secondary",
-                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Nursery",
-                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Primary",
-                "Proportion of schools with access to adapted infrastructure and materials for students with disabilities - Secondary",
-                "Proportion of schools with access to basic drinking water - Nursery",
-                "Proportion of schools with access to basic drinking water - Primary",
-                "Proportion of schools with access to basic drinking water - Secondary",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "MINEDUC, Statistical Yearbook 2022",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -73,10 +38,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "GeoCode",

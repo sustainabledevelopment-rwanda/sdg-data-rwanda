@@ -1,9 +1,9 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2015,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey","DHS, NISR","Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",,Male,Percent,,11
-2020,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey","DHS, NISR","Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",,Male,Percent,,9
-2015,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey","DHS, NISR","Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",,Female,Percent,,14
-2020,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey","DHS, NISR","Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",,Female,Percent,,16
-2015,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,"DHS, NISR",Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,,Male,Percent,,1
-2020,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,"DHS, NISR",Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,,Male,Percent,,6
-2015,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,"DHS, NISR",Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,,Female,Percent,,8
-2020,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,"DHS, NISR",Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,,Female,Percent,,23
+Year,SERIES,Reference area,Sex,GeoCode,Value
+2015,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",,Male,,11
+2020,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",,Male,,9
+2015,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",,Female,,14
+2020,"Percent of women and  men, age 15-49 have experienced physical violence within the 12 months preceding the survey",,Female,,16
+2015,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,,Male,,1
+2020,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,,Male,,6
+2015,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,,Female,,8
+2020,Percent of women and  men age 15-49 report having experienced sexual violence at least once in the past 12 months,,Female,,23

@@ -1,13 +1,13 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Moderately food insecure based on CARI Method,,Percent,,16.8
-2018,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Moderately food insecure based on CARI Method,,Percent,,17.0
-2019,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Moderately food insecure based on CARI Method,,Percent,,18.8
-2020,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Moderately food insecure based on CARI Method,,Percent,,16.8
-2021,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Moderately food insecure based on CARI Method,,Percent,,19.0
-2024,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Moderately food insecure based on CARI Method,,Percent,,16.0
-2015,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Severely food insecure based on CARI Method,,Percent,,2.6
-2018,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Severely food insecure based on CARI Method,,Percent,,1.7
-2019,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Severely food insecure based on CARI Method,,Percent,,1.8
-2020,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Severely food insecure based on CARI Method,,Percent,,2.6
-2021,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Severely food insecure based on CARI Method,,Percent,,2.0
-2024,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",Severely food insecure based on CARI Method,,Percent,,1.0
+Year,SERIES,Reference area,GeoCode,Value
+2015,Moderately food insecure based on CARI Method,,,16.8
+2018,Moderately food insecure based on CARI Method,,,17.0
+2019,Moderately food insecure based on CARI Method,,,18.8
+2020,Moderately food insecure based on CARI Method,,,16.8
+2021,Moderately food insecure based on CARI Method,,,19.0
+2024,Moderately food insecure based on CARI Method,,,16.0
+2015,Severely food insecure based on CARI Method,,,2.6
+2018,Severely food insecure based on CARI Method,,,1.7
+2019,Severely food insecure based on CARI Method,,,1.8
+2020,Severely food insecure based on CARI Method,,,2.6
+2021,Severely food insecure based on CARI Method,,,2.0
+2024,Severely food insecure based on CARI Method,,,1.0

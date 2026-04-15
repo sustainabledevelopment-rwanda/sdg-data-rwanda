@@ -1,10 +1,10 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2012,Labour share of GDP (%),"UNSD, Global SDG database",SL_EMP_GTOTL,,PT,,43.1
-2013,Labour share of GDP (%),"UNSD, Global SDG database",SL_EMP_GTOTL,,PT,,44.3
-2014,Labour share of GDP (%),"UNSD, Global SDG database",SL_EMP_GTOTL,,PT,,44.0
-2015,Labour share of GDP (%),"UNSD, Global SDG database",SL_EMP_GTOTL,,PT,,43.2
-2016,Labour share of GDP (%),"UNSD, Global SDG database",SL_EMP_GTOTL,,PT,,44.0
-2017,Labour share of GDP (%),"UNSD, Global SDG database",SL_EMP_GTOTL,,PT,,44.6
-2018,Labour share of GDP (%),"UNSD, Global SDG database",SL_EMP_GTOTL,,PT,,43.2
-2019,Labour share of GDP (%),"UNSD, Global SDG database",SL_EMP_GTOTL,,PT,,43.0
-2020,Labour share of GDP (%),"UNSD, Global SDG database",SL_EMP_GTOTL,,PT,,44.2
+Year,SERIES,REF_AREA,GeoCode,Value
+2012,SL_EMP_GTOTL,,,43.1
+2013,SL_EMP_GTOTL,,,44.3
+2014,SL_EMP_GTOTL,,,44.0
+2015,SL_EMP_GTOTL,,,43.2
+2016,SL_EMP_GTOTL,,,44.0
+2017,SL_EMP_GTOTL,,,44.6
+2018,SL_EMP_GTOTL,,,43.2
+2019,SL_EMP_GTOTL,,,43.0
+2020,SL_EMP_GTOTL,,,44.2

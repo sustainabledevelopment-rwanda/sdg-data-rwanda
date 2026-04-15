@@ -1,7 +1,3 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2012,"The proportion of heavy drinkers (≥60g of pure alcohol/ six standard drinks on average per
-occasion among men and ≥40g of pure alcohol4 standard drinks on average per occasion among
-women).","MoH, Steps Survey",Alcohol consumption per capita (aged 15 years and older) within a calendar year [3.5.2],,Percent,,23.5
-2022,"The proportion of heavy drinkers (≥60g of pure alcohol/ six standard drinks on average per
-occasion among men and ≥40g of pure alcohol4 standard drinks on average per occasion among
-women).","MoH, Steps Survey",Alcohol consumption per capita (aged 15 years and older) within a calendar year [3.5.2],,Percent,,15.2
+Year,SERIES,Reference area,GeoCode,Value
+2012,Alcohol consumption per capita (aged 15 years and older) within a calendar year [3.5.2],,,23.5
+2022,Alcohol consumption per capita (aged 15 years and older) within a calendar year [3.5.2],,,15.2

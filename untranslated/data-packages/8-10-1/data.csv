@@ -1,15 +1,15 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.8
-2016,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,6.0
-2017,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.9
-2018,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.4
-2019,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.3
-2020,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.2
-2022,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,4.4
-2023,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,4.3
-2024,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,4.4
-2015,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,8.2
-2016,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,8.2
-2017,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,7.4
-2018,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,7.4
-2019,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,6.9
+Year,SERIES,REF_AREA,GeoCode,Value
+2015,FB_ATM_TOTL,,,5.8
+2016,FB_ATM_TOTL,,,6.0
+2017,FB_ATM_TOTL,,,5.9
+2018,FB_ATM_TOTL,,,5.4
+2019,FB_ATM_TOTL,,,5.3
+2020,FB_ATM_TOTL,,,5.2
+2022,FB_ATM_TOTL,,,4.4
+2023,FB_ATM_TOTL,,,4.3
+2024,FB_ATM_TOTL,,,4.4
+2015,FB_CBK_BRCH,,,8.2
+2016,FB_CBK_BRCH,,,8.2
+2017,FB_CBK_BRCH,,,7.4
+2018,FB_CBK_BRCH,,,7.4
+2019,FB_CBK_BRCH,,,6.9

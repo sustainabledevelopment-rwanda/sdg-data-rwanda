@@ -1,5 +1,5 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2023,Total Number of adult population who have land,"Rwanda Land Dashboard, 2023",SP_LGL_LNDDOC,,,NUMBER,,4218003.0
-2023,Total Number of adult population who have land,"Rwanda Land Dashboard, 2023",SP_LGL_LNDDOC,,M,NUMBER,,2081442.0
-2023,Total Number of adult population who have land,"Rwanda Land Dashboard, 2023",SP_LGL_LNDDOC,,F,NUMBER,,2136561.0
-2022,"Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Owned by other)","Rwanda Land Dashboard, 2023",SP_LGL_LNDDOC,,,PT,,21.9
+Year,SERIES,REF_AREA,SEX,GeoCode,Value
+2023,SP_LGL_LNDDOC,,,,4218003.0
+2023,SP_LGL_LNDDOC,,M,,2081442.0
+2023,SP_LGL_LNDDOC,,F,,2136561.0
+2022,SP_LGL_LNDDOC,,,,21.9

@@ -15,31 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Literacy rate of children in P2",
-                "Numeracy rate of children in P2",
-                "Literacy rate of children in P3",
-                "Numeracy rate of children in P3",
-                "Literacy rate of children in P5",
-                "Numeracy rate of children in P5",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "REB, Learning Achievement in Rwanda schools (2016 through LARS II and 2018)",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -73,10 +48,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "GeoCode",

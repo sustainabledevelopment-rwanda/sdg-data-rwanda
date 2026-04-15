@@ -1,5 +1,5 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Exports goods and services in Million USD,MINECOFIN,Exports goods and services in Million USD,,USD,,1534.4
-2017,Exports goods and services in Million USD,MINECOFIN,Exports goods and services in Million USD,,USD,,1979.9
-2018,Exports goods and services in Million USD,MINECOFIN,Exports goods and services in Million USD,,USD,,2039.2
-2020,Exports goods and services in Million USD,MINECOFIN,Exports goods and services in Million USD,,USD,,2159.7
+Year,SERIES,Reference area,GeoCode,Value
+2016,Exports goods and services in Million USD,,,1534.4
+2017,Exports goods and services in Million USD,,,1979.9
+2018,Exports goods and services in Million USD,,,2039.2
+2020,Exports goods and services in Million USD,,,2159.7

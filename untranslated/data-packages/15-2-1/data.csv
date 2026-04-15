@@ -1,7 +1,4 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,Forests allocated private operators for management,"JSR,
-Environment, 2021/2022",AG_LND_FRSTBIOM,,PT,,14.1
-2019,Forests allocated private operators for management,"JSR,
-Environment, 2021/2022",AG_LND_FRSTBIOM,,PT,,33.0
-2022,Forests allocated private operators for management,"JSR,
-Environment, 2021/2022",AG_LND_FRSTBIOM,,PT,,38.5
+Year,SERIES,REF_AREA,GeoCode,Value
+2016,AG_LND_FRSTBIOM,,,14.1
+2019,AG_LND_FRSTBIOM,,,33.0
+2022,AG_LND_FRSTBIOM,,,38.5

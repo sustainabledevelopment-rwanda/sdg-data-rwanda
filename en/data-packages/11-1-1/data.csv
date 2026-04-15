@@ -1,5 +1,5 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2014,Distribution of Households living in unplanned urban housing,"EICV and RPHC5 2022, NISR",Distribution of Households living in unplanned urban housing,,Urban,Percent,,62.6
-2017,Distribution of Households living in unplanned urban housing,"EICV and RPHC5 2022, NISR",Distribution of Households living in unplanned urban housing,,Urban,Percent,,52.5
-2022,Distribution of Households living in unplanned urban housing,"EICV and RPHC5 2022, NISR",Distribution of Households living in unplanned urban housing,,Urban,Percent,,25.0
-2024,Distribution of Households living in unplanned urban housing,"EICV and RPHC5 2022, NISR",Distribution of Households living in unplanned urban housing,,Urban,Percent,,22.4
+Year,SERIES,Reference area,Degree of urbanisation,GeoCode,Value
+2014,Distribution of Households living in unplanned urban housing,,Urban,,62.6
+2017,Distribution of Households living in unplanned urban housing,,Urban,,52.5
+2022,Distribution of Households living in unplanned urban housing,,Urban,,25.0
+2024,Distribution of Households living in unplanned urban housing,,Urban,,22.4

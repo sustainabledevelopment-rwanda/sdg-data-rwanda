@@ -1,41 +1,41 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2017,Proportion of population covered by core Social Protection programs,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_1,,,,PT,,6.5
-2018,Proportion of population covered by core Social Protection programs,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_1,,,,PT,,6.5
-2022,Proportion of population covered by core Social Protection programs,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_1,,,,PT,,11.0
-2017,Number of members of Pension and occupational Hazards,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_2,,,,NUMBER,,484435.0
-2018,Number of members of Pension and occupational Hazards,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_2,,,,NUMBER,,560769.0
-2020,Number of members of Pension and occupational Hazards,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_2,,,,NUMBER,,610263.0
-2022,Number of members of Pension and occupational Hazards,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_2,,,,NUMBER,,705713.0
-2017,Number of population covered by Medical scheme,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_3,,,,NUMBER,,376836.0
-2018,Number of population covered by Medical scheme,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_3,,,,NUMBER,,432450.0
-2019,Number of population covered by Medical scheme,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_3,,,,NUMBER,,532297.0
-2020,Number of population covered by Medical scheme,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_3,,,,NUMBER,,579623.0
-2021,Number of population covered by Medical scheme,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_3,,,,NUMBER,,554048.0
-2022,Number of population covered by Medical scheme,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_3,,,,NUMBER,,608436.0
-2017,Proportion of population covered by Community-Based Health Insurance (Coverage rate),Census 2022,_L_RW_010301_4,,,,PT,,84.2
-2018,Proportion of population covered by Community-Based Health Insurance (Coverage rate),Census 2022,_L_RW_010301_4,,,,PT,,83.3
-2019,Proportion of population covered by Community-Based Health Insurance (Coverage rate),Census 2022,_L_RW_010301_4,,,,PT,,80.0
-2022,Proportion of population covered by Community-Based Health Insurance (Coverage rate),Census 2022,_L_RW_010301_4,,,,PT,,93.0
-2017,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,,PT,,70.0
-2018,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,,PT,,73.9
-2020,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,,PT,,86.0
-2022,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,,PT,,97.3
-2017,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,U,PT,,73.8
-2018,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,U,PT,,79.5
-2020,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,U,PT,,87.2
-2022,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,U,PT,,96.7
-2017,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,R,PT,,69.2
-2018,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,R,PT,,72.7
-2020,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,R,PT,,85.6
-2022,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,,R,PT,,97.5
-2017,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,M,,PT,,69.4
-2018,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,M,,PT,,73.4
-2020,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,M,,PT,,83.0
-2022,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,M,,PT,,97.1
-2017,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,F,,PT,,70.5
-2018,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,F,,PT,,74.5
-2020,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,F,,PT,,83.3
-2022,Proportion of population covered by Health insurance,"NISR, DHS 2019/20 and Census 2022",_L_RW_010301_5,,F,,PT,,97.5
-2018,Number of actively contributing women covered by Maternity Leave Benefits,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_6,,,,NUMBER,,164601.0
-2020,Number of actively contributing women covered by Maternity Leave Benefits,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_6,,,,NUMBER,,227152.0
-2022,Number of actively contributing women covered by Maternity Leave Benefits,"BLJSR/Social protection (Minaloc: 2021/22), RSSB, 2022/23",_L_RW_010301_6,,,,NUMBER,,233982.0
+Year,SERIES,REF_AREA,SEX,URBANISATION,GeoCode,Value
+2017,_L_RW_010301_1,,,,,6.5
+2018,_L_RW_010301_1,,,,,6.5
+2022,_L_RW_010301_1,,,,,11.0
+2017,_L_RW_010301_2,,,,,484435.0
+2018,_L_RW_010301_2,,,,,560769.0
+2020,_L_RW_010301_2,,,,,610263.0
+2022,_L_RW_010301_2,,,,,705713.0
+2017,_L_RW_010301_3,,,,,376836.0
+2018,_L_RW_010301_3,,,,,432450.0
+2019,_L_RW_010301_3,,,,,532297.0
+2020,_L_RW_010301_3,,,,,579623.0
+2021,_L_RW_010301_3,,,,,554048.0
+2022,_L_RW_010301_3,,,,,608436.0
+2017,_L_RW_010301_4,,,,,84.2
+2018,_L_RW_010301_4,,,,,83.3
+2019,_L_RW_010301_4,,,,,80.0
+2022,_L_RW_010301_4,,,,,93.0
+2017,_L_RW_010301_5,,,,,70.0
+2018,_L_RW_010301_5,,,,,73.9
+2020,_L_RW_010301_5,,,,,86.0
+2022,_L_RW_010301_5,,,,,97.3
+2017,_L_RW_010301_5,,,U,,73.8
+2018,_L_RW_010301_5,,,U,,79.5
+2020,_L_RW_010301_5,,,U,,87.2
+2022,_L_RW_010301_5,,,U,,96.7
+2017,_L_RW_010301_5,,,R,,69.2
+2018,_L_RW_010301_5,,,R,,72.7
+2020,_L_RW_010301_5,,,R,,85.6
+2022,_L_RW_010301_5,,,R,,97.5
+2017,_L_RW_010301_5,,M,,,69.4
+2018,_L_RW_010301_5,,M,,,73.4
+2020,_L_RW_010301_5,,M,,,83.0
+2022,_L_RW_010301_5,,M,,,97.1
+2017,_L_RW_010301_5,,F,,,70.5
+2018,_L_RW_010301_5,,F,,,74.5
+2020,_L_RW_010301_5,,F,,,83.3
+2022,_L_RW_010301_5,,F,,,97.5
+2018,_L_RW_010301_6,,,,,164601.0
+2020,_L_RW_010301_6,,,,,227152.0
+2022,_L_RW_010301_6,,,,,233982.0

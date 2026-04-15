@@ -1,16 +1,16 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,GeoCode,Value
-2017,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Pre-primary education,Percent,,47.0
-2018,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Pre-primary education,Percent,,52.6
-2019,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Pre-primary education,Percent,,57.1
-2017,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,Percent,,46.8
-2018,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,Percent,,46.8
-2019,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,Percent,,52.0
-2020,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,Percent,,56.4
-2021,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,Percent,,71.1
-2022,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,Percent,,83.4
-2017,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,Percent,,47.4
-2018,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,Percent,,47.4
-2019,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,Percent,,53.1
-2020,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,Percent,,57.9
-2021,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,Percent,,73.3
-2022,Participation rate in organized learning (one year before the official primary entry age),"MINEDUC, Education Admin data, 2023",Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,Percent,,85.4
+Year,SERIES,Reference area,Sex,Education level,GeoCode,Value
+2017,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Pre-primary education,,47.0
+2018,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Pre-primary education,,52.6
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,,Pre-primary education,,57.1
+2017,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,,46.8
+2018,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,,46.8
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,,52.0
+2020,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,,56.4
+2021,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,,71.1
+2022,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Male,Pre-primary education,,83.4
+2017,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,,47.4
+2018,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,,47.4
+2019,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,,53.1
+2020,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,,57.9
+2021,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,,73.3
+2022,Participation rate in organized learning (one year before the official primary entry age) [4.2.2],,Female,Pre-primary education,,85.4

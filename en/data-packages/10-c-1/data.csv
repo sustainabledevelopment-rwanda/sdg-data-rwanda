@@ -1,4 +1,4 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Remittance costs as a proportion of the amount remitted,BNR,Remittance costs as a proportion of the amount remitted [10.c.1],,Percent,,4.0
-2019,Remittance costs as a proportion of the amount remitted,BNR,Remittance costs as a proportion of the amount remitted [10.c.1],,Percent,,4.0
-2022,Remittance costs as a proportion of the amount remitted,BNR,Remittance costs as a proportion of the amount remitted [10.c.1],,Percent,,0.2
+Year,SERIES,Reference area,GeoCode,Value
+2017,Remittance costs as a proportion of the amount remitted [10.c.1],,,4.0
+2019,Remittance costs as a proportion of the amount remitted [10.c.1],,,4.0
+2022,Remittance costs as a proportion of the amount remitted [10.c.1],,,0.2

@@ -1,4 +1,4 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2017,Proportion of bodies of water with good ambient water quality,RWB,EN_H2O_WBAMBQ,,PT,,79
-2018,Proportion of bodies of water with good ambient water quality,RWB,EN_H2O_WBAMBQ,,PT,,15
-2020,Proportion of bodies of water with good ambient water quality,RWB,EN_H2O_WBAMBQ,,PT,,79
+Year,SERIES,REF_AREA,GeoCode,Value
+2017,EN_H2O_WBAMBQ,,,79
+2018,EN_H2O_WBAMBQ,,,15
+2020,EN_H2O_WBAMBQ,,,79

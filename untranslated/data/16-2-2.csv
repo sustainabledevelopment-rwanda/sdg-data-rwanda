@@ -1,22 +1,22 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,VC_VAW_DIST,,PT,,0.5
-2017,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,VC_VAW_DIST,,PT,,0.8
-2018,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,VC_VAW_DIST,,PT,,0.5
-2019,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,VC_VAW_DIST,,PT,,0.7
-2020,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,VC_VAW_DIST,,PT,,0.5
-2021,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,VC_VAW_DIST,,PT,,0.3
-2022,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,VC_VAW_DIST,,PT,,0.4
-2016,Detected victims of human trafficking (number),MINIJUST,VC_HTF_DETV,,PER_100000_POP,,55.0
-2017,Detected victims of human trafficking (number),MINIJUST,VC_HTF_DETV,,PER_100000_POP,,89.0
-2018,Detected victims of human trafficking (number),MINIJUST,VC_HTF_DETV,,PER_100000_POP,,63.0
-2019,Detected victims of human trafficking (number),MINIJUST,VC_HTF_DETV,,PER_100000_POP,,91.0
-2020,Detected victims of human trafficking (number),MINIJUST,VC_HTF_DETV,,PER_100000_POP,,61.0
-2021,Detected victims of human trafficking (number),MINIJUST,VC_HTF_DETV,,PER_100000_POP,,41.0
-2022,Detected victims of human trafficking (number),MINIJUST,VC_HTF_DETV,,PER_100000_POP,,58.0
-2020,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",MINIJUST,VC_HTF_DETVFL,,PER_100000_POP,,41.0
-2021,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",MINIJUST,VC_HTF_DETVFL,,PER_100000_POP,,15.0
-2022,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",MINIJUST,VC_HTF_DETVFL,,PER_100000_POP,,29.0
-2020,Detected victims of human trafficking for other purposes (number),MINIJUST,VC_HTF_DETVOP,,PER_100000_POP,,1.0
-2020,Detected victims of human trafficking for sexual exploitaton (number),MINIJUST,VC_HTF_DETVSX,,PER_100000_POP,,19.0
-2021,Detected victims of human trafficking for sexual exploitaton (number),MINIJUST,VC_HTF_DETVSX,,PER_100000_POP,,26.0
-2022,Detected victims of human trafficking for sexual exploitaton (number),MINIJUST,VC_HTF_DETVSX,,PER_100000_POP,,29.0
+Year,SERIES,REF_AREA,GeoCode,Value
+2016,VC_VAW_DIST,,,0.5
+2017,VC_VAW_DIST,,,0.8
+2018,VC_VAW_DIST,,,0.5
+2019,VC_VAW_DIST,,,0.7
+2020,VC_VAW_DIST,,,0.5
+2021,VC_VAW_DIST,,,0.3
+2022,VC_VAW_DIST,,,0.4
+2016,VC_HTF_DETV,,,55.0
+2017,VC_HTF_DETV,,,89.0
+2018,VC_HTF_DETV,,,63.0
+2019,VC_HTF_DETV,,,91.0
+2020,VC_HTF_DETV,,,61.0
+2021,VC_HTF_DETV,,,41.0
+2022,VC_HTF_DETV,,,58.0
+2020,VC_HTF_DETVFL,,,41.0
+2021,VC_HTF_DETVFL,,,15.0
+2022,VC_HTF_DETVFL,,,29.0
+2020,VC_HTF_DETVOP,,,1.0
+2020,VC_HTF_DETVSX,,,19.0
+2021,VC_HTF_DETVSX,,,26.0
+2022,VC_HTF_DETVSX,,,29.0

@@ -1,11 +1,6 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,"Malaria incidence per 1,000 population at risk","HMIS, Rwanda Biomedical Centre (RBC), MoH Annual performance report  2022 (Malaria report
-)","Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,308
-2021,"Malaria incidence per 1,000 population at risk","HMIS, Rwanda Biomedical Centre (RBC), MoH Annual performance report  2022 (Malaria report
-)","Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,114
-2022,"Malaria incidence per 1,000 population at risk","HMIS, Rwanda Biomedical Centre (RBC), MoH Annual performance report  2022 (Malaria report
-)","Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,76
-2023,"Malaria incidence per 1,000 population at risk","HMIS, Rwanda Biomedical Centre (RBC), MoH Annual performance report  2022 (Malaria report
-)","Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,47
-2024,"Malaria incidence per 1,000 population at risk","HMIS, Rwanda Biomedical Centre (RBC), MoH Annual performance report  2022 (Malaria report
-)","Malaria incidence per 1,000 population at risk [3.3.3]",,"Per 1,000 population",,45
+Year,SERIES,Reference area,GeoCode,Value
+2015,"Malaria incidence per 1,000 population at risk [3.3.3]",,,308
+2021,"Malaria incidence per 1,000 population at risk [3.3.3]",,,114
+2022,"Malaria incidence per 1,000 population at risk [3.3.3]",,,76
+2023,"Malaria incidence per 1,000 population at risk [3.3.3]",,,47
+2024,"Malaria incidence per 1,000 population at risk [3.3.3]",,,45

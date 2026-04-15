@@ -1,7 +1,7 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Percentage of food insecure households,"NISR, Food Balance Sheets (FBS)",Prevalence of undernourishment [2.1.1],,Percent,,33
-2018,Percentage of food insecure households,"NISR, Food Balance Sheets (FBS)",Prevalence of undernourishment [2.1.1],,Percent,,32
-2019,Percentage of food insecure households,"NISR, Food Balance Sheets (FBS)",Prevalence of undernourishment [2.1.1],,Percent,,34
-2020,Percentage of food insecure households,"NISR, Food Balance Sheets (FBS)",Prevalence of undernourishment [2.1.1],,Percent,,32
-2021,Percentage of food insecure households,"NISR, Food Balance Sheets (FBS)",Prevalence of undernourishment [2.1.1],,Percent,,32
-2022,Percentage of food insecure households,"NISR, Food Balance Sheets (FBS)",Prevalence of undernourishment [2.1.1],,Percent,,29
+Year,SERIES,Reference area,GeoCode,Value
+2017,Prevalence of undernourishment [2.1.1],,,33
+2018,Prevalence of undernourishment [2.1.1],,,32
+2019,Prevalence of undernourishment [2.1.1],,,34
+2020,Prevalence of undernourishment [2.1.1],,,32
+2021,Prevalence of undernourishment [2.1.1],,,32
+2022,Prevalence of undernourishment [2.1.1],,,29

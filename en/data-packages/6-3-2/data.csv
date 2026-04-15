@@ -1,4 +1,4 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Proportion of bodies of water with good ambient water quality,RWB,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,79
-2018,Proportion of bodies of water with good ambient water quality,RWB,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,15
-2020,Proportion of bodies of water with good ambient water quality,RWB,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,79
+Year,SERIES,Reference area,GeoCode,Value
+2017,Proportion of bodies of water with good ambient water quality [6.3.2],,,79
+2018,Proportion of bodies of water with good ambient water quality [6.3.2],,,15
+2020,Proportion of bodies of water with good ambient water quality [6.3.2],,,79

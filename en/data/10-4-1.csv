@@ -1,10 +1,10 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2012,Labour share of GDP (%),"UNSD, Global SDG database",Labour share of GDP [10.4.1],,Percent,,43.1
-2013,Labour share of GDP (%),"UNSD, Global SDG database",Labour share of GDP [10.4.1],,Percent,,44.3
-2014,Labour share of GDP (%),"UNSD, Global SDG database",Labour share of GDP [10.4.1],,Percent,,44.0
-2015,Labour share of GDP (%),"UNSD, Global SDG database",Labour share of GDP [10.4.1],,Percent,,43.2
-2016,Labour share of GDP (%),"UNSD, Global SDG database",Labour share of GDP [10.4.1],,Percent,,44.0
-2017,Labour share of GDP (%),"UNSD, Global SDG database",Labour share of GDP [10.4.1],,Percent,,44.6
-2018,Labour share of GDP (%),"UNSD, Global SDG database",Labour share of GDP [10.4.1],,Percent,,43.2
-2019,Labour share of GDP (%),"UNSD, Global SDG database",Labour share of GDP [10.4.1],,Percent,,43.0
-2020,Labour share of GDP (%),"UNSD, Global SDG database",Labour share of GDP [10.4.1],,Percent,,44.2
+Year,SERIES,Reference area,GeoCode,Value
+2012,Labour share of GDP [10.4.1],,,43.1
+2013,Labour share of GDP [10.4.1],,,44.3
+2014,Labour share of GDP [10.4.1],,,44.0
+2015,Labour share of GDP [10.4.1],,,43.2
+2016,Labour share of GDP [10.4.1],,,44.0
+2017,Labour share of GDP [10.4.1],,,44.6
+2018,Labour share of GDP [10.4.1],,,43.2
+2019,Labour share of GDP [10.4.1],,,43.0
+2020,Labour share of GDP [10.4.1],,,44.2

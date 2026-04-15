@@ -1,17 +1,17 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.4
-2016,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.6
-2017,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.6
-2018,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.8
-2019,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.9
-2020,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,2.3
-2021,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,2.7
-2022,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,2.8
-2015,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,157.0
-2016,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,181.0
-2017,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,193.0
-2018,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,226.0
-2019,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,241.0
-2020,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,298.0
-2021,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,353.0
-2022,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,370.0
+Year,SERIES,REF_AREA,GeoCode,Value
+2015,SH_STA_SCIDE,,,1.4
+2016,SH_STA_SCIDE,,,1.6
+2017,SH_STA_SCIDE,,,1.6
+2018,SH_STA_SCIDE,,,1.8
+2019,SH_STA_SCIDE,,,1.9
+2020,SH_STA_SCIDE,,,2.3
+2021,SH_STA_SCIDE,,,2.7
+2022,SH_STA_SCIDE,,,2.8
+2015,SH_STA_SCIDEN,,,157.0
+2016,SH_STA_SCIDEN,,,181.0
+2017,SH_STA_SCIDEN,,,193.0
+2018,SH_STA_SCIDEN,,,226.0
+2019,SH_STA_SCIDEN,,,241.0
+2020,SH_STA_SCIDEN,,,298.0
+2021,SH_STA_SCIDEN,,,353.0
+2022,SH_STA_SCIDEN,,,370.0

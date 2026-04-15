@@ -1,5 +1,5 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2019,Reason for stopping last employment/ Physical and social harassment,"LFS, NISR",Proportion of population reporting having felt discriminated against [16.b.1],,Percent,,0.3
-2021,Reason for stopping last employment/ Physical and social harassment,"LFS, NISR",Proportion of population reporting having felt discriminated against [16.b.1],,Percent,,0.1
-2022,Reason for stopping last employment/ Physical and social harassment,"LFS, NISR",Proportion of population reporting having felt discriminated against [16.b.1],,Percent,,0.1
-2023,Reason for stopping last employment/ Physical and social harassment,"LFS, NISR",Proportion of population reporting having felt discriminated against [16.b.1],,Percent,,0.2
+Year,SERIES,Reference area,GeoCode,Value
+2019,Proportion of population reporting having felt discriminated against [16.b.1],,,0.3
+2021,Proportion of population reporting having felt discriminated against [16.b.1],,,0.1
+2022,Proportion of population reporting having felt discriminated against [16.b.1],,,0.1
+2023,Proportion of population reporting having felt discriminated against [16.b.1],,,0.2

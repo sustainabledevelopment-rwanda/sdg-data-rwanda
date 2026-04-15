@@ -1,8 +1,8 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2008,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",Tuberculosis incidence [3.3.2],,"Per 100,000 population",,98
-2012,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",Tuberculosis incidence [3.3.2],,"Per 100,000 population",,86
-2015,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",Tuberculosis incidence [3.3.2],,"Per 100,000 population",,56
-2017,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",Tuberculosis incidence [3.3.2],,"Per 100,000 population",,50
-2018,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",Tuberculosis incidence [3.3.2],,"Per 100,000 population",,58
-2020,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",Tuberculosis incidence [3.3.2],,"Per 100,000 population",,58
-2022,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",Tuberculosis incidence [3.3.2],,"Per 100,000 population",,57
+Year,SERIES,Reference area,GeoCode,Value
+2008,Tuberculosis incidence [3.3.2],,,98
+2012,Tuberculosis incidence [3.3.2],,,86
+2015,Tuberculosis incidence [3.3.2],,,56
+2017,Tuberculosis incidence [3.3.2],,,50
+2018,Tuberculosis incidence [3.3.2],,,58
+2020,Tuberculosis incidence [3.3.2],,,58
+2022,Tuberculosis incidence [3.3.2],,,57

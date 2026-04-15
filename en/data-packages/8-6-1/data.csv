@@ -1,15 +1,15 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Age,UNIT_MEASURE,GeoCode,Value
-2017,"Proportion of youth (aged 16-24 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,Percent,,31.8
-2018,"Proportion of youth (aged 16-24 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,Percent,,30.7
-2019,"Proportion of youth (aged 16-24 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,Percent,,32.5
-2021,"Proportion of youth (aged 16-24 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,Percent,,32.8
-2022,"Proportion of youth (aged 16-24 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,Percent,,32.1
-2023,"Proportion of youth (aged 16-24 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,Percent,,31.9
-2024,"Proportion of youth (aged 16-24 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,Percent,,26.8
-2017,"Proportion of youth (aged 16-30 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,Percent,,34.6
-2018,"Proportion of youth (aged 16-30 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,Percent,,32.7
-2019,"Proportion of youth (aged 16-30 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,Percent,,34.3
-2021,"Proportion of youth (aged 16-30 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,Percent,,35.6
-2022,"Proportion of youth (aged 16-30 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,Percent,,34.2
-2023,"Proportion of youth (aged 16-30 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,Percent,,32.9
-2024,"Proportion of youth (aged 16-30 years) not in education, employment or training","LFS, NISR","Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,Percent,,28.4
+Year,SERIES,Reference area,Age,GeoCode,Value
+2017,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,,31.8
+2018,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,,30.7
+2019,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,,32.5
+2021,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,,32.8
+2022,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,,32.1
+2023,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,,31.9
+2024,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 24 years old,,26.8
+2017,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,,34.6
+2018,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,,32.7
+2019,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,,34.3
+2021,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,,35.6
+2022,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,,34.2
+2023,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,,32.9
+2024,"Proportion of youth not in education, employment or training [8.6.1]",,16 to 30 years old,,28.4

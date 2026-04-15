@@ -1,1 +1,1 @@
-{"data":{"Year":[2020],"COMMENT_OBS":["Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)"],"SOURCE_DETAIL":["DHS, NISR"],"SERIES":["SH_FPL_INFM"],"REF_AREA":[null],"SEX":["F"],"UNIT_MEASURE":["PT"],"GeoCode":[null],"Value":[63.1]},"edges":{"From":["COMMENT_OBS","SOURCE_DETAIL"],"To":["SOURCE_DETAIL","SEX"]}}
+{"data":{"Year":[2020],"SERIES":["SH_FPL_INFM"],"REF_AREA":[null],"SEX":["F"],"GeoCode":[null],"Value":[63.1]},"edges":[]}

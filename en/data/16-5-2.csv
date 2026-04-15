@@ -1,6 +1,6 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2020,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,Percent,,12.2
-2021,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,Percent,,8.2
-2022,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,Percent,,12.8
-2023,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,Percent,,12.8
-2024,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,Percent,,12.8
+Year,SERIES,Reference area,GeoCode,Value
+2020,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,,12.2
+2021,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,,8.2
+2022,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,,12.8
+2023,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,,12.8
+2024,Bribery incidence (% of firms experiencing at least one bribe payment request) [16.5.2],,,12.8

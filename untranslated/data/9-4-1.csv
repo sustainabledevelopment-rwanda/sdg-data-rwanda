@@ -1,22 +1,22 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2000,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.1
-2001,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.1
-2002,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.1
-2003,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.1
-2004,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.1
-2005,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.1
-2006,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.1
-2007,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.1
-2008,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2009,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2010,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2011,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2012,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2013,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2014,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2015,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2016,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2017,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2018,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2019,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
-2020,Carbon dioxide emissions per unit of GDP PPP (kilogrammes of CO2 per constant 2017 United States dollars),"UNSD, Global SDG database",EN_ATM_CO2GDP,,KG_PER_CON_USD,,0.0
+Year,SERIES,REF_AREA,GeoCode,Value
+2000,EN_ATM_CO2GDP,,,0.1
+2001,EN_ATM_CO2GDP,,,0.1
+2002,EN_ATM_CO2GDP,,,0.1
+2003,EN_ATM_CO2GDP,,,0.1
+2004,EN_ATM_CO2GDP,,,0.1
+2005,EN_ATM_CO2GDP,,,0.1
+2006,EN_ATM_CO2GDP,,,0.1
+2007,EN_ATM_CO2GDP,,,0.1
+2008,EN_ATM_CO2GDP,,,0.0
+2009,EN_ATM_CO2GDP,,,0.0
+2010,EN_ATM_CO2GDP,,,0.0
+2011,EN_ATM_CO2GDP,,,0.0
+2012,EN_ATM_CO2GDP,,,0.0
+2013,EN_ATM_CO2GDP,,,0.0
+2014,EN_ATM_CO2GDP,,,0.0
+2015,EN_ATM_CO2GDP,,,0.0
+2016,EN_ATM_CO2GDP,,,0.0
+2017,EN_ATM_CO2GDP,,,0.0
+2018,EN_ATM_CO2GDP,,,0.0
+2019,EN_ATM_CO2GDP,,,0.0
+2020,EN_ATM_CO2GDP,,,0.0

@@ -1,1 +1,1 @@
-{"data":{"Year":[2016],"COMMENT_OBS":["Water body extent (permanent) (% of total land area)"],"SOURCE_DETAIL":["RWB, REMA, RFA"],"SERIES":["EN_WBE_PMPR"],"REF_AREA":[null],"UNIT_MEASURE":["PT"],"GeoCode":[null],"Value":[0.9]},"edges":{"From":["COMMENT_OBS"],"To":["SOURCE_DETAIL"]}}
+{"data":{"Year":[2016],"SERIES":["EN_WBE_PMPR"],"REF_AREA":[null],"GeoCode":[null],"Value":[0.9]},"edges":[]}

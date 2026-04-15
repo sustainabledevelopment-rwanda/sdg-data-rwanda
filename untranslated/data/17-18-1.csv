@@ -1,6 +1,6 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2019,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","NISR, SDG Platfoarm",SD_SDG_AVLB,,PT,,24
-2020,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","NISR, SDG Platfoarm",SD_SDG_AVLB,,PT,,27
-2021,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","NISR, SDG Platfoarm",SD_SDG_AVLB,,PT,,30
-2022,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","NISR, SDG Platfoarm",SD_SDG_AVLB,,PT,,32
-2023,"Proportion of sustainable development indicators produced at the national level with full disaggregation when relevant to the target, in accordance with the Fundamental Principles of Official Statistics","NISR, SDG Platfoarm",SD_SDG_AVLB,,PT,,36
+Year,SERIES,REF_AREA,GeoCode,Value
+2019,SD_SDG_AVLB,,,24
+2020,SD_SDG_AVLB,,,27
+2021,SD_SDG_AVLB,,,30
+2022,SD_SDG_AVLB,,,32
+2023,SD_SDG_AVLB,,,36

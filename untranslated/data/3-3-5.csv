@@ -1,4 +1,4 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,Number of people requiring interventions against neglected tropical diseases,"RBC , NTD report",SH_TRP_INTVN,,NUMBER,,4815291
-2021,Number of people requiring interventions against neglected tropical diseases,"RBC , NTD report",SH_TRP_INTVN,,NUMBER,,4935596
-2022,Number of people requiring interventions against neglected tropical diseases,"RBC , NTD report",SH_TRP_INTVN,,NUMBER,,11532788
+Year,SERIES,REF_AREA,GeoCode,Value
+2016,SH_TRP_INTVN,,,4815291
+2021,SH_TRP_INTVN,,,4935596
+2022,SH_TRP_INTVN,,,11532788

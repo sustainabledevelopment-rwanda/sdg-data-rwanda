@@ -1,5 +1,5 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Occupation,UNIT_MEASURE,GeoCode,Value
-2017,"Health workder density, Doctors",Ministry of Health,Health worker density - Doctors [3.c.1],,Medical doctors,"Per 1,000 population",,0.1
-2017,"Health workder density, Pharmacists",Ministry of Health,Health worker density - Pharmacists [3.c.1],,Pharmacists,"Per 1,000 population",,0.1
-2017,"Health workder density, Nurses",Ministry of Health,Health worker density - Nurses,,Nurse,"Per 1,000 population",,0.9
-2017,"Health workder density, Midwives",Ministry of Health,Health worker density - Midwives,,Midwives,"Per 1,000 population",,0.3
+Year,SERIES,Reference area,Occupation,GeoCode,Value
+2017,Health worker density - Doctors [3.c.1],,Medical doctors,,0.1
+2017,Health worker density - Pharmacists [3.c.1],,Pharmacists,,0.1
+2017,Health worker density - Nurses,,Nurse,,0.9
+2017,Health worker density - Midwives,,Midwives,,0.3

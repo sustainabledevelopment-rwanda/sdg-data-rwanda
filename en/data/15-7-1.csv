@@ -1,36 +1,6 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2018,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,Percent,,0
-2019,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,Percent,,0
-2020,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,Percent,,0
-2021,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,Percent,,0
-2022,"Current data are collected on only 5 big wild animals in
-Akagera National Parks, namely: Elephants (120),
-Lions (40), Buf-falos
-(4,000), Rhinoceros
-(27), and Leopards (100). For this category the reported proportion of poached or illicitly traf-ficked is 0%, (GPS Tracking devises help
-in their monitoring) their total counts is 4,287. Also, Gorillas are monitored and approximatlely 604 as
-of 2021.",RDB,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,Percent,,0
+Year,SERIES,Reference area,GeoCode,Value
+2018,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,,0
+2019,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,,0
+2020,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,,0
+2021,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,,0
+2022,Proportion of traded wildlife that was poached or illicitly trafficked [15.7.1],,,0

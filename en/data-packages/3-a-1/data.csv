@@ -1,7 +1,7 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,15 years old and over,Percent,,5.8
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,15 years old and over,Percent,,3.9
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,15 years old and over,Percent,,10.0
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,15 years old and over,Percent,,7.0
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 years old and over,Percent,,2.0
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 years old and over,Percent,,0.9
+Year,SERIES,Reference area,Sex,Age,GeoCode,Value
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,15 years old and over,,5.8
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,15 years old and over,,3.9
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,15 years old and over,,10.0
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,15 years old and over,,7.0
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 years old and over,,2.0
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 years old and over,,0.9

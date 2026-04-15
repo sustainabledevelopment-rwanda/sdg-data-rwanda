@@ -1,14 +1,14 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2005,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,37
-2008,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,28
-2010,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,27
-2015,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,20
-2020,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,19
-2015,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,,under 1 month old,Urban,"Per 1,000 live births",,15
-2020,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,,under 1 month old,Urban,"Per 1,000 live births",,15
-2015,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,,under 1 month old,Rural,"Per 1,000 live births",,24
-2020,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,,under 1 month old,Rural,"Per 1,000 live births",,20
-2015,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,Male,under 1 month old,,"Per 1,000 live births",,25
-2020,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,Male,under 1 month old,,"Per 1,000 live births",,21
-2015,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,Female,under 1 month old,,"Per 1,000 live births",,20
-2020,Neonatal mortality rate,"DHS, NISR",Neonatal mortality rate [3.2.2],,Female,under 1 month old,,"Per 1,000 live births",,17
+Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,GeoCode,Value
+2005,Neonatal mortality rate [3.2.2],,,under 1 month old,,,37
+2008,Neonatal mortality rate [3.2.2],,,under 1 month old,,,28
+2010,Neonatal mortality rate [3.2.2],,,under 1 month old,,,27
+2015,Neonatal mortality rate [3.2.2],,,under 1 month old,,,20
+2020,Neonatal mortality rate [3.2.2],,,under 1 month old,,,19
+2015,Neonatal mortality rate [3.2.2],,,under 1 month old,Urban,,15
+2020,Neonatal mortality rate [3.2.2],,,under 1 month old,Urban,,15
+2015,Neonatal mortality rate [3.2.2],,,under 1 month old,Rural,,24
+2020,Neonatal mortality rate [3.2.2],,,under 1 month old,Rural,,20
+2015,Neonatal mortality rate [3.2.2],,Male,under 1 month old,,,25
+2020,Neonatal mortality rate [3.2.2],,Male,under 1 month old,,,21
+2015,Neonatal mortality rate [3.2.2],,Female,under 1 month old,,,20
+2020,Neonatal mortality rate [3.2.2],,Female,under 1 month old,,,17

@@ -1,6 +1,6 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2020,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",IC_FRM_BRIB,,PT,,12.2
-2021,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",IC_FRM_BRIB,,PT,,8.2
-2022,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",IC_FRM_BRIB,,PT,,12.8
-2023,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",IC_FRM_BRIB,,PT,,12.8
-2024,Bribery incidence (% of firms experiencing at least one bribe payment request),"Rwanda Governance Score Card, RGB",IC_FRM_BRIB,,PT,,12.8
+Year,SERIES,REF_AREA,GeoCode,Value
+2020,IC_FRM_BRIB,,,12.2
+2021,IC_FRM_BRIB,,,8.2
+2022,IC_FRM_BRIB,,,12.8
+2023,IC_FRM_BRIB,,,12.8
+2024,IC_FRM_BRIB,,,12.8

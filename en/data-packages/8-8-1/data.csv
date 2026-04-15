@@ -1,13 +1,13 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2018,Fatal occupational injuries among employees (rate),RSSB,Fatal occupational injuries among employees (rate) [8.8.1],,,Percent,,6
-2019,Fatal occupational injuries among employees (rate),RSSB,Fatal occupational injuries among employees (rate) [8.8.1],,,Percent,,5
-2018,Fatal occupational injuries among employees (rate),RSSB,Fatal occupational injuries among employees (rate) [8.8.1],,Male,Percent,,7
-2019,Fatal occupational injuries among employees (rate),RSSB,Fatal occupational injuries among employees (rate) [8.8.1],,Male,Percent,,5
-2018,Fatal occupational injuries among employees (rate),RSSB,Fatal occupational injuries among employees (rate) [8.8.1],,Female,Percent,,0
-2019,Fatal occupational injuries among employees (rate),RSSB,Fatal occupational injuries among employees (rate) [8.8.1],,Female,Percent,,4
-2018,Non-fatal occupational injuries among employees (rate),RSSB,Non-fatal occupational injuries among employees (rate) [8.8.1],,,Percent,,94
-2019,Non-fatal occupational injuries among employees (rate),RSSB,Non-fatal occupational injuries among employees (rate) [8.8.1],,,Percent,,95
-2018,Non-fatal occupational injuries among employees (rate),RSSB,Non-fatal occupational injuries among employees (rate) [8.8.1],,Male,Percent,,93
-2019,Non-fatal occupational injuries among employees (rate),RSSB,Non-fatal occupational injuries among employees (rate) [8.8.1],,Male,Percent,,95
-2018,Non-fatal occupational injuries among employees (rate),RSSB,Non-fatal occupational injuries among employees (rate) [8.8.1],,Female,Percent,,100
-2019,Non-fatal occupational injuries among employees (rate),RSSB,Non-fatal occupational injuries among employees (rate) [8.8.1],,Female,Percent,,96
+Year,SERIES,Reference area,Sex,GeoCode,Value
+2018,Fatal occupational injuries among employees (rate) [8.8.1],,,,6
+2019,Fatal occupational injuries among employees (rate) [8.8.1],,,,5
+2018,Fatal occupational injuries among employees (rate) [8.8.1],,Male,,7
+2019,Fatal occupational injuries among employees (rate) [8.8.1],,Male,,5
+2018,Fatal occupational injuries among employees (rate) [8.8.1],,Female,,0
+2019,Fatal occupational injuries among employees (rate) [8.8.1],,Female,,4
+2018,Non-fatal occupational injuries among employees (rate) [8.8.1],,,,94
+2019,Non-fatal occupational injuries among employees (rate) [8.8.1],,,,95
+2018,Non-fatal occupational injuries among employees (rate) [8.8.1],,Male,,93
+2019,Non-fatal occupational injuries among employees (rate) [8.8.1],,Male,,95
+2018,Non-fatal occupational injuries among employees (rate) [8.8.1],,Female,,100
+2019,Non-fatal occupational injuries among employees (rate) [8.8.1],,Female,,96

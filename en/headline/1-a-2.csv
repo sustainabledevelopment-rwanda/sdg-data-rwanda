@@ -1,1 +1,9 @@
-Year,Value,GeoCode,UNIT_MEASURE,SERIES
+Year,Value,GeoCode,SERIES
+2015,204024372542,,Proportion of total government spending on health [1.a.2]
+2017,197351473973,,Proportion of total government spending on health [1.a.2]
+2022,279077734548,,Proportion of total government spending on health [1.a.2]
+2015,74731877174,,Proportion of total government spending on social protection [1.a.2]
+2017,91075669292,,Proportion of total government spending on social protection [1.a.2]
+2015,220651941795,,"Proportion of total government spending on essential services, education [1.a.2]"
+2017,240486878694,,"Proportion of total government spending on essential services, education [1.a.2]"
+2022,135710808032,,"Proportion of total government spending on essential services, education [1.a.2]"

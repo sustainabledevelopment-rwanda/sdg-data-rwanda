@@ -1,21 +1,21 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,Mail volume (tonne kilometres),MININFRA,IS_TRP_MAILTKM,,T,,305.0
-2016,Mail volume (tonne kilometres),MININFRA,IS_TRP_MAILTKM,,T,,249.9
-2017,Mail volume (tonne kilometres),MININFRA,IS_TRP_MAILTKM,,T,,266.6
-2018,Mail volume (tonne kilometres),MININFRA,IS_TRP_MAILTKM,,T,,339.7
-2019,Mail volume (tonne kilometres),MININFRA,IS_TRP_MAILTKM,,T,,254.9
-2020,Mail volume (tonne kilometres),MININFRA,IS_TRP_MAILTKM,,T,,173.6
-2015,Freight volume (tonne kilometres),MININFRA,IS_RDP_FRGVOL,,T,,7577.5
-2016,Freight volume (tonne kilometres),MININFRA,IS_RDP_FRGVOL,,T,,6660.9
-2017,Freight volume (tonne kilometres),MININFRA,IS_RDP_FRGVOL,,T,,8226.1
-2018,Freight volume (tonne kilometres),MININFRA,IS_RDP_FRGVOL,,T,,10732.4
-2019,Freight volume (tonne kilometres),MININFRA,IS_RDP_FRGVOL,,T,,12094.8
-2020,Freight volume (tonne kilometres),MININFRA,IS_RDP_FRGVOL,,T,,11176.7
-2015,Passenger volume (passenger kilometres),MININFRA,IS_RDP_PFVOL,,NUMBER,,641817.0
-2016,Passenger volume (passenger kilometres),MININFRA,IS_RDP_PFVOL,,NUMBER,,771454.0
-2017,Passenger volume (passenger kilometres),MININFRA,IS_RDP_PFVOL,,NUMBER,,856167.0
-2018,Passenger volume (passenger kilometres),MININFRA,IS_RDP_PFVOL,,NUMBER,,1151300.0
-2019,Passenger volume (passenger kilometres),MININFRA,IS_RDP_PFVOL,,NUMBER,,1145867.0
-2020,Passenger volume (passenger kilometres),MININFRA,IS_RDP_PFVOL,,NUMBER,,277942.0
-2021,Passenger volume (passenger kilometres),MININFRA,IS_RDP_PFVOL,,NUMBER,,614215.0
-2022,Passenger volume (passenger kilometres),MININFRA,IS_RDP_PFVOL,,NUMBER,,788386.0
+Year,SERIES,REF_AREA,GeoCode,Value
+2015,IS_TRP_MAILTKM,,,305.0
+2016,IS_TRP_MAILTKM,,,249.9
+2017,IS_TRP_MAILTKM,,,266.6
+2018,IS_TRP_MAILTKM,,,339.7
+2019,IS_TRP_MAILTKM,,,254.9
+2020,IS_TRP_MAILTKM,,,173.6
+2015,IS_RDP_FRGVOL,,,7577.5
+2016,IS_RDP_FRGVOL,,,6660.9
+2017,IS_RDP_FRGVOL,,,8226.1
+2018,IS_RDP_FRGVOL,,,10732.4
+2019,IS_RDP_FRGVOL,,,12094.8
+2020,IS_RDP_FRGVOL,,,11176.7
+2015,IS_RDP_PFVOL,,,641817.0
+2016,IS_RDP_PFVOL,,,771454.0
+2017,IS_RDP_PFVOL,,,856167.0
+2018,IS_RDP_PFVOL,,,1151300.0
+2019,IS_RDP_PFVOL,,,1145867.0
+2020,IS_RDP_PFVOL,,,277942.0
+2021,IS_RDP_PFVOL,,,614215.0
+2022,IS_RDP_PFVOL,,,788386.0

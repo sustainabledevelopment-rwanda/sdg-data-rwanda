@@ -7,35 +7,13 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "utf-8",
+      "encoding": "iso8859-1",
       "schema": {
         "fields": [
           {
             "name": "Year",
             "type": "integer",
             "title": "Year"
-          },
-          {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of the rural population who live within 2 km of an all-season road",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Study on road and\npublic transport\naccessibility in Rwanda\n(MININFRA)",
-                ""
-              ]
-            },
-            "title": "Source details"
           },
           {
             "name": "SERIES",
@@ -62,11 +40,6 @@
               ]
             },
             "title": "Degree of urbanisation"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

@@ -1,36 +1,36 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2016,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,,Percent,,18.8
-2017,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,,Percent,,17.3
-2018,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,,Percent,,15.1
-2019,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,,Percent,,15.2
-2020,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,,Percent,,17.9
-2021,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,,Percent,,20.9
-2022,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,,Percent,,20.5
-2023,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,,Percent,,17.2
-2024,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,,Percent,,14.9
-2016,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Male,Percent,,15.7
-2017,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Male,Percent,,15.6
-2018,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Male,Percent,,13.5
-2019,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Male,Percent,,13.8
-2020,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Male,Percent,,15.9
-2021,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Male,Percent,,18.5
-2022,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Male,Percent,,17.9
-2023,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Male,Percent,,14.5
-2024,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Male,Percent,,12.6
-2016,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Female,Percent,,22.7
-2017,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Female,Percent,,19.2
-2018,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Female,Percent,,17.1
-2019,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Female,Percent,,17.0
-2020,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Female,Percent,,20.3
-2021,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Female,Percent,,18.5
-2022,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Female,Percent,,23.7
-2023,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Female,Percent,,20.3
-2024,Unemployment rate,"LFS, NISR",Unemployment rate [8.5.2],,Female,Percent,,17.6
-2016,"Unemployment rate, by disability","LFS, NISR","Unemployment rate, by disability [8.5.2]",,,Percent,,20.8
-2017,"Unemployment rate, by disability","LFS, NISR","Unemployment rate, by disability [8.5.2]",,,Percent,,17.4
-2018,"Unemployment rate, by disability","LFS, NISR","Unemployment rate, by disability [8.5.2]",,,Percent,,14.1
-2019,"Unemployment rate, by disability","LFS, NISR","Unemployment rate, by disability [8.5.2]",,,Percent,,14.3
-2021,"Unemployment rate, by disability","LFS, NISR","Unemployment rate, by disability [8.5.2]",,,Percent,,21.1
-2022,"Unemployment rate, by disability","LFS, NISR","Unemployment rate, by disability [8.5.2]",,,Percent,,16.4
-2023,"Unemployment rate, by disability","LFS, NISR","Unemployment rate, by disability [8.5.2]",,,Percent,,18.9
-2024,"Unemployment rate, by disability","LFS, NISR","Unemployment rate, by disability [8.5.2]",,,Percent,,14.9
+Year,SERIES,Reference area,Sex,GeoCode,Value
+2016,Unemployment rate [8.5.2],,,,18.8
+2017,Unemployment rate [8.5.2],,,,17.3
+2018,Unemployment rate [8.5.2],,,,15.1
+2019,Unemployment rate [8.5.2],,,,15.2
+2020,Unemployment rate [8.5.2],,,,17.9
+2021,Unemployment rate [8.5.2],,,,20.9
+2022,Unemployment rate [8.5.2],,,,20.5
+2023,Unemployment rate [8.5.2],,,,17.2
+2024,Unemployment rate [8.5.2],,,,14.9
+2016,Unemployment rate [8.5.2],,Male,,15.7
+2017,Unemployment rate [8.5.2],,Male,,15.6
+2018,Unemployment rate [8.5.2],,Male,,13.5
+2019,Unemployment rate [8.5.2],,Male,,13.8
+2020,Unemployment rate [8.5.2],,Male,,15.9
+2021,Unemployment rate [8.5.2],,Male,,18.5
+2022,Unemployment rate [8.5.2],,Male,,17.9
+2023,Unemployment rate [8.5.2],,Male,,14.5
+2024,Unemployment rate [8.5.2],,Male,,12.6
+2016,Unemployment rate [8.5.2],,Female,,22.7
+2017,Unemployment rate [8.5.2],,Female,,19.2
+2018,Unemployment rate [8.5.2],,Female,,17.1
+2019,Unemployment rate [8.5.2],,Female,,17.0
+2020,Unemployment rate [8.5.2],,Female,,20.3
+2021,Unemployment rate [8.5.2],,Female,,18.5
+2022,Unemployment rate [8.5.2],,Female,,23.7
+2023,Unemployment rate [8.5.2],,Female,,20.3
+2024,Unemployment rate [8.5.2],,Female,,17.6
+2016,"Unemployment rate, by disability [8.5.2]",,,,20.8
+2017,"Unemployment rate, by disability [8.5.2]",,,,17.4
+2018,"Unemployment rate, by disability [8.5.2]",,,,14.1
+2019,"Unemployment rate, by disability [8.5.2]",,,,14.3
+2021,"Unemployment rate, by disability [8.5.2]",,,,21.1
+2022,"Unemployment rate, by disability [8.5.2]",,,,16.4
+2023,"Unemployment rate, by disability [8.5.2]",,,,18.9
+2024,"Unemployment rate, by disability [8.5.2]",,,,14.9

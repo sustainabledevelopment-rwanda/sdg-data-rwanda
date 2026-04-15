@@ -1,2 +1,2 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,Water body extent (permanent) (% of total land area),"RWB, REMA, RFA",EN_WBE_PMPR,,PT,,0.9
+Year,SERIES,REF_AREA,GeoCode,Value
+2016,EN_WBE_PMPR,,,0.9

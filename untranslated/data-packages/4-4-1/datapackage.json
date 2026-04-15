@@ -15,34 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Copying (Moving) a file or a folder",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software",
-                "Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices",
-                "Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "EICV, NISR",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -65,10 +37,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "GeoCode",

@@ -1,4 +1,4 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2017,Primary government expenditures as a proportion of original approved budget,"MINECOFIN, Budget Finance Law",Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,,47.2
-2019,Primary government expenditures as a proportion of original approved budget,"MINECOFIN, Budget Finance Law",Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,,49.0
-2020,Primary government expenditures as a proportion of original approved budget,"MINECOFIN, Budget Finance Law",Primary government expenditures as a proportion of original approved budget [16.6.1],,Percent,,50.0
+Year,SERIES,Reference area,GeoCode,Value
+2017,Primary government expenditures as a proportion of original approved budget [16.6.1],,,47.2
+2019,Primary government expenditures as a proportion of original approved budget [16.6.1],,,49.0
+2020,Primary government expenditures as a proportion of original approved budget [16.6.1],,,50.0

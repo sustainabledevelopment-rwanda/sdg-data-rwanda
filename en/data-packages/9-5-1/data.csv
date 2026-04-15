@@ -1,4 +1,4 @@
-Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Research and development expenditure as a proportion of GDP (%),National Council for Science and Technology,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,,0.6
-2018,Research and development expenditure as a proportion of GDP (%),National Council for Science and Technology,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,,0.7
-2022,Research and development expenditure as a proportion of GDP (%),National Council for Science and Technology,Research and development expenditure as a proportion of GDP [9.5.1],,Percent,,0.7
+Year,SERIES,Reference area,GeoCode,Value
+2016,Research and development expenditure as a proportion of GDP [9.5.1],,,0.6
+2018,Research and development expenditure as a proportion of GDP [9.5.1],,,0.7
+2022,Research and development expenditure as a proportion of GDP [9.5.1],,,0.7

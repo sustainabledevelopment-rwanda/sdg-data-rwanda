@@ -15,29 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3)",
-                "Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2)",
-                "Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3)",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "DHS, RBC",
-                "DHS",
-                ""
-              ]
-            }
-          },
-          {
             "name": "SERIES",
             "type": "string"
           },
@@ -70,10 +47,6 @@
                 ""
               ]
             }
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string"
           },
           {
             "name": "GeoCode",

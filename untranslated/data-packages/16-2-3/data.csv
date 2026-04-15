@@ -1,5 +1,5 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2023,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,"Rwanda Governance Score Card, RGB",VC_VAW_SXVLN,,M,PT,,5.3
-2024,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,"Rwanda Governance Score Card, RGB",VC_VAW_SXVLN,,M,PT,,5.1
-2023,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,"Rwanda Governance Score Card, RGB",VC_VAW_SXVLN,,F,PT,,11.8
-2024,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,"Rwanda Governance Score Card, RGB",VC_VAW_SXVLN,,F,PT,,10.8
+Year,SERIES,REF_AREA,SEX,GeoCode,Value
+2023,VC_VAW_SXVLN,,M,,5.3
+2024,VC_VAW_SXVLN,,M,,5.1
+2023,VC_VAW_SXVLN,,F,,11.8
+2024,VC_VAW_SXVLN,,F,,10.8

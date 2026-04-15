@@ -1,23 +1,23 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2013,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,2.9
-2014,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,3.3
-2015,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,5.2
-2016,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,5.1
-2017,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,4.6
-2018,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,4.9
-2019,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,5.4
-2020,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,5.2
-2021,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,4.9
-2022,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,6.0
-2023,Death rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAF,,PER_100000_POP,,5.9
-2013,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,315.0
-2014,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,366.0
-2015,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,351.0
-2016,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,593.0
-2017,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,549.0
-2018,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,597.0
-2019,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,673.0
-2020,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,675.0
-2021,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,663.0
-2022,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,794.0
-2023,Number of deaths rate due to road traffic injuries,"NISR, Statistical Yearbook",SH_STA_TRAFN,,NUMBER,,794.0
+Year,SERIES,REF_AREA,GeoCode,Value
+2013,SH_STA_TRAF,,,2.9
+2014,SH_STA_TRAF,,,3.3
+2015,SH_STA_TRAF,,,5.2
+2016,SH_STA_TRAF,,,5.1
+2017,SH_STA_TRAF,,,4.6
+2018,SH_STA_TRAF,,,4.9
+2019,SH_STA_TRAF,,,5.4
+2020,SH_STA_TRAF,,,5.2
+2021,SH_STA_TRAF,,,4.9
+2022,SH_STA_TRAF,,,6.0
+2023,SH_STA_TRAF,,,5.9
+2013,SH_STA_TRAFN,,,315.0
+2014,SH_STA_TRAFN,,,366.0
+2015,SH_STA_TRAFN,,,351.0
+2016,SH_STA_TRAFN,,,593.0
+2017,SH_STA_TRAFN,,,549.0
+2018,SH_STA_TRAFN,,,597.0
+2019,SH_STA_TRAFN,,,673.0
+2020,SH_STA_TRAFN,,,675.0
+2021,SH_STA_TRAFN,,,663.0
+2022,SH_STA_TRAFN,,,794.0
+2023,SH_STA_TRAFN,,,794.0

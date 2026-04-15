@@ -1,6 +1,6 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2000,Proportion of population below international poverty line,World Bank,SI_POV_DAY1,,PT,,77.2
-2005,Proportion of population below international poverty line,World Bank,SI_POV_DAY1,,PT,,68.3
-2011,Proportion of population below international poverty line,World Bank,SI_POV_DAY1,,PT,,62.3
-2014,Proportion of population below international poverty line,World Bank,SI_POV_DAY1,,PT,,56.8
-2017,Proportion of population below international poverty line,World Bank,SI_POV_DAY1,,PT,,52.0
+Year,SERIES,REF_AREA,GeoCode,Value
+2000,SI_POV_DAY1,,,77.2
+2005,SI_POV_DAY1,,,68.3
+2011,SI_POV_DAY1,,,62.3
+2014,SI_POV_DAY1,,,56.8
+2017,SI_POV_DAY1,,,52.0

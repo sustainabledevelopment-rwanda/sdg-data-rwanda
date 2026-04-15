@@ -1,4 +1,4 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2017,Remittance costs as a proportion of the amount remitted,BNR,SI_RMT_COST,,PT,,4.0
-2019,Remittance costs as a proportion of the amount remitted,BNR,SI_RMT_COST,,PT,,4.0
-2022,Remittance costs as a proportion of the amount remitted,BNR,SI_RMT_COST,,PT,,0.2
+Year,SERIES,REF_AREA,GeoCode,Value
+2017,SI_RMT_COST,,,4.0
+2019,SI_RMT_COST,,,4.0
+2022,SI_RMT_COST,,,0.2

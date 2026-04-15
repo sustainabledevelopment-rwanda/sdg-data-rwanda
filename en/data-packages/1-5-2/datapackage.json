@@ -16,41 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "COMMENT_OBS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Number of Houses damaged by disaster",
-                "Number of Ha for crops damaged",
-                "Number of Classrooms damaged",
-                "Number of Health Centers damaged",
-                "Number of Bridges damaged",
-                "Number of Administrative Offices damaged",
-                "Number of Transmission lines damaged",
-                "Number of Water supply damaged",
-                "Number of Markets damaged",
-                "Number of Factories damaged",
-                "Number of Ha for forests damaged",
-                "Number of churches damaged",
-                "Number of road sections damaged",
-                "Number of Cattles and livestock lost",
-                ""
-              ]
-            },
-            "title": "Observation-level footnotes"
-          },
-          {
-            "name": "SOURCE_DETAIL",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Annual disaster effects situation report , MINEMA",
-                ""
-              ]
-            },
-            "title": "Source details"
-          },
-          {
             "name": "SERIES",
             "type": "string",
             "title": "SDG Series"
@@ -64,11 +29,6 @@
               ]
             },
             "title": "Reference area"
-          },
-          {
-            "name": "UNIT_MEASURE",
-            "type": "string",
-            "title": "Unit of measure"
           },
           {
             "name": "GeoCode",

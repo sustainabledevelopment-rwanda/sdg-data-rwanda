@@ -1,27 +1,27 @@
-Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,EDUCATION_LEV,UNIT_MEASURE,GeoCode,Value
-2016,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning","NISR,DHS2019/2020",SE_DEV_ONTRK,,,M36T59,ISCED97_0,PT,,63.1
-2020,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning","NISR,DHS2019/2020",SE_DEV_ONTRK,,,M36T59,ISCED97_0,PT,,76.0
-2016,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning","NISR,DHS2019/2021",SE_DEV_ONTRK,,M,M36T59,ISCED97_0,PT,,62.6
-2020,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning","NISR,DHS2019/2021",SE_DEV_ONTRK,,M,M36T59,ISCED97_0,PT,,74.1
-2016,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning","NISR,DHS2019/2022",SE_DEV_ONTRK,,F,M36T59,ISCED97_0,PT,,63.6
-2020,"Proportion of children aged 36-59 months who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning","NISR,DHS2019/2022",SE_DEV_ONTRK,,F,M36T59,ISCED97_0,PT,,77.9
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy","NISR,DHS2019/2023",_L_RW_040201_1,,,Y0T4,ISCED97_0,PT,,7.0
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy","NISR,DHS2019/2023",_L_RW_040201_1,,,Y0T4,ISCED97_0,PT,,11.0
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy","NISR,DHS2019/2024",_L_RW_040201_1,,M,Y0T4,ISCED97_0,PT,,6.3
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy","NISR,DHS2019/2024",_L_RW_040201_1,,M,Y0T4,ISCED97_0,PT,,11.2
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy","NISR,DHS2019/2025",_L_RW_040201_1,,F,Y0T4,ISCED97_0,PT,,7.8
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy","NISR,DHS2019/2025",_L_RW_040201_1,,F,Y0T4,ISCED97_0,PT,,12.3
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical","NISR,DHS2019/2026",_L_RW_040201_2,,,Y0T4,ISCED97_0,PT,,92.3
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical","NISR,DHS2019/2026",_L_RW_040201_2,,,Y0T4,ISCED97_0,PT,,95.4
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical","NISR,DHS2019/2027",_L_RW_040201_2,,M,Y0T4,ISCED97_0,PT,,92.4
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical","NISR,DHS2019/2027",_L_RW_040201_2,,M,Y0T4,ISCED97_0,PT,,95.3
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical","NISR,DHS2019/2028",_L_RW_040201_2,,F,Y0T4,ISCED97_0,PT,,92.2
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical","NISR,DHS2019/2028",_L_RW_040201_2,,F,Y0T4,ISCED97_0,PT,,95.8
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional","NISR,DHS2019/2029",_L_RW_040201_3,,,Y0T4,ISCED97_0,PT,,73.1
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional","NISR,DHS2019/2029",_L_RW_040201_3,,,Y0T4,ISCED97_0,PT,,94.4
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional","NISR,DHS2019/2030",_L_RW_040201_3,,M,Y0T4,ISCED97_0,PT,,72.9
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional","NISR,DHS2019/2030",_L_RW_040201_3,,M,Y0T4,ISCED97_0,PT,,93.2
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional","NISR,DHS2019/2031",_L_RW_040201_3,,F,Y0T4,ISCED97_0,PT,,73.3
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional","NISR,DHS2019/2031",_L_RW_040201_3,,F,Y0T4,ISCED97_0,PT,,95.8
-2016,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Learning","NISR,DHS2019/2032",_L_RW_040201_4,,,Y0T4,ISCED97_0,PT,,85.7
-2020,"Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Learning","NISR,DHS2019/2032",_L_RW_040201_4,,,Y0T4,ISCED97_0,PT,,76.0
+Year,SERIES,REF_AREA,SEX,AGE,EDUCATION_LEV,GeoCode,Value
+2016,SE_DEV_ONTRK,,,M36T59,ISCED97_0,,63.1
+2020,SE_DEV_ONTRK,,,M36T59,ISCED97_0,,76.0
+2016,SE_DEV_ONTRK,,M,M36T59,ISCED97_0,,62.6
+2020,SE_DEV_ONTRK,,M,M36T59,ISCED97_0,,74.1
+2016,SE_DEV_ONTRK,,F,M36T59,ISCED97_0,,63.6
+2020,SE_DEV_ONTRK,,F,M36T59,ISCED97_0,,77.9
+2016,_L_RW_040201_1,,,Y0T4,ISCED97_0,,7.0
+2020,_L_RW_040201_1,,,Y0T4,ISCED97_0,,11.0
+2016,_L_RW_040201_1,,M,Y0T4,ISCED97_0,,6.3
+2020,_L_RW_040201_1,,M,Y0T4,ISCED97_0,,11.2
+2016,_L_RW_040201_1,,F,Y0T4,ISCED97_0,,7.8
+2020,_L_RW_040201_1,,F,Y0T4,ISCED97_0,,12.3
+2016,_L_RW_040201_2,,,Y0T4,ISCED97_0,,92.3
+2020,_L_RW_040201_2,,,Y0T4,ISCED97_0,,95.4
+2016,_L_RW_040201_2,,M,Y0T4,ISCED97_0,,92.4
+2020,_L_RW_040201_2,,M,Y0T4,ISCED97_0,,95.3
+2016,_L_RW_040201_2,,F,Y0T4,ISCED97_0,,92.2
+2020,_L_RW_040201_2,,F,Y0T4,ISCED97_0,,95.8
+2016,_L_RW_040201_3,,,Y0T4,ISCED97_0,,73.1
+2020,_L_RW_040201_3,,,Y0T4,ISCED97_0,,94.4
+2016,_L_RW_040201_3,,M,Y0T4,ISCED97_0,,72.9
+2020,_L_RW_040201_3,,M,Y0T4,ISCED97_0,,93.2
+2016,_L_RW_040201_3,,F,Y0T4,ISCED97_0,,73.3
+2020,_L_RW_040201_3,,F,Y0T4,ISCED97_0,,95.8
+2016,_L_RW_040201_4,,,Y0T4,ISCED97_0,,85.7
+2020,_L_RW_040201_4,,,Y0T4,ISCED97_0,,76.0
