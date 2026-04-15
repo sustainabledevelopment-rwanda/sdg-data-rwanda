@@ -1,10 +1,10 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Not Available,Volume of remittances (in United States dollars) as a proportion of total GDP,Annual,National,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,1.9
-2017,Normal value,Units,Not Available,Volume of remittances (in United States dollars) as a proportion of total GDP,Annual,National,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,2.2
-2018,Normal value,Units,Not Available,Volume of remittances (in United States dollars) as a proportion of total GDP,Annual,National,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,2.6
-2019,Normal value,Units,Not Available,Volume of remittances (in United States dollars) as a proportion of total GDP,Annual,National,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,2.4
-2020,Normal value,Units,Not Available,Volume of remittances (in United States dollars) as a proportion of total GDP,Annual,National,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,2.7
-2021,Normal value,Units,Not Available,Volume of remittances (in United States dollars) as a proportion of total GDP,Annual,National,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,3.4
-2022,Normal value,Units,Not Available,Volume of remittances (in United States dollars) as a proportion of total GDP,Annual,National,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,3.5
-2023,Normal value,Units,Not Available,Volume of remittances (in United States dollars) as a proportion of total GDP,Annual,National,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,3.6
-2024,Normal value,Units,Not Available,Volume of remittances (in United States dollars) as a proportion of total GDP,Annual,National,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,3.8
+Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2016,Volume of remittances (in United States dollars) as a proportion of total GDP,BNR,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,1.9
+2017,Volume of remittances (in United States dollars) as a proportion of total GDP,BNR,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,2.2
+2018,Volume of remittances (in United States dollars) as a proportion of total GDP,BNR,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,2.6
+2019,Volume of remittances (in United States dollars) as a proportion of total GDP,BNR,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,2.4
+2020,Volume of remittances (in United States dollars) as a proportion of total GDP,BNR,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,2.7
+2021,Volume of remittances (in United States dollars) as a proportion of total GDP,BNR,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,3.4
+2022,Volume of remittances (in United States dollars) as a proportion of total GDP,BNR,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,3.5
+2023,Volume of remittances (in United States dollars) as a proportion of total GDP,BNR,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,3.6
+2024,Volume of remittances (in United States dollars) as a proportion of total GDP,BNR,Volume of remittances (in United States dollars) as a proportion of total GDP [17.3.2],,USD,,3.8

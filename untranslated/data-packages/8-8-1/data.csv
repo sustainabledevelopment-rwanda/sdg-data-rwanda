@@ -1,13 +1,13 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2018,A,0,_X,Fatal occupational injuries among employees (rate),A,N,SL_EMP_FTLINJUR,,,PT,,6
-2019,A,0,_X,Fatal occupational injuries among employees (rate),A,N,SL_EMP_FTLINJUR,,,PT,,5
-2018,A,0,_X,Fatal occupational injuries among employees (rate),A,N,SL_EMP_FTLINJUR,,M,PT,,7
-2019,A,0,_X,Fatal occupational injuries among employees (rate),A,N,SL_EMP_FTLINJUR,,M,PT,,5
-2018,A,0,_X,Fatal occupational injuries among employees (rate),A,N,SL_EMP_FTLINJUR,,F,PT,,0
-2019,A,0,_X,Fatal occupational injuries among employees (rate),A,N,SL_EMP_FTLINJUR,,F,PT,,4
-2018,A,0,_X,Non-fatal occupational injuries among employees (rate),A,N,SL_EMP_INJUR,,,PT,,94
-2019,A,0,_X,Non-fatal occupational injuries among employees (rate),A,N,SL_EMP_INJUR,,,PT,,95
-2018,A,0,_X,Non-fatal occupational injuries among employees (rate),A,N,SL_EMP_INJUR,,M,PT,,93
-2019,A,0,_X,Non-fatal occupational injuries among employees (rate),A,N,SL_EMP_INJUR,,M,PT,,95
-2018,A,0,_X,Non-fatal occupational injuries among employees (rate),A,N,SL_EMP_INJUR,,F,PT,,100
-2019,A,0,_X,Non-fatal occupational injuries among employees (rate),A,N,SL_EMP_INJUR,,F,PT,,96
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
+2018,Fatal occupational injuries among employees (rate),RSSB,SL_EMP_FTLINJUR,,,PT,,6
+2019,Fatal occupational injuries among employees (rate),RSSB,SL_EMP_FTLINJUR,,,PT,,5
+2018,Fatal occupational injuries among employees (rate),RSSB,SL_EMP_FTLINJUR,,M,PT,,7
+2019,Fatal occupational injuries among employees (rate),RSSB,SL_EMP_FTLINJUR,,M,PT,,5
+2018,Fatal occupational injuries among employees (rate),RSSB,SL_EMP_FTLINJUR,,F,PT,,0
+2019,Fatal occupational injuries among employees (rate),RSSB,SL_EMP_FTLINJUR,,F,PT,,4
+2018,Non-fatal occupational injuries among employees (rate),RSSB,SL_EMP_INJUR,,,PT,,94
+2019,Non-fatal occupational injuries among employees (rate),RSSB,SL_EMP_INJUR,,,PT,,95
+2018,Non-fatal occupational injuries among employees (rate),RSSB,SL_EMP_INJUR,,M,PT,,93
+2019,Non-fatal occupational injuries among employees (rate),RSSB,SL_EMP_INJUR,,M,PT,,95
+2018,Non-fatal occupational injuries among employees (rate),RSSB,SL_EMP_INJUR,,F,PT,,100
+2019,Non-fatal occupational injuries among employees (rate),RSSB,SL_EMP_INJUR,,F,PT,,96

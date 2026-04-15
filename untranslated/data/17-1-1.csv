@@ -1,9 +1,9 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,A,0,_X,Total government revenue as a proportion of GDP,A,N,GR_G14_GDP,,PT,,24.3
-2016,A,0,_X,Total government revenue as a proportion of GDP,A,N,GR_G14_GDP,,PT,,23.5
-2017,A,0,_X,Total government revenue as a proportion of GDP,A,N,GR_G14_GDP,,PT,,22.3
-2018,A,0,_X,Total government revenue as a proportion of GDP,A,N,GR_G14_GDP,,PT,,23.3
-2019,A,0,_X,Total government revenue as a proportion of GDP,A,N,GR_G14_GDP,,PT,,23.7
-2020,A,0,_X,Total government revenue as a proportion of GDP,A,N,GR_G14_GDP,,PT,,23.5
-2021,A,0,_X,Total government revenue as a proportion of GDP,A,N,GR_G14_GDP,,PT,,25.0
-2022,A,0,_X,Total government revenue as a proportion of GDP,A,N,GR_G14_GDP,,PT,,26.0
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2015,Total government revenue as a proportion of GDP,MINECOFIN,GR_G14_GDP,,PT,,24.3
+2016,Total government revenue as a proportion of GDP,MINECOFIN,GR_G14_GDP,,PT,,23.5
+2017,Total government revenue as a proportion of GDP,MINECOFIN,GR_G14_GDP,,PT,,22.3
+2018,Total government revenue as a proportion of GDP,MINECOFIN,GR_G14_GDP,,PT,,23.3
+2019,Total government revenue as a proportion of GDP,MINECOFIN,GR_G14_GDP,,PT,,23.7
+2020,Total government revenue as a proportion of GDP,MINECOFIN,GR_G14_GDP,,PT,,23.5
+2021,Total government revenue as a proportion of GDP,MINECOFIN,GR_G14_GDP,,PT,,25.0
+2022,Total government revenue as a proportion of GDP,MINECOFIN,GR_G14_GDP,,PT,,26.0

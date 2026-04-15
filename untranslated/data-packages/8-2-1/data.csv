@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,A,0,_X,Annual growth rate of real GDP per employed person,A,N,SL_EMP_PCAP,,PT,,2.3
-2017,A,0,_X,Annual growth rate of real GDP per employed person,A,N,SL_EMP_PCAP,,PT,,0.6
-2018,A,0,_X,Annual growth rate of real GDP per employed person,A,N,SL_EMP_PCAP,,PT,,21.3
-2019,A,0,_X,Annual growth rate of real GDP per employed person,A,N,SL_EMP_PCAP,,PT,,-12.0
-2020,A,0,_X,Annual growth rate of real GDP per employed person,A,N,SL_EMP_PCAP,,PT,,10.3
-2021,A,0,_X,Annual growth rate of real GDP per employed person,A,N,SL_EMP_PCAP,,PT,,4.1
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2016,Annual growth rate of real GDP per employed person,ILO - Modelled Estimates,SL_EMP_PCAP,,PT,,2.3
+2017,Annual growth rate of real GDP per employed person,ILO - Modelled Estimates,SL_EMP_PCAP,,PT,,0.6
+2018,Annual growth rate of real GDP per employed person,ILO - Modelled Estimates,SL_EMP_PCAP,,PT,,21.3
+2019,Annual growth rate of real GDP per employed person,ILO - Modelled Estimates,SL_EMP_PCAP,,PT,,-12.0
+2020,Annual growth rate of real GDP per employed person,ILO - Modelled Estimates,SL_EMP_PCAP,,PT,,10.3
+2021,Annual growth rate of real GDP per employed person,ILO - Modelled Estimates,SL_EMP_PCAP,,PT,,4.1

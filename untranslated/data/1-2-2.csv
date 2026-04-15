@@ -1,51 +1,51 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2005,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,,IX,,0.4
-2010,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,,IX,,0.4
-2011,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,,IX,,0.2
-2012,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,,IX,,0.2
-2014,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,,IX,,0.2
-2017,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,,IX,,0.2
-2022,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,,IX,,0.1
-2024,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,,IX,,0.1
-2011,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,U,IX,,0.1
-2012,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,U,IX,,0.1
-2014,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,U,IX,,0.1
-2017,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,U,IX,,0.1
-2022,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,U,IX,,0.1
-2024,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,U,IX,,0.1
-2011,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,R,IX,,0.3
-2012,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,R,IX,,0.2
-2014,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,R,IX,,0.2
-2017,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,R,IX,,0.2
-2022,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,R,IX,,0.2
-2024,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,,R,IX,,0.2
-2011,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,1,,IX,1,0.1
-2012,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,1,,IX,1,0.1
-2014,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,1,,IX,1,0.1
-2017,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,1,,IX,1,0.1
-2022,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,1,,IX,1,0.0
-2024,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,1,,IX,1,0.1
-2011,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,2,,IX,2,0.3
-2012,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,2,,IX,2,0.2
-2014,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,2,,IX,2,0.2
-2017,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,2,,IX,2,0.2
-2022,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,2,,IX,2,0.1
-2024,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,2,,IX,2,0.2
-2011,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,3,,IX,3,0.3
-2012,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,3,,IX,3,0.2
-2014,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,3,,IX,3,0.2
-2017,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,3,,IX,3,0.2
-2022,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,3,,IX,3,0.2
-2024,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,3,,IX,3,0.1
-2011,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,4,,IX,4,0.2
-2012,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,4,,IX,4,0.2
-2014,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,4,,IX,4,0.1
-2017,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,4,,IX,4,0.1
-2022,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,4,,IX,4,0.1
-2024,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,4,,IX,4,0.1
-2011,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,5,,IX,5,0.3
-2012,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,5,,IX,5,0.2
-2014,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,5,,IX,5,0.2
-2017,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,5,,IX,5,0.2
-2022,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,5,,IX,5,0.2
-2024,A,0,_X,Proportion of population living in poverty in all its dimensions according to national definitions,A,N,SI_POV_NMPI,5,,IX,5,0.2
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2005,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,,IX,,0.4
+2010,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,,IX,,0.4
+2011,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,,IX,,0.2
+2012,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,,IX,,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,,IX,,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,,IX,,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,,IX,,0.1
+2024,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,,IX,,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,U,IX,,0.1
+2012,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,U,IX,,0.1
+2014,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,U,IX,,0.1
+2017,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,U,IX,,0.1
+2022,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,U,IX,,0.1
+2024,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,U,IX,,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,R,IX,,0.3
+2012,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,R,IX,,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,R,IX,,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,R,IX,,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,R,IX,,0.2
+2024,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,,R,IX,,0.2
+2011,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,1,,IX,1,0.1
+2012,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,1,,IX,1,0.1
+2014,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,1,,IX,1,0.1
+2017,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,1,,IX,1,0.1
+2022,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,1,,IX,1,0.0
+2024,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,1,,IX,1,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,2,,IX,2,0.3
+2012,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,2,,IX,2,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,2,,IX,2,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,2,,IX,2,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,2,,IX,2,0.1
+2024,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,2,,IX,2,0.2
+2011,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,3,,IX,3,0.3
+2012,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,3,,IX,3,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,3,,IX,3,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,3,,IX,3,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,3,,IX,3,0.2
+2024,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,3,,IX,3,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,4,,IX,4,0.2
+2012,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,4,,IX,4,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,4,,IX,4,0.1
+2017,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,4,,IX,4,0.1
+2022,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,4,,IX,4,0.1
+2024,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,4,,IX,4,0.1
+2011,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,5,,IX,5,0.3
+2012,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,5,,IX,5,0.2
+2014,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,5,,IX,5,0.2
+2017,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,5,,IX,5,0.2
+2022,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,5,,IX,5,0.2
+2024,Proportion of population living in poverty in all its dimensions according to national definitions,"EICV and Census MPI Report, NISR",SI_POV_NMPI,5,,IX,5,0.2

@@ -1,3 +1,3 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,A,0,_X,Amount spent in Social Protection program,A,N,_L_RW_010B01_1,,USD,,103794273.9
-2017,A,0,_X,Amount spent in Social Protection program,A,N,_L_RW_010B01_1,,USD,,109465948.7
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2015,Amount spent in Social Protection program,Ministry of Finance and Economic Planning (MINECOFIN),_L_RW_010B01_1,,USD,,103794273.9
+2017,Amount spent in Social Protection program,Ministry of Finance and Economic Planning (MINECOFIN),_L_RW_010B01_1,,USD,,109465948.7

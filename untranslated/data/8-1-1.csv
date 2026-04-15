@@ -1,25 +1,25 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2001,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,5.7
-2002,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,10.4
-2003,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,-0.3
-2004,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,3.7
-2005,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,6.9
-2006,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,6.8
-2007,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,5.3
-2008,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,7.6
-2009,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,4.1
-2010,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,4.1
-2011,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,5.8
-2012,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,5.5
-2013,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,2.8
-2014,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,3.3
-2015,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,6.0
-2016,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,4.1
-2017,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,1.3
-2018,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,5.8
-2019,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,6.8
-2020,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,-5.7
-2021,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,8.3
-2022,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,5.7
-2023,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,5.9
-2024,A,0,_X,Annual growth rate of real GDP per capita,A,N,NY_GDP_PCAP,,PT,,6.5
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2001,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,5.7
+2002,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,10.4
+2003,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,-0.3
+2004,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,3.7
+2005,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,6.9
+2006,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,6.8
+2007,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,5.3
+2008,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,7.6
+2009,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,4.1
+2010,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,4.1
+2011,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,5.8
+2012,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,5.5
+2013,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,2.8
+2014,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,3.3
+2015,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,6.0
+2016,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,4.1
+2017,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,1.3
+2018,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,5.8
+2019,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,6.8
+2020,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,-5.7
+2021,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,8.3
+2022,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,5.7
+2023,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,5.9
+2024,Annual growth rate of real GDP per capita,"National Accounts, NISR",NY_GDP_PCAP,,PT,,6.5

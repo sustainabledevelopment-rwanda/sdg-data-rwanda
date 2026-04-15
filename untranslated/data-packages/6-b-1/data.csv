@@ -1,16 +1,16 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2010,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2011,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2012,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2013,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2014,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2015,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2016,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2017,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2018,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2019,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2020,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2021,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2022,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2023,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
-2024,A,0,_X,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,A,N,ER_H20_LCMGM,,PT,,1
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2010,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2011,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2012,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2013,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2014,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2015,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2016,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2017,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2018,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2019,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2020,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2021,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2022,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2023,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1
+2024,Proportion of local administrative units with established and operational policies and procedures for participation of local communities in water and sanitation management,MINALOC,ER_H20_LCMGM,,PT,,1

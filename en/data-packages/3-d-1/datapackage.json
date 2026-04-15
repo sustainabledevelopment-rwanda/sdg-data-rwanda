@@ -16,39 +16,6 @@
             "title": "Year"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Normal value",
-                ""
-              ]
-            },
-            "title": "Observation status"
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Units",
-                ""
-              ]
-            },
-            "title": "Unit multiplier"
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Not Available",
-                ""
-              ]
-            },
-            "title": "Nature of data points"
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -60,26 +27,15 @@
             "title": "Observation-level footnotes"
           },
           {
-            "name": "FREQ",
+            "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "Annual",
+                "WHO, International Health Regulations (2005) Monitoring Framework Country Profiles",
                 ""
               ]
             },
-            "title": "Frequency of observation"
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "National",
-                ""
-              ]
-            },
-            "title": "Reporting type"
+            "title": "Source details"
           },
           {
             "name": "SERIES",

@@ -1,6 +1,6 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2000,Normal value,Units,Not Available,Proportion of population below international poverty line,Annual,National,Proportion of population below international poverty line [1.1.1],,Percent,,77.2
-2005,Normal value,Units,Not Available,Proportion of population below international poverty line,Annual,National,Proportion of population below international poverty line [1.1.1],,Percent,,68.3
-2011,Normal value,Units,Not Available,Proportion of population below international poverty line,Annual,National,Proportion of population below international poverty line [1.1.1],,Percent,,62.3
-2014,Normal value,Units,Not Available,Proportion of population below international poverty line,Annual,National,Proportion of population below international poverty line [1.1.1],,Percent,,56.8
-2017,Normal value,Units,Not Available,Proportion of population below international poverty line,Annual,National,Proportion of population below international poverty line [1.1.1],,Percent,,52.0
+Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2000,Proportion of population below international poverty line,World Bank,Proportion of population below international poverty line [1.1.1],,Percent,,77.2
+2005,Proportion of population below international poverty line,World Bank,Proportion of population below international poverty line [1.1.1],,Percent,,68.3
+2011,Proportion of population below international poverty line,World Bank,Proportion of population below international poverty line [1.1.1],,Percent,,62.3
+2014,Proportion of population below international poverty line,World Bank,Proportion of population below international poverty line [1.1.1],,Percent,,56.8
+2017,Proportion of population below international poverty line,World Bank,Proportion of population below international poverty line [1.1.1],,Percent,,52.0

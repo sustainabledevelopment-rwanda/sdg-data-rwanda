@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2015,A,0,_X,"Adolescent birth rate (per 1,000 women aged 15-19 years)",A,N,SP_DYN_ADKL,,F,Y15T19,,PER_1000_POP,,7.0
-2020,A,0,_X,"Adolescent birth rate (per 1,000 women aged 15-19 years)",A,N,SP_DYN_ADKL,,F,Y15T19,,PER_1000_POP,,31.8
-2020,A,0,_X,"Adolescent birth rate (per 1,000 women aged 15-19 years)",A,N,SP_DYN_ADKL,,,Y15T19,U,PER_1000_POP,,32.4
-2020,A,0,_X,"Adolescent birth rate (per 1,000 women aged 15-19 years)",A,N,SP_DYN_ADKL,,,Y15T19,R,PER_1000_POP,,31.6
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2015,"Adolescent birth rate (per 1,000 women aged 15-19 years)","DHS, NISR",SP_DYN_ADKL,,F,Y15T19,,PER_1000_POP,,7.0
+2020,"Adolescent birth rate (per 1,000 women aged 15-19 years)","DHS, NISR",SP_DYN_ADKL,,F,Y15T19,,PER_1000_POP,,31.8
+2020,"Adolescent birth rate (per 1,000 women aged 15-19 years)","DHS, NISR",SP_DYN_ADKL,,,Y15T19,U,PER_1000_POP,,32.4
+2020,"Adolescent birth rate (per 1,000 women aged 15-19 years)","DHS, NISR",SP_DYN_ADKL,,,Y15T19,R,PER_1000_POP,,31.6

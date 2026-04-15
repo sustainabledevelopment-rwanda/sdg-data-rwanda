@@ -1,4 +1,4 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2010,Normal value,Units,Not Available,Universal health coverage,Annual,National,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,,45.3
-2015,Normal value,Units,Not Available,Universal health coverage,Annual,National,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,,53.1
-2020,Normal value,Units,Not Available,Universal health coverage,Annual,National,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,,53.7
+Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2010,Universal health coverage,DHS/STEPS/Census/HMIS,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,,45.3
+2015,Universal health coverage,DHS/STEPS/Census/HMIS,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,,53.1
+2020,Universal health coverage,DHS/STEPS/Census/HMIS,Universal health coverage (UHC) service coverage index [3.8.1],,Percent,,53.7

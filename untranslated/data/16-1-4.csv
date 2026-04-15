@@ -1,10 +1,10 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,A,0,_X,Proportion of population that feel safe walking alone around the area they live in,A,N,VC_SNS_WALN,,PT,,79.0
-2017,A,0,_X,Proportion of population that feel safe walking alone around the area they live in,A,N,VC_SNS_WALN,,PT,,87.0
-2018,A,0,_X,Proportion of population that feel safe walking alone around the area they live in,A,N,VC_SNS_WALN,,PT,,88.0
-2019,A,0,_X,Proportion of population that feel safe walking alone around the area they live in,A,N,VC_SNS_WALN,,PT,,87.1
-2020,A,0,_X,Proportion of population that feel safe walking alone around the area they live in,A,N,VC_SNS_WALN,,PT,,80.3
-2021,A,0,_X,Proportion of population that feel safe walking alone around the area they live in,A,N,VC_SNS_WALN,,PT,,80.0
-2022,A,0,_X,Proportion of population that feel safe walking alone around the area they live in,A,N,VC_SNS_WALN,,PT,,80.0
-2023,A,0,_X,Proportion of population that feel safe walking alone around the area they live in,A,N,VC_SNS_WALN,,PT,,80.0
-2024,A,0,_X,Proportion of population that feel safe walking alone around the area they live in,A,N,VC_SNS_WALN,,PT,,80.0
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2016,Proportion of population that feel safe walking alone around the area they live in,"Rwanda Governance Score Card, RGB",VC_SNS_WALN,,PT,,79.0
+2017,Proportion of population that feel safe walking alone around the area they live in,"Rwanda Governance Score Card, RGB",VC_SNS_WALN,,PT,,87.0
+2018,Proportion of population that feel safe walking alone around the area they live in,"Rwanda Governance Score Card, RGB",VC_SNS_WALN,,PT,,88.0
+2019,Proportion of population that feel safe walking alone around the area they live in,"Rwanda Governance Score Card, RGB",VC_SNS_WALN,,PT,,87.1
+2020,Proportion of population that feel safe walking alone around the area they live in,"Rwanda Governance Score Card, RGB",VC_SNS_WALN,,PT,,80.3
+2021,Proportion of population that feel safe walking alone around the area they live in,"Rwanda Governance Score Card, RGB",VC_SNS_WALN,,PT,,80.0
+2022,Proportion of population that feel safe walking alone around the area they live in,"Rwanda Governance Score Card, RGB",VC_SNS_WALN,,PT,,80.0
+2023,Proportion of population that feel safe walking alone around the area they live in,"Rwanda Governance Score Card, RGB",VC_SNS_WALN,,PT,,80.0
+2024,Proportion of population that feel safe walking alone around the area they live in,"Rwanda Governance Score Card, RGB",VC_SNS_WALN,,PT,,80.0

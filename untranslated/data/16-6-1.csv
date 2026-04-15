@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2017,A,0,_X,Primary government expenditures as a proportion of original approved budget,A,N,GF_XPD_GBPC,,PT,,47.2
-2019,A,0,_X,Primary government expenditures as a proportion of original approved budget,A,N,GF_XPD_GBPC,,PT,,49.0
-2020,A,0,_X,Primary government expenditures as a proportion of original approved budget,A,N,GF_XPD_GBPC,,PT,,50.0
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2017,Primary government expenditures as a proportion of original approved budget,"MINECOFIN, Budget Finance Law",GF_XPD_GBPC,,PT,,47.2
+2019,Primary government expenditures as a proportion of original approved budget,"MINECOFIN, Budget Finance Law",GF_XPD_GBPC,,PT,,49.0
+2020,Primary government expenditures as a proportion of original approved budget,"MINECOFIN, Budget Finance Law",GF_XPD_GBPC,,PT,,50.0

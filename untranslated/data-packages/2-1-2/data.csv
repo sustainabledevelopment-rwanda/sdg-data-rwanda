@@ -1,13 +1,13 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,A,0,_X,Moderately food insecure based on CARI Method,A,N,_L_RW_020102_1,,PT,,16.8
-2018,A,0,_X,Moderately food insecure based on CARI Method,A,N,_L_RW_020102_1,,PT,,17.0
-2019,A,0,_X,Moderately food insecure based on CARI Method,A,N,_L_RW_020102_1,,PT,,18.8
-2020,A,0,_X,Moderately food insecure based on CARI Method,A,N,_L_RW_020102_1,,PT,,16.8
-2021,A,0,_X,Moderately food insecure based on CARI Method,A,N,_L_RW_020102_1,,PT,,19.0
-2024,A,0,_X,Moderately food insecure based on CARI Method,A,N,_L_RW_020102_1,,PT,,16.0
-2015,A,0,_X,Severely food insecure based on CARI Method,A,N,_L_RW_020102_2,,PT,,2.6
-2018,A,0,_X,Severely food insecure based on CARI Method,A,N,_L_RW_020102_2,,PT,,1.7
-2019,A,0,_X,Severely food insecure based on CARI Method,A,N,_L_RW_020102_2,,PT,,1.8
-2020,A,0,_X,Severely food insecure based on CARI Method,A,N,_L_RW_020102_2,,PT,,2.6
-2021,A,0,_X,Severely food insecure based on CARI Method,A,N,_L_RW_020102_2,,PT,,2.0
-2024,A,0,_X,Severely food insecure based on CARI Method,A,N,_L_RW_020102_2,,PT,,1.0
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2015,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_1,,PT,,16.8
+2018,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_1,,PT,,17.0
+2019,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_1,,PT,,18.8
+2020,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_1,,PT,,16.8
+2021,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_1,,PT,,19.0
+2024,Moderately food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_1,,PT,,16.0
+2015,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_2,,PT,,2.6
+2018,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_2,,PT,,1.7
+2019,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_2,,PT,,1.8
+2020,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_2,,PT,,2.6
+2021,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_2,,PT,,2.0
+2024,Severely food insecure based on CARI Method,"CFSVA, NISR, MINAGRI",_L_RW_020102_2,,PT,,1.0

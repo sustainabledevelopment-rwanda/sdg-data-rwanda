@@ -1,6 +1,4 @@
 From,To
-Nature of data points,Observation-level footnotes
-Observation-level footnotes,Frequency of observation
-Frequency of observation,Reporting type
-Reporting type,Age
+Observation-level footnotes,Source details
+Source details,Age
 Age,Sex

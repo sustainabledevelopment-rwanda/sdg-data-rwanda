@@ -1,25 +1,25 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2000,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,12
-2001,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,11
-2002,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,12
-2003,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,10
-2004,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,10
-2005,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,10
-2006,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,9
-2007,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,8
-2008,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,8
-2009,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,8
-2010,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,8
-2011,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,8
-2012,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,8
-2013,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,7
-2014,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,7
-2015,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,7
-2016,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,7
-2017,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,8
-2018,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,8
-2019,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,8
-2020,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,9
-2021,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,9
-2022,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,10
-2023,A,0,_X,Manufacturing value added as a proportion of GDP (%),A,N,NV_IND_MANF,,PT,,10
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2000,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,12
+2001,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,11
+2002,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,12
+2003,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,10
+2004,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,10
+2005,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,10
+2006,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,9
+2007,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,8
+2008,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,8
+2009,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,8
+2010,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,8
+2011,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,8
+2012,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,8
+2013,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,7
+2014,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,7
+2015,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,7
+2016,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,7
+2017,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,8
+2018,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,8
+2019,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,8
+2020,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,9
+2021,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,9
+2022,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,10
+2023,Manufacturing value added as a proportion of GDP (%),"National Accounts, NISR",NV_IND_MANF,,PT,,10

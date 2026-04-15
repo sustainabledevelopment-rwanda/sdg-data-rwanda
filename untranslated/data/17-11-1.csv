@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,A,0,_X,Exports goods and services in Million USD,A,N,_L_RW_171101_1,,USD,,1534.4
-2017,A,0,_X,Exports goods and services in Million USD,A,N,_L_RW_171101_1,,USD,,1979.9
-2018,A,0,_X,Exports goods and services in Million USD,A,N,_L_RW_171101_1,,USD,,2039.2
-2020,A,0,_X,Exports goods and services in Million USD,A,N,_L_RW_171101_1,,USD,,2159.7
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2016,Exports goods and services in Million USD,MINECOFIN,_L_RW_171101_1,,USD,,1534.4
+2017,Exports goods and services in Million USD,MINECOFIN,_L_RW_171101_1,,USD,,1979.9
+2018,Exports goods and services in Million USD,MINECOFIN,_L_RW_171101_1,,USD,,2039.2
+2020,Exports goods and services in Million USD,MINECOFIN,_L_RW_171101_1,,USD,,2159.7

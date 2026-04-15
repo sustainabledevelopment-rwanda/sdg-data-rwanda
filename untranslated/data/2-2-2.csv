@@ -1,16 +1,16 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
-2005,A,0,_X,Proportion of children moderately or severely wasted,A,N,SH_STA_WAST,,,Y0T4,PT,,5.0
-2010,A,0,_X,Proportion of children moderately or severely wasted,A,N,SH_STA_WAST,,,Y0T4,PT,,3.0
-2015,A,0,_X,Proportion of children moderately or severely wasted,A,N,SH_STA_WAST,,,Y0T4,PT,,2.0
-2020,A,0,_X,Proportion of children moderately or severely wasted,A,N,SH_STA_WAST,,,Y0T4,PT,,1.1
-2015,A,0,_X,Proportion of children moderately or severely wasted,A,N,SH_STA_WAST,,M,Y0T4,PT,,2.4
-2020,A,0,_X,Proportion of children moderately or severely wasted,A,N,SH_STA_WAST,,M,Y0T4,PT,,0.9
-2015,A,0,_X,Proportion of children moderately or severely wasted,A,N,SH_STA_WAST,,F,Y0T4,PT,,2.0
-2020,A,0,_X,Proportion of children moderately or severely wasted,A,N,SH_STA_WAST,,F,Y0T4,PT,,1.4
-2010,A,0,_X,Proportion of children moderately or severely overweight,A,N,SN_STA_OVWGT,,,Y0T4,PT,,7.0
-2015,A,0,_X,Proportion of children moderately or severely overweight,A,N,SN_STA_OVWGT,,,Y0T4,PT,,8.0
-2020,A,0,_X,Proportion of children moderately or severely overweight,A,N,SN_STA_OVWGT,,,Y0T4,PT,,5.6
-2015,A,0,_X,Proportion of children moderately or severely overweight,A,N,SN_STA_OVWGT,,M,Y0T4,PT,,8.1
-2020,A,0,_X,Proportion of children moderately or severely overweight,A,N,SN_STA_OVWGT,,M,Y0T4,PT,,5.8
-2015,A,0,_X,Proportion of children moderately or severely overweight,A,N,SN_STA_OVWGT,,F,Y0T4,PT,,7.3
-2020,A,0,_X,Proportion of children moderately or severely overweight,A,N,SN_STA_OVWGT,,F,Y0T4,PT,,5.4
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
+2005,Proportion of children moderately or severely wasted,"DHS, NISR",SH_STA_WAST,,,Y0T4,PT,,5.0
+2010,Proportion of children moderately or severely wasted,"DHS, NISR",SH_STA_WAST,,,Y0T4,PT,,3.0
+2015,Proportion of children moderately or severely wasted,"DHS, NISR",SH_STA_WAST,,,Y0T4,PT,,2.0
+2020,Proportion of children moderately or severely wasted,"DHS, NISR",SH_STA_WAST,,,Y0T4,PT,,1.1
+2015,Proportion of children moderately or severely wasted,"DHS, NISR",SH_STA_WAST,,M,Y0T4,PT,,2.4
+2020,Proportion of children moderately or severely wasted,"DHS, NISR",SH_STA_WAST,,M,Y0T4,PT,,0.9
+2015,Proportion of children moderately or severely wasted,"DHS, NISR",SH_STA_WAST,,F,Y0T4,PT,,2.0
+2020,Proportion of children moderately or severely wasted,"DHS, NISR",SH_STA_WAST,,F,Y0T4,PT,,1.4
+2010,Proportion of children moderately or severely overweight,"DHS, NISR",SN_STA_OVWGT,,,Y0T4,PT,,7.0
+2015,Proportion of children moderately or severely overweight,"DHS, NISR",SN_STA_OVWGT,,,Y0T4,PT,,8.0
+2020,Proportion of children moderately or severely overweight,"DHS, NISR",SN_STA_OVWGT,,,Y0T4,PT,,5.6
+2015,Proportion of children moderately or severely overweight,"DHS, NISR",SN_STA_OVWGT,,M,Y0T4,PT,,8.1
+2020,Proportion of children moderately or severely overweight,"DHS, NISR",SN_STA_OVWGT,,M,Y0T4,PT,,5.8
+2015,Proportion of children moderately or severely overweight,"DHS, NISR",SN_STA_OVWGT,,F,Y0T4,PT,,7.3
+2020,Proportion of children moderately or severely overweight,"DHS, NISR",SN_STA_OVWGT,,F,Y0T4,PT,,5.4

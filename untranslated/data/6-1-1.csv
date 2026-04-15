@@ -1,15 +1,15 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2010,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,,PT,,74.0
-2015,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,,PT,,73.0
-2020,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,,PT,,80.0
-2022,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,,PT,,82.0
-2005,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,U,PT,,55.4
-2010,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,U,PT,,90.0
-2015,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,U,PT,,91.0
-2020,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,U,PT,,96.0
-2022,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,U,PT,,95.7
-2005,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,R,PT,,22.6
-2010,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,R,PT,,71.0
-2015,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,R,PT,,69.2
-2020,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,R,PT,,77.0
-2022,A,0,_X,Proportion (%) of Households have access to an improved water source,A,N,_L_RW_060101_1,,R,PT,,76.7
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2010,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,,PT,,74.0
+2015,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,,PT,,73.0
+2020,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,,PT,,80.0
+2022,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,,PT,,82.0
+2005,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,U,PT,,55.4
+2010,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,U,PT,,90.0
+2015,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,U,PT,,91.0
+2020,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,U,PT,,96.0
+2022,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,U,PT,,95.7
+2005,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,R,PT,,22.6
+2010,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,R,PT,,71.0
+2015,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,R,PT,,69.2
+2020,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,R,PT,,77.0
+2022,Proportion (%) of Households have access to an improved water source,RDHC nad RPHC5/2022,_L_RW_060101_1,,R,PT,,76.7

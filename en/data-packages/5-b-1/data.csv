@@ -1,13 +1,13 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,36.7
-2020,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,54.8
-2022,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,58.6
-2024,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,85.0
-2017,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,63.0
-2020,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,61.6
-2022,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,77.6
-2024,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,94.0
-2017,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,30.5
-2020,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,47.9
-2022,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,50.9
-2024,Normal value,Units,Not Available,Proportion of individuals who own a mobile telephone (Population 16 years and above),Annual,National,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,80.6
+Year,Observation-level footnotes,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2017,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,36.7
+2020,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,54.8
+2022,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,58.6
+2024,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,,Percent,,85.0
+2017,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,63.0
+2020,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,61.6
+2022,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,77.6
+2024,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,Urban,Percent,,94.0
+2017,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,30.5
+2020,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,47.9
+2022,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,50.9
+2024,Proportion of individuals who own a mobile telephone (Population 16 years and above),EICV and RPHC5/2022,Proportion of individuals who own a mobile telephone [5.b.1],,Rural,Percent,,80.6

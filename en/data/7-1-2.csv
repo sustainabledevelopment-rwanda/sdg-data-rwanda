@@ -1,8 +1,8 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Not Available,Proportion (%) of Households with primary reliance on clean cooking fuels,Annual,National,Proportion (%) of Households with primary reliance on clean cooking fuels,,,Percent,,1.2
-2020,Normal value,Units,Not Available,Proportion (%) of Households with primary reliance on clean cooking fuels,Annual,National,Proportion (%) of Households with primary reliance on clean cooking fuels,,,Percent,,4.2
-2024,Normal value,Units,Not Available,Proportion (%) of Households with primary reliance on clean cooking fuels,Annual,National,Proportion (%) of Households with primary reliance on clean cooking fuels,,,Percent,,5.4
-2017,Normal value,Units,Not Available,Proportion (%) of Households with primary reliance on clean cooking fuels,Annual,National,Proportion (%) of Households with primary reliance on clean cooking fuels,,Urban,Percent,,5.2
-2024,Normal value,Units,Not Available,Proportion (%) of Households with primary reliance on clean cooking fuels,Annual,National,Proportion (%) of Households with primary reliance on clean cooking fuels,,Urban,Percent,,16.6
-2017,Normal value,Units,Not Available,Proportion (%) of Households with primary reliance on clean cooking fuels,Annual,National,Proportion (%) of Households with primary reliance on clean cooking fuels,,Rural,Percent,,0.2
-2024,Normal value,Units,Not Available,Proportion (%) of Households with primary reliance on clean cooking fuels,Annual,National,Proportion (%) of Households with primary reliance on clean cooking fuels,,Rural,Percent,,0.8
+Year,Observation-level footnotes,Source details,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2017,Proportion (%) of Households with primary reliance on clean cooking fuels,"EICV, NISR",Proportion (%) of Households with primary reliance on clean cooking fuels,,,Percent,,1.2
+2020,Proportion (%) of Households with primary reliance on clean cooking fuels,"EICV, NISR",Proportion (%) of Households with primary reliance on clean cooking fuels,,,Percent,,4.2
+2024,Proportion (%) of Households with primary reliance on clean cooking fuels,"EICV, NISR",Proportion (%) of Households with primary reliance on clean cooking fuels,,,Percent,,5.4
+2017,Proportion (%) of Households with primary reliance on clean cooking fuels,"EICV, NISR",Proportion (%) of Households with primary reliance on clean cooking fuels,,Urban,Percent,,5.2
+2024,Proportion (%) of Households with primary reliance on clean cooking fuels,"EICV, NISR",Proportion (%) of Households with primary reliance on clean cooking fuels,,Urban,Percent,,16.6
+2017,Proportion (%) of Households with primary reliance on clean cooking fuels,"EICV, NISR",Proportion (%) of Households with primary reliance on clean cooking fuels,,Rural,Percent,,0.2
+2024,Proportion (%) of Households with primary reliance on clean cooking fuels,"EICV, NISR",Proportion (%) of Households with primary reliance on clean cooking fuels,,Rural,Percent,,0.8

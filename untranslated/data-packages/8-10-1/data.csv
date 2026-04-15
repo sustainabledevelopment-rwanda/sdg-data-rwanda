@@ -1,15 +1,15 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,A,0,_X,"Number of automated teller machines (ATMs) per 100,000 adults",A,N,FB_ATM_TOTL,,PER_100000_POP,,5.8
-2016,A,0,_X,"Number of automated teller machines (ATMs) per 100,000 adults",A,N,FB_ATM_TOTL,,PER_100000_POP,,6.0
-2017,A,0,_X,"Number of automated teller machines (ATMs) per 100,000 adults",A,N,FB_ATM_TOTL,,PER_100000_POP,,5.9
-2018,A,0,_X,"Number of automated teller machines (ATMs) per 100,000 adults",A,N,FB_ATM_TOTL,,PER_100000_POP,,5.4
-2019,A,0,_X,"Number of automated teller machines (ATMs) per 100,000 adults",A,N,FB_ATM_TOTL,,PER_100000_POP,,5.3
-2020,A,0,_X,"Number of automated teller machines (ATMs) per 100,000 adults",A,N,FB_ATM_TOTL,,PER_100000_POP,,5.2
-2022,A,0,_X,"Number of automated teller machines (ATMs) per 100,000 adults",A,N,FB_ATM_TOTL,,PER_100000_POP,,4.4
-2023,A,0,_X,"Number of automated teller machines (ATMs) per 100,000 adults",A,N,FB_ATM_TOTL,,PER_100000_POP,,4.3
-2024,A,0,_X,"Number of automated teller machines (ATMs) per 100,000 adults",A,N,FB_ATM_TOTL,,PER_100000_POP,,4.4
-2015,A,0,_X,"Number of commercial bank branches per 100,000 adults",A,N,FB_CBK_BRCH,,PER_100000_POP,,8.2
-2016,A,0,_X,"Number of commercial bank branches per 100,000 adults",A,N,FB_CBK_BRCH,,PER_100000_POP,,8.2
-2017,A,0,_X,"Number of commercial bank branches per 100,000 adults",A,N,FB_CBK_BRCH,,PER_100000_POP,,7.4
-2018,A,0,_X,"Number of commercial bank branches per 100,000 adults",A,N,FB_CBK_BRCH,,PER_100000_POP,,7.4
-2019,A,0,_X,"Number of commercial bank branches per 100,000 adults",A,N,FB_CBK_BRCH,,PER_100000_POP,,6.9
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2015,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.8
+2016,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,6.0
+2017,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.9
+2018,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.4
+2019,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.3
+2020,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,5.2
+2022,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,4.4
+2023,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,4.3
+2024,"Number of automated teller machines (ATMs) per 100,000 adults","BNR, Annual Report",FB_ATM_TOTL,,PER_100000_POP,,4.4
+2015,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,8.2
+2016,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,8.2
+2017,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,7.4
+2018,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,7.4
+2019,"Number of commercial bank branches per 100,000 adults","BNR, Annual Report",FB_CBK_BRCH,,PER_100000_POP,,6.9

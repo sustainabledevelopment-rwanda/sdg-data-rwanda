@@ -1,2 +1,2 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
-2020,A,0,_X,"Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)",A,N,SH_FPL_INFM,,F,PT,,63.1
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
+2020,"Proportion of women who make their own informed decisions regarding sexual relations, contraceptive use and reproductive health care (% of women aged 15-49 years)","DHS, NISR",SH_FPL_INFM,,F,PT,,63.1

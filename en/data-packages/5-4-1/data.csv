@@ -1,22 +1,22 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
-2017,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,,Number,,21.4
-2018,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,,Number,,20.6
-2019,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,,Number,,17.9
-2021,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,,Number,,17.9
-2022,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,,Number,,17.3
-2023,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,,Number,,19.5
-2024,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,,Number,,17.7
-2017,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,14.6
-2018,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,13.5
-2019,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,12.1
-2021,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,12.3
-2022,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,11.9
-2023,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,13.6
-2024,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,12.6
-2017,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,26.0
-2018,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,25.3
-2019,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,22.3
-2021,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,21.8
-2022,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,21.1
-2023,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,24.0
-2024,Normal value,Units,Not Available,Proportion of time spent on unpaid care work -  (in hours per week),Annual,National,Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,23.1
+Year,Observation-level footnotes,Source details,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2017,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,,Number,,21.4
+2018,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,,Number,,20.6
+2019,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,,Number,,17.9
+2021,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,,Number,,17.9
+2022,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,,Number,,17.3
+2023,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,,Number,,19.5
+2024,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,,Number,,17.7
+2017,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,14.6
+2018,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,13.5
+2019,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,12.1
+2021,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,12.3
+2022,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,11.9
+2023,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,13.6
+2024,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Male,Number,,12.6
+2017,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,26.0
+2018,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,25.3
+2019,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,22.3
+2021,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,21.8
+2022,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,21.1
+2023,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,24.0
+2024,Proportion of time spent on unpaid care work -  (in hours per week),"LFS, NISR",Proportion of time spent on unpaid care work [5.4.1],,Female,Number,,23.1

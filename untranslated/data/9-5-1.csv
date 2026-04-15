@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2016,A,0,_X,Research and development expenditure as a proportion of GDP (%),A,N,GB_XPD_RSDV,,PT,,0.6
-2018,A,0,_X,Research and development expenditure as a proportion of GDP (%),A,N,GB_XPD_RSDV,,PT,,0.7
-2022,A,0,_X,Research and development expenditure as a proportion of GDP (%),A,N,GB_XPD_RSDV,,PT,,0.7
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2016,Research and development expenditure as a proportion of GDP (%),National Council for Science and Technology,GB_XPD_RSDV,,PT,,0.6
+2018,Research and development expenditure as a proportion of GDP (%),National Council for Science and Technology,GB_XPD_RSDV,,PT,,0.7
+2022,Research and development expenditure as a proportion of GDP (%),National Council for Science and Technology,GB_XPD_RSDV,,PT,,0.7

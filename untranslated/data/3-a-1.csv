@@ -1,7 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
-2015,A,0,_X,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,A,N,SH_PRV_SMOK,,,Y_GE15,PT,,5.8
-2020,A,0,_X,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,A,N,SH_PRV_SMOK,,,Y_GE15,PT,,3.9
-2015,A,0,_X,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,A,N,SH_PRV_SMOK,,M,Y_GE15,PT,,10.0
-2020,A,0,_X,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,A,N,SH_PRV_SMOK,,M,Y_GE15,PT,,7.0
-2015,A,0,_X,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,A,N,SH_PRV_SMOK,,F,Y_GE15,PT,,2.0
-2020,A,0,_X,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,A,N,SH_PRV_SMOK,,F,Y_GE15,PT,,0.9
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",SH_PRV_SMOK,,,Y_GE15,PT,,5.8
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",SH_PRV_SMOK,,,Y_GE15,PT,,3.9
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",SH_PRV_SMOK,,M,Y_GE15,PT,,10.0
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",SH_PRV_SMOK,,M,Y_GE15,PT,,7.0
+2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",SH_PRV_SMOK,,F,Y_GE15,PT,,2.0
+2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older,"DHS, NISR",SH_PRV_SMOK,,F,Y_GE15,PT,,0.9

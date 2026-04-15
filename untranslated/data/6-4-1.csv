@@ -1,2 +1,2 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2020,A,0,_X,Water Use Efficiency (United States dollars per cubic meter),A,N,ER_H2O_WUEYST,,USD_PER_M3,,12.9
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2020,Water Use Efficiency (United States dollars per cubic meter),RWB,ER_H2O_WUEYST,,USD_PER_M3,,12.9

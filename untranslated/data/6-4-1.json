@@ -1,1 +1,1 @@
-{"Year":[2020],"OBS_STATUS":["A"],"UNIT_MULT":["0"],"NATURE":["_X"],"COMMENT_OBS":["Water Use Efficiency (United States dollars per cubic meter)"],"FREQ":["A"],"REPORTING_TYPE":["N"],"SERIES":["ER_H2O_WUEYST"],"REF_AREA":[null],"UNIT_MEASURE":["USD_PER_M3"],"GeoCode":[null],"Value":[12.9]}
+{"Year":[2020],"COMMENT_OBS":["Water Use Efficiency (United States dollars per cubic meter)"],"SOURCE_DETAIL":["RWB"],"SERIES":["ER_H2O_WUEYST"],"REF_AREA":[null],"UNIT_MEASURE":["USD_PER_M3"],"GeoCode":[null],"Value":[12.9]}

@@ -15,36 +15,6 @@
             "type": "integer"
           },
           {
-            "name": "OBS_STATUS",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "UNIT_MULT",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "0",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "NATURE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "_X",
-                ""
-              ]
-            }
-          },
-          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -59,21 +29,23 @@
             }
           },
           {
-            "name": "FREQ",
+            "name": "SOURCE_DETAIL",
             "type": "string",
             "constraints": {
               "enum": [
-                "A",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "REPORTING_TYPE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "N",
+                "NISR,DHS2019/2020",
+                "NISR,DHS2019/2021",
+                "NISR,DHS2019/2022",
+                "NISR,DHS2019/2023",
+                "NISR,DHS2019/2024",
+                "NISR,DHS2019/2025",
+                "NISR,DHS2019/2026",
+                "NISR,DHS2019/2027",
+                "NISR,DHS2019/2028",
+                "NISR,DHS2019/2029",
+                "NISR,DHS2019/2030",
+                "NISR,DHS2019/2031",
+                "NISR,DHS2019/2032",
                 ""
               ]
             }

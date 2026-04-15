@@ -1,22 +1,22 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Not Available,Age and sex distribution of detected victims of trafficking in persons (%),Annual,National,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.5
-2017,Normal value,Units,Not Available,Age and sex distribution of detected victims of trafficking in persons (%),Annual,National,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.8
-2018,Normal value,Units,Not Available,Age and sex distribution of detected victims of trafficking in persons (%),Annual,National,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.5
-2019,Normal value,Units,Not Available,Age and sex distribution of detected victims of trafficking in persons (%),Annual,National,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.7
-2020,Normal value,Units,Not Available,Age and sex distribution of detected victims of trafficking in persons (%),Annual,National,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.5
-2021,Normal value,Units,Not Available,Age and sex distribution of detected victims of trafficking in persons (%),Annual,National,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.3
-2022,Normal value,Units,Not Available,Age and sex distribution of detected victims of trafficking in persons (%),Annual,National,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.4
-2016,Normal value,Units,Not Available,Detected victims of human trafficking (number),Annual,National,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,55.0
-2017,Normal value,Units,Not Available,Detected victims of human trafficking (number),Annual,National,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,89.0
-2018,Normal value,Units,Not Available,Detected victims of human trafficking (number),Annual,National,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,63.0
-2019,Normal value,Units,Not Available,Detected victims of human trafficking (number),Annual,National,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,91.0
-2020,Normal value,Units,Not Available,Detected victims of human trafficking (number),Annual,National,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,61.0
-2021,Normal value,Units,Not Available,Detected victims of human trafficking (number),Annual,National,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,41.0
-2022,Normal value,Units,Not Available,Detected victims of human trafficking (number),Annual,National,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,58.0
-2020,Normal value,Units,Not Available,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",Annual,National,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",,"Per 100,000 population",,41.0
-2021,Normal value,Units,Not Available,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",Annual,National,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",,"Per 100,000 population",,15.0
-2022,Normal value,Units,Not Available,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",Annual,National,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",,"Per 100,000 population",,29.0
-2020,Normal value,Units,Not Available,Detected victims of human trafficking for other purposes (number),Annual,National,Detected victims of human trafficking for other purposes (number) [16.2.2],,"Per 100,000 population",,1.0
-2020,Normal value,Units,Not Available,Detected victims of human trafficking for sexual exploitaton (number),Annual,National,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],,"Per 100,000 population",,19.0
-2021,Normal value,Units,Not Available,Detected victims of human trafficking for sexual exploitaton (number),Annual,National,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],,"Per 100,000 population",,26.0
-2022,Normal value,Units,Not Available,Detected victims of human trafficking for sexual exploitaton (number),Annual,National,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],,"Per 100,000 population",,29.0
+Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2016,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.5
+2017,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.8
+2018,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.5
+2019,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.7
+2020,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.5
+2021,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.3
+2022,Age and sex distribution of detected victims of trafficking in persons (%),MINIJUST,Age and sex distribution of detected victims of trafficking in persons (%) [16.2.2],,Percent,,0.4
+2016,Detected victims of human trafficking (number),MINIJUST,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,55.0
+2017,Detected victims of human trafficking (number),MINIJUST,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,89.0
+2018,Detected victims of human trafficking (number),MINIJUST,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,63.0
+2019,Detected victims of human trafficking (number),MINIJUST,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,91.0
+2020,Detected victims of human trafficking (number),MINIJUST,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,61.0
+2021,Detected victims of human trafficking (number),MINIJUST,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,41.0
+2022,Detected victims of human trafficking (number),MINIJUST,Detected victims of human trafficking (number) [16.2.2],,"Per 100,000 population",,58.0
+2020,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",MINIJUST,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",,"Per 100,000 population",,41.0
+2021,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",MINIJUST,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",,"Per 100,000 population",,15.0
+2022,"Detected victims of human trafficking for forced labour, servitude and slavery (number)",MINIJUST,"Detected victims of human trafficking for forced labour, servitude and slavery (number) [16.2.2]",,"Per 100,000 population",,29.0
+2020,Detected victims of human trafficking for other purposes (number),MINIJUST,Detected victims of human trafficking for other purposes (number) [16.2.2],,"Per 100,000 population",,1.0
+2020,Detected victims of human trafficking for sexual exploitaton (number),MINIJUST,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],,"Per 100,000 population",,19.0
+2021,Detected victims of human trafficking for sexual exploitaton (number),MINIJUST,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],,"Per 100,000 population",,26.0
+2022,Detected victims of human trafficking for sexual exploitaton (number),MINIJUST,Detected victims of human trafficking for sexual exploitaton (number) [16.2.2],,"Per 100,000 population",,29.0

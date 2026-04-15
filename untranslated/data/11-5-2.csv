@@ -1,92 +1,92 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2018,A,0,_X,Number of Houses damaged by disaster,A,N,_L_RW_110502_1,,NUMBER,,15910.0
-2019,A,0,_X,Number of Houses damaged by disaster,A,N,_L_RW_110502_1,,NUMBER,,5691.0
-2020,A,0,_X,Number of Houses damaged by disaster,A,N,_L_RW_110502_1,,NUMBER,,8098.0
-2021,A,0,_X,Number of Houses damaged by disaster,A,N,_L_RW_110502_1,,NUMBER,,4808.0
-2022,A,0,_X,Number of Houses damaged by disaster,A,N,_L_RW_110502_1,,NUMBER,,4156.0
-2023,A,0,_X,Number of Houses damaged by disaster,A,N,_L_RW_110502_1,,NUMBER,,9955.0
-2024,A,0,_X,Number of Houses damaged by disaster,A,N,_L_RW_110502_1,,NUMBER,,2005.0
-2018,A,0,_X,Number of Ha for crops damaged,A,N,_L_RW_110502_2,,NUMBER,,13337.0
-2019,A,0,_X,Number of Ha for crops damaged,A,N,_L_RW_110502_2,,NUMBER,,10610.0
-2020,A,0,_X,Number of Ha for crops damaged,A,N,_L_RW_110502_2,,NUMBER,,4661.5
-2021,A,0,_X,Number of Ha for crops damaged,A,N,_L_RW_110502_2,,NUMBER,,3802.3
-2022,A,0,_X,Number of Ha for crops damaged,A,N,_L_RW_110502_2,,NUMBER,,1917.7
-2023,A,0,_X,Number of Ha for crops damaged,A,N,_L_RW_110502_2,,NUMBER,,2176.3
-2024,A,0,_X,Number of Ha for crops damaged,A,N,_L_RW_110502_2,,NUMBER,,1355.3
-2018,A,0,_X,Number of Classrooms damaged,A,N,_L_RW_110502_3,,NUMBER,,73.0
-2019,A,0,_X,Number of Classrooms damaged,A,N,_L_RW_110502_3,,NUMBER,,203.0
-2020,A,0,_X,Number of Classrooms damaged,A,N,_L_RW_110502_3,,NUMBER,,96.0
-2021,A,0,_X,Number of Classrooms damaged,A,N,_L_RW_110502_3,,NUMBER,,381.0
-2022,A,0,_X,Number of Classrooms damaged,A,N,_L_RW_110502_3,,NUMBER,,323.0
-2023,A,0,_X,Number of Classrooms damaged,A,N,_L_RW_110502_3,,NUMBER,,154.0
-2024,A,0,_X,Number of Classrooms damaged,A,N,_L_RW_110502_3,,NUMBER,,81.0
-2018,A,0,_X,Number of Health Centers damaged,A,N,_L_RW_110502_4,,NUMBER,,3.0
-2019,A,0,_X,Number of Health Centers damaged,A,N,_L_RW_110502_4,,NUMBER,,1.0
-2020,A,0,_X,Number of Health Centers damaged,A,N,_L_RW_110502_4,,NUMBER,,4.0
-2021,A,0,_X,Number of Health Centers damaged,A,N,_L_RW_110502_4,,NUMBER,,3.0
-2022,A,0,_X,Number of Health Centers damaged,A,N,_L_RW_110502_4,,NUMBER,,1.0
-2023,A,0,_X,Number of Health Centers damaged,A,N,_L_RW_110502_4,,NUMBER,,5.0
-2024,A,0,_X,Number of Health Centers damaged,A,N,_L_RW_110502_4,,NUMBER,,2.0
-2018,A,0,_X,Number of Bridges damaged,A,N,_L_RW_110502_5,,NUMBER,,64.0
-2019,A,0,_X,Number of Bridges damaged,A,N,_L_RW_110502_5,,NUMBER,,40.0
-2020,A,0,_X,Number of Bridges damaged,A,N,_L_RW_110502_5,,NUMBER,,103.0
-2021,A,0,_X,Number of Bridges damaged,A,N,_L_RW_110502_5,,NUMBER,,39.0
-2022,A,0,_X,Number of Bridges damaged,A,N,_L_RW_110502_5,,NUMBER,,59.0
-2023,A,0,_X,Number of Bridges damaged,A,N,_L_RW_110502_5,,NUMBER,,57.0
-2024,A,0,_X,Number of Bridges damaged,A,N,_L_RW_110502_5,,NUMBER,,42.0
-2018,A,0,_X,Number of Administrative Offices damaged,A,N,_L_RW_110502_6,,NUMBER,,12.0
-2019,A,0,_X,Number of Administrative Offices damaged,A,N,_L_RW_110502_6,,NUMBER,,21.0
-2020,A,0,_X,Number of Administrative Offices damaged,A,N,_L_RW_110502_6,,NUMBER,,17.0
-2021,A,0,_X,Number of Administrative Offices damaged,A,N,_L_RW_110502_6,,NUMBER,,23.0
-2022,A,0,_X,Number of Administrative Offices damaged,A,N,_L_RW_110502_6,,NUMBER,,21.0
-2023,A,0,_X,Number of Administrative Offices damaged,A,N,_L_RW_110502_6,,NUMBER,,25.0
-2024,A,0,_X,Number of Administrative Offices damaged,A,N,_L_RW_110502_6,,NUMBER,,11.0
-2018,A,0,_X,Number of Transmission lines damaged,A,N,_L_RW_110502_7,,NUMBER,,26.0
-2019,A,0,_X,Number of Transmission lines damaged,A,N,_L_RW_110502_7,,NUMBER,,72.0
-2020,A,0,_X,Number of Transmission lines damaged,A,N,_L_RW_110502_7,,NUMBER,,98.0
-2021,A,0,_X,Number of Transmission lines damaged,A,N,_L_RW_110502_7,,NUMBER,,73.0
-2022,A,0,_X,Number of Transmission lines damaged,A,N,_L_RW_110502_7,,NUMBER,,80.0
-2023,A,0,_X,Number of Transmission lines damaged,A,N,_L_RW_110502_7,,NUMBER,,32.0
-2024,A,0,_X,Number of Transmission lines damaged,A,N,_L_RW_110502_7,,NUMBER,,34.0
-2018,A,0,_X,Number of Water supply damaged,A,N,_L_RW_110502_8,,NUMBER,,1.0
-2019,A,0,_X,Number of Water supply damaged,A,N,_L_RW_110502_8,,NUMBER,,6.0
-2020,A,0,_X,Number of Water supply damaged,A,N,_L_RW_110502_8,,NUMBER,,26.0
-2021,A,0,_X,Number of Water supply damaged,A,N,_L_RW_110502_8,,NUMBER,,13.0
-2022,A,0,_X,Number of Water supply damaged,A,N,_L_RW_110502_8,,NUMBER,,1.0
-2023,A,0,_X,Number of Water supply damaged,A,N,_L_RW_110502_8,,NUMBER,,8.0
-2024,A,0,_X,Number of Water supply damaged,A,N,_L_RW_110502_8,,NUMBER,,3.0
-2019,A,0,_X,Number of Markets damaged,A,N,_L_RW_110502_9,,NUMBER,,4.0
-2020,A,0,_X,Number of Markets damaged,A,N,_L_RW_110502_9,,NUMBER,,6.0
-2021,A,0,_X,Number of Markets damaged,A,N,_L_RW_110502_9,,NUMBER,,4.0
-2022,A,0,_X,Number of Markets damaged,A,N,_L_RW_110502_9,,NUMBER,,2.0
-2023,A,0,_X,Number of Markets damaged,A,N,_L_RW_110502_9,,NUMBER,,5.0
-2024,A,0,_X,Number of Markets damaged,A,N,_L_RW_110502_9,,NUMBER,,0.0
-2019,A,0,_X,Number of Factories damaged,A,N,_L_RW_110502_10,,NUMBER,,2.0
-2020,A,0,_X,Number of Factories damaged,A,N,_L_RW_110502_10,,NUMBER,,1.0
-2021,A,0,_X,Number of Factories damaged,A,N,_L_RW_110502_10,,NUMBER,,4.0
-2022,A,0,_X,Number of Factories damaged,A,N,_L_RW_110502_10,,NUMBER,,4.0
-2023,A,0,_X,Number of Factories damaged,A,N,_L_RW_110502_10,,NUMBER,,7.0
-2024,A,0,_X,Number of Factories damaged,A,N,_L_RW_110502_10,,NUMBER,,3.0
-2020,A,0,_X,Number of Ha for forests damaged,A,N,_L_RW_110502_11,,NUMBER,,458.0
-2021,A,0,_X,Number of Ha for forests damaged,A,N,_L_RW_110502_11,,NUMBER,,167.0
-2022,A,0,_X,Number of Ha for forests damaged,A,N,_L_RW_110502_11,,NUMBER,,73.0
-2023,A,0,_X,Number of Ha for forests damaged,A,N,_L_RW_110502_11,,NUMBER,,41.0
-2024,A,0,_X,Number of Ha for forests damaged,A,N,_L_RW_110502_11,,NUMBER,,306.0
-2018,A,0,_X,Number of churches damaged,A,N,_L_RW_110502_12,,NUMBER,,27.0
-2019,A,0,_X,Number of churches damaged,A,N,_L_RW_110502_12,,NUMBER,,50.0
-2020,A,0,_X,Number of churches damaged,A,N,_L_RW_110502_12,,NUMBER,,22.0
-2022,A,0,_X,Number of churches damaged,A,N,_L_RW_110502_12,,NUMBER,,20.0
-2023,A,0,_X,Number of churches damaged,A,N,_L_RW_110502_12,,NUMBER,,30.0
-2024,A,0,_X,Number of churches damaged,A,N,_L_RW_110502_12,,NUMBER,,12.0
-2018,A,0,_X,Number of road sections damaged,A,N,_L_RW_110502_13,,NUMBER,,32.0
-2019,A,0,_X,Number of road sections damaged,A,N,_L_RW_110502_13,,NUMBER,,30.0
-2020,A,0,_X,Number of road sections damaged,A,N,_L_RW_110502_13,,NUMBER,,154.0
-2022,A,0,_X,Number of road sections damaged,A,N,_L_RW_110502_13,,NUMBER,,72.0
-2023,A,0,_X,Number of road sections damaged,A,N,_L_RW_110502_13,,NUMBER,,32.0
-2024,A,0,_X,Number of road sections damaged,A,N,_L_RW_110502_13,,NUMBER,,69.0
-2018,A,0,_X,Number of Cattles and livestock lost,A,N,_L_RW_110502_14,,NUMBER,,815.0
-2019,A,0,_X,Number of Cattles and livestock lost,A,N,_L_RW_110502_14,,NUMBER,,113.0
-2020,A,0,_X,Number of Cattles and livestock lost,A,N,_L_RW_110502_14,,NUMBER,,3497.0
-2022,A,0,_X,Number of Cattles and livestock lost,A,N,_L_RW_110502_14,,NUMBER,,201.0
-2023,A,0,_X,Number of Cattles and livestock lost,A,N,_L_RW_110502_14,,NUMBER,,1208.0
-2024,A,0,_X,Number of Cattles and livestock lost,A,N,_L_RW_110502_14,,NUMBER,,3146.0
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2018,Number of Houses damaged by disaster,"Annual disaster effects situation report , MINEMA",_L_RW_110502_1,,NUMBER,,15910.0
+2019,Number of Houses damaged by disaster,"Annual disaster effects situation report , MINEMA",_L_RW_110502_1,,NUMBER,,5691.0
+2020,Number of Houses damaged by disaster,"Annual disaster effects situation report , MINEMA",_L_RW_110502_1,,NUMBER,,8098.0
+2021,Number of Houses damaged by disaster,"Annual disaster effects situation report , MINEMA",_L_RW_110502_1,,NUMBER,,4808.0
+2022,Number of Houses damaged by disaster,"Annual disaster effects situation report , MINEMA",_L_RW_110502_1,,NUMBER,,4156.0
+2023,Number of Houses damaged by disaster,"Annual disaster effects situation report , MINEMA",_L_RW_110502_1,,NUMBER,,9955.0
+2024,Number of Houses damaged by disaster,"Annual disaster effects situation report , MINEMA",_L_RW_110502_1,,NUMBER,,2005.0
+2018,Number of Ha for crops damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_2,,NUMBER,,13337.0
+2019,Number of Ha for crops damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_2,,NUMBER,,10610.0
+2020,Number of Ha for crops damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_2,,NUMBER,,4661.5
+2021,Number of Ha for crops damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_2,,NUMBER,,3802.3
+2022,Number of Ha for crops damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_2,,NUMBER,,1917.7
+2023,Number of Ha for crops damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_2,,NUMBER,,2176.3
+2024,Number of Ha for crops damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_2,,NUMBER,,1355.3
+2018,Number of Classrooms damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_3,,NUMBER,,73.0
+2019,Number of Classrooms damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_3,,NUMBER,,203.0
+2020,Number of Classrooms damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_3,,NUMBER,,96.0
+2021,Number of Classrooms damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_3,,NUMBER,,381.0
+2022,Number of Classrooms damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_3,,NUMBER,,323.0
+2023,Number of Classrooms damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_3,,NUMBER,,154.0
+2024,Number of Classrooms damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_3,,NUMBER,,81.0
+2018,Number of Health Centers damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_4,,NUMBER,,3.0
+2019,Number of Health Centers damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_4,,NUMBER,,1.0
+2020,Number of Health Centers damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_4,,NUMBER,,4.0
+2021,Number of Health Centers damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_4,,NUMBER,,3.0
+2022,Number of Health Centers damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_4,,NUMBER,,1.0
+2023,Number of Health Centers damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_4,,NUMBER,,5.0
+2024,Number of Health Centers damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_4,,NUMBER,,2.0
+2018,Number of Bridges damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_5,,NUMBER,,64.0
+2019,Number of Bridges damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_5,,NUMBER,,40.0
+2020,Number of Bridges damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_5,,NUMBER,,103.0
+2021,Number of Bridges damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_5,,NUMBER,,39.0
+2022,Number of Bridges damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_5,,NUMBER,,59.0
+2023,Number of Bridges damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_5,,NUMBER,,57.0
+2024,Number of Bridges damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_5,,NUMBER,,42.0
+2018,Number of Administrative Offices damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_6,,NUMBER,,12.0
+2019,Number of Administrative Offices damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_6,,NUMBER,,21.0
+2020,Number of Administrative Offices damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_6,,NUMBER,,17.0
+2021,Number of Administrative Offices damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_6,,NUMBER,,23.0
+2022,Number of Administrative Offices damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_6,,NUMBER,,21.0
+2023,Number of Administrative Offices damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_6,,NUMBER,,25.0
+2024,Number of Administrative Offices damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_6,,NUMBER,,11.0
+2018,Number of Transmission lines damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_7,,NUMBER,,26.0
+2019,Number of Transmission lines damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_7,,NUMBER,,72.0
+2020,Number of Transmission lines damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_7,,NUMBER,,98.0
+2021,Number of Transmission lines damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_7,,NUMBER,,73.0
+2022,Number of Transmission lines damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_7,,NUMBER,,80.0
+2023,Number of Transmission lines damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_7,,NUMBER,,32.0
+2024,Number of Transmission lines damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_7,,NUMBER,,34.0
+2018,Number of Water supply damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_8,,NUMBER,,1.0
+2019,Number of Water supply damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_8,,NUMBER,,6.0
+2020,Number of Water supply damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_8,,NUMBER,,26.0
+2021,Number of Water supply damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_8,,NUMBER,,13.0
+2022,Number of Water supply damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_8,,NUMBER,,1.0
+2023,Number of Water supply damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_8,,NUMBER,,8.0
+2024,Number of Water supply damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_8,,NUMBER,,3.0
+2019,Number of Markets damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_9,,NUMBER,,4.0
+2020,Number of Markets damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_9,,NUMBER,,6.0
+2021,Number of Markets damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_9,,NUMBER,,4.0
+2022,Number of Markets damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_9,,NUMBER,,2.0
+2023,Number of Markets damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_9,,NUMBER,,5.0
+2024,Number of Markets damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_9,,NUMBER,,0.0
+2019,Number of Factories damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_10,,NUMBER,,2.0
+2020,Number of Factories damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_10,,NUMBER,,1.0
+2021,Number of Factories damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_10,,NUMBER,,4.0
+2022,Number of Factories damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_10,,NUMBER,,4.0
+2023,Number of Factories damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_10,,NUMBER,,7.0
+2024,Number of Factories damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_10,,NUMBER,,3.0
+2020,Number of Ha for forests damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_11,,NUMBER,,458.0
+2021,Number of Ha for forests damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_11,,NUMBER,,167.0
+2022,Number of Ha for forests damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_11,,NUMBER,,73.0
+2023,Number of Ha for forests damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_11,,NUMBER,,41.0
+2024,Number of Ha for forests damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_11,,NUMBER,,306.0
+2018,Number of churches damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_12,,NUMBER,,27.0
+2019,Number of churches damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_12,,NUMBER,,50.0
+2020,Number of churches damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_12,,NUMBER,,22.0
+2022,Number of churches damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_12,,NUMBER,,20.0
+2023,Number of churches damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_12,,NUMBER,,30.0
+2024,Number of churches damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_12,,NUMBER,,12.0
+2018,Number of road sections damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_13,,NUMBER,,32.0
+2019,Number of road sections damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_13,,NUMBER,,30.0
+2020,Number of road sections damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_13,,NUMBER,,154.0
+2022,Number of road sections damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_13,,NUMBER,,72.0
+2023,Number of road sections damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_13,,NUMBER,,32.0
+2024,Number of road sections damaged,"Annual disaster effects situation report , MINEMA",_L_RW_110502_13,,NUMBER,,69.0
+2018,Number of Cattles and livestock lost,"Annual disaster effects situation report , MINEMA",_L_RW_110502_14,,NUMBER,,815.0
+2019,Number of Cattles and livestock lost,"Annual disaster effects situation report , MINEMA",_L_RW_110502_14,,NUMBER,,113.0
+2020,Number of Cattles and livestock lost,"Annual disaster effects situation report , MINEMA",_L_RW_110502_14,,NUMBER,,3497.0
+2022,Number of Cattles and livestock lost,"Annual disaster effects situation report , MINEMA",_L_RW_110502_14,,NUMBER,,201.0
+2023,Number of Cattles and livestock lost,"Annual disaster effects situation report , MINEMA",_L_RW_110502_14,,NUMBER,,1208.0
+2024,Number of Cattles and livestock lost,"Annual disaster effects situation report , MINEMA",_L_RW_110502_14,,NUMBER,,3146.0

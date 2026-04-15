@@ -1,4 +1,4 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2014,A,0,_X,Renewable energy share in the total final electricity generation,A,N,_L_RW_070201_1,,PT,,53.0
-2017,A,0,_X,Renewable energy share in the total final electricity generation,A,N,_L_RW_070201_1,,PT,,61.0
-2020,A,0,_X,Renewable energy share in the total final electricity generation,A,N,_L_RW_070201_1,,PT,,62.3
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2014,Renewable energy share in the total final electricity generation,Ministry of Infrastructure (MININFRA),_L_RW_070201_1,,PT,,53.0
+2017,Renewable energy share in the total final electricity generation,Ministry of Infrastructure (MININFRA),_L_RW_070201_1,,PT,,61.0
+2020,Renewable energy share in the total final electricity generation,Ministry of Infrastructure (MININFRA),_L_RW_070201_1,,PT,,62.3

@@ -1,8 +1,8 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2008,A,0,_X,Tuberculosis incidence,A,N,SH_TBS_INCD,,PER_100000_POP,,98
-2012,A,0,_X,Tuberculosis incidence,A,N,SH_TBS_INCD,,PER_100000_POP,,86
-2015,A,0,_X,Tuberculosis incidence,A,N,SH_TBS_INCD,,PER_100000_POP,,56
-2017,A,0,_X,Tuberculosis incidence,A,N,SH_TBS_INCD,,PER_100000_POP,,50
-2018,A,0,_X,Tuberculosis incidence,A,N,SH_TBS_INCD,,PER_100000_POP,,58
-2020,A,0,_X,Tuberculosis incidence,A,N,SH_TBS_INCD,,PER_100000_POP,,58
-2022,A,0,_X,Tuberculosis incidence,A,N,SH_TBS_INCD,,PER_100000_POP,,57
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2008,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",SH_TBS_INCD,,PER_100000_POP,,98
+2012,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",SH_TBS_INCD,,PER_100000_POP,,86
+2015,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",SH_TBS_INCD,,PER_100000_POP,,56
+2017,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",SH_TBS_INCD,,PER_100000_POP,,50
+2018,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",SH_TBS_INCD,,PER_100000_POP,,58
+2020,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",SH_TBS_INCD,,PER_100000_POP,,58
+2022,Tuberculosis incidence,"RBC, (WHO Global TB Report 2017), Health sector FY 2021/2022 backward looking joint sector review report",SH_TBS_INCD,,PER_100000_POP,,57

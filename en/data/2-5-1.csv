@@ -1,10 +1,10 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2019,Normal value,Units,Not Available,Plant Genetic Resources,Annual,National,Plant Genetic Resources,,Number,,1335
-2020,Normal value,Units,Not Available,Plant Genetic Resources,Annual,National,Plant Genetic Resources,,Number,,1363
-2022,Normal value,Units,Not Available,Plant Genetic Resources,Annual,National,Plant Genetic Resources,,Number,,1335
-2019,Normal value,Units,Not Available,Forest Genetic Resources,Annual,National,Forest Genetic Resources,,Number,,58
-2020,Normal value,Units,Not Available,Forest Genetic Resources,Annual,National,Forest Genetic Resources,,Number,,62
-2022,Normal value,Units,Not Available,Forest Genetic Resources,Annual,National,Forest Genetic Resources,,Number,,48
-2019,Normal value,Units,Not Available,Animal Genetic Resources,Annual,National,Animal Genetic Resources,,Number,,173
-2020,Normal value,Units,Not Available,Animal Genetic Resources,Annual,National,Animal Genetic Resources,,Number,,192
-2022,Normal value,Units,Not Available,Animal Genetic Resources,Annual,National,Animal Genetic Resources,,Number,,306
+Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2019,Plant Genetic Resources,MINAGRI (Rwanda National Gene Bank-RNGB),Plant Genetic Resources,,Number,,1335
+2020,Plant Genetic Resources,MINAGRI (Rwanda National Gene Bank-RNGB),Plant Genetic Resources,,Number,,1363
+2022,Plant Genetic Resources,MINAGRI (Rwanda National Gene Bank-RNGB),Plant Genetic Resources,,Number,,1335
+2019,Forest Genetic Resources,MINAGRI (Rwanda National Gene Bank-RNGB),Forest Genetic Resources,,Number,,58
+2020,Forest Genetic Resources,MINAGRI (Rwanda National Gene Bank-RNGB),Forest Genetic Resources,,Number,,62
+2022,Forest Genetic Resources,MINAGRI (Rwanda National Gene Bank-RNGB),Forest Genetic Resources,,Number,,48
+2019,Animal Genetic Resources,MINAGRI (Rwanda National Gene Bank-RNGB),Animal Genetic Resources,,Number,,173
+2020,Animal Genetic Resources,MINAGRI (Rwanda National Gene Bank-RNGB),Animal Genetic Resources,,Number,,192
+2022,Animal Genetic Resources,MINAGRI (Rwanda National Gene Bank-RNGB),Animal Genetic Resources,,Number,,306

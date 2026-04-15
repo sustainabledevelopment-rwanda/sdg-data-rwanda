@@ -1,3 +1,7 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2013,A,0,_X,"Number of new HIV infections per 1,000 uninfected population",A,N,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,,2.7
-2018,A,0,_X,"Number of new HIV infections per 1,000 uninfected population",A,N,SH_HIV_INCD,,PER_1000_UNINFECTED_POP,,0.1
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2013,"Number of new HIV infections per 1,000 uninfected population","Rwanda Population- Based HIV Impact Assessment (RPHIA 2013-
+14 )
+RPHIA 2018-19",SH_HIV_INCD,,PER_1000_UNINFECTED_POP,,2.7
+2018,"Number of new HIV infections per 1,000 uninfected population","Rwanda Population- Based HIV Impact Assessment (RPHIA 2013-
+14 )
+RPHIA 2018-19",SH_HIV_INCD,,PER_1000_UNINFECTED_POP,,0.1

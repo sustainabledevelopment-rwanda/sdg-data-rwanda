@@ -1,3 +1,3 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2019,A,0,_X,Energy intensity measured in terms of primary energy and GDP,A,N,_L_RW_070301,,MJ_PER_GDP_CON_PPP_USD,,3.2
-2020,A,0,_X,Energy intensity measured in terms of primary energy and GDP,A,N,_L_RW_070301,,MJ_PER_GDP_CON_PPP_USD,,3.2
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2019,Energy intensity measured in terms of primary energy and GDP,Ministry of Infrastructure (MININFRA),_L_RW_070301,,MJ_PER_GDP_CON_PPP_USD,,3.2
+2020,Energy intensity measured in terms of primary energy and GDP,Ministry of Infrastructure (MININFRA),_L_RW_070301,,MJ_PER_GDP_CON_PPP_USD,,3.2

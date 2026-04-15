@@ -1,4 +1,7 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Not Available,Forests allocated private operators for management,Annual,National,Above-ground biomass in forest (tonnes) [15.2.1],,Percent,,14.1
-2019,Normal value,Units,Not Available,Forests allocated private operators for management,Annual,National,Above-ground biomass in forest (tonnes) [15.2.1],,Percent,,33.0
-2022,Normal value,Units,Not Available,Forests allocated private operators for management,Annual,National,Above-ground biomass in forest (tonnes) [15.2.1],,Percent,,38.5
+Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2016,Forests allocated private operators for management,"JSR,
+Environment, 2021/2022",Above-ground biomass in forest (tonnes) [15.2.1],,Percent,,14.1
+2019,Forests allocated private operators for management,"JSR,
+Environment, 2021/2022",Above-ground biomass in forest (tonnes) [15.2.1],,Percent,,33.0
+2022,Forests allocated private operators for management,"JSR,
+Environment, 2021/2022",Above-ground biomass in forest (tonnes) [15.2.1],,Percent,,38.5

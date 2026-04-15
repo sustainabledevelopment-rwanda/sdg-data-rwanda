@@ -1,17 +1,17 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2015,A,0,_X,Suicide mortality rate,A,N,SH_STA_SCIDE,,PER_100000_POP,,1.4
-2016,A,0,_X,Suicide mortality rate,A,N,SH_STA_SCIDE,,PER_100000_POP,,1.6
-2017,A,0,_X,Suicide mortality rate,A,N,SH_STA_SCIDE,,PER_100000_POP,,1.6
-2018,A,0,_X,Suicide mortality rate,A,N,SH_STA_SCIDE,,PER_100000_POP,,1.8
-2019,A,0,_X,Suicide mortality rate,A,N,SH_STA_SCIDE,,PER_100000_POP,,1.9
-2020,A,0,_X,Suicide mortality rate,A,N,SH_STA_SCIDE,,PER_100000_POP,,2.3
-2021,A,0,_X,Suicide mortality rate,A,N,SH_STA_SCIDE,,PER_100000_POP,,2.7
-2022,A,0,_X,Suicide mortality rate,A,N,SH_STA_SCIDE,,PER_100000_POP,,2.8
-2015,A,0,_X,Number of deaths attributed to suicide,A,N,SH_STA_SCIDEN,,NUMBER,,157.0
-2016,A,0,_X,Number of deaths attributed to suicide,A,N,SH_STA_SCIDEN,,NUMBER,,181.0
-2017,A,0,_X,Number of deaths attributed to suicide,A,N,SH_STA_SCIDEN,,NUMBER,,193.0
-2018,A,0,_X,Number of deaths attributed to suicide,A,N,SH_STA_SCIDEN,,NUMBER,,226.0
-2019,A,0,_X,Number of deaths attributed to suicide,A,N,SH_STA_SCIDEN,,NUMBER,,241.0
-2020,A,0,_X,Number of deaths attributed to suicide,A,N,SH_STA_SCIDEN,,NUMBER,,298.0
-2021,A,0,_X,Number of deaths attributed to suicide,A,N,SH_STA_SCIDEN,,NUMBER,,353.0
-2022,A,0,_X,Number of deaths attributed to suicide,A,N,SH_STA_SCIDEN,,NUMBER,,370.0
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2015,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.4
+2016,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.6
+2017,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.6
+2018,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.8
+2019,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,1.9
+2020,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,2.3
+2021,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,2.7
+2022,Suicide mortality rate,RIB,SH_STA_SCIDE,,PER_100000_POP,,2.8
+2015,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,157.0
+2016,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,181.0
+2017,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,193.0
+2018,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,226.0
+2019,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,241.0
+2020,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,298.0
+2021,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,353.0
+2022,Number of deaths attributed to suicide,RIB,SH_STA_SCIDEN,,NUMBER,,370.0

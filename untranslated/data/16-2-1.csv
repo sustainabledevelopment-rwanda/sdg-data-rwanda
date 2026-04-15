@@ -1,6 +1,6 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
-2020,A,0,_X,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,A,N,VC_VAW_PHYPYV,,PT,,15.0
-2021,A,0,_X,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,A,N,VC_VAW_PHYPYV,,PT,,16.9
-2022,A,0,_X,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,A,N,VC_VAW_PHYPYV,,PT,,15.0
-2023,A,0,_X,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,A,N,VC_VAW_PHYPYV,,PT,,6.0
-2024,A,0,_X,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,A,N,VC_VAW_PHYPYV,,PT,,15.0
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2020,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,"Rwanda Governance Score Card, RGB",VC_VAW_PHYPYV,,PT,,15.0
+2021,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,"Rwanda Governance Score Card, RGB",VC_VAW_PHYPYV,,PT,,16.9
+2022,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,"Rwanda Governance Score Card, RGB",VC_VAW_PHYPYV,,PT,,15.0
+2023,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,"Rwanda Governance Score Card, RGB",VC_VAW_PHYPYV,,PT,,6.0
+2024,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month,"Rwanda Governance Score Card, RGB",VC_VAW_PHYPYV,,PT,,15.0

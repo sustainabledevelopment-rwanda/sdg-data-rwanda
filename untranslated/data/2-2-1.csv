@@ -1,9 +1,9 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
-2005,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,,,PT,,51.0
-2010,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,,,PT,,44.0
-2015,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,,,PT,,37.9
-2020,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,,,PT,,33.1
-2015,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,M,Y0T4,PT,,42.7
-2020,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,M,Y0T4,PT,,37.0
-2015,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,F,Y0T4,PT,,32.9
-2020,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,F,Y0T4,PT,,29.2
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
+2005,Proportion of children moderately or severely stunted,"DHS, NISR",SH_STA_STNT,,,,PT,,51.0
+2010,Proportion of children moderately or severely stunted,"DHS, NISR",SH_STA_STNT,,,,PT,,44.0
+2015,Proportion of children moderately or severely stunted,"DHS, NISR",SH_STA_STNT,,,,PT,,37.9
+2020,Proportion of children moderately or severely stunted,"DHS, NISR",SH_STA_STNT,,,,PT,,33.1
+2015,Proportion of children moderately or severely stunted,"DHS, NISR",SH_STA_STNT,,M,Y0T4,PT,,42.7
+2020,Proportion of children moderately or severely stunted,"DHS, NISR",SH_STA_STNT,,M,Y0T4,PT,,37.0
+2015,Proportion of children moderately or severely stunted,"DHS, NISR",SH_STA_STNT,,F,Y0T4,PT,,32.9
+2020,Proportion of children moderately or severely stunted,"DHS, NISR",SH_STA_STNT,,F,Y0T4,PT,,29.2

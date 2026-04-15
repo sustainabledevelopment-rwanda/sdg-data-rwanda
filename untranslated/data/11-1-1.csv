@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2014,A,0,_X,Distribution of Households living in unplanned urban housing,A,N,_L_RW_110101_1,,U,PT,,62.6
-2017,A,0,_X,Distribution of Households living in unplanned urban housing,A,N,_L_RW_110101_1,,U,PT,,52.5
-2022,A,0,_X,Distribution of Households living in unplanned urban housing,A,N,_L_RW_110101_1,,U,PT,,25.0
-2024,A,0,_X,Distribution of Households living in unplanned urban housing,A,N,_L_RW_110101_1,,U,PT,,22.4
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2014,Distribution of Households living in unplanned urban housing,"EICV and RPHC5 2022, NISR",_L_RW_110101_1,,U,PT,,62.6
+2017,Distribution of Households living in unplanned urban housing,"EICV and RPHC5 2022, NISR",_L_RW_110101_1,,U,PT,,52.5
+2022,Distribution of Households living in unplanned urban housing,"EICV and RPHC5 2022, NISR",_L_RW_110101_1,,U,PT,,25.0
+2024,Distribution of Households living in unplanned urban housing,"EICV and RPHC5 2022, NISR",_L_RW_110101_1,,U,PT,,22.4

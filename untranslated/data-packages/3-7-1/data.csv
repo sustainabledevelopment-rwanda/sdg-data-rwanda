@@ -1,8 +1,8 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,GeoCode,Value
-2010,A,0,_X,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,A,N,SH_FPL_MTMM,,F,Y15T49,,PT,,62.0
-2015,A,0,_X,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,A,N,SH_FPL_MTMM,,F,Y15T49,,PT,,66.0
-2020,A,0,_X,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,A,N,SH_FPL_MTMM,,F,Y15T49,,PT,,73.7
-2015,A,0,_X,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,A,N,SH_FPL_MTMM,,,Y15T49,U,PT,,69.0
-2020,A,0,_X,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,A,N,SH_FPL_MTMM,,,Y15T49,U,PT,,72.3
-2015,A,0,_X,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,A,N,SH_FPL_MTMM,,,Y15T49,R,PT,,65.0
-2020,A,0,_X,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,A,N,SH_FPL_MTMM,,,Y15T49,R,PT,,74.0
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,URBANISATION,UNIT_MEASURE,GeoCode,Value
+2010,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,"DHS, NISR",SH_FPL_MTMM,,F,Y15T49,,PT,,62.0
+2015,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,"DHS, NISR",SH_FPL_MTMM,,F,Y15T49,,PT,,66.0
+2020,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,"DHS, NISR",SH_FPL_MTMM,,F,Y15T49,,PT,,73.7
+2015,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,"DHS, NISR",SH_FPL_MTMM,,,Y15T49,U,PT,,69.0
+2020,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,"DHS, NISR",SH_FPL_MTMM,,,Y15T49,U,PT,,72.3
+2015,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,"DHS, NISR",SH_FPL_MTMM,,,Y15T49,R,PT,,65.0
+2020,Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods,"DHS, NISR",SH_FPL_MTMM,,,Y15T49,R,PT,,74.0

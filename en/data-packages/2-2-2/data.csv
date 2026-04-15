@@ -1,16 +1,16 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
-2005,Normal value,Units,Not Available,Proportion of children moderately or severely wasted,Annual,National,Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,5.0
-2010,Normal value,Units,Not Available,Proportion of children moderately or severely wasted,Annual,National,Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,3.0
-2015,Normal value,Units,Not Available,Proportion of children moderately or severely wasted,Annual,National,Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,2.0
-2020,Normal value,Units,Not Available,Proportion of children moderately or severely wasted,Annual,National,Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,1.1
-2015,Normal value,Units,Not Available,Proportion of children moderately or severely wasted,Annual,National,Proportion of children moderately or severely wasted [2.2.2],,Male,under 5 years old,Percent,,2.4
-2020,Normal value,Units,Not Available,Proportion of children moderately or severely wasted,Annual,National,Proportion of children moderately or severely wasted [2.2.2],,Male,under 5 years old,Percent,,0.9
-2015,Normal value,Units,Not Available,Proportion of children moderately or severely wasted,Annual,National,Proportion of children moderately or severely wasted [2.2.2],,Female,under 5 years old,Percent,,2.0
-2020,Normal value,Units,Not Available,Proportion of children moderately or severely wasted,Annual,National,Proportion of children moderately or severely wasted [2.2.2],,Female,under 5 years old,Percent,,1.4
-2010,Normal value,Units,Not Available,Proportion of children moderately or severely overweight,Annual,National,Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,7.0
-2015,Normal value,Units,Not Available,Proportion of children moderately or severely overweight,Annual,National,Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,8.0
-2020,Normal value,Units,Not Available,Proportion of children moderately or severely overweight,Annual,National,Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,5.6
-2015,Normal value,Units,Not Available,Proportion of children moderately or severely overweight,Annual,National,Proportion of children moderately or severely overweight [2.2.2],,Male,under 5 years old,Percent,,8.1
-2020,Normal value,Units,Not Available,Proportion of children moderately or severely overweight,Annual,National,Proportion of children moderately or severely overweight [2.2.2],,Male,under 5 years old,Percent,,5.8
-2015,Normal value,Units,Not Available,Proportion of children moderately or severely overweight,Annual,National,Proportion of children moderately or severely overweight [2.2.2],,Female,under 5 years old,Percent,,7.3
-2020,Normal value,Units,Not Available,Proportion of children moderately or severely overweight,Annual,National,Proportion of children moderately or severely overweight [2.2.2],,Female,under 5 years old,Percent,,5.4
+Year,Observation-level footnotes,Source details,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
+2005,Proportion of children moderately or severely wasted,"DHS, NISR",Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,5.0
+2010,Proportion of children moderately or severely wasted,"DHS, NISR",Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,3.0
+2015,Proportion of children moderately or severely wasted,"DHS, NISR",Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,2.0
+2020,Proportion of children moderately or severely wasted,"DHS, NISR",Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,1.1
+2015,Proportion of children moderately or severely wasted,"DHS, NISR",Proportion of children moderately or severely wasted [2.2.2],,Male,under 5 years old,Percent,,2.4
+2020,Proportion of children moderately or severely wasted,"DHS, NISR",Proportion of children moderately or severely wasted [2.2.2],,Male,under 5 years old,Percent,,0.9
+2015,Proportion of children moderately or severely wasted,"DHS, NISR",Proportion of children moderately or severely wasted [2.2.2],,Female,under 5 years old,Percent,,2.0
+2020,Proportion of children moderately or severely wasted,"DHS, NISR",Proportion of children moderately or severely wasted [2.2.2],,Female,under 5 years old,Percent,,1.4
+2010,Proportion of children moderately or severely overweight,"DHS, NISR",Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,7.0
+2015,Proportion of children moderately or severely overweight,"DHS, NISR",Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,8.0
+2020,Proportion of children moderately or severely overweight,"DHS, NISR",Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,5.6
+2015,Proportion of children moderately or severely overweight,"DHS, NISR",Proportion of children moderately or severely overweight [2.2.2],,Male,under 5 years old,Percent,,8.1
+2020,Proportion of children moderately or severely overweight,"DHS, NISR",Proportion of children moderately or severely overweight [2.2.2],,Male,under 5 years old,Percent,,5.8
+2015,Proportion of children moderately or severely overweight,"DHS, NISR",Proportion of children moderately or severely overweight [2.2.2],,Female,under 5 years old,Percent,,7.3
+2020,Proportion of children moderately or severely overweight,"DHS, NISR",Proportion of children moderately or severely overweight [2.2.2],,Female,under 5 years old,Percent,,5.4

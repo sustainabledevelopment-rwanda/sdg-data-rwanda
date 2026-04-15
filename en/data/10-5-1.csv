@@ -1,38 +1,38 @@
-Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2016,Normal value,Units,Not Available,Regulatory capital to assets (%) - CAR,Annual,National,Regulatory capital to assets (%) [10.5.1],,Percent,,23.3
-2018,Normal value,Units,Not Available,Regulatory capital to assets (%) - CAR,Annual,National,Regulatory capital to assets (%) [10.5.1],,Percent,,25.5
-2019,Normal value,Units,Not Available,Regulatory capital to assets (%) - CAR,Annual,National,Regulatory capital to assets (%) [10.5.1],,Percent,,24.1
-2020,Normal value,Units,Not Available,Regulatory capital to assets (%) - CAR,Annual,National,Regulatory capital to assets (%) [10.5.1],,Percent,,21.5
-2021,Normal value,Units,Not Available,Regulatory capital to assets (%) - CAR,Annual,National,Regulatory capital to assets (%) [10.5.1],,Percent,,21.5
-2022,Normal value,Units,Not Available,Regulatory capital to assets (%) - CAR,Annual,National,Regulatory capital to assets (%) [10.5.1],,Percent,,21.7
-2023,Normal value,Units,Not Available,Regulatory capital to assets (%) - CAR,Annual,National,Regulatory capital to assets (%) [10.5.1],,Percent,,21.5
-2016,Normal value,Units,Not Available,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,Annual,National,Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.7
-2018,Normal value,Units,Not Available,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,Annual,National,Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.8
-2019,Normal value,Units,Not Available,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,Annual,National,Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,22.6
-2020,Normal value,Units,Not Available,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,Annual,National,Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.3
-2021,Normal value,Units,Not Available,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,Annual,National,Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.6
-2022,Normal value,Units,Not Available,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,Annual,National,Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.9
-2023,Normal value,Units,Not Available,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,Annual,National,Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.3
-2016,Normal value,Units,Not Available,Non-performing loans net of provisions to capital (%),Annual,National,Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,17.1
-2018,Normal value,Units,Not Available,Non-performing loans net of provisions to capital (%),Annual,National,Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,11.0
-2019,Normal value,Units,Not Available,Non-performing loans net of provisions to capital (%),Annual,National,Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,11.0
-2020,Normal value,Units,Not Available,Non-performing loans net of provisions to capital (%),Annual,National,Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,5.7
-2021,Normal value,Units,Not Available,Non-performing loans net of provisions to capital (%),Annual,National,Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,4.3
-2016,Normal value,Units,Not Available,Non-performing loans to total gross loans (%),Annual,National,Non-performing loans to total gross loans (%) [10.5.1],,Percent,,7.6
-2018,Normal value,Units,Not Available,Non-performing loans to total gross loans (%),Annual,National,Non-performing loans to total gross loans (%) [10.5.1],,Percent,,6.4
-2019,Normal value,Units,Not Available,Non-performing loans to total gross loans (%),Annual,National,Non-performing loans to total gross loans (%) [10.5.1],,Percent,,4.9
-2020,Normal value,Units,Not Available,Non-performing loans to total gross loans (%),Annual,National,Non-performing loans to total gross loans (%) [10.5.1],,Percent,,9.0
-2021,Normal value,Units,Not Available,Non-performing loans to total gross loans (%),Annual,National,Non-performing loans to total gross loans (%) [10.5.1],,Percent,,6.4
-2016,Normal value,Units,Not Available,Return on assets (%),Annual,National,Return on assets (%) [10.5.1],,Percent,,2.6
-2018,Normal value,Units,Not Available,Return on assets (%),Annual,National,Return on assets (%) [10.5.1],,Percent,,2.8
-2019,Normal value,Units,Not Available,Return on assets (%),Annual,National,Return on assets (%) [10.5.1],,Percent,,12.5
-2020,Normal value,Units,Not Available,Return on assets (%),Annual,National,Return on assets (%) [10.5.1],,Percent,,2.5
-2016,Normal value,Units,Not Available,Liquid assets to short term liabilities (%),Annual,National,Liquid assets to short term liabilities (%) [10.5.1],,Percent,,111.9
-2018,Normal value,Units,Not Available,Liquid assets to short term liabilities (%),Annual,National,Liquid assets to short term liabilities (%) [10.5.1],,Percent,,129.6
-2019,Normal value,Units,Not Available,Liquid assets to short term liabilities (%),Annual,National,Liquid assets to short term liabilities (%) [10.5.1],,Percent,,180.5
-2020,Normal value,Units,Not Available,Liquid assets to short term liabilities (%),Annual,National,Liquid assets to short term liabilities (%) [10.5.1],,Percent,,226.2
-2021,Normal value,Units,Not Available,Liquid assets to short term liabilities (%),Annual,National,Liquid assets to short term liabilities (%) [10.5.1],,Percent,,180.5
-2016,Normal value,Units,Not Available,Net open position in foreign exchange to capital (%),Annual,National,Net open position in foreign exchange to capital (%) [10.5.1],,Percent,,-1.6
-2018,Normal value,Units,Not Available,Net open position in foreign exchange to capital (%),Annual,National,Net open position in foreign exchange to capital (%) [10.5.1],,Percent,,-9.1
-2019,Normal value,Units,Not Available,Net open position in foreign exchange to capital (%),Annual,National,Net open position in foreign exchange to capital (%) [10.5.1],,Percent,,-4.0
-2020,Normal value,Units,Not Available,Net open position in foreign exchange to capital (%),Annual,National,Net open position in foreign exchange to capital (%) [10.5.1],,Percent,,-4.7
+Year,Observation-level footnotes,Source details,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2016,Regulatory capital to assets (%) - CAR,"BNR, Annual Financial Stability Report",Regulatory capital to assets (%) [10.5.1],,Percent,,23.3
+2018,Regulatory capital to assets (%) - CAR,"BNR, Annual Financial Stability Report",Regulatory capital to assets (%) [10.5.1],,Percent,,25.5
+2019,Regulatory capital to assets (%) - CAR,"BNR, Annual Financial Stability Report",Regulatory capital to assets (%) [10.5.1],,Percent,,24.1
+2020,Regulatory capital to assets (%) - CAR,"BNR, Annual Financial Stability Report",Regulatory capital to assets (%) [10.5.1],,Percent,,21.5
+2021,Regulatory capital to assets (%) - CAR,"BNR, Annual Financial Stability Report",Regulatory capital to assets (%) [10.5.1],,Percent,,21.5
+2022,Regulatory capital to assets (%) - CAR,"BNR, Annual Financial Stability Report",Regulatory capital to assets (%) [10.5.1],,Percent,,21.7
+2023,Regulatory capital to assets (%) - CAR,"BNR, Annual Financial Stability Report",Regulatory capital to assets (%) [10.5.1],,Percent,,21.5
+2016,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,"BNR, Annual Financial Stability Report",Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.7
+2018,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,"BNR, Annual Financial Stability Report",Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.8
+2019,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,"BNR, Annual Financial Stability Report",Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,22.6
+2020,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,"BNR, Annual Financial Stability Report",Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.3
+2021,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,"BNR, Annual Financial Stability Report",Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.6
+2022,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,"BNR, Annual Financial Stability Report",Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.9
+2023,Regulatory Tier 1 capital to risk-weighted assets (%) - CAR Tier I,"BNR, Annual Financial Stability Report",Regulatory Tier 1 capital to risk-weighted assets (%) [10.5.1],,Percent,,20.3
+2016,Non-performing loans net of provisions to capital (%),"BNR, Annual Financial Stability Report",Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,17.1
+2018,Non-performing loans net of provisions to capital (%),"BNR, Annual Financial Stability Report",Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,11.0
+2019,Non-performing loans net of provisions to capital (%),"BNR, Annual Financial Stability Report",Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,11.0
+2020,Non-performing loans net of provisions to capital (%),"BNR, Annual Financial Stability Report",Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,5.7
+2021,Non-performing loans net of provisions to capital (%),"BNR, Annual Financial Stability Report",Non-performing loans net of provisions to capital (%) [10.5.1],,Percent,,4.3
+2016,Non-performing loans to total gross loans (%),"BNR, Annual Financial Stability Report",Non-performing loans to total gross loans (%) [10.5.1],,Percent,,7.6
+2018,Non-performing loans to total gross loans (%),"BNR, Annual Financial Stability Report",Non-performing loans to total gross loans (%) [10.5.1],,Percent,,6.4
+2019,Non-performing loans to total gross loans (%),"BNR, Annual Financial Stability Report",Non-performing loans to total gross loans (%) [10.5.1],,Percent,,4.9
+2020,Non-performing loans to total gross loans (%),"BNR, Annual Financial Stability Report",Non-performing loans to total gross loans (%) [10.5.1],,Percent,,9.0
+2021,Non-performing loans to total gross loans (%),"BNR, Annual Financial Stability Report",Non-performing loans to total gross loans (%) [10.5.1],,Percent,,6.4
+2016,Return on assets (%),"BNR, Annual Financial Stability Report",Return on assets (%) [10.5.1],,Percent,,2.6
+2018,Return on assets (%),"BNR, Annual Financial Stability Report",Return on assets (%) [10.5.1],,Percent,,2.8
+2019,Return on assets (%),"BNR, Annual Financial Stability Report",Return on assets (%) [10.5.1],,Percent,,12.5
+2020,Return on assets (%),"BNR, Annual Financial Stability Report",Return on assets (%) [10.5.1],,Percent,,2.5
+2016,Liquid assets to short term liabilities (%),"BNR, Annual Financial Stability Report",Liquid assets to short term liabilities (%) [10.5.1],,Percent,,111.9
+2018,Liquid assets to short term liabilities (%),"BNR, Annual Financial Stability Report",Liquid assets to short term liabilities (%) [10.5.1],,Percent,,129.6
+2019,Liquid assets to short term liabilities (%),"BNR, Annual Financial Stability Report",Liquid assets to short term liabilities (%) [10.5.1],,Percent,,180.5
+2020,Liquid assets to short term liabilities (%),"BNR, Annual Financial Stability Report",Liquid assets to short term liabilities (%) [10.5.1],,Percent,,226.2
+2021,Liquid assets to short term liabilities (%),"BNR, Annual Financial Stability Report",Liquid assets to short term liabilities (%) [10.5.1],,Percent,,180.5
+2016,Net open position in foreign exchange to capital (%),"BNR, Annual Financial Stability Report",Net open position in foreign exchange to capital (%) [10.5.1],,Percent,,-1.6
+2018,Net open position in foreign exchange to capital (%),"BNR, Annual Financial Stability Report",Net open position in foreign exchange to capital (%) [10.5.1],,Percent,,-9.1
+2019,Net open position in foreign exchange to capital (%),"BNR, Annual Financial Stability Report",Net open position in foreign exchange to capital (%) [10.5.1],,Percent,,-4.0
+2020,Net open position in foreign exchange to capital (%),"BNR, Annual Financial Stability Report",Net open position in foreign exchange to capital (%) [10.5.1],,Percent,,-4.7

@@ -1,5 +1,5 @@
-Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
-2015,A,0,_X,Proportion of women aged 20-24 years who were married or in a union before age 15,A,N,SP_DYN_MRBF15,,F,Y0T14,PT,,0.4
-2020,A,0,_X,Proportion of women aged 20-24 years who were married or in a union before age 15,A,N,SP_DYN_MRBF15,,F,Y0T14,PT,,0.3
-2015,A,0,_X,Proportion of women aged 20-24 years who were married or in a union before age 18,A,N,SP_DYN_MRBF18,,F,Y0T17,PT,,6.8
-2020,A,0,_X,Proportion of women aged 20-24 years who were married or in a union before age 18,A,N,SP_DYN_MRBF18,,F,Y0T17,PT,,5.5
+Year,COMMENT_OBS,SOURCE_DETAIL,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
+2015,Proportion of women aged 20-24 years who were married or in a union before age 15,"DHS, NISR",SP_DYN_MRBF15,,F,Y0T14,PT,,0.4
+2020,Proportion of women aged 20-24 years who were married or in a union before age 15,"DHS, NISR",SP_DYN_MRBF15,,F,Y0T14,PT,,0.3
+2015,Proportion of women aged 20-24 years who were married or in a union before age 18,"DHS, NISR",SP_DYN_MRBF18,,F,Y0T17,PT,,6.8
+2020,Proportion of women aged 20-24 years who were married or in a union before age 18,"DHS, NISR",SP_DYN_MRBF18,,F,Y0T17,PT,,5.5

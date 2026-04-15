@@ -1,5 +1,3 @@
 From,To
-Nature of data points,Observation-level footnotes
-Observation-level footnotes,Frequency of observation
-Frequency of observation,Reporting type
-Reporting type,COMPOSITE_BREAKDOWN
+Observation-level footnotes,Source details
+Source details,COMPOSITE_BREAKDOWN
