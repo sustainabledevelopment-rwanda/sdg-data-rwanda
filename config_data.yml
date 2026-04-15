@@ -49,7 +49,6 @@ inputs:
       - TIME_COVERAGE
       - UNIT_MULT
       - OBS_STATUS
-      - UNIT_MEASURE
       - SOURCE_DETAIL
       - COMMENT_OBS
     dsd: 'RWA_2025_SDG DSD.xml'
