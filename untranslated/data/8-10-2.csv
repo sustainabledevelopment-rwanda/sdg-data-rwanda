@@ -1,6 +1,6 @@
-Year,Value
-2006,18.9
-2011,36.1
-2014,54.1
-2016,68.0
-2020,93.0
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2006,A,0,_X,Percentage of households with at least one savings account,A,N,_L_RW_081002_1,,PT,,18.9
+2011,A,0,_X,Percentage of households with at least one savings account,A,N,_L_RW_081002_1,,PT,,36.1
+2014,A,0,_X,Percentage of households with at least one savings account,A,N,_L_RW_081002_1,,PT,,54.1
+2016,A,0,_X,Percentage of households with at least one savings account,A,N,_L_RW_081002_1,,PT,,68.0
+2020,A,0,_X,Percentage of households with at least one savings account,A,N,_L_RW_081002_1,,PT,,93.0

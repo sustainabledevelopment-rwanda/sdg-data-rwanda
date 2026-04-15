@@ -1,7 +1,1 @@
-Year,Value,GeoCode
-2000,196,
-2005,152,
-2008,103,
-2010,76,
-2015,50,
-2020,45,
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

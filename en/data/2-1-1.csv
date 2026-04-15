@@ -1,7 +1,7 @@
-Year,Value
-2017,33
-2018,32
-2019,34
-2020,32
-2021,32
-2022,29
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Normal value,Units,Not Available,Percentage of food insecure households,Annual,National,Prevalence of undernourishment [2.1.1],,Percent,,33
+2018,Normal value,Units,Not Available,Percentage of food insecure households,Annual,National,Prevalence of undernourishment [2.1.1],,Percent,,32
+2019,Normal value,Units,Not Available,Percentage of food insecure households,Annual,National,Prevalence of undernourishment [2.1.1],,Percent,,34
+2020,Normal value,Units,Not Available,Percentage of food insecure households,Annual,National,Prevalence of undernourishment [2.1.1],,Percent,,32
+2021,Normal value,Units,Not Available,Percentage of food insecure households,Annual,National,Prevalence of undernourishment [2.1.1],,Percent,,32
+2022,Normal value,Units,Not Available,Percentage of food insecure households,Annual,National,Prevalence of undernourishment [2.1.1],,Percent,,29

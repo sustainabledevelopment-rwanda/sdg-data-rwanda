@@ -1,1 +1,1 @@
-{"Year":[2017,2019,2022],"Value":[4.0,4.0,0.2]}
+{"Year":[2017,2019,2022],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"NATURE":["_X","_X","_X"],"COMMENT_OBS":["Remittance costs as a proportion of the amount remitted","Remittance costs as a proportion of the amount remitted","Remittance costs as a proportion of the amount remitted"],"FREQ":["A","A","A"],"REPORTING_TYPE":["N","N","N"],"SERIES":["SI_RMT_COST","SI_RMT_COST","SI_RMT_COST"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"GeoCode":[null,null,null],"Value":[4.0,4.0,0.2]}

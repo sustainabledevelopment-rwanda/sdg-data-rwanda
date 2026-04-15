@@ -1,3 +1,7 @@
-Year,Value
-2012,23.5
-2022,15.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2012,A,0,_X,"The proportion of heavy drinkers (≥60g of pure alcohol/ six standard drinks on average per
+occasion among men and ≥40g of pure alcohol4 standard drinks on average per occasion among
+women).",A,N,SH_ALC_CONSPT,,PT,,23.5
+2022,A,0,_X,"The proportion of heavy drinkers (≥60g of pure alcohol/ six standard drinks on average per
+occasion among men and ≥40g of pure alcohol4 standard drinks on average per occasion among
+women).",A,N,SH_ALC_CONSPT,,PT,,15.2

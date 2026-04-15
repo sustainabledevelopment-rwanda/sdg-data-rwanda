@@ -1,12 +1,12 @@
-Year,Value
-2014,66.2
-2015,70.4
-2016,72.9
-2017,74.3
-2018,70.5
-2019,78.3
-2020,81.9
-2021,77.7
-2022,78.3
-2023,75.0
-2024,76.1
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,66.2
+2015,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,70.4
+2016,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,72.9
+2017,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,74.3
+2018,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,70.5
+2019,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,78.3
+2020,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,81.9
+2021,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,77.7
+2022,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,78.3
+2023,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,75.0
+2024,Normal value,Units,Not Available,Citizens' satisfaction with service delivery,Annual,National,Citizens' satisfaction with service delivery,,Percent,,76.1

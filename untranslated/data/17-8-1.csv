@@ -1,10 +1,10 @@
-Year,SEX,Value
-2012,,6.7
-2020,,17.6
-2022,,16.2
-2012,M,7.3
-2020,M,23.0
-2022,M,19.9
-2012,F,5.3
-2020,F,12.3
-2022,F,12.9
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
+2012,A,0,_X,Proportion of individuals using the Internet,A,N,IT_USE_II99,,,PT,,6.7
+2020,A,0,_X,Proportion of individuals using the Internet,A,N,IT_USE_II99,,,PT,,17.6
+2022,A,0,_X,Proportion of individuals using the Internet,A,N,IT_USE_II99,,,PT,,16.2
+2012,A,0,_X,Proportion of individuals using the Internet,A,N,IT_USE_II99,,M,PT,,7.3
+2020,A,0,_X,Proportion of individuals using the Internet,A,N,IT_USE_II99,,M,PT,,23.0
+2022,A,0,_X,Proportion of individuals using the Internet,A,N,IT_USE_II99,,M,PT,,19.9
+2012,A,0,_X,Proportion of individuals using the Internet,A,N,IT_USE_II99,,F,PT,,5.3
+2020,A,0,_X,Proportion of individuals using the Internet,A,N,IT_USE_II99,,F,PT,,12.3
+2022,A,0,_X,Proportion of individuals using the Internet,A,N,IT_USE_II99,,F,PT,,12.9

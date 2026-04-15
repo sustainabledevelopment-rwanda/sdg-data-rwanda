@@ -1,8 +1,8 @@
-Year,Value
-2016,62.4
-2017,66.0
-2018,66.0
-2019,67.0
-2020,68.3
-2021,60.5
-2022,67.0
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2016,A,0,_X,Proportion of domestic budget funded by domestic taxes,A,N,GC_GOB_TAXD,,PT,,62.4
+2017,A,0,_X,Proportion of domestic budget funded by domestic taxes,A,N,GC_GOB_TAXD,,PT,,66.0
+2018,A,0,_X,Proportion of domestic budget funded by domestic taxes,A,N,GC_GOB_TAXD,,PT,,66.0
+2019,A,0,_X,Proportion of domestic budget funded by domestic taxes,A,N,GC_GOB_TAXD,,PT,,67.0
+2020,A,0,_X,Proportion of domestic budget funded by domestic taxes,A,N,GC_GOB_TAXD,,PT,,68.3
+2021,A,0,_X,Proportion of domestic budget funded by domestic taxes,A,N,GC_GOB_TAXD,,PT,,60.5
+2022,A,0,_X,Proportion of domestic budget funded by domestic taxes,A,N,GC_GOB_TAXD,,PT,,67.0

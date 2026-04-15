@@ -1,10 +1,10 @@
-Year,Value
-2012,43.1
-2013,44.3
-2014,44.0
-2015,43.2
-2016,44.0
-2017,44.6
-2018,43.2
-2019,43.0
-2020,44.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2012,A,0,_X,Labour share of GDP (%),A,N,SL_EMP_GTOTL,,PT,,43.1
+2013,A,0,_X,Labour share of GDP (%),A,N,SL_EMP_GTOTL,,PT,,44.3
+2014,A,0,_X,Labour share of GDP (%),A,N,SL_EMP_GTOTL,,PT,,44.0
+2015,A,0,_X,Labour share of GDP (%),A,N,SL_EMP_GTOTL,,PT,,43.2
+2016,A,0,_X,Labour share of GDP (%),A,N,SL_EMP_GTOTL,,PT,,44.0
+2017,A,0,_X,Labour share of GDP (%),A,N,SL_EMP_GTOTL,,PT,,44.6
+2018,A,0,_X,Labour share of GDP (%),A,N,SL_EMP_GTOTL,,PT,,43.2
+2019,A,0,_X,Labour share of GDP (%),A,N,SL_EMP_GTOTL,,PT,,43.0
+2020,A,0,_X,Labour share of GDP (%),A,N,SL_EMP_GTOTL,,PT,,44.2

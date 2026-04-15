@@ -1,4 +1,4 @@
-Year,Value
-2021,7.5
-2023,7.3
-2024,6.4
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2021,A,0,_X,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,A,N,VC_PRR_PHYV,,PT,,7.5
+2023,A,0,_X,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,A,N,VC_PRR_PHYV,,PT,,7.3
+2024,A,0,_X,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms,A,N,VC_PRR_PHYV,,PT,,6.4

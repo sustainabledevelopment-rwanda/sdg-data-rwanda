@@ -1,8 +1,8 @@
-Year,Value
-2015,1.8
-2016,2.1
-2017,2.3
-2018,2.3
-2019,1.3
-2020,1.3
-2021,1.3
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2015,A,0,_X,Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,A,N,SL_LBR_NTLCPL,,SCORE,,1.8
+2016,A,0,_X,Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,A,N,SL_LBR_NTLCPL,,SCORE,,2.1
+2017,A,0,_X,Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,A,N,SL_LBR_NTLCPL,,SCORE,,2.3
+2018,A,0,_X,Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,A,N,SL_LBR_NTLCPL,,SCORE,,2.3
+2019,A,0,_X,Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,A,N,SL_LBR_NTLCPL,,SCORE,,1.3
+2020,A,0,_X,Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,A,N,SL_LBR_NTLCPL,,SCORE,,1.3
+2021,A,0,_X,Level of national compliance of labour rights (freedom of association and collective bargaining) based on International Labour Organization (ILO) textual sources and national legislation,A,N,SL_LBR_NTLCPL,,SCORE,,1.3

@@ -1,1 +1,1 @@
-{"Year":[2016,2018,2022],"Value":[0.6,0.7,0.7]}
+{"Year":[2016,2018,2022],"OBS_STATUS":["A","A","A"],"UNIT_MULT":["0","0","0"],"NATURE":["_X","_X","_X"],"COMMENT_OBS":["Research and development expenditure as a proportion of GDP (%)","Research and development expenditure as a proportion of GDP (%)","Research and development expenditure as a proportion of GDP (%)"],"FREQ":["A","A","A"],"REPORTING_TYPE":["N","N","N"],"SERIES":["GB_XPD_RSDV","GB_XPD_RSDV","GB_XPD_RSDV"],"REF_AREA":[null,null,null],"UNIT_MEASURE":["PT","PT","PT"],"GeoCode":[null,null,null],"Value":[0.6,0.7,0.7]}

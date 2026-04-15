@@ -1,2 +1,2 @@
-Year,Value
-2020,12.9
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2020,Normal value,Units,Not Available,Water Use Efficiency (United States dollars per cubic meter),Annual,National,Water Use Efficiency (United States dollars per cubic meter) [6.4.1],,United States dollars per cubic metre,,12.9

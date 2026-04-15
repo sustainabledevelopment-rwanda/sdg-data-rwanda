@@ -1,4 +1,4 @@
-Year,Value
-2017,4.0
-2019,4.0
-2022,0.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2017,A,0,_X,Remittance costs as a proportion of the amount remitted,A,N,SI_RMT_COST,,PT,,4.0
+2019,A,0,_X,Remittance costs as a proportion of the amount remitted,A,N,SI_RMT_COST,,PT,,4.0
+2022,A,0,_X,Remittance costs as a proportion of the amount remitted,A,N,SI_RMT_COST,,PT,,0.2

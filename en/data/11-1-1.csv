@@ -1,5 +1,5 @@
-Year,Value
-2014,62.6
-2017,52.5
-2022,25.0
-2024,22.4
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2014,Normal value,Units,Not Available,Distribution of Households living in unplanned urban housing,Annual,National,Distribution of Households living in unplanned urban housing,,Urban,Percent,,62.6
+2017,Normal value,Units,Not Available,Distribution of Households living in unplanned urban housing,Annual,National,Distribution of Households living in unplanned urban housing,,Urban,Percent,,52.5
+2022,Normal value,Units,Not Available,Distribution of Households living in unplanned urban housing,Annual,National,Distribution of Households living in unplanned urban housing,,Urban,Percent,,25.0
+2024,Normal value,Units,Not Available,Distribution of Households living in unplanned urban housing,Annual,National,Distribution of Households living in unplanned urban housing,,Urban,Percent,,22.4

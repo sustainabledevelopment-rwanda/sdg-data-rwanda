@@ -1,6 +1,1 @@
-Year,Value
-2019,24
-2020,27
-2021,30
-2022,32
-2023,36
+Year,Value,GeoCode,Observation status,Unit multiplier,UNIT_MEASURE,SERIES

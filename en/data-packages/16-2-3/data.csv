@@ -1,5 +1,5 @@
-Year,Sex,Value
-2023,Male,5.3
-2024,Male,5.1
-2023,Female,11.8
-2024,Female,10.8
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2023,Normal value,Units,Not Available,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,Annual,National,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,Percent,,5.3
+2024,Normal value,Units,Not Available,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,Annual,National,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Male,Percent,,5.1
+2023,Normal value,Units,Not Available,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,Annual,National,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,Percent,,11.8
+2024,Normal value,Units,Not Available,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,Annual,National,Proportion of population aged 18-29 years who experienced sexual violence by age 18 [16.2.3],,Female,Percent,,10.8

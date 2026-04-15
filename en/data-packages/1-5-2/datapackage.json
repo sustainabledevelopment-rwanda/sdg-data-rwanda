@@ -16,6 +16,39 @@
             "title": "Year"
           },
           {
+            "name": "OBS_STATUS",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Normal value",
+                ""
+              ]
+            },
+            "title": "Observation status"
+          },
+          {
+            "name": "UNIT_MULT",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Units",
+                ""
+              ]
+            },
+            "title": "Unit multiplier"
+          },
+          {
+            "name": "NATURE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Not Available",
+                ""
+              ]
+            },
+            "title": "Nature of data points"
+          },
+          {
             "name": "COMMENT_OBS",
             "type": "string",
             "constraints": {
@@ -40,28 +73,51 @@
             "title": "Observation-level footnotes"
           },
           {
-            "name": "Series",
+            "name": "FREQ",
             "type": "string",
             "constraints": {
               "enum": [
-                "_L_RW_010502_1",
-                "_L_RW_010502_2",
-                "_L_RW_010502_3",
-                "_L_RW_010502_4",
-                "_L_RW_010502_5",
-                "_L_RW_010502_6",
-                "_L_RW_010502_7",
-                "_L_RW_010502_8",
-                "_L_RW_010502_9",
-                "_L_RW_010502_10",
-                "_L_RW_010502_11",
-                "_L_RW_010502_12",
-                "_L_RW_010502_13",
-                "_L_RW_010502_14",
+                "Annual",
                 ""
               ]
             },
-            "title": "Series"
+            "title": "Frequency of observation"
+          },
+          {
+            "name": "REPORTING_TYPE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "National",
+                ""
+              ]
+            },
+            "title": "Reporting type"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

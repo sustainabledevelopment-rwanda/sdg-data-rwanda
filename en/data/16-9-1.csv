@@ -1,8 +1,8 @@
-Year,Sex,Value
-2015,,56.0
-2020,,85.6
-2022,,94.3
-2020,Male,85.8
-2022,Male,94.3
-2020,Female,85.4
-2022,Female,94.3
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
+2015,Normal value,Units,Not Available,Proportion of children under 5 years of age whose births have been registered with a civil authority,Annual,National,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,under 5 years old,Percent,,56.0
+2020,Normal value,Units,Not Available,Proportion of children under 5 years of age whose births have been registered with a civil authority,Annual,National,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,under 5 years old,Percent,,85.6
+2022,Normal value,Units,Not Available,Proportion of children under 5 years of age whose births have been registered with a civil authority,Annual,National,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,,under 5 years old,Percent,,94.3
+2020,Normal value,Units,Not Available,Proportion of children under 5 years of age whose births have been registered with a civil authority,Annual,National,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,under 5 years old,Percent,,85.8
+2022,Normal value,Units,Not Available,Proportion of children under 5 years of age whose births have been registered with a civil authority,Annual,National,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Male,under 5 years old,Percent,,94.3
+2020,Normal value,Units,Not Available,Proportion of children under 5 years of age whose births have been registered with a civil authority,Annual,National,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Female,under 5 years old,Percent,,85.4
+2022,Normal value,Units,Not Available,Proportion of children under 5 years of age whose births have been registered with a civil authority,Annual,National,Proportion of children under 5 years of age whose births have been registered with a civil authority [16.9.1],,Female,under 5 years old,Percent,,94.3

@@ -1,7 +1,7 @@
-Year,Value
-2005,5.0
-2010,10.0
-2012,18.6
-2015,23.0
-2020,46.0
-2022,61.0
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2005,A,0,_X,Proportion of population with access to electricity,A,N,EG_ACS_ELEC,,PT,,5.0
+2010,A,0,_X,Proportion of population with access to electricity,A,N,EG_ACS_ELEC,,PT,,10.0
+2012,A,0,_X,Proportion of population with access to electricity,A,N,EG_ACS_ELEC,,PT,,18.6
+2015,A,0,_X,Proportion of population with access to electricity,A,N,EG_ACS_ELEC,,PT,,23.0
+2020,A,0,_X,Proportion of population with access to electricity,A,N,EG_ACS_ELEC,,PT,,46.0
+2022,A,0,_X,Proportion of population with access to electricity,A,N,EG_ACS_ELEC,,PT,,61.0

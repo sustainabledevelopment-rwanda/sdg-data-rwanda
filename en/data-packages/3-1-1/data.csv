@@ -1,6 +1,6 @@
-Year,Value
-2000,1071
-2005,750
-2010,476
-2015,210
-2020,203
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2000,Normal value,Units,Not Available,Maternal mortality ratio,Annual,National,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,1071
+2005,Normal value,Units,Not Available,Maternal mortality ratio,Annual,National,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,750
+2010,Normal value,Units,Not Available,Maternal mortality ratio,Annual,National,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,476
+2015,Normal value,Units,Not Available,Maternal mortality ratio,Annual,National,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,210
+2020,Normal value,Units,Not Available,Maternal mortality ratio,Annual,National,Maternal mortality ratio [3.1.1],,"Per 100,000 live births",,203

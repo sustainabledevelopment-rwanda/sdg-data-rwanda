@@ -1,23 +1,23 @@
-Year,Sex,Value
-2016,,86.2
-2017,,84.6
-2018,,83.5
-2019,,83.5
-2021,,82.0
-2022,,84.1
-2023,,83.3
-2024,,85.5
-2017,Male,66.4
-2018,Male,66.3
-2019,Male,64.5
-2021,Male,66.3
-2022,Male,68.2
-2023,Male,65.2
-2024,Male,63.3
-2017,Female,33.6
-2018,Female,33.7
-2019,Female,35.5
-2021,Female,33.3
-2022,Female,33.8
-2023,Female,34.8
-2024,Female,36.7
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2016,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,,Percent,,86.2
+2017,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,,Percent,,84.6
+2018,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,,Percent,,83.5
+2019,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,,Percent,,83.5
+2021,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,,Percent,,82.0
+2022,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,,Percent,,84.1
+2023,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,,Percent,,83.3
+2024,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,,Percent,,85.5
+2017,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Male,Percent,,66.4
+2018,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Male,Percent,,66.3
+2019,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Male,Percent,,64.5
+2021,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Male,Percent,,66.3
+2022,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Male,Percent,,68.2
+2023,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Male,Percent,,65.2
+2024,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Male,Percent,,63.3
+2017,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Female,Percent,,33.6
+2018,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Female,Percent,,33.7
+2019,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Female,Percent,,35.5
+2021,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Female,Percent,,33.3
+2022,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Female,Percent,,33.8
+2023,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Female,Percent,,34.8
+2024,Normal value,Units,Not Available,Proportion of informal employment in non-agriculture employment,Annual,National,Proportion of informal employment in non-agriculture employment [8.3.1],,Female,Percent,,36.7

@@ -1,64 +1,64 @@
-Year,Occupation,Value
-2017,Managers,2365.2
-2018,Managers,2531.1
-2019,Managers,2285.5
-2020,Managers,2519.0
-2021,Managers,2346.0
-2022,Managers,2337.5
-2023,Managers,3496.3
-2017,Professionals,973.5
-2018,Professionals,982.1
-2019,Professionals,982.0
-2020,Professionals,1175.5
-2021,Professionals,960.2
-2022,Professionals,1097.4
-2023,Professionals,1226.4
-2017,Technicians and associate professionals,1517.1
-2018,Technicians and associate professionals,1290.7
-2019,Technicians and associate professionals,1389.9
-2020,Technicians and associate professionals,1653.7
-2021,Technicians and associate professionals,1469.3
-2022,Technicians and associate professionals,1288.9
-2023,Technicians and associate professionals,1725.8
-2017,Clerical support workers,941.3
-2018,Clerical support workers,935.8
-2019,Clerical support workers,890.3
-2020,Clerical support workers,923.9
-2021,Clerical support workers,855.1
-2022,Clerical support workers,949.2
-2023,Clerical support workers,968.8
-2017,Service and sales workers,366.9
-2018,Service and sales workers,325.3
-2019,Service and sales workers,339.6
-2020,Service and sales workers,372.2
-2021,Service and sales workers,399.9
-2022,Service and sales workers,429.7
-2023,Service and sales workers,421.9
-2017,"Skilled agricultural, forestry and fishery workers",297.5
-2018,"Skilled agricultural, forestry and fishery workers",206.0
-2019,"Skilled agricultural, forestry and fishery workers",293.8
-2020,"Skilled agricultural, forestry and fishery workers",733.2
-2021,"Skilled agricultural, forestry and fishery workers",289.0
-2022,"Skilled agricultural, forestry and fishery workers",353.0
-2023,"Skilled agricultural, forestry and fishery workers",342.5
-2017,Craft and related trades workers,524.3
-2018,Craft and related trades workers,497.2
-2019,Craft and related trades workers,546.0
-2020,Craft and related trades workers,524.8
-2021,Craft and related trades workers,629.2
-2022,Craft and related trades workers,656.1
-2023,Craft and related trades workers,755.9
-2017,"Plant and machine operators, and assemblers",543.8
-2018,"Plant and machine operators, and assemblers",590.8
-2019,"Plant and machine operators, and assemblers",598.9
-2020,"Plant and machine operators, and assemblers",558.7
-2021,"Plant and machine operators, and assemblers",622.4
-2022,"Plant and machine operators, and assemblers",769.5
-2023,"Plant and machine operators, and assemblers",780.9
-2017,Elementary occupations,162.3
-2018,Elementary occupations,163.1
-2019,Elementary occupations,165.6
-2020,Elementary occupations,195.8
-2021,Elementary occupations,196.0
-2022,Elementary occupations,211.9
-2023,Elementary occupations,252.5
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Occupation,UNIT_MEASURE,GeoCode,Value
+2017,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Managers,Number,,2365.2
+2018,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Managers,Number,,2531.1
+2019,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Managers,Number,,2285.5
+2020,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Managers,Number,,2519.0
+2021,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Managers,Number,,2346.0
+2022,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Managers,Number,,2337.5
+2023,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Managers,Number,,3496.3
+2017,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Professionals,Number,,973.5
+2018,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Professionals,Number,,982.1
+2019,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Professionals,Number,,982.0
+2020,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Professionals,Number,,1175.5
+2021,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Professionals,Number,,960.2
+2022,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Professionals,Number,,1097.4
+2023,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Professionals,Number,,1226.4
+2017,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Technicians and associate professionals,Number,,1517.1
+2018,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Technicians and associate professionals,Number,,1290.7
+2019,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Technicians and associate professionals,Number,,1389.9
+2020,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Technicians and associate professionals,Number,,1653.7
+2021,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Technicians and associate professionals,Number,,1469.3
+2022,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Technicians and associate professionals,Number,,1288.9
+2023,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Technicians and associate professionals,Number,,1725.8
+2017,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Clerical support workers,Number,,941.3
+2018,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Clerical support workers,Number,,935.8
+2019,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Clerical support workers,Number,,890.3
+2020,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Clerical support workers,Number,,923.9
+2021,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Clerical support workers,Number,,855.1
+2022,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Clerical support workers,Number,,949.2
+2023,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Clerical support workers,Number,,968.8
+2017,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Service and sales workers,Number,,366.9
+2018,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Service and sales workers,Number,,325.3
+2019,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Service and sales workers,Number,,339.6
+2020,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Service and sales workers,Number,,372.2
+2021,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Service and sales workers,Number,,399.9
+2022,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Service and sales workers,Number,,429.7
+2023,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Service and sales workers,Number,,421.9
+2017,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Skilled agricultural, forestry and fishery workers",Number,,297.5
+2018,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Skilled agricultural, forestry and fishery workers",Number,,206.0
+2019,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Skilled agricultural, forestry and fishery workers",Number,,293.8
+2020,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Skilled agricultural, forestry and fishery workers",Number,,733.2
+2021,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Skilled agricultural, forestry and fishery workers",Number,,289.0
+2022,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Skilled agricultural, forestry and fishery workers",Number,,353.0
+2023,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Skilled agricultural, forestry and fishery workers",Number,,342.5
+2017,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Craft and related trades workers,Number,,524.3
+2018,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Craft and related trades workers,Number,,497.2
+2019,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Craft and related trades workers,Number,,546.0
+2020,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Craft and related trades workers,Number,,524.8
+2021,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Craft and related trades workers,Number,,629.2
+2022,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Craft and related trades workers,Number,,656.1
+2023,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Craft and related trades workers,Number,,755.9
+2017,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Plant and machine operators, and assemblers",Number,,543.8
+2018,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Plant and machine operators, and assemblers",Number,,590.8
+2019,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Plant and machine operators, and assemblers",Number,,598.9
+2020,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Plant and machine operators, and assemblers",Number,,558.7
+2021,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Plant and machine operators, and assemblers",Number,,622.4
+2022,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Plant and machine operators, and assemblers",Number,,769.5
+2023,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,"Plant and machine operators, and assemblers",Number,,780.9
+2017,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Elementary occupations,Number,,162.3
+2018,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Elementary occupations,Number,,163.1
+2019,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Elementary occupations,Number,,165.6
+2020,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Elementary occupations,Number,,195.8
+2021,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Elementary occupations,Number,,196.0
+2022,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Elementary occupations,Number,,211.9
+2023,Normal value,Units,Not Available,Average hourly earnings,Annual,National,Average hourly earnings [8.5.1],,Elementary occupations,Number,,252.5

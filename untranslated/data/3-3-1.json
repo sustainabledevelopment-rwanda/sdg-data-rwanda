@@ -1,1 +1,1 @@
-{"Year":[2013,2018],"Value":[2.7,0.1]}
+{"Year":[2013,2018],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"NATURE":["_X","_X"],"COMMENT_OBS":["Number of new HIV infections per 1,000 uninfected population","Number of new HIV infections per 1,000 uninfected population"],"FREQ":["A","A"],"REPORTING_TYPE":["N","N"],"SERIES":["SH_HIV_INCD","SH_HIV_INCD"],"REF_AREA":[null,null],"UNIT_MEASURE":["PER_1000_UNINFECTED_POP","PER_1000_UNINFECTED_POP"],"GeoCode":[null,null],"Value":[2.7,0.1]}

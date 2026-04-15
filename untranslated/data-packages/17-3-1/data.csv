@@ -1,5 +1,5 @@
-Year,Value
-2016,4.0
-2017,4.1
-2020,3.3
-2021,3.7
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2016,A,0,_X,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",A,N,GF_FRN_FDIODASS,,PT,,4.0
+2017,A,0,_X,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",A,N,GF_FRN_FDIODASS,,PT,,4.1
+2020,A,0,_X,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",A,N,GF_FRN_FDIODASS,,PT,,3.3
+2021,A,0,_X,"Foreign direct investment (FDI), official development assistance and South-South cooperation as a proportion of total domestic budget",A,N,GF_FRN_FDIODASS,,PT,,3.7

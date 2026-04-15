@@ -1,1 +1,1 @@
-{"Year":[2018,2020],"Value":[50,66]}
+{"Year":[2018,2020],"OBS_STATUS":["A","A"],"UNIT_MULT":["0","0"],"NATURE":["_X","_X"],"COMMENT_OBS":["Degree of integrated water resources management implementation","Degree of integrated water resources management implementation"],"FREQ":["A","A"],"REPORTING_TYPE":["N","N"],"SERIES":["ER_H2O_IWRMD","ER_H2O_IWRMD"],"REF_AREA":[null,null],"UNIT_MEASURE":["PT","PT"],"GeoCode":[null,null],"Value":[50,66]}

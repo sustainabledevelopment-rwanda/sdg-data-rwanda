@@ -1,6 +1,6 @@
-Year,Value
-2000,77.2
-2005,68.3
-2011,62.3
-2014,56.8
-2017,52.0
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2000,A,0,_X,Proportion of population below international poverty line,A,N,SI_POV_DAY1,,PT,,77.2
+2005,A,0,_X,Proportion of population below international poverty line,A,N,SI_POV_DAY1,,PT,,68.3
+2011,A,0,_X,Proportion of population below international poverty line,A,N,SI_POV_DAY1,,PT,,62.3
+2014,A,0,_X,Proportion of population below international poverty line,A,N,SI_POV_DAY1,,PT,,56.8
+2017,A,0,_X,Proportion of population below international poverty line,A,N,SI_POV_DAY1,,PT,,52.0

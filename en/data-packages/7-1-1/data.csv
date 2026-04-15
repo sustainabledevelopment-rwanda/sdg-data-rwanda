@@ -1,7 +1,7 @@
-Year,Value
-2005,5.0
-2010,10.0
-2012,18.6
-2015,23.0
-2020,46.0
-2022,61.0
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2005,Normal value,Units,Not Available,Proportion of population with access to electricity,Annual,National,Proportion of population with access to electricity [7.1.1],,Percent,,5.0
+2010,Normal value,Units,Not Available,Proportion of population with access to electricity,Annual,National,Proportion of population with access to electricity [7.1.1],,Percent,,10.0
+2012,Normal value,Units,Not Available,Proportion of population with access to electricity,Annual,National,Proportion of population with access to electricity [7.1.1],,Percent,,18.6
+2015,Normal value,Units,Not Available,Proportion of population with access to electricity,Annual,National,Proportion of population with access to electricity [7.1.1],,Percent,,23.0
+2020,Normal value,Units,Not Available,Proportion of population with access to electricity,Annual,National,Proportion of population with access to electricity [7.1.1],,Percent,,46.0
+2022,Normal value,Units,Not Available,Proportion of population with access to electricity,Annual,National,Proportion of population with access to electricity [7.1.1],,Percent,,61.0

@@ -1,5 +1,5 @@
-Year,Value
-2018,3.4
-2019,4.9
-2020,1.3
-2024,4.3
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2018,A,0,_X,Tourism direct GDP as a proportion of total GDP,A,N,ST_GDP_ZS,,PT,,3.4
+2019,A,0,_X,Tourism direct GDP as a proportion of total GDP,A,N,ST_GDP_ZS,,PT,,4.9
+2020,A,0,_X,Tourism direct GDP as a proportion of total GDP,A,N,ST_GDP_ZS,,PT,,1.3
+2024,A,0,_X,Tourism direct GDP as a proportion of total GDP,A,N,ST_GDP_ZS,,PT,,4.3

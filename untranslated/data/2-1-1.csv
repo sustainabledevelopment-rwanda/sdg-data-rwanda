@@ -1,7 +1,7 @@
-Year,Value
-2017,33
-2018,32
-2019,34
-2020,32
-2021,32
-2022,29
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2017,A,0,_X,Percentage of food insecure households,A,N,SN_ITK_DEFC,,PT,,33
+2018,A,0,_X,Percentage of food insecure households,A,N,SN_ITK_DEFC,,PT,,32
+2019,A,0,_X,Percentage of food insecure households,A,N,SN_ITK_DEFC,,PT,,34
+2020,A,0,_X,Percentage of food insecure households,A,N,SN_ITK_DEFC,,PT,,32
+2021,A,0,_X,Percentage of food insecure households,A,N,SN_ITK_DEFC,,PT,,32
+2022,A,0,_X,Percentage of food insecure households,A,N,SN_ITK_DEFC,,PT,,29

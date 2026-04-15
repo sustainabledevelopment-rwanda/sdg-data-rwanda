@@ -1,9 +1,9 @@
-Year,COMMENT_OBS,Series,Value
-2015,Proportion of total government spending on health,SG_XPD_HLTH,204024372542
-2017,Proportion of total government spending on health,SG_XPD_HLTH,197351473973
-2022,Proportion of total government spending on health,SG_XPD_HLTH,279077734548
-2015,Proportion of total government spending on social protection,SG_XPD_PROT,74731877174
-2017,Proportion of total government spending on social protection,SG_XPD_PROT,91075669292
-2015,"Proportion of total government spending on essential services, education",SD_XPD_ESED,220651941795
-2017,"Proportion of total government spending on essential services, education",SD_XPD_ESED,240486878694
-2022,"Proportion of total government spending on essential services, education",SD_XPD_ESED,135710808032
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2015,A,0,_X,Proportion of total government spending on health,A,N,SG_XPD_HLTH,,NUMBER,,204024372542
+2017,A,0,_X,Proportion of total government spending on health,A,N,SG_XPD_HLTH,,NUMBER,,197351473973
+2022,A,0,_X,Proportion of total government spending on health,A,N,SG_XPD_HLTH,,NUMBER,,279077734548
+2015,A,0,_X,Proportion of total government spending on social protection,A,N,SG_XPD_PROT,,NUMBER,,74731877174
+2017,A,0,_X,Proportion of total government spending on social protection,A,N,SG_XPD_PROT,,NUMBER,,91075669292
+2015,A,0,_X,"Proportion of total government spending on essential services, education",A,N,SD_XPD_ESED,,NUMBER,,220651941795
+2017,A,0,_X,"Proportion of total government spending on essential services, education",A,N,SD_XPD_ESED,,NUMBER,,240486878694
+2022,A,0,_X,"Proportion of total government spending on essential services, education",A,N,SD_XPD_ESED,,NUMBER,,135710808032

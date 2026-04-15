@@ -1,4 +1,4 @@
-Year,Sex,Value
-2019,,38.2
-2019,Male,31.6
-2019,Female,34.8
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2019,Normal value,Units,Not Available,Proportion of population living in households with access to basic services,Annual,National,Proportion of population living in households with access to basic services [1.4.1],,,Percent,,38.2
+2019,Normal value,Units,Not Available,Proportion of population living in households with access to basic services,Annual,National,Proportion of population living in households with access to basic services [1.4.1],,Male,Percent,,31.6
+2019,Normal value,Units,Not Available,Proportion of population living in households with access to basic services,Annual,National,Proportion of population living in households with access to basic services [1.4.1],,Female,Percent,,34.8

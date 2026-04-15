@@ -1,8 +1,8 @@
-Year,SEX,Value
-2015,,56.0
-2020,,85.6
-2022,,94.3
-2020,M,85.8
-2022,M,94.3
-2020,F,85.4
-2022,F,94.3
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
+2015,A,0,_X,Proportion of children under 5 years of age whose births have been registered with a civil authority,A,N,SG_REG_BRTH,,,Y0T4,PT,,56.0
+2020,A,0,_X,Proportion of children under 5 years of age whose births have been registered with a civil authority,A,N,SG_REG_BRTH,,,Y0T4,PT,,85.6
+2022,A,0,_X,Proportion of children under 5 years of age whose births have been registered with a civil authority,A,N,SG_REG_BRTH,,,Y0T4,PT,,94.3
+2020,A,0,_X,Proportion of children under 5 years of age whose births have been registered with a civil authority,A,N,SG_REG_BRTH,,M,Y0T4,PT,,85.8
+2022,A,0,_X,Proportion of children under 5 years of age whose births have been registered with a civil authority,A,N,SG_REG_BRTH,,M,Y0T4,PT,,94.3
+2020,A,0,_X,Proportion of children under 5 years of age whose births have been registered with a civil authority,A,N,SG_REG_BRTH,,F,Y0T4,PT,,85.4
+2022,A,0,_X,Proportion of children under 5 years of age whose births have been registered with a civil authority,A,N,SG_REG_BRTH,,F,Y0T4,PT,,94.3

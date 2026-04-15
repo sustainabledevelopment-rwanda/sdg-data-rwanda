@@ -1,2 +1,2 @@
-Year,Value
-2018,86
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2018,A,0,_X,Proportion of transboundary basins (river and lake basins and aquifers) with an operational arrangement for water cooperation,A,N,EG_TBA_H2CO,,PT,,86

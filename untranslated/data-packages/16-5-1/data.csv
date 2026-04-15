@@ -1,11 +1,11 @@
-Year,Value
-2015,17.5
-2016,24.4
-2017,23.9
-2018,20.4
-2019,18.5
-2020,19.2
-2021,22.9
-2022,29.1
-2023,23.5
-2024,13.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2015,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,17.5
+2016,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,24.4
+2017,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,23.9
+2018,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,20.4
+2019,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,18.5
+2020,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,19.2
+2021,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,22.9
+2022,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,29.1
+2023,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,23.5
+2024,A,0,_X,Percentage  of citizens who have encountered corruption while interacting with service providers,A,N,_L_RW_160501_1,,PT,,13.2

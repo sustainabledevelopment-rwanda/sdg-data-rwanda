@@ -1,8 +1,8 @@
-Year,Value
-2008,98
-2012,86
-2015,56
-2017,50
-2018,58
-2020,58
-2022,57
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2008,Normal value,Units,Not Available,Tuberculosis incidence,Annual,National,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,98
+2012,Normal value,Units,Not Available,Tuberculosis incidence,Annual,National,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,86
+2015,Normal value,Units,Not Available,Tuberculosis incidence,Annual,National,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,56
+2017,Normal value,Units,Not Available,Tuberculosis incidence,Annual,National,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,50
+2018,Normal value,Units,Not Available,Tuberculosis incidence,Annual,National,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,58
+2020,Normal value,Units,Not Available,Tuberculosis incidence,Annual,National,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,58
+2022,Normal value,Units,Not Available,Tuberculosis incidence,Annual,National,Tuberculosis incidence [3.3.2],,"Per 100,000 population",,57

@@ -1,5 +1,5 @@
-Year,Value
-2019,0.3
-2021,0.1
-2022,0.1
-2023,0.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2019,A,0,_X,Reason for stopping last employment/ Physical and social harassment,A,N,VC_VOV_GDSD,,PT,,0.3
+2021,A,0,_X,Reason for stopping last employment/ Physical and social harassment,A,N,VC_VOV_GDSD,,PT,,0.1
+2022,A,0,_X,Reason for stopping last employment/ Physical and social harassment,A,N,VC_VOV_GDSD,,PT,,0.1
+2023,A,0,_X,Reason for stopping last employment/ Physical and social harassment,A,N,VC_VOV_GDSD,,PT,,0.2

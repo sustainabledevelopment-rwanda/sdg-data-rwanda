@@ -1,9 +1,9 @@
-Year,SEX,AGE,Value
-2005,,,51.0
-2010,,,44.0
-2015,,,37.9
-2020,,,33.1
-2015,M,Y0T4,42.7
-2020,M,Y0T4,37.0
-2015,F,Y0T4,32.9
-2020,F,Y0T4,29.2
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,AGE,UNIT_MEASURE,GeoCode,Value
+2005,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,,,PT,,51.0
+2010,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,,,PT,,44.0
+2015,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,,,PT,,37.9
+2020,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,,,PT,,33.1
+2015,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,M,Y0T4,PT,,42.7
+2020,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,M,Y0T4,PT,,37.0
+2015,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,F,Y0T4,PT,,32.9
+2020,A,0,_X,Proportion of children moderately or severely stunted,A,N,SH_STA_STNT,,F,Y0T4,PT,,29.2

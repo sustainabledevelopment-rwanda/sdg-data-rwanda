@@ -1,10 +1,10 @@
-Year,Value
-2014,4.6
-2015,4.2
-2016,4.6
-2017,3.0
-2018,4.0
-2019,9.0
-2020,5.0
-2021,34.0
-2022,6.8
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2014,A,0,_X,External Debt in nominal terms,A,N,_L_RW_170401_1,,PT,,4.6
+2015,A,0,_X,External Debt in nominal terms,A,N,_L_RW_170401_1,,PT,,4.2
+2016,A,0,_X,External Debt in nominal terms,A,N,_L_RW_170401_1,,PT,,4.6
+2017,A,0,_X,External Debt in nominal terms,A,N,_L_RW_170401_1,,PT,,3.0
+2018,A,0,_X,External Debt in nominal terms,A,N,_L_RW_170401_1,,PT,,4.0
+2019,A,0,_X,External Debt in nominal terms,A,N,_L_RW_170401_1,,PT,,9.0
+2020,A,0,_X,External Debt in nominal terms,A,N,_L_RW_170401_1,,PT,,5.0
+2021,A,0,_X,External Debt in nominal terms,A,N,_L_RW_170401_1,,PT,,34.0
+2022,A,0,_X,External Debt in nominal terms,A,N,_L_RW_170401_1,,PT,,6.8

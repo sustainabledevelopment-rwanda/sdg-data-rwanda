@@ -1,4 +1,7 @@
 From,To
-Observation-level footnotes,Age
-Observation-level footnotes,Degree of urbanisation
-Observation-level footnotes,Education level
+Nature of data points,Observation-level footnotes
+Observation-level footnotes,Frequency of observation
+Frequency of observation,Reporting type
+Reporting type,Age
+Reporting type,Degree of urbanisation
+Reporting type,Education level

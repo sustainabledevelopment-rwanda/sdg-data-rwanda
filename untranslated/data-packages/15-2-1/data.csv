@@ -1,4 +1,4 @@
-Year,Value
-2016,14.1
-2019,33.0
-2022,38.5
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2016,A,0,_X,Forests allocated private operators for management,A,N,AG_LND_FRSTBIOM,,PT,,14.1
+2019,A,0,_X,Forests allocated private operators for management,A,N,AG_LND_FRSTBIOM,,PT,,33.0
+2022,A,0,_X,Forests allocated private operators for management,A,N,AG_LND_FRSTBIOM,,PT,,38.5

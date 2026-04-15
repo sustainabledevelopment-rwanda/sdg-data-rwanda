@@ -1,16 +1,16 @@
-Year,SEX,Value
-2017,,47.0
-2018,,52.6
-2019,,57.1
-2017,M,46.8
-2018,M,46.8
-2019,M,52.0
-2020,M,56.4
-2021,M,71.1
-2022,M,83.4
-2017,F,47.4
-2018,F,47.4
-2019,F,53.1
-2020,F,57.9
-2021,F,73.3
-2022,F,85.4
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,EDUCATION_LEV,UNIT_MEASURE,GeoCode,Value
+2017,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,,ISCED97_0,PT,,47.0
+2018,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,,ISCED97_0,PT,,52.6
+2019,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,,ISCED97_0,PT,,57.1
+2017,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,M,ISCED97_0,PT,,46.8
+2018,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,M,ISCED97_0,PT,,46.8
+2019,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,M,ISCED97_0,PT,,52.0
+2020,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,M,ISCED97_0,PT,,56.4
+2021,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,M,ISCED97_0,PT,,71.1
+2022,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,M,ISCED97_0,PT,,83.4
+2017,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,F,ISCED97_0,PT,,47.4
+2018,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,F,ISCED97_0,PT,,47.4
+2019,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,F,ISCED97_0,PT,,53.1
+2020,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,F,ISCED97_0,PT,,57.9
+2021,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,F,ISCED97_0,PT,,73.3
+2022,A,0,_X,Participation rate in organized learning (one year before the official primary entry age),A,N,SE_PRE_PARTN,,F,ISCED97_0,PT,,85.4

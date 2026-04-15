@@ -1,4 +1,4 @@
-Year,Value
-2017,4.0
-2019,4.0
-2022,0.2
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Normal value,Units,Not Available,Remittance costs as a proportion of the amount remitted,Annual,National,Remittance costs as a proportion of the amount remitted [10.c.1],,Percent,,4.0
+2019,Normal value,Units,Not Available,Remittance costs as a proportion of the amount remitted,Annual,National,Remittance costs as a proportion of the amount remitted [10.c.1],,Percent,,4.0
+2022,Normal value,Units,Not Available,Remittance costs as a proportion of the amount remitted,Annual,National,Remittance costs as a proportion of the amount remitted [10.c.1],,Percent,,0.2

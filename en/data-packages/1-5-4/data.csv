@@ -1,8 +1,8 @@
-Year,Value
-2017,77.3
-2018,96.7
-2019,100.0
-2020,100.0
-2021,100.0
-2022,100.0
-2023,100.0
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Normal value,Units,Not Available,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Annual,National,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4],,Percent,,77.3
+2018,Normal value,Units,Not Available,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Annual,National,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4],,Percent,,96.7
+2019,Normal value,Units,Not Available,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Annual,National,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4],,Percent,,100.0
+2020,Normal value,Units,Not Available,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Annual,National,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4],,Percent,,100.0
+2021,Normal value,Units,Not Available,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Annual,National,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4],,Percent,,100.0
+2022,Normal value,Units,Not Available,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Annual,National,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4],,Percent,,100.0
+2023,Normal value,Units,Not Available,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies,Annual,National,Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4],,Percent,,100.0

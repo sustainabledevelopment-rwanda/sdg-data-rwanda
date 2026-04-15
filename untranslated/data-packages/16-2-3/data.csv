@@ -1,5 +1,5 @@
-Year,SEX,Value
-2023,M,5.3
-2024,M,5.1
-2023,F,11.8
-2024,F,10.8
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
+2023,A,0,_X,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,A,N,VC_VAW_SXVLN,,M,PT,,5.3
+2024,A,0,_X,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,A,N,VC_VAW_SXVLN,,M,PT,,5.1
+2023,A,0,_X,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,A,N,VC_VAW_SXVLN,,F,PT,,11.8
+2024,A,0,_X,Proportion of young women and men aged 18–29 years who experienced sexual violence by age 18,A,N,VC_VAW_SXVLN,,F,PT,,10.8

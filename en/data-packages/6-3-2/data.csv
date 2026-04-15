@@ -1,4 +1,4 @@
-Year,Value
-2017,79
-2018,15
-2020,79
+Year,Observation status,Unit multiplier,Nature of data points,Observation-level footnotes,Frequency of observation,Reporting type,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
+2017,Normal value,Units,Not Available,Proportion of bodies of water with good ambient water quality,Annual,National,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,79
+2018,Normal value,Units,Not Available,Proportion of bodies of water with good ambient water quality,Annual,National,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,15
+2020,Normal value,Units,Not Available,Proportion of bodies of water with good ambient water quality,Annual,National,Proportion of bodies of water with good ambient water quality [6.3.2],,Percent,,79

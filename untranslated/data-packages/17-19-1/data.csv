@@ -1,11 +1,11 @@
-Year,Value
-2011,7956736.0
-2012,10418880.0
-2013,5102809.0
-2014,408926.0
-2015,5094083.0
-2016,6574017.0
-2017,8400241.4
-2018,7426903.8
-2019,5200425.3
-2020,520447.0
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2011,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,7956736.0
+2012,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,10418880.0
+2013,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,5102809.0
+2014,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,408926.0
+2015,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,5094083.0
+2016,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,6574017.0
+2017,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,8400241.4
+2018,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,7426903.8
+2019,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,5200425.3
+2020,A,0,_X,Dollar value of all resources made available to strengthen statistical capacity in developing countries (current United States dollars),A,N,SG_STT_CAPTY,,USD,,520447.0

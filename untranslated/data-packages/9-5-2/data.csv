@@ -1,6 +1,6 @@
-Year,Value
-2008,10.9
-2009,12.6
-2013,15.5
-2016,13.9
-2019,58.8
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2008,A,0,_X,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",A,N,GB_POP_SCIERD,,PER_1000000_POP,,10.9
+2009,A,0,_X,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",A,N,GB_POP_SCIERD,,PER_1000000_POP,,12.6
+2013,A,0,_X,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",A,N,GB_POP_SCIERD,,PER_1000000_POP,,15.5
+2016,A,0,_X,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",A,N,GB_POP_SCIERD,,PER_1000000_POP,,13.9
+2019,A,0,_X,"Researchers (in full-time equivalent) per million inhabitants (per 1,000,000 population)",A,N,GB_POP_SCIERD,,PER_1000000_POP,,58.8

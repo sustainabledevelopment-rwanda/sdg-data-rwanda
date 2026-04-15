@@ -1,4 +1,4 @@
-Year,COMMENT_OBS,Series,SEX,Value
-2019,Only Women own agriculture,_L_RW_050A01_1,F,25
-2019,Only Men own agriculture,_L_RW_050A01_1,M,13
-2019,Both male and female for married couples own agriculture,_L_RW_050A01_2,,62
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,SEX,UNIT_MEASURE,GeoCode,Value
+2019,A,0,_X,Only Women own agriculture,A,N,_L_RW_050A01_1,,F,PT,,25
+2019,A,0,_X,Only Men own agriculture,A,N,_L_RW_050A01_1,,M,PT,,13
+2019,A,0,_X,Both male and female for married couples own agriculture,A,N,_L_RW_050A01_2,,,PT,,62

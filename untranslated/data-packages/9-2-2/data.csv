@@ -1,9 +1,9 @@
-Year,Value
-2017,5.3
-2018,6.4
-2019,6.4
-2020,5.8
-2021,4.8
-2022,5.3
-2023,5.5
-2024,5.7
+Year,OBS_STATUS,UNIT_MULT,NATURE,COMMENT_OBS,FREQ,REPORTING_TYPE,SERIES,REF_AREA,UNIT_MEASURE,GeoCode,Value
+2017,A,0,_X,Manufacturing employment as a proportion of total employment,A,N,SL_TLF_MANF,,PT,,5.3
+2018,A,0,_X,Manufacturing employment as a proportion of total employment,A,N,SL_TLF_MANF,,PT,,6.4
+2019,A,0,_X,Manufacturing employment as a proportion of total employment,A,N,SL_TLF_MANF,,PT,,6.4
+2020,A,0,_X,Manufacturing employment as a proportion of total employment,A,N,SL_TLF_MANF,,PT,,5.8
+2021,A,0,_X,Manufacturing employment as a proportion of total employment,A,N,SL_TLF_MANF,,PT,,4.8
+2022,A,0,_X,Manufacturing employment as a proportion of total employment,A,N,SL_TLF_MANF,,PT,,5.3
+2023,A,0,_X,Manufacturing employment as a proportion of total employment,A,N,SL_TLF_MANF,,PT,,5.5
+2024,A,0,_X,Manufacturing employment as a proportion of total employment,A,N,SL_TLF_MANF,,PT,,5.7
