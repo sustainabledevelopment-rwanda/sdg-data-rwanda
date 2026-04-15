@@ -46,7 +46,6 @@ inputs:
       - SOURCE_DETAIL
     dsd: 'RWA_2025_SDG DSD.xml'
     import_translation_keys: true
-    import_codes: true
     drop_singleton_dimensions: false
     import_codes: true
     import_series_attributes: true
