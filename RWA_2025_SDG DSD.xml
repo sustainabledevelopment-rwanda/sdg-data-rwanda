@@ -9404,7 +9404,7 @@
           <common:Name xml:lang="en">Exports goods and services in Million USD</common:Name>
           <common:Description xml:lang="en">Exports goods and services in Million USD</common:Description>
         </structure:Code>
-        <structure:Code id="MD_NY_GDP_PCAP">
+        <structure:Code id="BN_CAB_XOKA_GD_ZS">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -9419,7 +9419,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Annual growth rate of real GDP per capita</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Current account balance as a percentage of GDP</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -9429,10 +9429,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Annual growth rate of real GDP per capita [17.13.1]</common:Name>
-          <common:Description xml:lang="en">Annual growth rate of real GDP per capita [17.13.1]</common:Description>
+          <common:Name xml:lang="en">Current account balance as a percentage of GDP [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Current account balance as a percentage of GDP [17.13.1]</common:Description>
         </structure:Code>
-        <structure:Code id="MD_SL_TLF_UEM">
+        <structure:Code id="BN_KLT_PTXL_CD">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -9447,7 +9447,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Unemployment rate</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Portfolio investment, net (Balance of Payments, million USD)</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -9457,10 +9457,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Unemployment rate [17.13.1]</common:Name>
-          <common:Description xml:lang="en">Unemployment rate [17.13.1]</common:Description>
+          <common:Name xml:lang="en">Portfolio investment, net (Balance of Payments, million USD) [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Portfolio investment, net (Balance of Payments, million USD) [17.13.1]</common:Description>
         </structure:Code>
-        <structure:Code id="MD_CPI">
+        <structure:Code id="BX_KLT_DINV_WD_GD_ZS">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -9475,7 +9475,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Consumer Price Index (CPI), annual at February</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Foreign direct investment as a percentage of GDP</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -9485,8 +9485,456 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Consumer Price Index (CPI), annual at February [17.13.1]</common:Name>
-          <common:Description xml:lang="en">Consumer Price Index (CPI), annual at February [17.13.1]</common:Description>
+          <common:Name xml:lang="en">Foreign direct investment as a percentage of GDP [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Foreign direct investment as a percentage of GDP [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="DP_DOD_DLD2_CR_CG_Z1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Gross public sector debt, Central Government, as a percentage of GDP</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="DT_DOD_DECT_GN_ZS">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">External debt stocks as a percentage of GDP</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">External debt stocks as a percentage of GDP [17.13.1]</common:Name>
+          <common:Description xml:lang="en">External debt stocks as a percentage of GDP [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="FB_BNK_CAPA_ZS">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Bank capital adequacy ratio</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Bank capital adequacy ratio [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Bank capital adequacy ratio [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="FI_RES_TOTL_MO">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Gross official reserves in months of next year's imports (ratio)</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gross official reserves in months of next year's imports (ratio) [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Gross official reserves in months of next year's imports (ratio) [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="FM_LBL_BMNY_ZG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual broad money growth</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual broad money growth [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual broad money growth [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="FP_CPI_TOTL_ZG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual inflation, CPI period average percentage change</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual inflation, CPI period average percentage change [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual inflation, CPI period average percentage change [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="GC_BAL_CASH_GD_ZS">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Fiscal deficit (including grants) as a percentage of GDP</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Fiscal deficit (including grants) as a percentage of GDP [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Fiscal deficit (including grants) as a percentage of GDP [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="GC_TAX_TOTL_GD_ZS">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Tax revenue as a percentage of GDP</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Tax revenue as a percentage of GDP [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Tax revenue as a percentage of GDP [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="NE_CON_GOVT_KD_ZG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual growth of the general government final consumption expenditure</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual growth of the general government final consumption expenditure [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual growth of the general government final consumption expenditure [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="NE_CON_PRVT_KD_ZG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual growth of households and NGOs final consumption expenditure</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual growth of households and NGOs final consumption expenditure [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual growth of households and NGOs final consumption expenditure [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="NE_GDI_TOTL_KD_ZG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual growth of the gross capital formation</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual growth of the gross capital formation [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual growth of the gross capital formation [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="NE_EXP_GNFS_KD_ZG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual growth of exports of goods and services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual growth of exports of goods and services [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual growth of exports of goods and services [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="NE_IMP_GNFS_KD_ZG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual growth of imports of goods and services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual growth of imports of goods and services [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual growth of imports of goods and services [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="NY_GDP_MKTP_KD_ZG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual GDP growth</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual GDP growth [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual GDP growth [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="PA_NUS_ATLS">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Annual average national currency per United States dollar</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Annual average national currency per United States dollar [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Annual average national currency per United States dollar [17.13.1]</common:Description>
+        </structure:Code>
+        <structure:Code id="TG_VAL_TOTL_GD_ZS">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">17.13.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C171301</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Total trade in goods and services as a percentage of GDP</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">5490</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Total trade in goods and services as a percentage of GDP [17.13.1]</common:Name>
+          <common:Description xml:lang="en">Total trade in goods and services as a percentage of GDP [17.13.1]</common:Description>
         </structure:Code>
         <structure:Code id="SD_SDG_AVLB">
           <common:Annotations>
