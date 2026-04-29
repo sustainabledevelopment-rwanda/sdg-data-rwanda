@@ -1,44 +1,334 @@
 Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2003,Annual growth rate of real GDP per capita [17.13.1],,Percent,,5.7
-2004,Annual growth rate of real GDP per capita [17.13.1],,Percent,,10.4
-2005,Annual growth rate of real GDP per capita [17.13.1],,Percent,,-0.3
-2006,Annual growth rate of real GDP per capita [17.13.1],,Percent,,3.7
-2007,Annual growth rate of real GDP per capita [17.13.1],,Percent,,6.9
-2008,Annual growth rate of real GDP per capita [17.13.1],,Percent,,6.8
-2009,Annual growth rate of real GDP per capita [17.13.1],,Percent,,5.3
-2010,Annual growth rate of real GDP per capita [17.13.1],,Percent,,7.6
-2011,Annual growth rate of real GDP per capita [17.13.1],,Percent,,4.1
-2012,Annual growth rate of real GDP per capita [17.13.1],,Percent,,4.1
-2013,Annual growth rate of real GDP per capita [17.13.1],,Percent,,5.8
-2014,Annual growth rate of real GDP per capita [17.13.1],,Percent,,5.5
-2015,Annual growth rate of real GDP per capita [17.13.1],,Percent,,2.8
-2016,Annual growth rate of real GDP per capita [17.13.1],,Percent,,3.3
-2017,Annual growth rate of real GDP per capita [17.13.1],,Percent,,1.3
-2018,Annual growth rate of real GDP per capita [17.13.1],,Percent,,5.8
-2019,Annual growth rate of real GDP per capita [17.13.1],,Percent,,6.8
-2020,Annual growth rate of real GDP per capita [17.13.1],,Percent,,-5.7
-2021,Annual growth rate of real GDP per capita [17.13.1],,Percent,,8.3
-2022,Annual growth rate of real GDP per capita [17.13.1],,Percent,,5.7
-2023,Annual growth rate of real GDP per capita [17.13.1],,Percent,,5.9
-2024,Annual growth rate of real GDP per capita [17.13.1],,Percent,,6.5
-2017,Unemployment rate [17.13.1],,Percent,,17.3
-2018,Unemployment rate [17.13.1],,Percent,,15.1
-2019,Unemployment rate [17.13.1],,Percent,,15.2
-2020,Unemployment rate [17.13.1],,Percent,,17.9
-2021,Unemployment rate [17.13.1],,Percent,,20.9
-2022,Unemployment rate [17.13.1],,Percent,,20.5
-2023,Unemployment rate [17.13.1],,Percent,,17.2
-2024,Unemployment rate [17.13.1],,Percent,,14.9
-2012,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,88.3
-2013,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,95.4
-2014,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,100.0
-2015,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,100.2
-2016,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,106.4
-2017,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,120.6
-2018,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,119.1
-2019,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,118.5
-2020,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,134.5
-2021,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,137.5
-2022,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,143.3
-2023,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,186.7
-2024,"Consumer Price Index (CPI), annual at February [17.13.1]",,Number,,192.6
+2011,Current account balance as a percentage of GDP [17.13.1],,Percent,,-6.9
+2012,Current account balance as a percentage of GDP [17.13.1],,Percent,,-9.7
+2013,Current account balance as a percentage of GDP [17.13.1],,Percent,,-7.5
+2014,Current account balance as a percentage of GDP [17.13.1],,Percent,,-11.3
+2015,Current account balance as a percentage of GDP [17.13.1],,Percent,,-12.6
+2016,Current account balance as a percentage of GDP [17.13.1],,Percent,,-15.2
+2017,Current account balance as a percentage of GDP [17.13.1],,Percent,,-9.5
+2018,Current account balance as a percentage of GDP [17.13.1],,Percent,,-10.1
+2019,Current account balance as a percentage of GDP [17.13.1],,Percent,,-11.9
+2020,Current account balance as a percentage of GDP [17.13.1],,Percent,,-12.1
+2021,Current account balance as a percentage of GDP [17.13.1],,Percent,,-11.2
+2022,Current account balance as a percentage of GDP [17.13.1],,Percent,,-9.4
+2023,Current account balance as a percentage of GDP [17.13.1],,Percent,,-11.7
+2024,Current account balance as a percentage of GDP [17.13.1],,Percent,,-11.6
+2014,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,-1.0
+2015,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,-7.9
+2016,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,-4.9
+2017,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,74.1
+2018,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,14.8
+2019,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,30.4
+2020,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,-36.7
+2021,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,-277.2
+2022,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,56.9
+2023,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,66.0
+2024,"Portfolio investment, net (Balance of Payments, million USD) [17.13.1]",,USD,,20.6
+2011,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,1.6
+2012,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,3.5
+2013,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,3.0
+2014,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,3.8
+2015,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,1.9
+2016,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,3.2
+2017,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,3.0
+2018,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,3.8
+2019,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,2.5
+2020,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,1.5
+2021,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,2.1
+2022,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,2.3
+2023,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,3.2
+2024,Foreign direct investment as a percentage of GDP [17.13.1],,Percent,,4.0
+2011,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,18.8
+2012,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,19.5
+2013,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,26.8
+2014,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,28.7
+2015,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,33.3
+2016,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,37.7
+2017,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,41.8
+2018,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,45.7
+2019,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,50.8
+2020,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,67.2
+2021,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,69.0
+2022,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,64.1
+2023,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,70.0
+2024,"Gross public sector debt, Central Government, as a percentage of GDP [17.13.1]",,Percent,,75.8
+2011,External debt stocks as a percentage of GDP [17.13.1],,Percent,,17.3
+2012,External debt stocks as a percentage of GDP [17.13.1],,Percent,,18.5
+2013,External debt stocks as a percentage of GDP [17.13.1],,Percent,,24.8
+2014,External debt stocks as a percentage of GDP [17.13.1],,Percent,,25.6
+2015,External debt stocks as a percentage of GDP [17.13.1],,Percent,,28.3
+2016,External debt stocks as a percentage of GDP [17.13.1],,Percent,,48.1
+2017,External debt stocks as a percentage of GDP [17.13.1],,Percent,,50.9
+2018,External debt stocks as a percentage of GDP [17.13.1],,Percent,,55.4
+2019,External debt stocks as a percentage of GDP [17.13.1],,Percent,,59.7
+2020,External debt stocks as a percentage of GDP [17.13.1],,Percent,,75.0
+2021,External debt stocks as a percentage of GDP [17.13.1],,Percent,,76.3
+2022,External debt stocks as a percentage of GDP [17.13.1],,Percent,,68.0
+2023,External debt stocks as a percentage of GDP [17.13.1],,Percent,,79.2
+2024,External debt stocks as a percentage of GDP [17.13.1],,Percent,,86.5
+2017,Bank capital adequacy ratio [17.13.1],,Percent,,21.4
+2018,Bank capital adequacy ratio [17.13.1],,Percent,,25.5
+2019,Bank capital adequacy ratio [17.13.1],,Percent,,24.1
+2020,Bank capital adequacy ratio [17.13.1],,Percent,,21.5
+2021,Bank capital adequacy ratio [17.13.1],,Percent,,21.5
+2022,Bank capital adequacy ratio [17.13.1],,Percent,,21.7
+2023,Bank capital adequacy ratio [17.13.1],,Percent,,21.5
+2024,Bank capital adequacy ratio [17.13.1],,Percent,,20.5
+2011,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,5.3
+2012,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,4.1
+2013,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,4.8
+2014,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,3.9
+2015,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,3.6
+2016,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,3.9
+2017,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,4.2
+2018,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,4.5
+2019,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,5.9
+2020,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,5.9
+2021,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,5.1
+2022,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,4.3
+2023,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,4.4
+2024,Gross official reserves in months of next year's imports (ratio) [17.13.1],,Number,,5.4
+2012,Annual broad money growth [17.13.1],,Percent,,14.0
+2013,Annual broad money growth [17.13.1],,Percent,,15.5
+2014,Annual broad money growth [17.13.1],,Percent,,19.1
+2015,Annual broad money growth [17.13.1],,Percent,,21.1
+2016,Annual broad money growth [17.13.1],,Percent,,7.6
+2017,Annual broad money growth [17.13.1],,Percent,,12.4
+2018,Annual broad money growth [17.13.1],,Percent,,15.6
+2019,Annual broad money growth [17.13.1],,Percent,,15.4
+2020,Annual broad money growth [17.13.1],,Percent,,18.0
+2021,Annual broad money growth [17.13.1],,Percent,,15.7
+2022,Annual broad money growth [17.13.1],,Percent,,22.5
+2023,Annual broad money growth [17.13.1],,Percent,,22.8
+2024,Annual broad money growth [17.13.1],,Percent,,20.6
+2011,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,5.7
+2012,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,6.3
+2013,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,4.2
+2014,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,1.8
+2015,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,2.5
+2016,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,5.7
+2017,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,4.8
+2018,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,1.4
+2019,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,2.4
+2020,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,7.7
+2021,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,0.8
+2022,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,13.9
+2023,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,14.0
+2024,"Annual inflation, CPI period average percentage change [17.13.1]",,Percent,,4.8
+2011,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-8.7
+2012,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-7.9
+2013,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-8.8
+2014,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-3.9
+2015,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-3.5
+2016,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-3.4
+2017,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-4.3
+2018,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-3.7
+2019,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-5.9
+2020,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-7.8
+2021,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-7.5
+2022,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-8.0
+2023,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-6.4
+2024,Fiscal deficit (including grants) as a percentage of GDP [17.13.1],,Percent,,-6.3
+2011,Tax revenue as a percentage of GDP [17.13.1],,Percent,,4.7
+2012,Tax revenue as a percentage of GDP [17.13.1],,Percent,,5.2
+2013,Tax revenue as a percentage of GDP [17.13.1],,Percent,,5.7
+2014,Tax revenue as a percentage of GDP [17.13.1],,Percent,,13.6
+2015,Tax revenue as a percentage of GDP [17.13.1],,Percent,,14.2
+2016,Tax revenue as a percentage of GDP [17.13.1],,Percent,,15.3
+2017,Tax revenue as a percentage of GDP [17.13.1],,Percent,,14.5
+2018,Tax revenue as a percentage of GDP [17.13.1],,Percent,,15.0
+2019,Tax revenue as a percentage of GDP [17.13.1],,Percent,,16.1
+2020,Tax revenue as a percentage of GDP [17.13.1],,Percent,,15.7
+2021,Tax revenue as a percentage of GDP [17.13.1],,Percent,,15.8
+2022,Tax revenue as a percentage of GDP [17.13.1],,Percent,,15.7
+2023,Tax revenue as a percentage of GDP [17.13.1],,Percent,,15.0
+2024,Tax revenue as a percentage of GDP [17.13.1],,Percent,,14.6
+2000,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,4.0
+2001,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,9.0
+2002,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,14.0
+2003,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,12.0
+2004,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,10.0
+2005,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,10.0
+2006,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,9.0
+2007,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,1.0
+2008,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,2.0
+2009,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,12.0
+2010,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,10.0
+2011,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,4.0
+2012,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,16.0
+2013,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,0.0
+2014,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,21.0
+2015,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,5.0
+2016,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,9.0
+2017,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,7.0
+2018,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,5.0
+2019,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,18.0
+2020,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,2.0
+2021,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,14.0
+2022,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,10.0
+2023,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,1.0
+2024,Annual growth of the general government final consumption expenditure [17.13.1],,Percent,,14.0
+2000,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,15.0
+2001,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,0.0
+2002,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,13.0
+2003,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,-8.0
+2004,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,7.0
+2005,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,9.0
+2006,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,14.0
+2007,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,0.0
+2008,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,7.0
+2009,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,13.0
+2010,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,4.0
+2011,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,9.0
+2012,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,9.0
+2013,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,9.0
+2014,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,8.0
+2015,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,16.0
+2016,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,4.0
+2017,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,-5.0
+2018,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,8.0
+2019,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,2.0
+2020,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,4.0
+2021,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,-6.0
+2022,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,-2.0
+2023,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,11.0
+2024,Annual growth of households and NGOs final consumption expenditure [17.13.1],,Percent,,3.0
+2000,Annual growth of the gross capital formation [17.13.1],,Percent,,17.0
+2001,Annual growth of the gross capital formation [17.13.1],,Percent,,0.0
+2002,Annual growth of the gross capital formation [17.13.1],,Percent,,8.0
+2003,Annual growth of the gross capital formation [17.13.1],,Percent,,10.0
+2004,Annual growth of the gross capital formation [17.13.1],,Percent,,12.0
+2005,Annual growth of the gross capital formation [17.13.1],,Percent,,16.0
+2006,Annual growth of the gross capital formation [17.13.1],,Percent,,24.0
+2007,Annual growth of the gross capital formation [17.13.1],,Percent,,28.0
+2008,Annual growth of the gross capital formation [17.13.1],,Percent,,33.0
+2009,Annual growth of the gross capital formation [17.13.1],,Percent,,3.0
+2010,Annual growth of the gross capital formation [17.13.1],,Percent,,7.0
+2011,Annual growth of the gross capital formation [17.13.1],,Percent,,9.0
+2012,Annual growth of the gross capital formation [17.13.1],,Percent,,22.0
+2013,Annual growth of the gross capital formation [17.13.1],,Percent,,7.0
+2014,Annual growth of the gross capital formation [17.13.1],,Percent,,5.0
+2015,Annual growth of the gross capital formation [17.13.1],,Percent,,19.0
+2016,Annual growth of the gross capital formation [17.13.1],,Percent,,9.0
+2017,Annual growth of the gross capital formation [17.13.1],,Percent,,-10.0
+2018,Annual growth of the gross capital formation [17.13.1],,Percent,,6.0
+2019,Annual growth of the gross capital formation [17.13.1],,Percent,,32.0
+2020,Annual growth of the gross capital formation [17.13.1],,Percent,,-5.0
+2021,Annual growth of the gross capital formation [17.13.1],,Percent,,16.0
+2022,Annual growth of the gross capital formation [17.13.1],,Percent,,23.0
+2023,Annual growth of the gross capital formation [17.13.1],,Percent,,15.0
+2024,Annual growth of the gross capital formation [17.13.1],,Percent,,7.0
+2000,Annual growth of exports of goods and services [17.13.1],,Percent,,0.0
+2001,Annual growth of exports of goods and services [17.13.1],,Percent,,40.0
+2002,Annual growth of exports of goods and services [17.13.1],,Percent,,5.0
+2003,Annual growth of exports of goods and services [17.13.1],,Percent,,20.0
+2004,Annual growth of exports of goods and services [17.13.1],,Percent,,32.0
+2005,Annual growth of exports of goods and services [17.13.1],,Percent,,11.0
+2006,Annual growth of exports of goods and services [17.13.1],,Percent,,2.0
+2007,Annual growth of exports of goods and services [17.13.1],,Percent,,44.0
+2008,Annual growth of exports of goods and services [17.13.1],,Percent,,-12.0
+2009,Annual growth of exports of goods and services [17.13.1],,Percent,,-3.0
+2010,Annual growth of exports of goods and services [17.13.1],,Percent,,8.0
+2011,Annual growth of exports of goods and services [17.13.1],,Percent,,24.0
+2012,Annual growth of exports of goods and services [17.13.1],,Percent,,9.0
+2013,Annual growth of exports of goods and services [17.13.1],,Percent,,19.0
+2014,Annual growth of exports of goods and services [17.13.1],,Percent,,7.0
+2015,Annual growth of exports of goods and services [17.13.1],,Percent,,6.0
+2016,Annual growth of exports of goods and services [17.13.1],,Percent,,13.0
+2017,Annual growth of exports of goods and services [17.13.1],,Percent,,42.0
+2018,Annual growth of exports of goods and services [17.13.1],,Percent,,11.0
+2019,Annual growth of exports of goods and services [17.13.1],,Percent,,20.0
+2020,Annual growth of exports of goods and services [17.13.1],,Percent,,-10.0
+2021,Annual growth of exports of goods and services [17.13.1],,Percent,,2.0
+2022,Annual growth of exports of goods and services [17.13.1],,Percent,,58.0
+2023,Annual growth of exports of goods and services [17.13.1],,Percent,,20.0
+2024,Annual growth of exports of goods and services [17.13.1],,Percent,,23.0
+2000,Annual growth of imports of goods and services [17.13.1],,Percent,,24.0
+2001,Annual growth of imports of goods and services [17.13.1],,Percent,,-5.0
+2002,Annual growth of imports of goods and services [17.13.1],,Percent,,9.0
+2003,Annual growth of imports of goods and services [17.13.1],,Percent,,-13.0
+2004,Annual growth of imports of goods and services [17.13.1],,Percent,,21.0
+2005,Annual growth of imports of goods and services [17.13.1],,Percent,,12.0
+2006,Annual growth of imports of goods and services [17.13.1],,Percent,,23.0
+2007,Annual growth of imports of goods and services [17.13.1],,Percent,,13.0
+2008,Annual growth of imports of goods and services [17.13.1],,Percent,,-3.0
+2009,Annual growth of imports of goods and services [17.13.1],,Percent,,17.0
+2010,Annual growth of imports of goods and services [17.13.1],,Percent,,2.0
+2011,Annual growth of imports of goods and services [17.13.1],,Percent,,18.0
+2012,Annual growth of imports of goods and services [17.13.1],,Percent,,19.0
+2013,Annual growth of imports of goods and services [17.13.1],,Percent,,9.0
+2014,Annual growth of imports of goods and services [17.13.1],,Percent,,15.0
+2015,Annual growth of imports of goods and services [17.13.1],,Percent,,23.0
+2016,Annual growth of imports of goods and services [17.13.1],,Percent,,8.0
+2017,Annual growth of imports of goods and services [17.13.1],,Percent,,6.0
+2018,Annual growth of imports of goods and services [17.13.1],,Percent,,8.0
+2019,Annual growth of imports of goods and services [17.13.1],,Percent,,18.0
+2020,Annual growth of imports of goods and services [17.13.1],,Percent,,-4.0
+2021,Annual growth of imports of goods and services [17.13.1],,Percent,,-12.0
+2022,Annual growth of imports of goods and services [17.13.1],,Percent,,12.0
+2023,Annual growth of imports of goods and services [17.13.1],,Percent,,26.0
+2024,Annual growth of imports of goods and services [17.13.1],,Percent,,5.0
+2000,Annual GDP growth [17.13.1],,Percent,,8.4
+2001,Annual GDP growth [17.13.1],,Percent,,8.5
+2002,Annual GDP growth [17.13.1],,Percent,,13.2
+2003,Annual GDP growth [17.13.1],,Percent,,2.2
+2004,Annual GDP growth [17.13.1],,Percent,,7.4
+2005,Annual GDP growth [17.13.1],,Percent,,9.4
+2006,Annual GDP growth [17.13.1],,Percent,,9.2
+2007,Annual GDP growth [17.13.1],,Percent,,7.6
+2008,Annual GDP growth [17.13.1],,Percent,,11.2
+2009,Annual GDP growth [17.13.1],,Percent,,6.2
+2010,Annual GDP growth [17.13.1],,Percent,,7.3
+2011,Annual GDP growth [17.13.1],,Percent,,8.0
+2012,Annual GDP growth [17.13.1],,Percent,,8.6
+2013,Annual GDP growth [17.13.1],,Percent,,4.7
+2014,Annual GDP growth [17.13.1],,Percent,,5.7
+2015,Annual GDP growth [17.13.1],,Percent,,8.9
+2016,Annual GDP growth [17.13.1],,Percent,,5.7
+2017,Annual GDP growth [17.13.1],,Percent,,4.7
+2018,Annual GDP growth [17.13.1],,Percent,,8.1
+2019,Annual GDP growth [17.13.1],,Percent,,9.3
+2020,Annual GDP growth [17.13.1],,Percent,,-2.8
+2021,Annual GDP growth [17.13.1],,Percent,,8.4
+2022,Annual GDP growth [17.13.1],,Percent,,9.8
+2023,Annual GDP growth [17.13.1],,Percent,,8.6
+2024,Annual GDP growth [17.13.1],,Percent,,7.2
+2011,Annual average national currency per United States dollar [17.13.1],,Percent,,600.0
+2012,Annual average national currency per United States dollar [17.13.1],,Percent,,614.0
+2013,Annual average national currency per United States dollar [17.13.1],,Percent,,647.0
+2014,Annual average national currency per United States dollar [17.13.1],,Percent,,682.0
+2015,Annual average national currency per United States dollar [17.13.1],,Percent,,720.0
+2016,Annual average national currency per United States dollar [17.13.1],,Percent,,787.0
+2017,Annual average national currency per United States dollar [17.13.1],,Percent,,831.0
+2018,Annual average national currency per United States dollar [17.13.1],,Percent,,861.0
+2019,Annual average national currency per United States dollar [17.13.1],,Percent,,901.0
+2020,Annual average national currency per United States dollar [17.13.1],,Percent,,945.0
+2021,Annual average national currency per United States dollar [17.13.1],,Percent,,990.0
+2022,Annual average national currency per United States dollar [17.13.1],,Percent,,1033.0
+2023,Annual average national currency per United States dollar [17.13.1],,Percent,,1168.0
+2024,Annual average national currency per United States dollar [17.13.1],,Percent,,1323.0
+2000,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,31.0
+2001,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,33.0
+2002,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,31.0
+2003,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,32.0
+2004,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,37.0
+2005,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,38.0
+2006,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,34.0
+2007,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,37.0
+2008,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,38.0
+2009,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,37.0
+2010,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,38.0
+2011,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,40.0
+2012,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,41.0
+2013,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,44.0
+2014,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,44.0
+2015,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,45.0
+2016,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,50.0
+2017,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,54.0
+2018,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,48.0
+2019,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,49.0
+2020,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,45.0
+2021,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,60.0
+2022,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,61.0
+2023,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,67.0
+2024,Total trade in goods and services as a percentage of GDP [17.13.1],,Percent,,71.0
