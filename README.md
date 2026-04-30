@@ -51,11 +51,11 @@ The `master` branch of the production site respository serves from the `github-p
 
 It deploys to the **production site** at https://sustainabledevelopment-rwanda.github.io/.  
 
-When changes to data are deployed to the data site, they are automatically applied to the production site. There is no specific deployment process involved, instead the production site pulls data directly from the data site. Since the data site deploys when changes are merged to the `develop` branch, users should be careful only to merge changes to the `develop` branch of the data repository when these are ready to go live on the production site. 
+When changes to data for existing indicators are deployed to the data site, they are automatically applied to the production site. There is no specific deployment process involved, instead the production site pulls data directly from the data site. Since the data site deploys when changes are merged to the `develop` branch, users should be careful only to merge changes to the `develop` branch of the data repository when these are ready to go live on the production site. 
 
-When changes are merged to the `master` branch of the data repository, changes to metadata from the data repository are applied to the production site. Without this merge, changes to metadata in the data repository will only apply to the staging site. 
+When changes are merged to the `master` branch of the data repository, changes to metadata from the data repository are applied to the production site. Without this merge, changes to metadata in the data repository will only apply to the staging site. This is also the case for adding data to new indicators which previously had no data available.
 
-To change the layout or content of the production site aside from the data and metadata content, you will need to edit code directly in the production site repository.
+To change the layout or content of the production site aside from the data and metadata content, you will need to edit code directly in the production site repository. You will require separate write permissions in that repository to make those types of changes.
 
 # Data update process
 
@@ -140,27 +140,47 @@ In your cloned repository, find the existing SDMX file, which will be in the fol
 
 If you have changed the name of the file, remember to change the site code where it refers to the file.
 
-## Step 6: Publish changes
-
-In your code editor or using Git Bash, stage your changes, commit them, and publish them. 
-
-Back on this GitHub repository, create a pull request with a descriptive message explaining which data series you are updating. 
-
-You may wish to have a colleague review your changes before merging, as data changes will go live on the production site directly. 
-
-Finally, merge the pull request. The changes will now be live on the repository and the deployment process will begin shortly, first to the data site and then to the staging site. The production site will be updated once the deployment to the data site is complete.
-
-If you are not sure how to complete the actions described in this step, please see [The Git User's Manual](https://git-scm.com/docs/user-manual).
-
-## Step 7: Update metadata
+## Step 6: Update metadata
 
 Once you have updated or added a data series, you will most likely need to update the metadata associated with the indicator. For example, you may wish to change the last updated date to match your recent update. If you have added a new data series, you may need to fill in the metadata from scratch.
 
-This data repository contains a folder, `meta`, which holds metadata files for all indicators. Editing these files then merging to the `develop` branch will trigger a deployment process to update the metadata on the staging site. You can check your changes on the staging site at this point.
+This data repository contains a folder, `meta`, which holds `.md` metadata files for all indicators. Find the file corresponding to the indicator you updated and edit the contents as needed.
 
-Finally, a merge to the `master` branch of this data repository will trigger a deployment process to update the metadata on the production site. 
+## Step 7: Publish changes to develop
 
-To change the layout or content of the production site aside from the data and metadata content, you will need to edit code directly in the production site repository. You will require separate write permissions in that repository to make those types of changes.
+In your code editor or using Git Bash, stage all your changes, commit them, and publish them. 
+
+On this GitHub repository, create a pull request to the `develop` branch with a descriptive message explaining which data series you are updating. 
+
+You may wish to have a colleague review your changes before merging, as data changes will go live on the production site directly. 
+
+When you create a pull request, automatic tests will run. Wait for the tests to run. 
+
+If any of the tests fail, check the error log to find the problem, fix the issue in the appropriate file, then stage, commit, and publish your new changes.
+
+When the tests succeed, merge the pull request. 
+
+The changes will now be live on the repository and the deployment process will begin shortly, first to the data site and then to the staging site. Data on the production site will be updated once the deployment to the data site is complete.
+
+If you have *only* changed data for existing indicators, your work is now complete. After waiting a few minutes for the deployment to take place, you can check the results on the production site at https://sustainabledevelopment-rwanda.github.io/.  
+
+If you are not sure how to complete the actions described in this step, please see [The Git User's Manual](https://git-scm.com/docs/user-manual).
+
+## Step 8: Publish changes to master
+
+If you have only changed data for existing indicators, your work is complete and you can ignore this step. 
+
+However, if you have also changed **metadata**, or if you have added data for a **new indicator** which previously had no data available, you need to complete this step.
+
+Currently, changes to metadata or new indicators will only be deployed to the staging site. After waiting a few minutes for the deployment to take place, you can check the results on the staging site at https://github.com/sustainabledevelopment-rwanda/sdg-site-rwanda. Note that the staging site has slightly different formatting to the production site, but you can still check that your data or metadata is appearing as intended.
+
+To make these changes appear on the production site, you will need to push to the `master` branch. 
+
+On this GitHub repository, create a pull request from the `develop` branch to the `master` branch. **You should always push to `master` through `develop`, do not push changes directly to `master`!**
+
+Automatic tests will run. Wait for the tests to run. When the tests succeed, merge the pull request. 
+
+Pushing to the `master` branch triggers the production site to re-deploy. This can take some time, around 10-15 minutes. After waiting for the deployment to take place, you can check the results on the production site at https://sustainabledevelopment-rwanda.github.io/. Your work is now complete.
 
 # Contact
 
