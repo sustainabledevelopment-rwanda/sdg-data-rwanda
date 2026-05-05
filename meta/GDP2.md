@@ -39,5 +39,6 @@ national_geographical_coverage: Rwanda
 data_last_updated: 30/12/23
 metadata_last_updated: 30/12/23
 standalone: true
+reporting_status: complete
 ---
 
