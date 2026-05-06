@@ -1,0 +1,12 @@
+graph_type: line
+graph_title: GDP per capita
+indicator_number: GDP1
+indicator_name: Annual average Real GDP growth
+data_non_statistical: false
+data_show_map: false
+source_active_1: true
+source_url_text_1: 'https://data.worldbank.org/indicator/SI.POV.DDAY?locations=RW'
+computation_units: Percent
+national_geographical_coverage: 'Rwanda'
+standalone: true
+reporting_status: complete
