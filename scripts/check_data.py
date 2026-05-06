@@ -21,7 +21,7 @@ def alter_data(df):
   return df
 
 # Validate the indicators.
-validation_successful = open_sdg_check(config='config_data.yml', alter_meta=alter_meta, alter_data=alter_data)
+validation_successful = open_sdg_check(config='config_data.yml', alter_data=alter_data)
 
 # If everything was valid, perform the build.
 if not validation_successful:
