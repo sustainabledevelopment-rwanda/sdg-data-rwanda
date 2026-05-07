@@ -59,10 +59,10 @@ inputs:
     import_observation_attributes: true
   - class: InputCsvData
     # This describes the data files, relative to the "src_dir" indicated above.
-    path_pattern: data/*.csv    
+    path_pattern: data/*.csv
   - class: InputYamlMdMeta
     # This describes the meta files, relative to the "src_dir" indicated above.
-    path_pattern: meta/*-*.md
+    path_pattern: meta/*.md
     # This specifies whether or not to use Git to calculate the "last updated"
     # dates for data files.
     git: false

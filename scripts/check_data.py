@@ -8,7 +8,7 @@ def alter_meta(meta):
         id_parts = indicator_id.split('.')
 
         # Automatically set some predicable properties.
-        if 'standalone' not in meta:
+        if 'standalone' not in meta or not meta['standalone']:
             meta['goal_number'] = id_parts[0]
             meta['target_number'] = id_parts[0] + '.' + id_parts[1]
             meta['target_name'] = 'global_targets.' + id_parts[0] + '-' + id_parts[1] + '-title'
