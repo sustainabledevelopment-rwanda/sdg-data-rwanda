@@ -7167,7 +7167,7 @@
           }
         ]
       },
-      "title": "GDP1"
+      "title": "Annual average Real GDP growth"
     },
     {
       "path": "GDP2/data.csv",
@@ -7214,7 +7214,7 @@
           }
         ]
       },
-      "title": "GDP2"
+      "title": "Nominal GDP"
     },
     {
       "path": "15-c-1/data.csv",
