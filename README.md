@@ -39,7 +39,7 @@ The **staging site repository** controls a copy of the main SDG reporting site, 
 
 The `develop` branch of the staging site respository serves from the `gh-pages` branch on that repository.
 
-It deploys to the **staging site** at https://github.com/sustainabledevelopment-rwanda/sdg-site-rwanda. 
+It deploys to the **staging site** at https://sustainabledevelopment-rwanda.github.io/sdg-site-rwanda/. 
 
 When changes are merged to the `develop` branch of the data repository, this automatically triggers the staging site to deploy. This takes around 5 more minutes. Thus, the data repository also indirectly deploys to the staging site. Direct changes to the staging site repository will also deploy in the same way, but it is not recommended to use this repository for most changes.
 
