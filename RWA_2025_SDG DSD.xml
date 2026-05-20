@@ -2820,7 +2820,7 @@
           <common:Name xml:lang="en">Percentage of the population accessing social security and income support programmes</common:Name>
           <common:Description xml:lang="en">Percentage of the population accessing social security and income support programmes</common:Description>
         </structure:Code>
-        <structure:Code id="SI_COV_MATL">
+        <structure:Code id="SI_COV_MATNL">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
