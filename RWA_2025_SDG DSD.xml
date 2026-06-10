@@ -499,56 +499,64 @@
           <common:Description xml:lang="en">Mode of Transport: Maritime</common:Description>
         </structure:Code>
         <structure:Code id="IHR_01">
-          <common:Name xml:lang="en">IHR Capacity: National legislation, policy and financing</common:Name>
-          <common:Description xml:lang="en">IHR Capacity: National legislation, policy and financing</common:Description>
+          <common:Name xml:lang="en">IHR Capacity: Policy, legal and normative instruments to implement IHR</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Policy, legal and normative instruments to implement IHR</common:Description>
         </structure:Code>
         <structure:Code id="IHR_02">
-          <common:Name xml:lang="en">IHR Capacity: Coordination and National Focal Point communications</common:Name>
+          <common:Name xml:lang="en">IHR Capacity: IHR coordination, national IHR focal point functions and advocacy</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Coordination and National Focal Point communications</common:Description>
         </structure:Code>
         <structure:Code id="IHR_03">
-          <common:Name xml:lang="en">IHR Capacity: Surveillance</common:Name>
-          <common:Description xml:lang="en">IHR Capacity: Surveillance</common:Description>
+          <common:Name xml:lang="en">IHR Capacity: Financing</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Financing</common:Description>
         </structure:Code>
         <structure:Code id="IHR_04">
-          <common:Name xml:lang="en">IHR Capacity: Response</common:Name>
-          <common:Description xml:lang="en">IHR Capacity: Response</common:Description>
-        </structure:Code>
-        <structure:Code id="IHR_05">
-          <common:Name xml:lang="en">IHR Capacity: Preparedness</common:Name>
-          <common:Description xml:lang="en">IHR Capacity: Preparedness</common:Description>
-        </structure:Code>
-        <structure:Code id="IHR_06">
-          <common:Name xml:lang="en">IHR Capacity: Risk communication</common:Name>
-          <common:Description xml:lang="en">IHR Capacity: Risk communication</common:Description>
-        </structure:Code>
-        <structure:Code id="IHR_07">
-          <common:Name xml:lang="en">IHR Capacity: Human resources</common:Name>
-          <common:Description xml:lang="en">IHR Capacity: Human resources</common:Description>
-        </structure:Code>
-        <structure:Code id="IHR_08">
           <common:Name xml:lang="en">IHR Capacity: Laboratory</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Laboratory</common:Description>
         </structure:Code>
+        <structure:Code id="IHR_05">
+          <common:Name xml:lang="en">IHR Capacity: Surveillance</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Surveillance</common:Description>
+        </structure:Code>
+        <structure:Code id="IHR_06">
+          <common:Name xml:lang="en">IHR Capacity: Human resources</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Human resources</common:Description>
+        </structure:Code>
+        <structure:Code id="IHR_07">
+          <common:Name xml:lang="en">IHR Capacity: Health emergency management</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Health emergency management</common:Description>
+        </structure:Code>
+        <structure:Code id="IHR_08">
+          <common:Name xml:lang="en">IHR Capacity: Health services provision</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Health services provision</common:Description>
+        </structure:Code>
         <structure:Code id="IHR_09">
-          <common:Name xml:lang="en">IHR Capacity: Points of entry</common:Name>
-          <common:Description xml:lang="en">IHR Capacity: Points of entry</common:Description>
+          <common:Name xml:lang="en">IHR Capacity: Infection prevention and control (IPC)</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Infection prevention and control (IPC)</common:Description>
         </structure:Code>
         <structure:Code id="IHR_10">
-          <common:Name xml:lang="en">IHR Capacity: Zoonotic events</common:Name>
-          <common:Description xml:lang="en">IHR Capacity: Zoonotic events</common:Description>
+          <common:Name xml:lang="en">IHR Capacity: Risk communication and community engagement (RCCE)</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Risk communication and community engagement (RCCE)</common:Description>
         </structure:Code>
         <structure:Code id="IHR_11">
+          <common:Name xml:lang="en">IHR Capacity: Points of entry (PoEs) and border health</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Points of entry (PoEs) and border health</common:Description>
+        </structure:Code>
+        <structure:Code id="IHR_12">
+          <common:Name xml:lang="en">IHR Capacity: Zoonotic diseases</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Zoonotic diseases</common:Description>
+        </structure:Code>
+        <structure:Code id="IHR_13">
           <common:Name xml:lang="en">IHR Capacity: Food safety</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Food safety</common:Description>
         </structure:Code>
-        <structure:Code id="IHR_12">
+        <structure:Code id="IHR_14">
           <common:Name xml:lang="en">IHR Capacity: Chemical events</common:Name>
           <common:Description xml:lang="en">IHR Capacity: Chemical events</common:Description>
         </structure:Code>
-        <structure:Code id="IHR_13">
-          <common:Name xml:lang="en">IHR Capacity: Radionuclear emergencies</common:Name>
-          <common:Description xml:lang="en">IHR Capacity: Radionuclear emergencies</common:Description>
+        <structure:Code id="IHR_15">
+          <common:Name xml:lang="en">IHR Capacity: Radiation emergencies</common:Name>
+          <common:Description xml:lang="en">IHR Capacity: Radiation emergencies</common:Description>
         </structure:Code>
         <structure:Code id="SPAR_01">
           <common:Name xml:lang="en">State Party Annual Report: Legislation and Financing</common:Name>
@@ -2733,7 +2741,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Poverty headcount ratio at $3.00 a day (2021 PPP)</common:Name>
+          <common:Name xml:lang="en">Poverty headcount ratio at $3.00 a day (2021 PPP) [1.1.1]</common:Name>
           <common:Description xml:lang="en">Poverty headcount ratio at $3.00 a day (2021 PPP)</common:Description>
         </structure:Code>
         <structure:Code id="SI_POV_NAHC">
@@ -2761,7 +2769,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of population living below the national poverty line</common:Name>
+          <common:Name xml:lang="en">Proportion of population living below the national poverty line [1.2.1]</common:Name>
           <common:Description xml:lang="en">Proportion of population living below the national poverty line</common:Description>
         </structure:Code>
         <structure:Code id="SI_POV_NMPI">
@@ -2789,7 +2797,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Multidimensional Poverty Index</common:Name>
+          <common:Name xml:lang="en">Multidimensional Poverty Index [1.2.2]</common:Name>
           <common:Description xml:lang="en">Multidimensional Poverty Index</common:Description>
         </structure:Code>
         <structure:Code id="SI_COV_BENFTS">
@@ -2817,7 +2825,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of the population accessing social security and income support programmes</common:Name>
+          <common:Name xml:lang="en">Percentage of the population accessing social security and income support programmes [1.3.1]</common:Name>
           <common:Description xml:lang="en">Percentage of the population accessing social security and income support programmes</common:Description>
         </structure:Code>
         <structure:Code id="SI_COV_MATNL">
@@ -2845,7 +2853,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of beneficiaries of the RSSB Maternity Leave Benefits Scheme out of total estimated live births</common:Name>
+          <common:Name xml:lang="en">Percentage of beneficiaries of the RSSB Maternity Leave Benefits Scheme out of total estimated live births [1.3.1]</common:Name>
           <common:Description xml:lang="en">Percentage of beneficiaries of the RSSB Maternity Leave Benefits Scheme out of total estimated live births</common:Description>
         </structure:Code>
         <structure:Code id="SI_COV_PENSN">
@@ -2873,7 +2881,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of the population above statutory pensionable age receiving a pension through the RSSB Pension Scheme</common:Name>
+          <common:Name xml:lang="en">Percentage of the population above statutory pensionable age receiving a pension through the RSSB Pension Scheme [1.3.1]</common:Name>
           <common:Description xml:lang="en">Percentage of the population above statutory pensionable age receiving a pension through the RSSB Pension Scheme</common:Description>
         </structure:Code>
         <structure:Code id="SI_COV_WKINJRY">
@@ -2901,10 +2909,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage contributing members to the RSSB Pension and Occupational Hazards Schemes out of total employed population</common:Name>
-          <common:Description xml:lang="en">Percentage contributing members to the RSSB Pension and Occupational Hazards Schemes out of total employed population</common:Description>
+          <common:Name xml:lang="en">Percentage of contributing members to the RSSB Pension and Occupational Hazards Schemes out of total employed population [1.3.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of contributing members to the RSSB Pension and Occupational Hazards Schemes out of total employed population</common:Description>
         </structure:Code>
-        <structure:Code id="SP_ACS_BSRV">
+        <structure:Code id="SH_H20_SAFE_1_4_1">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -2929,8 +2937,288 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of population living in households with access to basic services [1.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of population living in households with access to basic services [1.4.1]</common:Description>
+          <common:Name xml:lang="en">Percentage of households using improved drinking water source [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of households using improved drinking water source</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_SAN_SAFE_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of households using improved sanitation [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of households using improved sanitation</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_SAN_HNDWSH_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of population with basic handwashing facilities on premises [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of population with basic handwashing facilities on premises</common:Description>
+        </structure:Code>
+        <structure:Code id="EG_EGY_CLEAN_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of households with primary reliance on clean cooking fuels [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of households with primary reliance on clean cooking fuels</common:Description>
+        </structure:Code>
+        <structure:Code id="SP_ROD_R2KM_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of rural households who live within 0-19 minutes' walk of an all-weather road [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of rural households who live within 0-19 minutes' walk of an all-weather road</common:Description>
+        </structure:Code>
+        <structure:Code id="SP_TRN_PUBL_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of households within 0-19 minutes' walk of a public transport stage [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of households within 0-19 minutes' walk of a public transport stage</common:Description>
+        </structure:Code>
+        <structure:Code id="EN_REF_COLDIS_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of households using rubbish collection service or publicly managed refuse area [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of households using rubbish collection service or publicly managed refuse area</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_ACS_UNHC_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Coverage of essential health services [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Coverage of essential health services</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_ADT_LITR_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Literacy rate among population aged 15 and above [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Literacy rate among population aged 15 and above</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_ADT_NUMR_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Numeracy rate among population aged 15 and above [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Numeracy rate among population aged 15 and above</common:Description>
+        </structure:Code>
+        <structure:Code id="IT_MOB_3GNTWK_1_4_1">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.4.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010401</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population living in households with access to basic services</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">210</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Proportion of population covered by at least a 3G mobile network [1.4.1]</common:Name>
+          <common:Description xml:lang="en">Proportion of population covered by at least a 3G mobile network</common:Description>
         </structure:Code>
         <structure:Code id="SP_LGL_LNDDOC">
           <common:Annotations>
@@ -4193,8 +4481,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of women married or in a union of reproductive age (aged 15-49 years) who have their need for family planning satisfied with modern methods [3.7.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods [3.7.1]</common:Name>
+          <common:Description xml:lang="en">Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods</common:Description>
         </structure:Code>
         <structure:Code id="SP_DYN_ADKL">
           <common:Annotations>
@@ -4249,8 +4537,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Universal health coverage (UHC) service coverage index [3.8.1]</common:Name>
-          <common:Description xml:lang="en">Universal health coverage (UHC) service coverage index [3.8.1]</common:Description>
+          <common:Name xml:lang="en">Coverage of essential health services [3.8.1]</common:Name>
+          <common:Description xml:lang="en">Coverage of essential health services</common:Description>
         </structure:Code>
         <structure:Code id="SH_XPD_EARN25">
           <common:Annotations>
@@ -4305,8 +4593,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1]</common:Name>
-          <common:Description xml:lang="en">Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1]</common:Description>
+          <common:Name xml:lang="en">Percentage of persons aged 15-49 who use tobacco [3.a.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of persons aged 15-49 who use tobacco</common:Description>
         </structure:Code>
         <structure:Code id="SH_ACS_DTP3">
           <common:Annotations>
@@ -4417,93 +4705,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Health worker density - Doctors [3.c.1]</common:Name>
-          <common:Description xml:lang="en">Health worker density - Doctors [3.c.1]</common:Description>
+          <common:Name xml:lang="en">Health workers per 1,000 population [3.c.1]</common:Name>
+          <common:Description xml:lang="en">Health workers per 1,000 population</common:Description>
         </structure:Code>
-        <structure:Code id="SH_MED_DEN_PHARM">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">3.c.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C030c01</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Health worker density and distribution</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1420</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Health worker density - Pharmacists [3.c.1]</common:Name>
-          <common:Description xml:lang="en">Health worker density - Pharmacists [3.c.1]</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_030C01_1">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">3.c.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C030c01</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Health worker density and distribution</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1420</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Health worker density - Nurses</common:Name>
-          <common:Description xml:lang="en">Health worker density - Nurses</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_030C01_2">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">3.c.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C030c01</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Health worker density and distribution</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1420</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Health worker density - Midwives</common:Name>
-          <common:Description xml:lang="en">Health worker density - Midwives</common:Description>
-        </structure:Code><structure:Code id="SH_IHR_CAPS">
+        <structure:Code id="SH_IHR_CAPS">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -4528,10 +4733,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]</common:Name>
-          <common:Description xml:lang="en">International Health Regulations (IHR) capacity, by type of IHR capacity [3.d.1]</common:Description>
+          <common:Name xml:lang="en">International Health Regulations (IHR) capacity [3.d.1]</common:Name>
+          <common:Description xml:lang="en">International Health Regulations (IHR) capacity</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040101_1">
+        <structure:Code id="_L_RW_040101_KR">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -4556,10 +4761,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Literacy rate of children in P2</common:Name>
-          <common:Description xml:lang="en">Literacy rate of children in P2</common:Description>
+          <common:Name xml:lang="en">Percentage of learners who meet benchmark in Kinyarwanda reading [4.1.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of learners who meet benchmark in Kinyarwanda reading</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040101_2">
+        <structure:Code id="_L_RW_040101_ER">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -4584,10 +4789,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Numeracy rate of children in P2</common:Name>
-          <common:Description xml:lang="en">Numeracy rate of children in P2</common:Description>
+          <common:Name xml:lang="en">Percentage of learners who meet benchmark in English reading [4.1.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of learners who meet benchmark in English reading</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040101_3">
+        <structure:Code id="_L_RW_040101_MA">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -4612,92 +4817,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Literacy rate of children in P3</common:Name>
-          <common:Description xml:lang="en">Literacy rate of children in P3</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040101_4">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040101</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1480</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Numeracy rate of children in P3</common:Name>
-          <common:Description xml:lang="en">Numeracy rate of children in P3</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040101_5">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040101</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1480</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Literacy rate of children in P5</common:Name>
-          <common:Description xml:lang="en">Literacy rate of children in P5</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040101_6">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.1.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040101</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of children and young people (a) in grades 2/3; (b) at the end of primary; and (c) at the end of lower secondary achieving at least a minimum proficiency level in (i) reading and (ii) mathematics, by sex</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1480</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Numeracy rate of children in P5</common:Name>
-          <common:Description xml:lang="en">Numeracy rate of children in P5</common:Description>
+          <common:Name xml:lang="en">Percentage of learners who meet benchmark in mathematics [4.1.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of learners who meet benchmark in mathematics</common:Description>
         </structure:Code>
         <structure:Code id="SE_DEV_ONTRK">
           <common:Annotations>
@@ -5400,7 +5521,7 @@
           <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training [4.5.1]</common:Name>
           <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training [4.5.1]</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040601_1">
+        <structure:Code id="SE_ADT_LITR">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5425,10 +5546,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population</common:Name>
-          <common:Description xml:lang="en">Proportion of population achieving at least a fixed level of proficiency in functional skills - All levels, Literacy rate (%) among youth population</common:Description>
+          <common:Name xml:lang="en">Literacy rate among population aged 15 and above [4.6.1]</common:Name>
+          <common:Description xml:lang="en">Literacy rate among population aged 15 and above</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040601_2">
+        <structure:Code id="SE_ADT_NUMR">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5453,8 +5574,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population</common:Name>
-          <common:Description xml:lang="en">Proportion of population achieving at least a fixed level of proficiency in functional skills  - All levels, Numeracy rate (%) among youth population</common:Description>
+          <common:Name xml:lang="en">Numeracy rate among population aged 15 and above [4.6.1]</common:Name>
+          <common:Description xml:lang="en">Numeracy rate among population aged 15 and above</common:Description>
         </structure:Code>
         <structure:Code id="SE_ACS_ELECT">
           <common:Annotations>
@@ -6352,7 +6473,7 @@
           <common:Name xml:lang="en">Proportion of individuals who own a mobile telephone [5.b.1]</common:Name>
           <common:Description xml:lang="en">Proportion of individuals who own a mobile telephone [5.b.1]</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_060101_1">
+        <structure:Code id="SH_H20_SAFE">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -6377,8 +6498,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion (%) of population using basic drinking water services</common:Name>
-          <common:Description xml:lang="en">Proportion (%) of population using basic drinking water services</common:Description>
+          <common:Name xml:lang="en">Percentage of households using improved drinking water source [6.1.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of households using improved drinking water source</common:Description>
         </structure:Code>
         <structure:Code id="SH_SAN_SAFE">
           <common:Annotations>
@@ -6405,8 +6526,36 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion (%) of Households using improved sanitation type not shared with other households [6.2.1]</common:Name>
-          <common:Description xml:lang="en">Proportion (%) of Households using improved sanitation type not shared with other households [6.2.1]</common:Description>
+          <common:Name xml:lang="en">Percentage of households using improved sanitation [6.2.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of households using improved sanitation</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_SAN_HNDWSH">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">6.2.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C060201</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2300</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of population with basic handwashing facilities on premises</common:Name>
+          <common:Description xml:lang="en">Percentage of population with basic handwashing facilities on premises</common:Description>
         </structure:Code>
         <structure:Code id="EN_H2O_WBAMBQ">
           <common:Annotations>
@@ -6632,7 +6781,7 @@
           <common:Name xml:lang="en">Proportion of population with access to electricity [7.1.1]</common:Name>
           <common:Description xml:lang="en">Proportion of population with access to electricity [7.1.1]</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_070102_1">
+        <structure:Code id="EG_EGY_CLEAN">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -6657,8 +6806,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion (%) of Households with primary reliance on clean cooking fuels</common:Name>
-          <common:Description xml:lang="en">Proportion (%) of Households with primary reliance on clean cooking fuels</common:Description>
+          <common:Name xml:lang="en">Percentage of households with primary reliance on clean cooking fuels [7.1.2]</common:Name>
+          <common:Description xml:lang="en">Percentage of households with primary reliance on clean cooking fuels</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_070201_1">
           <common:Annotations>
@@ -7189,8 +7338,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of the rural population who live within 2 km of an all-season road [9.1.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of the rural population who live within 2 km of an all-season road [9.1.1]</common:Description>
+          <common:Name xml:lang="en">Percentage of rural households who live within 0-19 minutes' walk of an all-weather road [9.1.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of rural households who live within 0-19 minutes' walk of an all-weather road</common:Description>
         </structure:Code>
         <structure:Code id="IS_TRP_MAILTKM">
           <common:Annotations>
@@ -7442,7 +7591,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Proportion of population covered by at least a 2G mobile network [9.c.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of population covered by at least a 2G mobile network [9.c.1]</common:Description>
+          <common:Description xml:lang="en">Proportion of population covered by at least a 2G mobile network</common:Description>
         </structure:Code>
         <structure:Code id="IT_MOB_3GNTWK">
           <common:Annotations>
@@ -7470,7 +7619,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Proportion of population covered by at least a 3G mobile network [9.c.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of population covered by at least a 3G mobile network [9.c.1]</common:Description>
+          <common:Description xml:lang="en">Proportion of population covered by at least a 3G mobile network</common:Description>
         </structure:Code>
         <structure:Code id="IT_MOB_4GNTWK">
           <common:Annotations>
@@ -7498,7 +7647,7 @@
             </common:Annotation>
           </common:Annotations>
           <common:Name xml:lang="en">Proportion of population covered by at least a 4G mobile network [9.c.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of population covered by at least a 4G mobile network [9.c.1]</common:Description>
+          <common:Description xml:lang="en">Proportion of population covered by at least a 4G mobile network</common:Description>
         </structure:Code>
         <structure:Code id="VC_VOV_GDSD">
           <common:Annotations>
@@ -7807,6 +7956,34 @@
           </common:Annotations>
           <common:Name xml:lang="en">Distribution of Households living in unplanned urban housing</common:Name>
           <common:Description xml:lang="en">Distribution of Households living in unplanned urban housing</common:Description>
+        </structure:Code>
+        <structure:Code id="SP_TRN_PUBL">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.2.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C110201</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3570</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of households within 0-19 minutes' walk of a public transport stage</common:Description>
         </structure:Code>
         <structure:Code id="VC_DSR_MTMP">
           <common:Annotations>
@@ -8255,6 +8432,34 @@
           </common:Annotations>
           <common:Name xml:lang="en">Number of Cattles and livestock lost by disaster</common:Name>
           <common:Description xml:lang="en">Direct economic loss attributed to disasters [11.5.2]</common:Description>
+        </structure:Code>
+        <structure:Code id="EN_REF_COLDIS">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">11.6.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C110601</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of municipal solid waste collected and managed in controlled facilities out of total municipal waste generated, by cities</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">510</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of households using rubbish collection service or publicly managed refuse area [11.6.1]</common:Name>
+          <common:Description xml:lang="en">Percentage of households using rubbish collection service or publicly managed refuse area</common:Description>
         </structure:Code>
         <structure:Code id="SG_DSR_SILN">
           <common:Annotations>
