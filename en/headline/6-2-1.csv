@@ -1,1 +1,11 @@
-Year,Value
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2000,51.5,,Percent,Percentage of households using improved sanitation [6.2.1]
+2005,58.5,,Percent,Percentage of households using improved sanitation [6.2.1]
+2011,74.5,,Percent,Percentage of households using improved sanitation [6.2.1]
+2014,83.4,,Percent,Percentage of households using improved sanitation [6.2.1]
+2017,86.2,,Percent,Percentage of households using improved sanitation [6.2.1]
+2021,89.6,,Percent,Percentage of households using improved sanitation [6.2.1]
+2024,94.3,,Percent,Percentage of households using improved sanitation [6.2.1]
+2010,2.1,,Percent,Percentage of population with basic handwashing facilities on premises
+2015,4.3,,Percent,Percentage of population with basic handwashing facilities on premises
+2019,25.1,,Percent,Percentage of population with basic handwashing facilities on premises

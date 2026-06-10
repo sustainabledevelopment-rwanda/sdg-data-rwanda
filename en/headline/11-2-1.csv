@@ -1,1 +1,5 @@
-Year,Value
+Year,Value,GeoCode,UNIT_MEASURE,SERIES
+2011,22.9,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1]
+2014,26.0,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1]
+2017,26.8,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1]
+2024,27.7,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1]

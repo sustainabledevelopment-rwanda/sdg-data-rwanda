@@ -36,9 +36,10 @@
             "constraints": {
               "enum": [
                 "Medical doctors",
-                "Pharmacists",
                 "Nurse",
                 "Midwives",
+                "Pharmacists",
+                "Dentists",
                 ""
               ]
             },

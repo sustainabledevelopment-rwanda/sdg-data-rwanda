@@ -12,8 +12,75 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nyaruguru",
+                "Rusizi",
+                "Nyamagabe",
+                "Nyamasheke",
+                "Kayonza",
+                "Gatsibo",
+                "Musanze",
+                "Nyagatare",
+                "Rutsiro",
+                "Karongi",
+                "Nyabihu",
+                "Gicumbi",
+                "Muhanga",
+                "Rulindo",
+                "Gakenke",
+                "Huye",
+                "Ngororero",
+                "Nyarugenge",
+                "Burera",
+                "Gasabo",
+                "Rubavu",
+                "Bugesera",
+                "Kirehe",
+                "Ruhango",
+                "Kamonyi",
+                "Rwamagana",
+                "Nyanza",
+                "Gisagara",
+                "Ngoma",
+                "Kicukiro",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
           },
           {
             "name": "Value",

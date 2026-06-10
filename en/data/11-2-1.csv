@@ -1,1 +1,13 @@
-Year,Value
+Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
+2011,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,,Percent,,22.9
+2014,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,,Percent,,26.0
+2017,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,,Percent,,26.8
+2024,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,,Percent,,27.7
+2011,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,Urban,Percent,,64.4
+2014,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,Urban,Percent,,64.9
+2017,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,Urban,Percent,,65.5
+2024,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,Urban,Percent,,53.9
+2011,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,Rural,Percent,,15.7
+2014,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,Rural,Percent,,18.0
+2017,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,Rural,Percent,,17.6
+2024,Percentage of households within 0-19 minutes' walk of a public transport stage [11.2.1],,Rural,Percent,,16.9

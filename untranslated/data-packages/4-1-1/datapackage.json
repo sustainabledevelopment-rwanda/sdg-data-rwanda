@@ -44,7 +44,8 @@
             "constraints": {
               "enum": [
                 "ISCED11A_0_G23",
-                "ISCED11_1",
+                "ISCED11A_1",
+                "ISCED11A_2",
                 ""
               ]
             }

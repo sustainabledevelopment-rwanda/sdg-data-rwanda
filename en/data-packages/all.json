@@ -317,16 +317,15 @@
             "title": "Reference area"
           },
           {
-            "name": "SEX",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Rural",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "UNIT_MEASURE",
@@ -345,7 +344,7 @@
           }
         ]
       },
-      "title": "Proportion of population living in households with access to basic services "
+      "title": "Proportion of population living in households with access to basic services"
     },
     {
       "path": "1-4-2/data.csv",
@@ -1886,7 +1885,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15 years old and over",
+                "15 to 49 years old",
                 ""
               ]
             },
@@ -2019,9 +2018,10 @@
             "constraints": {
               "enum": [
                 "Medical doctors",
-                "Pharmacists",
                 "Nurse",
                 "Midwives",
+                "Pharmacists",
+                "Dentists",
                 ""
               ]
             },
@@ -2081,19 +2081,21 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "IHR Capacity: National legislation, policy and financing",
-                "IHR Capacity: Coordination and National Focal Point communications",
-                "IHR Capacity: Surveillance",
-                "IHR Capacity: Response",
-                "IHR Capacity: Preparedness",
-                "IHR Capacity: Risk communication",
-                "IHR Capacity: Human resources",
+                "IHR Capacity: Policy, legal and normative instruments to implement IHR",
+                "IHR Capacity: IHR coordination, national IHR focal point functions and advocacy",
+                "IHR Capacity: Financing",
                 "IHR Capacity: Laboratory",
-                "IHR Capacity: Points of entry",
-                "IHR Capacity: Zoonotic events",
+                "IHR Capacity: Surveillance",
+                "IHR Capacity: Human resources",
+                "IHR Capacity: Health emergency management",
+                "IHR Capacity: Health services provision",
+                "IHR Capacity: Infection prevention and control (IPC)",
+                "IHR Capacity: Risk communication and community engagement (RCCE)",
+                "IHR Capacity: Points of entry (PoEs) and border health",
+                "IHR Capacity: Zoonotic diseases",
                 "IHR Capacity: Food safety",
                 "IHR Capacity: Chemical events",
-                "IHR Capacity: Radionuclear emergencies",
+                "IHR Capacity: Radiation emergencies",
                 ""
               ]
             },
@@ -2166,7 +2168,8 @@
             "constraints": {
               "enum": [
                 "Some primary education, grades 2 or 3",
-                "Primary education",
+                "Primary education, sufficient for level completion",
+                "Lower secondary education, sufficient for level completion",
                 ""
               ]
             },
@@ -3356,6 +3359,67 @@
         ]
       },
       "title": "Proportion of population using safely managed drinking water services"
+    },
+    {
+      "path": "6-2-1/data.csv",
+      "name": "6-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "6-3-2/data.csv",
@@ -4593,7 +4657,7 @@
       "scheme": "file",
       "format": "csv",
       "hashing": "md5",
-      "encoding": "iso8859-1",
+      "encoding": "utf-8",
       "schema": {
         "fields": [
           {
@@ -4639,12 +4703,12 @@
           },
           {
             "name": "Value",
-            "type": "integer",
+            "type": "number",
             "title": "Value"
           }
         ]
       },
-      "title": "Proportion of the rural population who live within 2 km of an all-season road "
+      "title": "Proportion of the rural population who live within 2 km of an all-season road"
     },
     {
       "path": "9-1-2/data.csv",
@@ -4987,7 +5051,7 @@
           }
         ]
       },
-      "title": "Proportion of population covered by a mobile network, by technology "
+      "title": "Proportion of population covered by a mobile network, by technology"
     },
     {
       "path": "10-3-1/data.csv",
@@ -5246,6 +5310,67 @@
       "title": "Proportion of urban population living in slums, informal settlements or inadequate housing "
     },
     {
+      "path": "11-2-1/data.csv",
+      "name": "11-2-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
+    },
+    {
       "path": "11-5-1/data.csv",
       "name": "11-5-1",
       "profile": "tabular-data-resource",
@@ -5342,6 +5467,97 @@
         ]
       },
       "title": "Direct economic loss in relation to global GDP, damage to critical infrastructure and number of disruptions to basic services, attributed to disasters"
+    },
+    {
+      "path": "11-6-1/data.csv",
+      "name": "11-6-1",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer",
+            "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Nyaruguru",
+                "Rusizi",
+                "Nyamagabe",
+                "Nyamasheke",
+                "Kayonza",
+                "Gatsibo",
+                "Musanze",
+                "Nyagatare",
+                "Rutsiro",
+                "Karongi",
+                "Nyabihu",
+                "Gicumbi",
+                "Muhanga",
+                "Rulindo",
+                "Gakenke",
+                "Huye",
+                "Ngororero",
+                "Nyarugenge",
+                "Burera",
+                "Gasabo",
+                "Rubavu",
+                "Bugesera",
+                "Kirehe",
+                "Ruhango",
+                "Kamonyi",
+                "Rwamagana",
+                "Nyanza",
+                "Gisagara",
+                "Ngoma",
+                "Kicukiro",
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "URBANISATION",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Urban",
+                "Rural",
+                ""
+              ]
+            },
+            "title": "Degree of urbanisation"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "string",
+            "title": "GeoCode"
+          },
+          {
+            "name": "Value",
+            "type": "number",
+            "title": "Value"
+          }
+        ]
+      },
+      "title": "Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities"
     },
     {
       "path": "11-b-2/data.csv",
@@ -7457,30 +7673,6 @@
       "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
-      "path": "11-6-1/data.csv",
-      "name": "11-6-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of urban solid waste regularly collected and with adequate final discharge out of total urban solid waste generated, by cities"
-    },
-    {
       "path": "1-a-3/data.csv",
       "name": "1-a-3",
       "profile": "tabular-data-resource",
@@ -9113,30 +9305,6 @@
       "title": "Proportion of persons victim of physical or sexual harassment, by sex, age, disability status and place of occurrence, in the previous 12 months"
     },
     {
-      "path": "11-2-1/data.csv",
-      "name": "11-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population that has convenient access to public transport, by sex, age and persons with disabilities"
-    },
-    {
       "path": "2-4-1/data.csv",
       "name": "2-4-1",
       "profile": "tabular-data-resource",
@@ -9903,30 +10071,6 @@
         ]
       },
       "title": "Proportion of population living in cities that implement urban and regional development plans integrating population projections and resource needs, by size of city"
-    },
-    {
-      "path": "6-2-1/data.csv",
-      "name": "6-2-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number",
-            "title": "Year"
-          },
-          {
-            "name": "Value",
-            "type": "number",
-            "title": "Value"
-          }
-        ]
-      },
-      "title": "Proportion of population using (a) safely managed sanitation services and (b) a hand-washing facility with soap and water"
     },
     {
       "path": "2-a-1/data.csv",

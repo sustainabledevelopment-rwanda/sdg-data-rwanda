@@ -1,5 +1,76 @@
 Year,SERIES,Reference area,Occupation,UNIT_MEASURE,GeoCode,Value
-2017,Health worker density - Doctors [3.c.1],,Medical doctors,"Per 1,000 population",,0.1
-2017,Health worker density - Pharmacists [3.c.1],,Pharmacists,"Per 1,000 population",,0.1
-2017,Health worker density - Nurses,,Nurse,"Per 1,000 population",,0.9
-2017,Health worker density - Midwives,,Midwives,"Per 1,000 population",,0.3
+2009,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,0.8
+2010,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,0.88
+2011,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,0.89
+2012,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,0.95
+2013,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,0.96
+2014,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,0.94
+2015,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,0.92
+2019,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,1.09
+2020,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,1.08
+2021,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,1.1
+2022,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,1.1
+2023,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,1.1
+2024,"Health workers per 1,000 population [3.c.1]",,,"Per 1,000 population",,1.51
+2009,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.06
+2010,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.06
+2011,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.06
+2012,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.07
+2013,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.06
+2014,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.06
+2015,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.07
+2016,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.1
+2019,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.12
+2020,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.12
+2021,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.12
+2022,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.15
+2023,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.14
+2024,"Health workers per 1,000 population [3.c.1]",,Medical doctors,"Per 1,000 population",,0.19
+2009,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.74
+2010,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.8
+2011,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.81
+2012,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.84
+2013,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.84
+2014,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.81
+2015,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.78
+2016,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.91
+2019,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.7
+2020,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.83
+2021,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.86
+2022,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.85
+2023,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,0.89
+2024,"Health workers per 1,000 population [3.c.1]",,Nurse,"Per 1,000 population",,1.14
+2012,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.17
+2013,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.23
+2014,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.25
+2015,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.32
+2016,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.25
+2019,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.35
+2020,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.43
+2021,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.43
+2022,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.44
+2023,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.5
+2024,"Health workers per 1,000 population [3.c.1]",,Midwives,"Per 1,000 population",,0.64
+2009,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2010,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2011,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2012,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2013,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2014,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2015,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2016,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.06
+2019,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2020,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2021,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2022,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.01
+2023,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.0
+2024,"Health workers per 1,000 population [3.c.1]",,Pharmacists,"Per 1,000 population",,0.1
+2012,"Health workers per 1,000 population [3.c.1]",,Dentists,"Per 1,000 population",,0.01
+2013,"Health workers per 1,000 population [3.c.1]",,Dentists,"Per 1,000 population",,0.01
+2014,"Health workers per 1,000 population [3.c.1]",,Dentists,"Per 1,000 population",,0.01
+2015,"Health workers per 1,000 population [3.c.1]",,Dentists,"Per 1,000 population",,0.01
+2019,"Health workers per 1,000 population [3.c.1]",,Dentists,"Per 1,000 population",,0.02
+2020,"Health workers per 1,000 population [3.c.1]",,Dentists,"Per 1,000 population",,0.02
+2021,"Health workers per 1,000 population [3.c.1]",,Dentists,"Per 1,000 population",,0.02
+2022,"Health workers per 1,000 population [3.c.1]",,Dentists,"Per 1,000 population",,0.02
+2023,"Health workers per 1,000 population [3.c.1]",,Dentists,"Per 1,000 population",,0.02

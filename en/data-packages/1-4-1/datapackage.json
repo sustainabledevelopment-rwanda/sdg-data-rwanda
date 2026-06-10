@@ -31,16 +31,15 @@
             "title": "Reference area"
           },
           {
-            "name": "SEX",
+            "name": "URBANISATION",
             "type": "string",
             "constraints": {
               "enum": [
-                "Male",
-                "Female",
+                "Rural",
                 ""
               ]
             },
-            "title": "Sex"
+            "title": "Degree of urbanisation"
           },
           {
             "name": "UNIT_MEASURE",
@@ -63,5 +62,5 @@
   ],
   "profile": "data-package",
   "name": "1-4-1",
-  "title": "Proportion of population living in households with access to basic services "
+  "title": "Proportion of population living in households with access to basic services"
 }

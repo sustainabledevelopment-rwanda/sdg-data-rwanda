@@ -1,7 +1,10 @@
 Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,15 years old and over,Percent,,5.8
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,,15 years old and over,Percent,,3.9
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,15 years old and over,Percent,,10.0
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Male,15 years old and over,Percent,,7.0
-2015,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 years old and over,Percent,,2.0
-2020,Age-standardized prevalence of current tobacco use among persons aged 15 years and older [3.a.1],,Female,15 years old and over,Percent,,0.9
+2010,Percentage of persons aged 15-49 who use tobacco [3.a.1],,,15 to 49 years old,Percent,,8.7
+2015,Percentage of persons aged 15-49 who use tobacco [3.a.1],,,15 to 49 years old,Percent,,6.2
+2020,Percentage of persons aged 15-49 who use tobacco [3.a.1],,,15 to 49 years old,Percent,,4.25
+2010,Percentage of persons aged 15-49 who use tobacco [3.a.1],,Male,15 to 49 years old,Percent,,13.8
+2015,Percentage of persons aged 15-49 who use tobacco [3.a.1],,Male,15 to 49 years old,Percent,,10.2
+2020,Percentage of persons aged 15-49 who use tobacco [3.a.1],,Male,15 to 49 years old,Percent,,7.0
+2010,Percentage of persons aged 15-49 who use tobacco [3.a.1],,Female,15 to 49 years old,Percent,,3.6
+2015,Percentage of persons aged 15-49 who use tobacco [3.a.1],,Female,15 to 49 years old,Percent,,2.2
+2020,Percentage of persons aged 15-49 who use tobacco [3.a.1],,Female,15 to 49 years old,Percent,,1.5

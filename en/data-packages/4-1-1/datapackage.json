@@ -48,7 +48,8 @@
             "constraints": {
               "enum": [
                 "Some primary education, grades 2 or 3",
-                "Primary education",
+                "Primary education, sufficient for level completion",
+                "Lower secondary education, sufficient for level completion",
                 ""
               ]
             },

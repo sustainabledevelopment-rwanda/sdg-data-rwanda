@@ -1,11 +1,49 @@
 Year,SERIES,Reference area,Sex,Education level,UNIT_MEASURE,GeoCode,Value
-2014,Literacy rate of children in P2,,,"Some primary education, grades 2 or 3",Percent,,45.3
-2014,Numeracy rate of children in P2,,,"Some primary education, grades 2 or 3",Percent,,32.9
-2018,Literacy rate of children in P3,,,"Some primary education, grades 2 or 3",Percent,,54.9
-2018,Literacy rate of children in P3,,Male,"Some primary education, grades 2 or 3",Percent,,52.2
-2018,Literacy rate of children in P3,,Female,"Some primary education, grades 2 or 3",Percent,,56.4
-2018,Numeracy rate of children in P3,,,"Some primary education, grades 2 or 3",Percent,,40.7
-2018,Numeracy rate of children in P3,,Male,"Some primary education, grades 2 or 3",Percent,,40.3
-2018,Numeracy rate of children in P3,,Female,"Some primary education, grades 2 or 3",Percent,,41.3
-2014,Literacy rate of children in P5,,,Primary education,Percent,,44.1
-2014,Numeracy rate of children in P5,,,Primary education,Percent,,38.3
+2011,Percentage of learners who meet benchmark in Kinyarwanda reading [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,63.0
+2017,Percentage of learners who meet benchmark in Kinyarwanda reading [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,54.9
+2021,Percentage of learners who meet benchmark in Kinyarwanda reading [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,68.0
+2023,Percentage of learners who meet benchmark in Kinyarwanda reading [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,68.5
+2023,Percentage of learners who meet benchmark in Kinyarwanda reading [4.1.1],,Male,"Some primary education, grades 2 or 3",Percent,,68.0
+2023,Percentage of learners who meet benchmark in Kinyarwanda reading [4.1.1],,Female,"Some primary education, grades 2 or 3",Percent,,69.0
+2021,Percentage of learners who meet benchmark in English reading [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,10.08
+2023,Percentage of learners who meet benchmark in English reading [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,49.4
+2021,Percentage of learners who meet benchmark in English reading [4.1.1],,Male,"Some primary education, grades 2 or 3",Percent,,12.69
+2023,Percentage of learners who meet benchmark in English reading [4.1.1],,Male,"Some primary education, grades 2 or 3",Percent,,50.0
+2021,Percentage of learners who meet benchmark in English reading [4.1.1],,Female,"Some primary education, grades 2 or 3",Percent,,7.5
+2023,Percentage of learners who meet benchmark in English reading [4.1.1],,Female,"Some primary education, grades 2 or 3",Percent,,49.0
+2017,Percentage of learners who meet benchmark in English reading [4.1.1],,,"Primary education, sufficient for level completion",Percent,,56.4
+2021,Percentage of learners who meet benchmark in English reading [4.1.1],,,"Primary education, sufficient for level completion",Percent,,38.55
+2023,Percentage of learners who meet benchmark in English reading [4.1.1],,,"Primary education, sufficient for level completion",Percent,,60.7
+2021,Percentage of learners who meet benchmark in English reading [4.1.1],,Male,"Primary education, sufficient for level completion",Percent,,40.9
+2023,Percentage of learners who meet benchmark in English reading [4.1.1],,Male,"Primary education, sufficient for level completion",Percent,,62.0
+2021,Percentage of learners who meet benchmark in English reading [4.1.1],,Female,"Primary education, sufficient for level completion",Percent,,36.22
+2023,Percentage of learners who meet benchmark in English reading [4.1.1],,Female,"Primary education, sufficient for level completion",Percent,,60.0
+2017,Percentage of learners who meet benchmark in English reading [4.1.1],,,"Lower secondary education, sufficient for level completion",Percent,,71.3
+2021,Percentage of learners who meet benchmark in English reading [4.1.1],,,"Lower secondary education, sufficient for level completion",Percent,,42.78
+2023,Percentage of learners who meet benchmark in English reading [4.1.1],,,"Lower secondary education, sufficient for level completion",Percent,,47.15
+2021,Percentage of learners who meet benchmark in English reading [4.1.1],,Male,"Lower secondary education, sufficient for level completion",Percent,,52.59
+2023,Percentage of learners who meet benchmark in English reading [4.1.1],,Male,"Lower secondary education, sufficient for level completion",Percent,,51.0
+2021,Percentage of learners who meet benchmark in English reading [4.1.1],,Female,"Lower secondary education, sufficient for level completion",Percent,,32.9
+2023,Percentage of learners who meet benchmark in English reading [4.1.1],,Female,"Lower secondary education, sufficient for level completion",Percent,,40.0
+2011,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,54.0
+2017,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,40.7
+2021,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,60.94
+2023,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Some primary education, grades 2 or 3",Percent,,75.2
+2021,Percentage of learners who meet benchmark in mathematics [4.1.1],,Male,"Some primary education, grades 2 or 3",Percent,,63.36
+2023,Percentage of learners who meet benchmark in mathematics [4.1.1],,Male,"Some primary education, grades 2 or 3",Percent,,75.0
+2021,Percentage of learners who meet benchmark in mathematics [4.1.1],,Female,"Some primary education, grades 2 or 3",Percent,,58.54
+2023,Percentage of learners who meet benchmark in mathematics [4.1.1],,Female,"Some primary education, grades 2 or 3",Percent,,75.0
+2017,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Primary education, sufficient for level completion",Percent,,59.0
+2021,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Primary education, sufficient for level completion",Percent,,32.14
+2023,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Primary education, sufficient for level completion",Percent,,68.25
+2021,Percentage of learners who meet benchmark in mathematics [4.1.1],,Male,"Primary education, sufficient for level completion",Percent,,33.24
+2023,Percentage of learners who meet benchmark in mathematics [4.1.1],,Male,"Primary education, sufficient for level completion",Percent,,69.0
+2021,Percentage of learners who meet benchmark in mathematics [4.1.1],,Female,"Primary education, sufficient for level completion",Percent,,31.05
+2023,Percentage of learners who meet benchmark in mathematics [4.1.1],,Female,"Primary education, sufficient for level completion",Percent,,67.0
+2017,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Lower secondary education, sufficient for level completion",Percent,,78.8
+2021,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Lower secondary education, sufficient for level completion",Percent,,41.51
+2023,Percentage of learners who meet benchmark in mathematics [4.1.1],,,"Lower secondary education, sufficient for level completion",Percent,,63.77
+2021,Percentage of learners who meet benchmark in mathematics [4.1.1],,Male,"Lower secondary education, sufficient for level completion",Percent,,47.26
+2023,Percentage of learners who meet benchmark in mathematics [4.1.1],,Male,"Lower secondary education, sufficient for level completion",Percent,,67.0
+2021,Percentage of learners who meet benchmark in mathematics [4.1.1],,Female,"Lower secondary education, sufficient for level completion",Percent,,35.77
+2023,Percentage of learners who meet benchmark in mathematics [4.1.1],,Female,"Lower secondary education, sufficient for level completion",Percent,,60.0

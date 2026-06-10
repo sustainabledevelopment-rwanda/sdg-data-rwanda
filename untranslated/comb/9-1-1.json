@@ -1,1 +1,1 @@
-{"data":{"Year":[2018],"SERIES":["SP_ROD_R2KM"],"REF_AREA":[null],"URBANISATION":["R"],"UNIT_MEASURE":["PT"],"GeoCode":[null],"Value":[63]},"edges":[]}
+{"data":{"Year":[2011,2014,2017,2024],"SERIES":["SP_ROD_R2KM","SP_ROD_R2KM","SP_ROD_R2KM","SP_ROD_R2KM"],"REF_AREA":[null,null,null,null],"URBANISATION":["R","R","R","R"],"UNIT_MEASURE":["PT","PT","PT","PT"],"GeoCode":[null,null,null,null],"Value":[75.7,85.8,92.3,94.6]},"edges":[]}
