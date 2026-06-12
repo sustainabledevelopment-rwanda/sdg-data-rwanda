@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v11.8.3-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=NISR-SDGs:SDG(1.3):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>IREF1781100477045</message:ID>
+    <message:ID>IREF1781264122748</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2026-06-10T00:00:00Z</message:Prepared>
+    <message:Prepared>2026-06-12T00:00:00Z</message:Prepared>
     <message:Sender id="BIS"/>
     <message:Structure structureID="NISR-SDGs_SDG_1_3" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=NISR-SDGs:SDG(1.3):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
@@ -466,17 +466,27 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="98.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Proportion of population covered by at least a 3G mobile network" SOURCE_DETAIL="RURA"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="99.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Proportion of population covered by at least a 3G mobile network" SOURCE_DETAIL="RURA"/>
   </Series>
-  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SP_LGL_LNDDOC" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2023" OBS_VALUE="4218003" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Total Number of adult population who have land" SOURCE_DETAIL="Rwanda Land Dashboard, 2023"/>
-  </Series>
-  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SP_LGL_LNDDOC" REF_AREA="RW" SEX="M" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2023" OBS_VALUE="2081442" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Total Number of adult population who have land" SOURCE_DETAIL="Rwanda Land Dashboard, 2023"/>
-  </Series>
-  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SP_LGL_LNDDOC" REF_AREA="RW" SEX="F" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
-    <Obs TIME_PERIOD="2023" OBS_VALUE="2136561" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Total Number of adult population who have land" SOURCE_DETAIL="Rwanda Land Dashboard, 2023"/>
-  </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SP_LGL_LNDDOC" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2022" OBS_VALUE="21.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Proportion of total adult population with secure tenure rights to land,  with legally recognized documentation (Owned by other)" SOURCE_DETAIL="Rwanda Land Dashboard, 2023"/>
+    <Obs TIME_PERIOD="2005" OBS_VALUE="70.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2005" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2011" OBS_VALUE="84.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2011" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="84.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="79.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="76.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2020" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="81.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SP_LGL_LNDDOC" REF_AREA="RW" SEX="M" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2011" OBS_VALUE="85.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2011" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="86.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="80.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="77.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2020" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="79.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="SP_LGL_LNDDOC" REF_AREA="RW" SEX="F" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2011" OBS_VALUE="79.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2011" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="79.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="77.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="75.4" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2020" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="82.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of farmers with the right to sell or use land as collateral" SOURCE_DETAIL="NISR"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="VC_DSR_MORT" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PER_100000_POP">
     <Obs TIME_PERIOD="2016" OBS_VALUE="1.59" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2016" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Annual disaster effects situation report , MINEMA"/>
@@ -2961,6 +2971,36 @@
     <Obs TIME_PERIOD="2014" OBS_VALUE="1.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
     <Obs TIME_PERIOD="2017" OBS_VALUE="1.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="1.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="EN_REF_COLDIS" REF_AREA="1" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2011" OBS_VALUE="44.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2011" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="47.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="51.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="54.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="EN_REF_COLDIS" REF_AREA="2" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2011" OBS_VALUE="2.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2011" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="3.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="5.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="EN_REF_COLDIS" REF_AREA="3" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2011" OBS_VALUE="4.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2011" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="3.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="3.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="5.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="EN_REF_COLDIS" REF_AREA="4" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2011" OBS_VALUE="1.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2011" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="1.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="2.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="4.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+  </Series>
+  <Series FREQ="A" REPORTING_TYPE="N" SERIES="EN_REF_COLDIS" REF_AREA="5" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
+    <Obs TIME_PERIOD="2011" OBS_VALUE="2.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2011" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2014" OBS_VALUE="3.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="2.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="6.1" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="EN_REF_COLDIS" REF_AREA="23" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2011" OBS_VALUE="1.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2011" COMMENT_OBS="Percentage of households using rubbish collection service or publicly managed refuse area" SOURCE_DETAIL="NISR"/>
