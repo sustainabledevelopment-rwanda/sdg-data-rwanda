@@ -2741,7 +2741,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Poverty headcount ratio at $3.00 a day (2021 PPP) [1.1.1]</common:Name>
+          <common:Name xml:lang="en">Poverty headcount ratio at $3.00 a day (2021 PPP)</common:Name>
           <common:Description xml:lang="en">Poverty headcount ratio at $3.00 a day (2021 PPP)</common:Description>
         </structure:Code>
         <structure:Code id="SI_POV_NAHC">
@@ -2769,7 +2769,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of population living below the national poverty line [1.2.1]</common:Name>
+          <common:Name xml:lang="en">Proportion of population living below the national poverty line</common:Name>
           <common:Description xml:lang="en">Proportion of population living below the national poverty line</common:Description>
         </structure:Code>
         <structure:Code id="SI_POV_NMPI">
@@ -2797,7 +2797,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Multidimensional Poverty Index [1.2.2]</common:Name>
+          <common:Name xml:lang="en">Multidimensional Poverty Index</common:Name>
           <common:Description xml:lang="en">Multidimensional Poverty Index</common:Description>
         </structure:Code>
         <structure:Code id="SI_COV_BENFTS">
@@ -2825,7 +2825,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of the population accessing social security and income support programmes [1.3.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of the population accessing social security and income support programmes</common:Name>
           <common:Description xml:lang="en">Percentage of the population accessing social security and income support programmes</common:Description>
         </structure:Code>
         <structure:Code id="SI_COV_MATNL">
@@ -2853,7 +2853,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of beneficiaries of the RSSB Maternity Leave Benefits Scheme out of total estimated live births [1.3.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of beneficiaries of the RSSB Maternity Leave Benefits Scheme out of total estimated live births</common:Name>
           <common:Description xml:lang="en">Percentage of beneficiaries of the RSSB Maternity Leave Benefits Scheme out of total estimated live births</common:Description>
         </structure:Code>
         <structure:Code id="SI_COV_PENSN">
@@ -2881,7 +2881,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of the population above statutory pensionable age receiving a pension through the RSSB Pension Scheme [1.3.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of the population above statutory pensionable age receiving a pension through the RSSB Pension Scheme</common:Name>
           <common:Description xml:lang="en">Percentage of the population above statutory pensionable age receiving a pension through the RSSB Pension Scheme</common:Description>
         </structure:Code>
         <structure:Code id="SI_COV_WKINJRY">
@@ -2909,7 +2909,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of contributing members to the RSSB Pension and Occupational Hazards Schemes out of total employed population [1.3.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of contributing members to the RSSB Pension and Occupational Hazards Schemes out of total employed population</common:Name>
           <common:Description xml:lang="en">Percentage of contributing members to the RSSB Pension and Occupational Hazards Schemes out of total employed population</common:Description>
         </structure:Code>
         <structure:Code id="SH_H20_SAFE_1_4_1">
@@ -2937,7 +2937,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of households using improved drinking water source [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of households using improved drinking water source</common:Name>
           <common:Description xml:lang="en">Percentage of households using improved drinking water source</common:Description>
         </structure:Code>
         <structure:Code id="SH_SAN_SAFE_1_4_1">
@@ -2965,7 +2965,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of households using improved sanitation [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of households using improved sanitation</common:Name>
           <common:Description xml:lang="en">Percentage of households using improved sanitation</common:Description>
         </structure:Code>
         <structure:Code id="SH_SAN_HNDWSH_1_4_1">
@@ -2993,7 +2993,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of population with basic handwashing facilities on premises [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of population with basic handwashing facilities on premises</common:Name>
           <common:Description xml:lang="en">Percentage of population with basic handwashing facilities on premises</common:Description>
         </structure:Code>
         <structure:Code id="EG_EGY_CLEAN_1_4_1">
@@ -3021,7 +3021,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of households with primary reliance on clean cooking fuels [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of households with primary reliance on clean cooking fuels</common:Name>
           <common:Description xml:lang="en">Percentage of households with primary reliance on clean cooking fuels</common:Description>
         </structure:Code>
         <structure:Code id="SP_ROD_R2KM_1_4_1">
@@ -3049,7 +3049,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of rural households who live within 0-19 minutes' walk of an all-weather road [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of rural households who live within 0-19 minutes' walk of an all-weather road</common:Name>
           <common:Description xml:lang="en">Percentage of rural households who live within 0-19 minutes' walk of an all-weather road</common:Description>
         </structure:Code>
         <structure:Code id="SP_TRN_PUBL_1_4_1">
@@ -3077,7 +3077,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of households within 0-19 minutes' walk of a public transport stage [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of households within 0-19 minutes' walk of a public transport stage</common:Name>
           <common:Description xml:lang="en">Percentage of households within 0-19 minutes' walk of a public transport stage</common:Description>
         </structure:Code>
         <structure:Code id="EN_REF_COLDIS_1_4_1">
@@ -3105,7 +3105,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of households using rubbish collection service or publicly managed refuse area [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of households using rubbish collection service or publicly managed refuse area</common:Name>
           <common:Description xml:lang="en">Percentage of households using rubbish collection service or publicly managed refuse area</common:Description>
         </structure:Code>
         <structure:Code id="SH_ACS_UNHC_1_4_1">
@@ -3133,7 +3133,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Coverage of essential health services [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Coverage of essential health services</common:Name>
           <common:Description xml:lang="en">Coverage of essential health services</common:Description>
         </structure:Code>
         <structure:Code id="SE_ADT_LITR_1_4_1">
@@ -3161,7 +3161,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Literacy rate among population aged 15 and above [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Literacy rate among population aged 15 and above</common:Name>
           <common:Description xml:lang="en">Literacy rate among population aged 15 and above</common:Description>
         </structure:Code>
         <structure:Code id="SE_ADT_NUMR_1_4_1">
@@ -3189,7 +3189,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Numeracy rate among population aged 15 and above [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Numeracy rate among population aged 15 and above</common:Name>
           <common:Description xml:lang="en">Numeracy rate among population aged 15 and above</common:Description>
         </structure:Code>
         <structure:Code id="IT_MOB_3GNTWK_1_4_1">
@@ -3217,7 +3217,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of population covered by at least a 3G mobile network [1.4.1]</common:Name>
+          <common:Name xml:lang="en">Proportion of population covered by at least a 3G mobile network</common:Name>
           <common:Description xml:lang="en">Proportion of population covered by at least a 3G mobile network</common:Description>
         </structure:Code>
         <structure:Code id="SP_LGL_LNDDOC">
@@ -3245,8 +3245,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2]</common:Name>
-          <common:Description xml:lang="en">Proportion of people with legally recognized documentation of their rights to land out of total adult population [1.4.2]</common:Description>
+          <common:Name xml:lang="en">Percentage of farmers with the right to sell or use land as collateral</common:Name>
+          <common:Description xml:lang="en">Percentage of farmers with the right to sell or use land as collateral</common:Description>
         </structure:Code>
         <structure:Code id="VC_DSR_MORT">
           <common:Annotations>
