@@ -1,55 +1,55 @@
 Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2000,64.4,,Percent,Percentage of households using improved drinking water source [1.4.1]
-2005,64.2,,Percent,Percentage of households using improved drinking water source [1.4.1]
-2011,74.2,,Percent,Percentage of households using improved drinking water source [1.4.1]
-2014,84.8,,Percent,Percentage of households using improved drinking water source [1.4.1]
-2017,87.4,,Percent,Percentage of households using improved drinking water source [1.4.1]
-2021,89.2,,Percent,Percentage of households using improved drinking water source [1.4.1]
-2024,89.7,,Percent,Percentage of households using improved drinking water source [1.4.1]
-2000,51.5,,Percent,Percentage of households using improved sanitation [1.4.1]
-2005,58.5,,Percent,Percentage of households using improved sanitation [1.4.1]
-2011,74.5,,Percent,Percentage of households using improved sanitation [1.4.1]
-2014,83.4,,Percent,Percentage of households using improved sanitation [1.4.1]
-2017,86.2,,Percent,Percentage of households using improved sanitation [1.4.1]
-2021,89.6,,Percent,Percentage of households using improved sanitation [1.4.1]
-2024,94.3,,Percent,Percentage of households using improved sanitation [1.4.1]
-2010,2.1,,Percent,Percentage of population with basic handwashing facilities on premises [1.4.1]
-2015,4.3,,Percent,Percentage of population with basic handwashing facilities on premises [1.4.1]
-2019,25.1,,Percent,Percentage of population with basic handwashing facilities on premises [1.4.1]
-2014,0.2,,Percent,Percentage of households with primary reliance on clean cooking fuels [1.4.1]
-2017,1.1,,Percent,Percentage of households with primary reliance on clean cooking fuels [1.4.1]
-2021,4.2,,Percent,Percentage of households with primary reliance on clean cooking fuels [1.4.1]
-2024,5.4,,Percent,Percentage of households with primary reliance on clean cooking fuels [1.4.1]
-2011,86.3,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage [1.4.1]
-2014,86.6,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage [1.4.1]
-2017,87.5,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage [1.4.1]
-2024,89.5,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage [1.4.1]
-2011,5.0,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area [1.4.1]
-2014,6.2,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area [1.4.1]
-2017,8.3,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area [1.4.1]
-2021,9.9,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area [1.4.1]
-2024,11.0,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area [1.4.1]
-2010,45.3,,Percent,Coverage of essential health services [1.4.1]
-2015,53.1,,Percent,Coverage of essential health services [1.4.1]
-2020,53.7,,Percent,Coverage of essential health services [1.4.1]
-2005,65.3,,Percent,Literacy rate among population aged 15 and above [1.4.1]
-2011,69.5,,Percent,Literacy rate among population aged 15 and above [1.4.1]
-2014,72.1,,Percent,Literacy rate among population aged 15 and above [1.4.1]
-2017,73.2,,Percent,Literacy rate among population aged 15 and above [1.4.1]
-2021,72.4,,Percent,Literacy rate among population aged 15 and above [1.4.1]
-2024,75.8,,Percent,Literacy rate among population aged 15 and above [1.4.1]
-2014,74.1,,Percent,Numeracy rate among population aged 15 and above [1.4.1]
-2017,73.4,,Percent,Numeracy rate among population aged 15 and above [1.4.1]
-2021,73.3,,Percent,Numeracy rate among population aged 15 and above [1.4.1]
-2024,77.6,,Percent,Numeracy rate among population aged 15 and above [1.4.1]
-2013,98.7,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2014,72.1,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2015,88.0,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2016,91.9,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2017,93.1,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2018,93.4,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2019,97.4,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2020,96.0,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2021,98.6,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2022,98.7,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
-2023,99.1,,Percent,Proportion of population covered by at least a 3G mobile network [1.4.1]
+2000,64.4,,Percent,Percentage of households using improved drinking water source
+2005,64.2,,Percent,Percentage of households using improved drinking water source
+2011,74.2,,Percent,Percentage of households using improved drinking water source
+2014,84.8,,Percent,Percentage of households using improved drinking water source
+2017,87.4,,Percent,Percentage of households using improved drinking water source
+2021,89.2,,Percent,Percentage of households using improved drinking water source
+2024,89.7,,Percent,Percentage of households using improved drinking water source
+2000,51.5,,Percent,Percentage of households using improved sanitation
+2005,58.5,,Percent,Percentage of households using improved sanitation
+2011,74.5,,Percent,Percentage of households using improved sanitation
+2014,83.4,,Percent,Percentage of households using improved sanitation
+2017,86.2,,Percent,Percentage of households using improved sanitation
+2021,89.6,,Percent,Percentage of households using improved sanitation
+2024,94.3,,Percent,Percentage of households using improved sanitation
+2010,2.1,,Percent,Percentage of population with basic handwashing facilities on premises
+2015,4.3,,Percent,Percentage of population with basic handwashing facilities on premises
+2019,25.1,,Percent,Percentage of population with basic handwashing facilities on premises
+2014,0.2,,Percent,Percentage of households with primary reliance on clean cooking fuels
+2017,1.1,,Percent,Percentage of households with primary reliance on clean cooking fuels
+2021,4.2,,Percent,Percentage of households with primary reliance on clean cooking fuels
+2024,5.4,,Percent,Percentage of households with primary reliance on clean cooking fuels
+2011,86.3,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage
+2014,86.6,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage
+2017,87.5,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage
+2024,89.5,,Percent,Percentage of households within 0-19 minutes' walk of a public transport stage
+2011,5.0,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area
+2014,6.2,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area
+2017,8.3,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area
+2021,9.9,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area
+2024,11.0,,Percent,Percentage of households using rubbish collection service or publicly managed refuse area
+2010,45.3,,Percent,Coverage of essential health services
+2015,53.1,,Percent,Coverage of essential health services
+2020,53.7,,Percent,Coverage of essential health services
+2005,65.3,,Percent,Literacy rate among population aged 15 and above
+2011,69.5,,Percent,Literacy rate among population aged 15 and above
+2014,72.1,,Percent,Literacy rate among population aged 15 and above
+2017,73.2,,Percent,Literacy rate among population aged 15 and above
+2021,72.4,,Percent,Literacy rate among population aged 15 and above
+2024,75.8,,Percent,Literacy rate among population aged 15 and above
+2014,74.1,,Percent,Numeracy rate among population aged 15 and above
+2017,73.4,,Percent,Numeracy rate among population aged 15 and above
+2021,73.3,,Percent,Numeracy rate among population aged 15 and above
+2024,77.6,,Percent,Numeracy rate among population aged 15 and above
+2013,98.7,,Percent,Proportion of population covered by at least a 3G mobile network
+2014,72.1,,Percent,Proportion of population covered by at least a 3G mobile network
+2015,88.0,,Percent,Proportion of population covered by at least a 3G mobile network
+2016,91.9,,Percent,Proportion of population covered by at least a 3G mobile network
+2017,93.1,,Percent,Proportion of population covered by at least a 3G mobile network
+2018,93.4,,Percent,Proportion of population covered by at least a 3G mobile network
+2019,97.4,,Percent,Proportion of population covered by at least a 3G mobile network
+2020,96.0,,Percent,Proportion of population covered by at least a 3G mobile network
+2021,98.6,,Percent,Proportion of population covered by at least a 3G mobile network
+2022,98.7,,Percent,Proportion of population covered by at least a 3G mobile network
+2023,99.1,,Percent,Proportion of population covered by at least a 3G mobile network

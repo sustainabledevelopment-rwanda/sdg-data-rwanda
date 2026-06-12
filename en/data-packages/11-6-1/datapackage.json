@@ -25,6 +25,11 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "City of Kigali",
+                "Southern Province",
+                "Western Province",
+                "Northern Province",
+                "Eastern Province",
                 "Nyaruguru",
                 "Rusizi",
                 "Nyamagabe",
