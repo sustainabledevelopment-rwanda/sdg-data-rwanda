@@ -1,92 +1,92 @@
 Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2018,Number of Houses damaged by disaster,,Number,,15910.0
-2019,Number of Houses damaged by disaster,,Number,,5691.0
-2020,Number of Houses damaged by disaster,,Number,,8098.0
-2021,Number of Houses damaged by disaster,,Number,,4808.0
-2022,Number of Houses damaged by disaster,,Number,,4156.0
-2023,Number of Houses damaged by disaster,,Number,,9955.0
-2024,Number of Houses damaged by disaster,,Number,,2005.0
-2018,Number of Ha for crops damaged by disaster,,Number,,13337.0
-2019,Number of Ha for crops damaged by disaster,,Number,,10610.0
-2020,Number of Ha for crops damaged by disaster,,Number,,4661.5
-2021,Number of Ha for crops damaged by disaster,,Number,,3802.3
-2022,Number of Ha for crops damaged by disaster,,Number,,1917.7
-2023,Number of Ha for crops damaged by disaster,,Number,,2176.3
-2024,Number of Ha for crops damaged by disaster,,Number,,1355.3
-2018,Number of Classrooms damaged by disaster,,Number,,73.0
-2019,Number of Classrooms damaged by disaster,,Number,,203.0
-2020,Number of Classrooms damaged by disaster,,Number,,96.0
-2021,Number of Classrooms damaged by disaster,,Number,,381.0
-2022,Number of Classrooms damaged by disaster,,Number,,323.0
-2023,Number of Classrooms damaged by disaster,,Number,,154.0
-2024,Number of Classrooms damaged by disaster,,Number,,81.0
-2018,Number of Health Centers damaged by disaster,,Number,,3.0
-2019,Number of Health Centers damaged by disaster,,Number,,1.0
-2020,Number of Health Centers damaged by disaster,,Number,,4.0
-2021,Number of Health Centers damaged by disaster,,Number,,3.0
-2022,Number of Health Centers damaged by disaster,,Number,,1.0
-2023,Number of Health Centers damaged by disaster,,Number,,5.0
-2024,Number of Health Centers damaged by disaster,,Number,,2.0
-2018,Number of Bridges damaged by disaster,,Number,,64.0
-2019,Number of Bridges damaged by disaster,,Number,,40.0
-2020,Number of Bridges damaged by disaster,,Number,,103.0
-2021,Number of Bridges damaged by disaster,,Number,,39.0
-2022,Number of Bridges damaged by disaster,,Number,,59.0
-2023,Number of Bridges damaged by disaster,,Number,,57.0
-2024,Number of Bridges damaged by disaster,,Number,,42.0
-2018,Number of Administrative Offices damaged by disaster,,Number,,12.0
-2019,Number of Administrative Offices damaged by disaster,,Number,,21.0
-2020,Number of Administrative Offices damaged by disaster,,Number,,17.0
-2021,Number of Administrative Offices damaged by disaster,,Number,,23.0
-2022,Number of Administrative Offices damaged by disaster,,Number,,21.0
-2023,Number of Administrative Offices damaged by disaster,,Number,,25.0
-2024,Number of Administrative Offices damaged by disaster,,Number,,11.0
-2018,Number of Transmission lines damaged by disaster,,Number,,26.0
-2019,Number of Transmission lines damaged by disaster,,Number,,72.0
-2020,Number of Transmission lines damaged by disaster,,Number,,98.0
-2021,Number of Transmission lines damaged by disaster,,Number,,73.0
-2022,Number of Transmission lines damaged by disaster,,Number,,80.0
-2023,Number of Transmission lines damaged by disaster,,Number,,32.0
-2024,Number of Transmission lines damaged by disaster,,Number,,34.0
-2018,Number of Water supply damaged by disaster,,Number,,1.0
-2019,Number of Water supply damaged by disaster,,Number,,6.0
-2020,Number of Water supply damaged by disaster,,Number,,26.0
-2021,Number of Water supply damaged by disaster,,Number,,13.0
-2022,Number of Water supply damaged by disaster,,Number,,1.0
-2023,Number of Water supply damaged by disaster,,Number,,8.0
-2024,Number of Water supply damaged by disaster,,Number,,3.0
-2019,Number of Markets damaged by disaster,,Number,,4.0
-2020,Number of Markets damaged by disaster,,Number,,6.0
-2021,Number of Markets damaged by disaster,,Number,,4.0
-2022,Number of Markets damaged by disaster,,Number,,2.0
-2023,Number of Markets damaged by disaster,,Number,,5.0
-2024,Number of Markets damaged by disaster,,Number,,0.0
-2019,Number of Houses damaged by disaster,,Number,,2.0
-2020,Number of Houses damaged by disaster,,Number,,1.0
-2021,Number of Houses damaged by disaster,,Number,,4.0
-2022,Number of Houses damaged by disaster,,Number,,4.0
-2023,Number of Houses damaged by disaster,,Number,,7.0
-2024,Number of Houses damaged by disaster,,Number,,3.0
-2020,Number of Ha for forests damaged by disaster,,Number,,458.0
-2021,Number of Ha for forests damaged by disaster,,Number,,167.0
-2022,Number of Ha for forests damaged by disaster,,Number,,73.0
-2023,Number of Ha for forests damaged by disaster,,Number,,41.0
-2024,Number of Ha for forests damaged by disaster,,Number,,306.0
-2018,Number of churches damaged by disaster,,Number,,27.0
-2019,Number of churches damaged by disaster,,Number,,50.0
-2020,Number of churches damaged by disaster,,Number,,22.0
-2022,Number of churches damaged by disaster,,Number,,20.0
-2023,Number of churches damaged by disaster,,Number,,30.0
-2024,Number of churches damaged by disaster,,Number,,12.0
-2018,Number of road sections damaged by disaster,,Number,,32.0
-2019,Number of road sections damaged by disaster,,Number,,30.0
-2020,Number of road sections damaged by disaster,,Number,,154.0
-2022,Number of road sections damaged by disaster,,Number,,72.0
-2023,Number of road sections damaged by disaster,,Number,,32.0
-2024,Number of road sections damaged by disaster,,Number,,69.0
-2018,Number of Cattles and livestock lost by disaster,,Number,,815.0
-2019,Number of Cattles and livestock lost by disaster,,Number,,113.0
-2020,Number of Cattles and livestock lost by disaster,,Number,,3497.0
-2022,Number of Cattles and livestock lost by disaster,,Number,,201.0
-2023,Number of Cattles and livestock lost by disaster,,Number,,1208.0
-2024,Number of Cattles and livestock lost by disaster,,Number,,3146.0
+2018,Houses damaged by disaster,,Number,,15910.0
+2019,Houses damaged by disaster,,Number,,5691.0
+2020,Houses damaged by disaster,,Number,,8098.0
+2021,Houses damaged by disaster,,Number,,4808.0
+2022,Houses damaged by disaster,,Number,,4156.0
+2023,Houses damaged by disaster,,Number,,9955.0
+2024,Houses damaged by disaster,,Number,,2005.0
+2018,Ha of crops damaged by disaster,,Number,,13337.0
+2019,Ha of crops damaged by disaster,,Number,,10610.0
+2020,Ha of crops damaged by disaster,,Number,,4661.5
+2021,Ha of crops damaged by disaster,,Number,,3802.3
+2022,Ha of crops damaged by disaster,,Number,,1917.7
+2023,Ha of crops damaged by disaster,,Number,,2176.3
+2024,Ha of crops damaged by disaster,,Number,,1355.3
+2018,Classrooms damaged by disaster,,Number,,73.0
+2019,Classrooms damaged by disaster,,Number,,203.0
+2020,Classrooms damaged by disaster,,Number,,96.0
+2021,Classrooms damaged by disaster,,Number,,381.0
+2022,Classrooms damaged by disaster,,Number,,323.0
+2023,Classrooms damaged by disaster,,Number,,154.0
+2024,Classrooms damaged by disaster,,Number,,81.0
+2018,Health centers damaged by disaster,,Number,,3.0
+2019,Health centers damaged by disaster,,Number,,1.0
+2020,Health centers damaged by disaster,,Number,,4.0
+2021,Health centers damaged by disaster,,Number,,3.0
+2022,Health centers damaged by disaster,,Number,,1.0
+2023,Health centers damaged by disaster,,Number,,5.0
+2024,Health centers damaged by disaster,,Number,,2.0
+2018,Bridges damaged by disaster,,Number,,64.0
+2019,Bridges damaged by disaster,,Number,,40.0
+2020,Bridges damaged by disaster,,Number,,103.0
+2021,Bridges damaged by disaster,,Number,,39.0
+2022,Bridges damaged by disaster,,Number,,59.0
+2023,Bridges damaged by disaster,,Number,,57.0
+2024,Bridges damaged by disaster,,Number,,42.0
+2018,Administrative offices damaged by disaster,,Number,,12.0
+2019,Administrative offices damaged by disaster,,Number,,21.0
+2020,Administrative offices damaged by disaster,,Number,,17.0
+2021,Administrative offices damaged by disaster,,Number,,23.0
+2022,Administrative offices damaged by disaster,,Number,,21.0
+2023,Administrative offices damaged by disaster,,Number,,25.0
+2024,Administrative offices damaged by disaster,,Number,,11.0
+2018,Transmission lines damaged by disaster,,Number,,26.0
+2019,Transmission lines damaged by disaster,,Number,,72.0
+2020,Transmission lines damaged by disaster,,Number,,98.0
+2021,Transmission lines damaged by disaster,,Number,,73.0
+2022,Transmission lines damaged by disaster,,Number,,80.0
+2023,Transmission lines damaged by disaster,,Number,,32.0
+2024,Transmission lines damaged by disaster,,Number,,34.0
+2018,Water supply structures damaged by disaster,,Number,,1.0
+2019,Water supply structures damaged by disaster,,Number,,6.0
+2020,Water supply structures damaged by disaster,,Number,,26.0
+2021,Water supply structures damaged by disaster,,Number,,13.0
+2022,Water supply structures damaged by disaster,,Number,,1.0
+2023,Water supply structures damaged by disaster,,Number,,8.0
+2024,Water supply structures damaged by disaster,,Number,,3.0
+2019,Markets damaged by disaster,,Number,,4.0
+2020,Markets damaged by disaster,,Number,,6.0
+2021,Markets damaged by disaster,,Number,,4.0
+2022,Markets damaged by disaster,,Number,,2.0
+2023,Markets damaged by disaster,,Number,,5.0
+2024,Markets damaged by disaster,,Number,,0.0
+2019,Houses damaged by disaster,,Number,,2.0
+2020,Houses damaged by disaster,,Number,,1.0
+2021,Houses damaged by disaster,,Number,,4.0
+2022,Houses damaged by disaster,,Number,,4.0
+2023,Houses damaged by disaster,,Number,,7.0
+2024,Houses damaged by disaster,,Number,,3.0
+2020,Ha of forests damaged by disaster,,Number,,458.0
+2021,Ha of forests damaged by disaster,,Number,,167.0
+2022,Ha of forests damaged by disaster,,Number,,73.0
+2023,Ha of forests damaged by disaster,,Number,,41.0
+2024,Ha of forests damaged by disaster,,Number,,306.0
+2018,Churches damaged by disaster,,Number,,27.0
+2019,Churches damaged by disaster,,Number,,50.0
+2020,Churches damaged by disaster,,Number,,22.0
+2022,Churches damaged by disaster,,Number,,20.0
+2023,Churches damaged by disaster,,Number,,30.0
+2024,Churches damaged by disaster,,Number,,12.0
+2018,Road sections damaged by disaster,,Number,,32.0
+2019,Road sections damaged by disaster,,Number,,30.0
+2020,Road sections damaged by disaster,,Number,,154.0
+2022,Road sections damaged by disaster,,Number,,72.0
+2023,Road sections damaged by disaster,,Number,,32.0
+2024,Road sections damaged by disaster,,Number,,69.0
+2018,Cattle and livestock lost due to disaster,,Number,,815.0
+2019,Cattle and livestock lost due to disaster,,Number,,113.0
+2020,Cattle and livestock lost due to disaster,,Number,,3497.0
+2022,Cattle and livestock lost due to disaster,,Number,,201.0
+2023,Cattle and livestock lost due to disaster,,Number,,1208.0
+2024,Cattle and livestock lost due to disaster,,Number,,3146.0
