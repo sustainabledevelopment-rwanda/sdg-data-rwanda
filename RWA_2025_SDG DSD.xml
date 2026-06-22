@@ -3273,8 +3273,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of deaths due to disaster per 100,000 population [1.5.1]</common:Name>
-          <common:Description xml:lang="en">Number of deaths due to disaster per 100,000 population [1.5.1]</common:Description>
+          <common:Name xml:lang="en">Number of deaths due to disaster per 100,000 population</common:Name>
+          <common:Description xml:lang="en">Number of deaths due to disaster per 100,000 population</common:Description>
         </structure:Code>
         <structure:Code id="VC_DSR_AFFCT">
           <common:Annotations>
@@ -3301,8 +3301,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [1.5.1]</common:Name>
-          <common:Description xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population [1.5.1]</common:Description>
+          <common:Name xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population</common:Name>
+          <common:Description xml:lang="en">Number of persons injured or missing due to disaster per 100,000 population</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_1">
           <common:Annotations>
@@ -3329,8 +3329,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Houses damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Houses damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Houses damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_2">
           <common:Annotations>
@@ -3357,8 +3357,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Ha for crops damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Ha of crops damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Ha of crops damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_3">
           <common:Annotations>
@@ -3385,8 +3385,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Classrooms damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Classrooms damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Classrooms damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_4">
           <common:Annotations>
@@ -3413,8 +3413,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Health Centers damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Health centers damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Health centers damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_5">
           <common:Annotations>
@@ -3441,8 +3441,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Bridges damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Bridges damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Bridges damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_6">
           <common:Annotations>
@@ -3469,8 +3469,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Administrative Offices damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Administrative offices damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Administrative offices damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_7">
           <common:Annotations>
@@ -3497,8 +3497,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Transmission lines damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Transmission lines damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Transmission lines damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_8">
           <common:Annotations>
@@ -3525,8 +3525,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Water supply damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Water supply structures damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Water supply structures damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_9">
           <common:Annotations>
@@ -3553,8 +3553,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Markets damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Markets damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Markets damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_10">
           <common:Annotations>
@@ -3581,8 +3581,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Houses damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Houses damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Houses damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_11">
           <common:Annotations>
@@ -3609,8 +3609,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Ha for forests damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Ha of forests damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Ha of forests damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_12">
           <common:Annotations>
@@ -3637,8 +3637,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of churches damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Churches damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Churches damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_13">
           <common:Annotations>
@@ -3665,8 +3665,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of road sections damaged by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Road sections damaged by disaster</common:Name>
+          <common:Description xml:lang="en">Road sections damaged by disaster</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_010502_14">
           <common:Annotations>
@@ -3693,8 +3693,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of Cattles and livestock lost by disaster</common:Name>
-          <common:Description xml:lang="en">Direct economic loss attributed to disasters [1.5.2]</common:Description>
+          <common:Name xml:lang="en">Cattle and livestock lost due to disaster</common:Name>
+          <common:Description xml:lang="en">Cattle and livestock lost due to disaster</common:Description>
         </structure:Code>
         <structure:Code id="SG_DSR_SILS">
           <common:Annotations>
@@ -3721,8 +3721,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4]</common:Name>
-          <common:Description xml:lang="en">Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies [1.5.4]</common:Description>
+          <common:Name xml:lang="en">Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</common:Name>
+          <common:Description xml:lang="en">Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</common:Description>
         </structure:Code>
         <structure:Code id="SG_XPD_HLTH">
           <common:Annotations>
