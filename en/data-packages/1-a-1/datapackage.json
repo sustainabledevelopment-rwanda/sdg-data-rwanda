@@ -12,8 +12,33 @@
         "fields": [
           {
             "name": "Year",
-            "type": "number",
+            "type": "integer",
             "title": "Year"
+          },
+          {
+            "name": "SERIES",
+            "type": "string",
+            "title": "SDG Series"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            },
+            "title": "Reference area"
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string",
+            "title": "Unit of measure"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number",
+            "title": "GeoCode"
           },
           {
             "name": "Value",
@@ -26,5 +51,5 @@
   ],
   "profile": "data-package",
   "name": "1-a-1",
-  "title": "Proportion of domestically generated resources allocated by the government directly to poverty reduction programmes"
+  "title": "Total official development assistance grants that focus on poverty reduction as a share of the recipient country’s gross national income"
 }

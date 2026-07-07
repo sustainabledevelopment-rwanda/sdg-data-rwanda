@@ -1,9 +1,77 @@
 Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,Proportion of total government spending on health [1.a.2],,Number,,204024372542
-2017,Proportion of total government spending on health [1.a.2],,Number,,197351473973
-2022,Proportion of total government spending on health [1.a.2],,Number,,279077734548
-2015,Proportion of total government spending on social protection [1.a.2],,Number,,74731877174
-2017,Proportion of total government spending on social protection [1.a.2],,Number,,91075669292
-2015,"Proportion of total government spending on essential services, education [1.a.2]",,Number,,220651941795
-2017,"Proportion of total government spending on essential services, education [1.a.2]",,Number,,240486878694
-2022,"Proportion of total government spending on essential services, education [1.a.2]",,Number,,135710808032
+2006,Proportion of total government spending on essential services,,Percent,,31.8
+2007,Proportion of total government spending on essential services,,Percent,,30.3
+2008,Proportion of total government spending on essential services,,Percent,,27.4
+2009,Proportion of total government spending on essential services,,Percent,,27.0
+2010,Proportion of total government spending on essential services,,Percent,,31.2
+2011,Proportion of total government spending on essential services,,Percent,,29.9
+2012,Proportion of total government spending on essential services,,Percent,,29.2
+2013,Proportion of total government spending on essential services,,Percent,,27.2
+2014,Proportion of total government spending on essential services,,Percent,,27.5
+2015,Proportion of total government spending on essential services,,Percent,,28.0
+2016,Proportion of total government spending on essential services,,Percent,,27.6
+2017,Proportion of total government spending on essential services,,Percent,,25.2
+2018,Proportion of total government spending on essential services,,Percent,,25.0
+2019,Proportion of total government spending on essential services,,Percent,,25.2
+2020,Proportion of total government spending on essential services,,Percent,,23.4
+2021,Proportion of total government spending on essential services,,Percent,,27.2
+2022,Proportion of total government spending on essential services,,Percent,,24.2
+2023,Proportion of total government spending on essential services,,Percent,,26.0
+2024,Proportion of total government spending on essential services,,Percent,,26.6
+2006,Proportion of total government spending on health,,Percent,,8.8
+2007,Proportion of total government spending on health,,Percent,,9.1
+2008,Proportion of total government spending on health,,Percent,,9.6
+2009,Proportion of total government spending on health,,Percent,,9.7
+2010,Proportion of total government spending on health,,Percent,,9.6
+2011,Proportion of total government spending on health,,Percent,,9.9
+2012,Proportion of total government spending on health,,Percent,,10.7
+2013,Proportion of total government spending on health,,Percent,,10.8
+2014,Proportion of total government spending on health,,Percent,,9.2
+2015,Proportion of total government spending on health,,Percent,,11.4
+2016,Proportion of total government spending on health,,Percent,,11.3
+2017,Proportion of total government spending on health,,Percent,,9.7
+2018,Proportion of total government spending on health,,Percent,,9.3
+2019,Proportion of total government spending on health,,Percent,,9.0
+2020,Proportion of total government spending on health,,Percent,,8.1
+2021,Proportion of total government spending on health,,Percent,,8.1
+2022,Proportion of total government spending on health,,Percent,,9.8
+2023,Proportion of total government spending on health,,Percent,,7.5
+2024,Proportion of total government spending on health,,Percent,,7.0
+2006,Proportion of total government spending on social protection,,Percent,,5.1
+2007,Proportion of total government spending on social protection,,Percent,,2.8
+2008,Proportion of total government spending on social protection,,Percent,,2.5
+2009,Proportion of total government spending on social protection,,Percent,,2.9
+2010,Proportion of total government spending on social protection,,Percent,,4.3
+2011,Proportion of total government spending on social protection,,Percent,,4.1
+2012,Proportion of total government spending on social protection,,Percent,,2.5
+2013,Proportion of total government spending on social protection,,Percent,,3.0
+2014,Proportion of total government spending on social protection,,Percent,,4.4
+2015,Proportion of total government spending on social protection,,Percent,,4.4
+2016,Proportion of total government spending on social protection,,Percent,,4.1
+2017,Proportion of total government spending on social protection,,Percent,,4.2
+2018,Proportion of total government spending on social protection,,Percent,,4.3
+2019,Proportion of total government spending on social protection,,Percent,,5.5
+2020,Proportion of total government spending on social protection,,Percent,,4.9
+2021,Proportion of total government spending on social protection,,Percent,,5.0
+2022,Proportion of total government spending on social protection,,Percent,,3.7
+2023,Proportion of total government spending on social protection,,Percent,,4.5
+2024,Proportion of total government spending on social protection,,Percent,,4.7
+2006,Proportion of total government spending on education,,Percent,,17.9
+2007,Proportion of total government spending on education,,Percent,,18.4
+2008,Proportion of total government spending on education,,Percent,,15.3
+2009,Proportion of total government spending on education,,Percent,,14.4
+2010,Proportion of total government spending on education,,Percent,,17.2
+2011,Proportion of total government spending on education,,Percent,,15.8
+2012,Proportion of total government spending on education,,Percent,,16.0
+2013,Proportion of total government spending on education,,Percent,,13.4
+2014,Proportion of total government spending on education,,Percent,,14.0
+2015,Proportion of total government spending on education,,Percent,,12.2
+2016,Proportion of total government spending on education,,Percent,,12.2
+2017,Proportion of total government spending on education,,Percent,,11.3
+2018,Proportion of total government spending on education,,Percent,,11.4
+2019,Proportion of total government spending on education,,Percent,,10.8
+2020,Proportion of total government spending on education,,Percent,,10.4
+2021,Proportion of total government spending on education,,Percent,,14.0
+2022,Proportion of total government spending on education,,Percent,,10.7
+2023,Proportion of total government spending on education,,Percent,,14.0
+2024,Proportion of total government spending on education,,Percent,,14.9
