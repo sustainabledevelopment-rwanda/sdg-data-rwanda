@@ -3724,6 +3724,62 @@
           <common:Name xml:lang="en">Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</common:Name>
           <common:Description xml:lang="en">Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies</common:Description>
         </structure:Code>
+        <structure:Code id="DC_ODA_POVG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.a.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010a01</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Total official development assistance grants that focus on poverty reduction as a share of the recipient country’s gross national income</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">570</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Official development assistance for poverty reduction (percentage of GNI)</common:Name>
+          <common:Description xml:lang="en">Official development assistance for poverty reduction (percentage of GNI)</common:Description>
+        </structure:Code>
+        <structure:Code id="SG_XPD_ESSRV">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.a.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010a02</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of total government spending on essential services (education, health and social protection)</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">570</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Proportion of total government spending on essential services</common:Name>
+          <common:Description xml:lang="en">Proportion of total government spending on essential services</common:Description>
+        </structure:Code>
         <structure:Code id="SG_XPD_HLTH">
           <common:Annotations>
             <common:Annotation>
@@ -3749,8 +3805,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of total government spending on health [1.a.2]</common:Name>
-          <common:Description xml:lang="en">Proportion of total government spending on health [1.a.2]</common:Description>
+          <common:Name xml:lang="en">Proportion of total government spending on health</common:Name>
+          <common:Description xml:lang="en">Proportion of total government spending on health</common:Description>
         </structure:Code>
         <structure:Code id="SG_XPD_PROT">
           <common:Annotations>
@@ -3777,10 +3833,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of total government spending on social protection [1.a.2]</common:Name>
-          <common:Description xml:lang="en">Proportion of total government spending on social protection [1.a.2]</common:Description>
+          <common:Name xml:lang="en">Proportion of total government spending on social protection</common:Name>
+          <common:Description xml:lang="en">Proportion of total government spending on social protection</common:Description>
         </structure:Code>
-        <structure:Code id="SD_XPD_ESED">
+        <structure:Code id="SD_XPD_EDUC">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -3805,10 +3861,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of total government spending on essential services, education [1.a.2]</common:Name>
-          <common:Description xml:lang="en">Proportion of total government spending on essential services, education [1.a.2]</common:Description>
+          <common:Name xml:lang="en">Proportion of total government spending on education</common:Name>
+          <common:Description xml:lang="en">Proportion of total government spending on education</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_010B01_1">
+        <structure:Code id="SG_XPD_PR_SOC">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -3823,20 +3879,74 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Pro-poor public social spending</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">610</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">590</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
-              <common:AnnotationTitle>RetiredSeries</common:AnnotationTitle>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">This series has been retired following the 2020 Revision of the SDG Global Indicator Framework.</common:AnnotationText>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups</common:Name>
-          <common:Description xml:lang="en">Proportion of government recurrent and capital spending to sectors that disproportionately benefit women, the poor and vulnerable groups</common:Description>
+          <common:Name xml:lang="en">Percentage of VUP social transfers which benefit the poorest quintile</common:Name>
+          <common:Description xml:lang="en">Percentage of VUP social transfers which benefit the poorest quintile</common:Description>
+        </structure:Code>
+        <structure:Code id="SG_XPD_PR_HLTH">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.b.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010b01</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Pro-poor public social spending</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">590</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of medical consultations which benefit the poorest quintile</common:Name>
+          <common:Description xml:lang="en">Percentage of medical consultations which benefit the poorest quintile</common:Description>
+        </structure:Code>
+        <structure:Code id="SG_XPD_PR_EDUC">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1.b.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C010b01</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Pro-poor public social spending</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">590</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Percentage of population having ever attended school in the poorest quintile</common:Name>
+          <common:Description xml:lang="en">Percentage of population having ever attended school in the poorest quintile</common:Description>
         </structure:Code>
         <structure:Code id="SN_ITK_DEFC">
           <common:Annotations>
@@ -3866,7 +3976,6 @@
           <common:Name xml:lang="en">Prevalence of undernourishment [2.1.1]</common:Name>
           <common:Description xml:lang="en">Prevalence of undernourishment [2.1.1]</common:Description>
         </structure:Code>
-        
         <structure:Code id="_L_RW_020102_1">
           <common:Annotations>
             <common:Annotation>
