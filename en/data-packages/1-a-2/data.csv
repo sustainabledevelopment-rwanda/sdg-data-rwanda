@@ -18,6 +18,8 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2022,Proportion of total government spending on essential services,,Percent,,24.2
 2023,Proportion of total government spending on essential services,,Percent,,26.0
 2024,Proportion of total government spending on essential services,,Percent,,26.6
+2025,Proportion of total government spending on essential services,,Percent,,24.8
+2026,Proportion of total government spending on essential services,,Percent,,22.6
 2006,Proportion of total government spending on health,,Percent,,8.8
 2007,Proportion of total government spending on health,,Percent,,9.1
 2008,Proportion of total government spending on health,,Percent,,9.6
@@ -37,6 +39,8 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2022,Proportion of total government spending on health,,Percent,,9.8
 2023,Proportion of total government spending on health,,Percent,,7.5
 2024,Proportion of total government spending on health,,Percent,,7.0
+2025,Proportion of total government spending on health,,Percent,,7.1
+2026,Proportion of total government spending on health,,Percent,,6.8
 2006,Proportion of total government spending on social protection,,Percent,,5.1
 2007,Proportion of total government spending on social protection,,Percent,,2.8
 2008,Proportion of total government spending on social protection,,Percent,,2.5
@@ -56,6 +60,8 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2022,Proportion of total government spending on social protection,,Percent,,3.7
 2023,Proportion of total government spending on social protection,,Percent,,4.5
 2024,Proportion of total government spending on social protection,,Percent,,4.7
+2025,Proportion of total government spending on social protection,,Percent,,4.0
+2026,Proportion of total government spending on social protection,,Percent,,3.6
 2006,Proportion of total government spending on education,,Percent,,17.9
 2007,Proportion of total government spending on education,,Percent,,18.4
 2008,Proportion of total government spending on education,,Percent,,15.3
@@ -75,3 +81,5 @@ Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
 2022,Proportion of total government spending on education,,Percent,,10.7
 2023,Proportion of total government spending on education,,Percent,,14.0
 2024,Proportion of total government spending on education,,Percent,,14.9
+2025,Proportion of total government spending on education,,Percent,,13.7
+2026,Proportion of total government spending on education,,Percent,,12.2
