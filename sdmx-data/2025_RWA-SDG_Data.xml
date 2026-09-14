@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v11.8.4-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=NISR-SDGs:SDG(1.3):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>IREF1788787859678</message:ID>
+    <message:ID>IREF1789377101607</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2026-09-07T00:00:00Z</message:Prepared>
+    <message:Prepared>2026-09-14T00:00:00Z</message:Prepared>
     <message:Sender id="BIS"/>
     <message:Structure structureID="NISR-SDGs_SDG_1_3" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=NISR-SDGs:SDG(1.3):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
@@ -316,7 +316,7 @@
     <Obs TIME_PERIOD="2012" OBS_VALUE="0.064" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2012" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
     <Obs TIME_PERIOD="2014" OBS_VALUE="0.07" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
     <Obs TIME_PERIOD="2017" OBS_VALUE="0.07" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="0.040" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="0.04" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="0.053" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_POV_NMPI" REF_AREA="2" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
@@ -332,7 +332,7 @@
     <Obs TIME_PERIOD="2012" OBS_VALUE="0.189" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2012" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
     <Obs TIME_PERIOD="2014" OBS_VALUE="0.19" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
     <Obs TIME_PERIOD="2017" OBS_VALUE="0.16" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="0.150" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="0.15" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="0.149" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_POV_NMPI" REF_AREA="4" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="IX">
@@ -348,7 +348,7 @@
     <Obs TIME_PERIOD="2012" OBS_VALUE="0.192" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2012" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
     <Obs TIME_PERIOD="2014" OBS_VALUE="0.18" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
     <Obs TIME_PERIOD="2017" OBS_VALUE="0.17" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="0.150" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="0.15" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="0.157" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Multidimensional Poverty Index" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SI_COV_BENFTS" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
@@ -498,6 +498,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="1.55" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="1.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="1.38" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="1.03" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Number of deaths due to disaster per 100,000 population" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="VC_DSR_AFFCT" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PER_100000_POP">
     <Obs TIME_PERIOD="2016" OBS_VALUE="1.51" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2016" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -509,6 +510,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="3.04" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="3.01" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="3.25" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="2.03" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Number of persons injured or missing due to disaster per 100,000 population" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_1" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="15910" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Houses damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -518,6 +520,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="4156" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Houses damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="9955" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Houses damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="2005" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Houses damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="1841" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Houses damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_2" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="13337.0" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Ha of crops damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -527,6 +530,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="1917.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Ha of crops damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="2176.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Ha of crops damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="1355.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Ha of crops damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="1155" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Ha of crops damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_3" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="73" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Classrooms damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -536,6 +540,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="323" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Classrooms damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="154" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Classrooms damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="81" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Classrooms damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="139" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Classrooms damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_4" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="3" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Health centers damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -545,6 +550,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="1" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Health centers damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="5" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Health centers damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Health centers damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="6" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Health centers damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_5" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="64" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Bridges damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -554,6 +560,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="59" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Bridges damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="57" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Bridges damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="42" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Bridges damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="22" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Bridges damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_6" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="12" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Administrative offices damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -563,6 +570,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="21" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Administrative offices damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="25" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Administrative offices damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="11" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Administrative offices damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="12" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Administrative offices damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_7" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="26" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Transmission lines damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -572,6 +580,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="80" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Transmission lines damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="32" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Transmission lines damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="34" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Transmission lines damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="88" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Transmission lines damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_8" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="1" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Water supply structures damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -604,6 +613,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="73" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Ha of forests damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="41" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Ha of forests damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="306" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Ha of forests damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="58" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Ha of forests damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_12" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="27" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Churches damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -612,6 +622,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="20" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Churches damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="30" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Churches damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="12" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Churches damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="9" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Churches damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_13" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="32" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Road sections damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -620,6 +631,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="72" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Road sections damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="32" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Road sections damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="69" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Road sections damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="25" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Road sections damaged by disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_010502_14" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="NUMBER">
     <Obs TIME_PERIOD="2018" OBS_VALUE="815" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Cattle and livestock lost due to disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -628,6 +640,7 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="201" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Cattle and livestock lost due to disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="1208" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Cattle and livestock lost due to disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="3146" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Cattle and livestock lost due to disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="104" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Cattle and livestock lost due to disaster" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SG_DSR_SILS" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2014" OBS_VALUE="73.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2014" COMMENT_OBS="Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
@@ -638,6 +651,8 @@
     <Obs TIME_PERIOD="2022" OBS_VALUE="100" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2023" OBS_VALUE="100" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
     <Obs TIME_PERIOD="2024" OBS_VALUE="100" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="100" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
+    <Obs TIME_PERIOD="2026" OBS_VALUE="100" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2026" COMMENT_OBS="Proportion of local governments that adopt and implement local disaster risk reduction strategies in line with national disaster risk reduction strategies" SOURCE_DETAIL="Ministry in Charge of Emergency Management (MINEMA)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="DC_ODA_POVG" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2010" OBS_VALUE="7.87" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2010" COMMENT_OBS="Official development assistance for poverty reduction (percentage of GNI)" SOURCE_DETAIL="Ministry of Finance and Economic Planning (MINECOFIN)"/>
