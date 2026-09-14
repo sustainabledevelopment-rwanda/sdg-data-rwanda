@@ -8,6 +8,7 @@ Year,Value,GeoCode,UNIT_MEASURE,SERIES
 2022,1.55,,"Per 100,000 population","Number of deaths due to disaster per 100,000 population"
 2023,1.8,,"Per 100,000 population","Number of deaths due to disaster per 100,000 population"
 2024,1.38,,"Per 100,000 population","Number of deaths due to disaster per 100,000 population"
+2025,1.03,,"Per 100,000 population","Number of deaths due to disaster per 100,000 population"
 2016,1.51,,"Per 100,000 population","Number of persons injured or missing due to disaster per 100,000 population"
 2017,1.28,,"Per 100,000 population","Number of persons injured or missing due to disaster per 100,000 population"
 2018,2.86,,"Per 100,000 population","Number of persons injured or missing due to disaster per 100,000 population"
@@ -17,3 +18,4 @@ Year,Value,GeoCode,UNIT_MEASURE,SERIES
 2022,3.04,,"Per 100,000 population","Number of persons injured or missing due to disaster per 100,000 population"
 2023,3.01,,"Per 100,000 population","Number of persons injured or missing due to disaster per 100,000 population"
 2024,3.25,,"Per 100,000 population","Number of persons injured or missing due to disaster per 100,000 population"
+2025,2.03,,"Per 100,000 population","Number of persons injured or missing due to disaster per 100,000 population"
