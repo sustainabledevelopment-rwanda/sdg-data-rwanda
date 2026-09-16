@@ -2,9 +2,9 @@
 <!--Created with SDMX Converter v11.8.4-->
 <message:StructureSpecificData xmlns:ss="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/data/structurespecific" xmlns:footer="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message/footer" xmlns:ns1="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=NISR-SDGs:SDG(1.3):ObsLevelDim:TIME_PERIOD" xmlns:message="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/message" xmlns:common="http://www.sdmx.org/resources/sdmxml/schemas/v2_1/common" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xml="http://www.w3.org/XML/1998/namespace">
   <message:Header>
-    <message:ID>IREF1789377101607</message:ID>
+    <message:ID>IREF1789546574206</message:ID>
     <message:Test>false</message:Test>
-    <message:Prepared>2026-09-14T00:00:00Z</message:Prepared>
+    <message:Prepared>2026-09-16T00:00:00Z</message:Prepared>
     <message:Sender id="BIS"/>
     <message:Structure structureID="NISR-SDGs_SDG_1_3" namespace="urn:sdmx:org.sdmx.infomodel.datastructure.DataStructure=NISR-SDGs:SDG(1.3):ObsLevelDim:TIME_PERIOD" dimensionAtObservation="TIME_PERIOD">
       <common:Structure>
@@ -780,12 +780,15 @@
     <Obs TIME_PERIOD="2024" OBS_VALUE="19.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of population having ever attended school in the poorest quintile" SOURCE_DETAIL="National Institute of Statistics of Rwanda (NISR)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="SN_ITK_DEFC" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
-    <Obs TIME_PERIOD="2017" OBS_VALUE="33" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
-    <Obs TIME_PERIOD="2018" OBS_VALUE="32" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
-    <Obs TIME_PERIOD="2019" OBS_VALUE="34" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2019" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
-    <Obs TIME_PERIOD="2020" OBS_VALUE="32" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2020" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
-    <Obs TIME_PERIOD="2021" OBS_VALUE="32" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2021" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
-    <Obs TIME_PERIOD="2022" OBS_VALUE="29" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
+    <Obs TIME_PERIOD="2017" OBS_VALUE="38.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2017" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
+    <Obs TIME_PERIOD="2018" OBS_VALUE="37.6" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2018" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
+    <Obs TIME_PERIOD="2019" OBS_VALUE="40.2" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2019" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
+    <Obs TIME_PERIOD="2020" OBS_VALUE="38.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2020" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
+    <Obs TIME_PERIOD="2021" OBS_VALUE="38.5" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2021" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
+    <Obs TIME_PERIOD="2022" OBS_VALUE="35.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2022" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
+    <Obs TIME_PERIOD="2023" OBS_VALUE="32.7" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2023" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
+    <Obs TIME_PERIOD="2024" OBS_VALUE="31.3" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2024" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
+    <Obs TIME_PERIOD="2025" OBS_VALUE="29.9" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2025" COMMENT_OBS="Percentage of food insecure households" SOURCE_DETAIL="NISR, Food Balance Sheets (FBS)"/>
   </Series>
   <Series FREQ="A" REPORTING_TYPE="N" SERIES="_L_RW_020102_1" REF_AREA="RW" SEX="_T" AGE="_T" URBANISATION="_T" INCOME_WEALTH_QUANTILE="_T" EDUCATION_LEV="_T" OCCUPATION="_T" CUST_BREAKDOWN="_T" COMPOSITE_BREAKDOWN="_T" DISABILITY_STATUS="_T" ACTIVITY="_T" PRODUCT="_T" UNIT_MEASURE="PT">
     <Obs TIME_PERIOD="2015" OBS_VALUE="16.8" OBS_STATUS="A" UNIT_MULT="0" NATURE="_X" TIME_DETAIL="2015" COMMENT_OBS="Moderately food insecure based on CARI Method" SOURCE_DETAIL="CFSVA, NISR, MINAGRI"/>
