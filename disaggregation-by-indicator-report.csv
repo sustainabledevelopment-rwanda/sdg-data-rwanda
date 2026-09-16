@@ -13,6 +13,8 @@ Indicator,Disaggregations,Number of disaggregations
 #17-8-1,SEX,1
 #2-2-1,"SEX, AGE",2
 #2-2-2,"SEX, AGE",2
+#2-2-3,"SEX, AGE",2
+#2-2-4,"SEX, AGE",2
 #3-1-2,URBANISATION,1
 #3-2-1,"SEX, AGE, URBANISATION",3
 #3-2-2,"SEX, AGE, URBANISATION",3

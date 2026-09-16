@@ -1,6 +1,6 @@
 Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2005,51.0,,Percent,Proportion of children moderately or severely stunted [2.2.1]
-2010,44.0,,Percent,Proportion of children moderately or severely stunted [2.2.1]
-2015,37.9,,Percent,Proportion of children moderately or severely stunted [2.2.1]
-2020,33.1,,Percent,Proportion of children moderately or severely stunted [2.2.1]
-2025,26.8,,Percent,Proportion of children moderately or severely stunted [2.2.1]
+2005,51.0,,Percent,Prevalence of stunting among children under 5 years of age
+2010,44.0,,Percent,Prevalence of stunting among children under 5 years of age
+2015,37.9,,Percent,Prevalence of stunting among children under 5 years of age
+2020,33.1,,Percent,Prevalence of stunting among children under 5 years of age
+2025,26.8,,Percent,Prevalence of stunting among children under 5 years of age

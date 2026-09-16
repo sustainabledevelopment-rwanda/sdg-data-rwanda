@@ -1,22 +1,22 @@
 Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
-2005,Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,5.0
-2010,Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,3.0
-2015,Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,2.0
-2020,Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,1.1
-2025,Proportion of children moderately or severely wasted [2.2.2],,,under 5 years old,Percent,,0.9
-2015,Proportion of children moderately or severely wasted [2.2.2],,Male,under 5 years old,Percent,,2.4
-2020,Proportion of children moderately or severely wasted [2.2.2],,Male,under 5 years old,Percent,,0.9
-2025,Proportion of children moderately or severely wasted [2.2.2],,Male,under 5 years old,Percent,,1.0
-2015,Proportion of children moderately or severely wasted [2.2.2],,Female,under 5 years old,Percent,,2.0
-2020,Proportion of children moderately or severely wasted [2.2.2],,Female,under 5 years old,Percent,,1.4
-2025,Proportion of children moderately or severely wasted [2.2.2],,Female,under 5 years old,Percent,,0.8
-2010,Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,7.0
-2015,Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,8.0
-2020,Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,5.6
-2025,Proportion of children moderately or severely overweight [2.2.2],,,under 5 years old,Percent,,5.1
-2015,Proportion of children moderately or severely overweight [2.2.2],,Male,under 5 years old,Percent,,8.1
-2020,Proportion of children moderately or severely overweight [2.2.2],,Male,under 5 years old,Percent,,5.8
-2025,Proportion of children moderately or severely overweight [2.2.2],,Male,under 5 years old,Percent,,6.2
-2015,Proportion of children moderately or severely overweight [2.2.2],,Female,under 5 years old,Percent,,7.3
-2020,Proportion of children moderately or severely overweight [2.2.2],,Female,under 5 years old,Percent,,5.4
-2025,Proportion of children moderately or severely overweight [2.2.2],,Female,under 5 years old,Percent,,4.0
+2005,Prevalence of wasting among children under 5 years of age,,,under 5 years old,Percent,,5.0
+2010,Prevalence of wasting among children under 5 years of age,,,under 5 years old,Percent,,3.0
+2015,Prevalence of wasting among children under 5 years of age,,,under 5 years old,Percent,,2.0
+2020,Prevalence of wasting among children under 5 years of age,,,under 5 years old,Percent,,1.1
+2025,Prevalence of wasting among children under 5 years of age,,,under 5 years old,Percent,,0.9
+2015,Prevalence of wasting among children under 5 years of age,,Male,under 5 years old,Percent,,2.4
+2020,Prevalence of wasting among children under 5 years of age,,Male,under 5 years old,Percent,,0.9
+2025,Prevalence of wasting among children under 5 years of age,,Male,under 5 years old,Percent,,1.0
+2015,Prevalence of wasting among children under 5 years of age,,Female,under 5 years old,Percent,,2.0
+2020,Prevalence of wasting among children under 5 years of age,,Female,under 5 years old,Percent,,1.4
+2025,Prevalence of wasting among children under 5 years of age,,Female,under 5 years old,Percent,,0.8
+2010,Prevalence of overweight among children under 5 years of age,,,under 5 years old,Percent,,7.0
+2015,Prevalence of overweight among children under 5 years of age,,,under 5 years old,Percent,,8.0
+2020,Prevalence of overweight among children under 5 years of age,,,under 5 years old,Percent,,5.6
+2025,Prevalence of overweight among children under 5 years of age,,,under 5 years old,Percent,,5.1
+2015,Prevalence of overweight among children under 5 years of age,,Male,under 5 years old,Percent,,8.1
+2020,Prevalence of overweight among children under 5 years of age,,Male,under 5 years old,Percent,,5.8
+2025,Prevalence of overweight among children under 5 years of age,,Male,under 5 years old,Percent,,6.2
+2015,Prevalence of overweight among children under 5 years of age,,Female,under 5 years old,Percent,,7.3
+2020,Prevalence of overweight among children under 5 years of age,,Female,under 5 years old,Percent,,5.4
+2025,Prevalence of overweight among children under 5 years of age,,Female,under 5 years old,Percent,,4.0

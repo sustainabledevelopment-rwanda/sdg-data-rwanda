@@ -1,12 +1,12 @@
 Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
-2005,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,51.0
-2010,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,44.0
-2015,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,37.9
-2020,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,33.1
-2025,Proportion of children moderately or severely stunted [2.2.1],,,,Percent,,26.8
-2015,Proportion of children moderately or severely stunted [2.2.1],,Male,under 5 years old,Percent,,42.7
-2020,Proportion of children moderately or severely stunted [2.2.1],,Male,under 5 years old,Percent,,37.0
-2025,Proportion of children moderately or severely stunted [2.2.1],,Male,under 5 years old,Percent,,29.3
-2015,Proportion of children moderately or severely stunted [2.2.1],,Female,under 5 years old,Percent,,32.9
-2020,Proportion of children moderately or severely stunted [2.2.1],,Female,under 5 years old,Percent,,29.2
-2025,Proportion of children moderately or severely stunted [2.2.1],,Female,under 5 years old,Percent,,24.1
+2005,Prevalence of stunting among children under 5 years of age,,,,Percent,,51.0
+2010,Prevalence of stunting among children under 5 years of age,,,,Percent,,44.0
+2015,Prevalence of stunting among children under 5 years of age,,,,Percent,,37.9
+2020,Prevalence of stunting among children under 5 years of age,,,,Percent,,33.1
+2025,Prevalence of stunting among children under 5 years of age,,,,Percent,,26.8
+2015,Prevalence of stunting among children under 5 years of age,,Male,under 5 years old,Percent,,42.7
+2020,Prevalence of stunting among children under 5 years of age,,Male,under 5 years old,Percent,,37.0
+2025,Prevalence of stunting among children under 5 years of age,,Male,under 5 years old,Percent,,29.3
+2015,Prevalence of stunting among children under 5 years of age,,Female,under 5 years old,Percent,,32.9
+2020,Prevalence of stunting among children under 5 years of age,,Female,under 5 years old,Percent,,29.2
+2025,Prevalence of stunting among children under 5 years of age,,Female,under 5 years old,Percent,,24.1

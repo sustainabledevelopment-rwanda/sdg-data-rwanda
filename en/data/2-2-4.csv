@@ -1,1 +1,8 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
+2015,Prevalence of minimum dietary diversity among children aged 6-23 months,,,Y0T2,Percent,,29
+2018,Prevalence of minimum dietary diversity among children aged 6-23 months,,,Y0T2,Percent,,40
+2021,Prevalence of minimum dietary diversity among children aged 6-23 months,,,Y0T2,Percent,,33
+2024,Prevalence of minimum dietary diversity among children aged 6-23 months,,,Y0T2,Percent,,45
+2018,Prevalence of minimum dietary diversity among women aged 15-49 years,,Female,15 to 49 years old,Percent,,28
+2021,Prevalence of minimum dietary diversity among women aged 15-49 years,,Female,15 to 49 years old,Percent,,32
+2024,Prevalence of minimum dietary diversity among women aged 15-49 years,,Female,15 to 49 years old,Percent,,41
