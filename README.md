@@ -24,7 +24,7 @@ Two other repositories in this organization, [sdg-indicators-archived](https://g
 
 ## Deployment
 
-The three repositories described in the previous section are linked in the deployment process.
+The repositories described in the previous section are linked in the deployment process.
 
 ### Data service
 
@@ -71,10 +71,11 @@ All changes to the production site should go through the process of merging to `
 # Making changes
 
 Changes can be made to the following parts of the platform:
-- Sitewide configurations (site repository - site_config.yml): Any sitewide customisations including any content or text on the frontpage; any images, colours, or custom content; configuration forms for data, metadata, and indicators; reporting status; time series options.
-- Page configurations (site repository - _pages folder): Updates to the content of pages, e.g. About, FAQ, etc. If you change the ‘permalink’ you will need to change the site configuration settings.
-- Indicator specific configurations (data repository - meta folder): In this version of Open SDG, indicator configuration is in the same file as metadata. You can update them both in the same file, in the meta folder of your data repository.
-- Data configurations (data repository - config_data.yml): This file allows you to update configurations related to data. To update data and metadata themselves, see **Data update process** below.
+- Sitewide configurations (site repository - `site_config.yml`): Any sitewide customisations including any content or text on the frontpage; any images, colours, or custom content; configuration forms for data, metadata, and indicators; reporting status; time series options.
+- Page configurations (site repository - `_pages` folder): Updates to the content of pages, e.g. About, FAQ, etc. If you change the ‘permalink’ you will need to change the site configuration settings.
+- Indicator specific configurations (data repository - `meta` folder): In this version of Open SDG, indicator configuration is in the same file as metadata. You can update them both in the same file, in the meta folder of your data repository.
+- Data configurations (data repository - `config_data.yml`): This file allows you to update configurations related to data. 
+- Data and metadata: (data repository): See **Data update process** below.
 
 To make changes, create a feature branch from the `develop` branch. When the changes look right, push them to `develop`; this will enable you to test the changes on the staging site. When you are done testing, push `develop` to `master`. 
 
