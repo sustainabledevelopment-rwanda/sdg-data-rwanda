@@ -3973,8 +3973,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Prevalence of undernourishment [2.1.1]</common:Name>
-          <common:Description xml:lang="en">Prevalence of undernourishment [2.1.1]</common:Description>
+          <common:Name xml:lang="en">Prevalence of undernourishment</common:Name>
+          <common:Description xml:lang="en">Prevalence of undernourishment</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_020102_1">
           <common:Annotations>
@@ -4001,8 +4001,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Moderately food insecure based on CARI Method</common:Name>
-          <common:Description xml:lang="en">Moderately food insecure based on CARI Method</common:Description>
+          <common:Name xml:lang="en">Prevalence of moderate food insecurity</common:Name>
+          <common:Description xml:lang="en">Prevalence of moderate food insecurity</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_020102_2">
           <common:Annotations>
@@ -4029,8 +4029,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Severely food insecure based on CARI Method</common:Name>
-          <common:Description xml:lang="en">Severely food insecure based on CARI Method</common:Description>
+          <common:Name xml:lang="en">Prevalence of severe food insecurity</common:Name>
+          <common:Description xml:lang="en">Prevalence of severe food insecurity</common:Description>
         </structure:Code>
         <structure:Code id="SH_STA_STNT">
           <common:Annotations>
@@ -4057,8 +4057,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of children moderately or severely stunted [2.2.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of children moderately or severely stunted [2.2.1]</common:Description>
+          <common:Name xml:lang="en">Prevalence of stunting among children under 5 years of age</common:Name>
+          <common:Description xml:lang="en">Prevalence of stunting among children under 5 years of age</common:Description>
         </structure:Code>
         <structure:Code id="SH_STA_WAST">
           <common:Annotations>
@@ -4085,8 +4085,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of children moderately or severely wasted [2.2.2]</common:Name>
-          <common:Description xml:lang="en">Proportion of children moderately or severely wasted [2.2.2]</common:Description>
+          <common:Name xml:lang="en">Prevalence of wasting among children under 5 years of age</common:Name>
+          <common:Description xml:lang="en">Prevalence of wasting among children under 5 years of age</common:Description>
         </structure:Code>
         <structure:Code id="SN_STA_OVWGT">
           <common:Annotations>
@@ -4113,10 +4113,149 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of children moderately or severely overweight [2.2.2]</common:Name>
-          <common:Description xml:lang="en">Proportion of children moderately or severely overweight [2.2.2]</common:Description>
+          <common:Name xml:lang="en">Prevalence of overweight among children under 5 years of age</common:Name>
+          <common:Description xml:lang="en">Prevalence of overweight among children under 5 years of age</common:Description>
         </structure:Code>
-        
+        <structure:Code id="SH_STA_ANEM">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.2.3</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C020203</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">740</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Prevalence of anaemia in women aged 15 to 49 years</common:Name>
+          <common:Description xml:lang="en">Prevalence of anaemia in women aged 15 to 49 years</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_STA_ANEM_NPRG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.2.3</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C020203</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">740</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Prevalence of anaemia in non-pregnant women aged 15 to 49 years</common:Name>
+          <common:Description xml:lang="en">Prevalence of anaemia in non-pregnant women aged 15 to 49 years</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_STA_ANEM_PREG">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.2.3</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C020203</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Prevalence of anaemia in women aged 15 to 49 years, by pregnancy status</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">740</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Prevalence of anaemia in pregnant women</common:Name>
+          <common:Description xml:lang="en">Prevalence of anaemia in pregnant women</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_MDD_CHLD">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.2.4</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C020204</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Prevalence of minimum dietary diversity, by population group (children aged 6 to 23 months and non-pregnant women aged 15 to 49 years)</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">740</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Prevalence of minimum dietary diversity among children aged 6-23 months</common:Name>
+          <common:Description xml:lang="en">Prevalence of minimum dietary diversity among children aged 6-23 months</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_MDD_WMN">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">2.2.4</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C020204</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Prevalence of minimum dietary diversity, by population group (children aged 6 to 23 months and non-pregnant women aged 15 to 49 years)</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">740</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Prevalence of minimum dietary diversity among women aged 15-49 years</common:Name>
+          <common:Description xml:lang="en">Prevalence of minimum dietary diversity among women aged 15-49 years</common:Description>
+        </structure:Code>
         <structure:Code id="_L_RW_020501_1">
           <common:Annotations>
             <common:Annotation>
