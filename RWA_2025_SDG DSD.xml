@@ -3976,7 +3976,7 @@
           <common:Name xml:lang="en">Prevalence of undernourishment</common:Name>
           <common:Description xml:lang="en">Prevalence of undernourishment</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_020102_1">
+        <structure:Code id="AG_PRD_FIESMS">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -4004,7 +4004,7 @@
           <common:Name xml:lang="en">Prevalence of moderate food insecurity</common:Name>
           <common:Description xml:lang="en">Prevalence of moderate food insecurity</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_020102_2">
+        <structure:Code id="AG_PRD_FIESS">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -4564,7 +4564,7 @@
           <common:Name xml:lang="en">Percentage of plots with moderate to severe erosion</common:Name>
           <common:Description xml:lang="en">Percentage of plots with moderate to severe erosion</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_020501_1">
+        <structure:Code id="ER_GRF_PLNTSTOR">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -4589,10 +4589,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Plant Genetic Resources</common:Name>
-          <common:Description xml:lang="en">Plant Genetic Resources</common:Description>
+          <common:Name xml:lang="en">Number of plant genetic resources for food and agriculture secured in either medium- or long-term conservation facilities</common:Name>
+          <common:Description xml:lang="en">Number of plant genetic resources for food and agriculture secured in either medium- or long-term conservation facilities</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_020501_2">
+        <structure:Code id="ER_GRF_FORSTOR">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -4617,10 +4617,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Forest Genetic Resources</common:Name>
-          <common:Description xml:lang="en">Forest Genetic Resources</common:Description>
+          <common:Name xml:lang="en">Number of forest genetic resources secured in either medium- or long-term conservation facilities</common:Name>
+          <common:Description xml:lang="en">Number of forest genetic resources secured in either medium- or long-term conservation facilities</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_020501_3">
+        <structure:Code id="ER_GRF_ANIMRCNTN">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -4645,8 +4645,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Animal Genetic Resources</common:Name>
-          <common:Description xml:lang="en">Animal Genetic Resources</common:Description>
+          <common:Name xml:lang="en">Number of animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities</common:Name>
+          <common:Description xml:lang="en">Number of animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities</common:Description>
         </structure:Code>
         <structure:Code id="SH_STA_MORT">
           <common:Annotations>
