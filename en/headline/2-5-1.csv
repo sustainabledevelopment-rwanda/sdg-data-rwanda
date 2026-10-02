@@ -1,10 +1,16 @@
 Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2019,1335,,Number,Plant Genetic Resources
-2020,1363,,Number,Plant Genetic Resources
-2022,1335,,Number,Plant Genetic Resources
-2019,58,,Number,Forest Genetic Resources
-2020,62,,Number,Forest Genetic Resources
-2022,48,,Number,Forest Genetic Resources
-2019,173,,Number,Animal Genetic Resources
-2020,192,,Number,Animal Genetic Resources
-2022,306,,Number,Animal Genetic Resources
+2019,646,,Number,Number of plant genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+2020,1208,,Number,Number of plant genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+2021,1307,,Number,Number of plant genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+2022,1335,,Number,Number of plant genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+2023,1642,,Number,Number of plant genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+2019,11,,Number,Number of forest genetic resources secured in either medium- or long-term conservation facilities
+2020,37,,Number,Number of forest genetic resources secured in either medium- or long-term conservation facilities
+2021,43,,Number,Number of forest genetic resources secured in either medium- or long-term conservation facilities
+2022,48,,Number,Number of forest genetic resources secured in either medium- or long-term conservation facilities
+2023,146,,Number,Number of forest genetic resources secured in either medium- or long-term conservation facilities
+2019,40,,Number,Number of animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+2020,55,,Number,Number of animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+2021,81,,Number,Number of animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+2022,306,,Number,Number of animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
+2023,404,,Number,Number of animal genetic resources for food and agriculture secured in either medium- or long-term conservation facilities
