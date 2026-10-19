@@ -1,37 +1,56 @@
 Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2000,Under-five mortality rate [3.2.1],,,under 5 years old,,"Per 1,000 live births",,196
-2005,Under-five mortality rate [3.2.1],,,under 5 years old,,"Per 1,000 live births",,152
-2008,Under-five mortality rate [3.2.1],,,under 5 years old,,"Per 1,000 live births",,103
-2010,Under-five mortality rate [3.2.1],,,under 5 years old,,"Per 1,000 live births",,76
-2015,Under-five mortality rate [3.2.1],,,under 5 years old,,"Per 1,000 live births",,50
-2020,Under-five mortality rate [3.2.1],,,under 5 years old,,"Per 1,000 live births",,45
-2020,Under-five mortality rate [3.2.1],,Male,under 5 years old,,"Per 1,000 live births",,47
-2020,Under-five mortality rate [3.2.1],,Female,under 5 years old,,"Per 1,000 live births",,43
-2008,Under-five mortality rate [3.2.1],,,under 5 years old,Urban,"Per 1,000 live births",,87
-2010,Under-five mortality rate [3.2.1],,,under 5 years old,Urban,"Per 1,000 live births",,81
-2015,Under-five mortality rate [3.2.1],,,under 5 years old,Urban,"Per 1,000 live births",,51
-2020,Under-five mortality rate [3.2.1],,,under 5 years old,Urban,"Per 1,000 live births",,35
-2008,Under-five mortality rate [3.2.1],,,under 5 years old,Rural,"Per 1,000 live births",,142
-2010,Under-five mortality rate [3.2.1],,,under 5 years old,Rural,"Per 1,000 live births",,105
-2015,Under-five mortality rate [3.2.1],,,under 5 years old,Rural,"Per 1,000 live births",,70
-2020,Under-five mortality rate [3.2.1],,,under 5 years old,Rural,"Per 1,000 live births",,48
-2008,Under-five mortality rate [3.2.1],City of Kigali,,under 5 years old,,"Per 1,000 live births",1,102
-2010,Under-five mortality rate [3.2.1],City of Kigali,,under 5 years old,,"Per 1,000 live births",1,79
-2015,Under-five mortality rate [3.2.1],City of Kigali,,under 5 years old,,"Per 1,000 live births",1,42
-2020,Under-five mortality rate [3.2.1],City of Kigali,,under 5 years old,,"Per 1,000 live births",1,31
-2008,Under-five mortality rate [3.2.1],Southern Province,,under 5 years old,,"Per 1,000 live births",2,127
-2010,Under-five mortality rate [3.2.1],Southern Province,,under 5 years old,,"Per 1,000 live births",2,96
-2015,Under-five mortality rate [3.2.1],Southern Province,,under 5 years old,,"Per 1,000 live births",2,66
-2020,Under-five mortality rate [3.2.1],Southern Province,,under 5 years old,,"Per 1,000 live births",2,56
-2008,Under-five mortality rate [3.2.1],Western Province,,under 5 years old,,"Per 1,000 live births",3,129
-2010,Under-five mortality rate [3.2.1],Western Province,,under 5 years old,,"Per 1,000 live births",3,88
-2015,Under-five mortality rate [3.2.1],Western Province,,under 5 years old,,"Per 1,000 live births",3,62
-2020,Under-five mortality rate [3.2.1],Western Province,,under 5 years old,,"Per 1,000 live births",3,44
-2008,Under-five mortality rate [3.2.1],Northern Province,,under 5 years old,,"Per 1,000 live births",4,115
-2010,Under-five mortality rate [3.2.1],Northern Province,,under 5 years old,,"Per 1,000 live births",4,107
-2015,Under-five mortality rate [3.2.1],Northern Province,,under 5 years old,,"Per 1,000 live births",4,60
-2020,Under-five mortality rate [3.2.1],Northern Province,,under 5 years old,,"Per 1,000 live births",4,57
-2008,Under-five mortality rate [3.2.1],Eastern Province,,under 5 years old,,"Per 1,000 live births",5,174
-2010,Under-five mortality rate [3.2.1],Eastern Province,,under 5 years old,,"Per 1,000 live births",5,125
-2015,Under-five mortality rate [3.2.1],Eastern Province,,under 5 years old,,"Per 1,000 live births",5,86
-2020,Under-five mortality rate [3.2.1],Eastern Province,,under 5 years old,,"Per 1,000 live births",5,56
+2000,Under-five mortality rate,,,under 5 years old,,"Per 1,000 live births",,196
+2005,Under-five mortality rate,,,under 5 years old,,"Per 1,000 live births",,152
+2008,Under-five mortality rate,,,under 5 years old,,"Per 1,000 live births",,103
+2010,Under-five mortality rate,,,under 5 years old,,"Per 1,000 live births",,76
+2015,Under-five mortality rate,,,under 5 years old,,"Per 1,000 live births",,50
+2020,Under-five mortality rate,,,under 5 years old,,"Per 1,000 live births",,45
+2025,Under-five mortality rate,,,under 5 years old,,"Per 1,000 live births",,36
+2008,Under-five mortality rate,,Male,under 5 years old,,"Per 1,000 live births",,146
+2010,Under-five mortality rate,,Male,under 5 years old,,"Per 1,000 live births",,107
+2015,Under-five mortality rate,,Male,under 5 years old,,"Per 1,000 live births",,70
+2020,Under-five mortality rate,,Male,under 5 years old,,"Per 1,000 live births",,47
+2025,Under-five mortality rate,,Male,under 5 years old,,"Per 1,000 live births",,40
+2008,Under-five mortality rate,,Female,under 5 years old,,"Per 1,000 live births",,123
+2010,Under-five mortality rate,,Female,under 5 years old,,"Per 1,000 live births",,97
+2015,Under-five mortality rate,,Female,under 5 years old,,"Per 1,000 live births",,64
+2020,Under-five mortality rate,,Female,under 5 years old,,"Per 1,000 live births",,43
+2025,Under-five mortality rate,,Female,under 5 years old,,"Per 1,000 live births",,32
+2000,Under-five mortality rate,,,under 5 years old,Urban,"Per 1,000 live births",,141
+2008,Under-five mortality rate,,,under 5 years old,Urban,"Per 1,000 live births",,87
+2010,Under-five mortality rate,,,under 5 years old,Urban,"Per 1,000 live births",,81
+2015,Under-five mortality rate,,,under 5 years old,Urban,"Per 1,000 live births",,51
+2020,Under-five mortality rate,,,under 5 years old,Urban,"Per 1,000 live births",,35
+2025,Under-five mortality rate,,,under 5 years old,Urban,"Per 1,000 live births",,32
+2000,Under-five mortality rate,,,under 5 years old,Rural,"Per 1,000 live births",,216
+2008,Under-five mortality rate,,,under 5 years old,Rural,"Per 1,000 live births",,142
+2010,Under-five mortality rate,,,under 5 years old,Rural,"Per 1,000 live births",,105
+2015,Under-five mortality rate,,,under 5 years old,Rural,"Per 1,000 live births",,70
+2020,Under-five mortality rate,,,under 5 years old,Rural,"Per 1,000 live births",,48
+2025,Under-five mortality rate,,,under 5 years old,Rural,"Per 1,000 live births",,38
+2000,Under-five mortality rate,City of Kigali,,under 5 years old,,"Per 1,000 live births",1,140
+2008,Under-five mortality rate,City of Kigali,,under 5 years old,,"Per 1,000 live births",1,102
+2010,Under-five mortality rate,City of Kigali,,under 5 years old,,"Per 1,000 live births",1,79
+2015,Under-five mortality rate,City of Kigali,,under 5 years old,,"Per 1,000 live births",1,42
+2020,Under-five mortality rate,City of Kigali,,under 5 years old,,"Per 1,000 live births",1,31
+2025,Under-five mortality rate,City of Kigali,,under 5 years old,,"Per 1,000 live births",1,32
+2008,Under-five mortality rate,Southern Province,,under 5 years old,,"Per 1,000 live births",2,127
+2010,Under-five mortality rate,Southern Province,,under 5 years old,,"Per 1,000 live births",2,96
+2015,Under-five mortality rate,Southern Province,,under 5 years old,,"Per 1,000 live births",2,66
+2020,Under-five mortality rate,Southern Province,,under 5 years old,,"Per 1,000 live births",2,56
+2025,Under-five mortality rate,Southern Province,,under 5 years old,,"Per 1,000 live births",2,35
+2008,Under-five mortality rate,Western Province,,under 5 years old,,"Per 1,000 live births",3,129
+2010,Under-five mortality rate,Western Province,,under 5 years old,,"Per 1,000 live births",3,88
+2015,Under-five mortality rate,Western Province,,under 5 years old,,"Per 1,000 live births",3,62
+2020,Under-five mortality rate,Western Province,,under 5 years old,,"Per 1,000 live births",3,44
+2025,Under-five mortality rate,Western Province,,under 5 years old,,"Per 1,000 live births",3,36
+2008,Under-five mortality rate,Northern Province,,under 5 years old,,"Per 1,000 live births",4,115
+2010,Under-five mortality rate,Northern Province,,under 5 years old,,"Per 1,000 live births",4,107
+2015,Under-five mortality rate,Northern Province,,under 5 years old,,"Per 1,000 live births",4,60
+2020,Under-five mortality rate,Northern Province,,under 5 years old,,"Per 1,000 live births",4,57
+2025,Under-five mortality rate,Northern Province,,under 5 years old,,"Per 1,000 live births",4,30
+2008,Under-five mortality rate,Eastern Province,,under 5 years old,,"Per 1,000 live births",5,174
+2010,Under-five mortality rate,Eastern Province,,under 5 years old,,"Per 1,000 live births",5,125
+2015,Under-five mortality rate,Eastern Province,,under 5 years old,,"Per 1,000 live births",5,86
+2020,Under-five mortality rate,Eastern Province,,under 5 years old,,"Per 1,000 live births",5,56
+2025,Under-five mortality rate,Eastern Province,,under 5 years old,,"Per 1,000 live births",5,47

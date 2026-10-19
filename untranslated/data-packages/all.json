@@ -1338,9 +1338,14 @@
           },
           {
             "name": "REF_AREA",
-            "type": "number",
+            "type": "string",
             "constraints": {
               "enum": [
+                "1",
+                "2",
+                "3",
+                "4",
+                "5",
                 ""
               ]
             }
@@ -1383,7 +1388,7 @@
           },
           {
             "name": "GeoCode",
-            "type": "number"
+            "type": "string"
           },
           {
             "name": "Value",
@@ -1416,6 +1421,19 @@
             "type": "number",
             "constraints": {
               "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "Y15T24",
+                "Y_GE15",
+                "Y15T49",
+                "Y_GE50",
                 ""
               ]
             }
@@ -1516,7 +1534,7 @@
           },
           {
             "name": "Value",
-            "type": "integer"
+            "type": "number"
           }
         ]
       },

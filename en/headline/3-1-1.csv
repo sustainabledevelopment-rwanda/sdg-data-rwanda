@@ -1,6 +1,7 @@
 Year,Value,GeoCode,UNIT_MEASURE,SERIES
-2000,1071,,"Per 100,000 live births",Maternal mortality ratio [3.1.1]
-2005,750,,"Per 100,000 live births",Maternal mortality ratio [3.1.1]
-2010,476,,"Per 100,000 live births",Maternal mortality ratio [3.1.1]
-2015,210,,"Per 100,000 live births",Maternal mortality ratio [3.1.1]
-2020,203,,"Per 100,000 live births",Maternal mortality ratio [3.1.1]
+2000,1071,,"Per 100,000 live births",Maternal mortality ratio
+2005,750,,"Per 100,000 live births",Maternal mortality ratio
+2010,476,,"Per 100,000 live births",Maternal mortality ratio
+2015,210,,"Per 100,000 live births",Maternal mortality ratio
+2020,203,,"Per 100,000 live births",Maternal mortality ratio
+2025,149,,"Per 100,000 live births",Maternal mortality ratio

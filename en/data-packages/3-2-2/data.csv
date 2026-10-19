@@ -1,14 +1,56 @@
 Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2005,Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,37
-2008,Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,28
-2010,Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,27
-2015,Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,20
-2020,Neonatal mortality rate [3.2.2],,,under 1 month old,,"Per 1,000 live births",,19
-2015,Neonatal mortality rate [3.2.2],,,under 1 month old,Urban,"Per 1,000 live births",,15
-2020,Neonatal mortality rate [3.2.2],,,under 1 month old,Urban,"Per 1,000 live births",,15
-2015,Neonatal mortality rate [3.2.2],,,under 1 month old,Rural,"Per 1,000 live births",,24
-2020,Neonatal mortality rate [3.2.2],,,under 1 month old,Rural,"Per 1,000 live births",,20
-2015,Neonatal mortality rate [3.2.2],,Male,under 1 month old,,"Per 1,000 live births",,25
-2020,Neonatal mortality rate [3.2.2],,Male,under 1 month old,,"Per 1,000 live births",,21
-2015,Neonatal mortality rate [3.2.2],,Female,under 1 month old,,"Per 1,000 live births",,20
-2020,Neonatal mortality rate [3.2.2],,Female,under 1 month old,,"Per 1,000 live births",,17
+2000,Neonatal mortality rate,,,under 1 month old,,"Per 1,000 live births",,44
+2005,Neonatal mortality rate,,,under 1 month old,,"Per 1,000 live births",,37
+2008,Neonatal mortality rate,,,under 1 month old,,"Per 1,000 live births",,28
+2010,Neonatal mortality rate,,,under 1 month old,,"Per 1,000 live births",,27
+2015,Neonatal mortality rate,,,under 1 month old,,"Per 1,000 live births",,20
+2020,Neonatal mortality rate,,,under 1 month old,,"Per 1,000 live births",,19
+2025,Neonatal mortality rate,,,under 1 month old,,"Per 1,000 live births",,17
+2008,Neonatal mortality rate,,Male,under 1 month old,,"Per 1,000 live births",,34
+2010,Neonatal mortality rate,,Male,under 1 month old,,"Per 1,000 live births",,32
+2015,Neonatal mortality rate,,Male,under 1 month old,,"Per 1,000 live births",,25
+2020,Neonatal mortality rate,,Male,under 1 month old,,"Per 1,000 live births",,21
+2025,Neonatal mortality rate,,Male,under 1 month old,,"Per 1,000 live births",,20
+2008,Neonatal mortality rate,,Female,under 1 month old,,"Per 1,000 live births",,29
+2010,Neonatal mortality rate,,Female,under 1 month old,,"Per 1,000 live births",,27
+2015,Neonatal mortality rate,,Female,under 1 month old,,"Per 1,000 live births",,20
+2020,Neonatal mortality rate,,Female,under 1 month old,,"Per 1,000 live births",,17
+2025,Neonatal mortality rate,,Female,under 1 month old,,"Per 1,000 live births",,14
+2000,Neonatal mortality rate,,,under 1 month old,Urban,"Per 1,000 live births",,31
+2008,Neonatal mortality rate,,,under 1 month old,Urban,"Per 1,000 live births",,19
+2010,Neonatal mortality rate,,,under 1 month old,Urban,"Per 1,000 live births",,21
+2015,Neonatal mortality rate,,,under 1 month old,Urban,"Per 1,000 live births",,15
+2020,Neonatal mortality rate,,,under 1 month old,Urban,"Per 1,000 live births",,15
+2025,Neonatal mortality rate,,,under 1 month old,Urban,"Per 1,000 live births",,17
+2000,Neonatal mortality rate,,,under 1 month old,Rural,"Per 1,000 live births",,54
+2008,Neonatal mortality rate,,,under 1 month old,Rural,"Per 1,000 live births",,34
+2010,Neonatal mortality rate,,,under 1 month old,Rural,"Per 1,000 live births",,31
+2015,Neonatal mortality rate,,,under 1 month old,Rural,"Per 1,000 live births",,24
+2020,Neonatal mortality rate,,,under 1 month old,Rural,"Per 1,000 live births",,20
+2025,Neonatal mortality rate,,,under 1 month old,Rural,"Per 1,000 live births",,17
+2000,Neonatal mortality rate,City of Kigali,,under 1 month old,,"Per 1,000 live births",1,37
+2008,Neonatal mortality rate,City of Kigali,,under 1 month old,,"Per 1,000 live births",1,28
+2010,Neonatal mortality rate,City of Kigali,,under 1 month old,,"Per 1,000 live births",1,21
+2015,Neonatal mortality rate,City of Kigali,,under 1 month old,,"Per 1,000 live births",1,12
+2020,Neonatal mortality rate,City of Kigali,,under 1 month old,,"Per 1,000 live births",1,13
+2025,Neonatal mortality rate,City of Kigali,,under 1 month old,,"Per 1,000 live births",1,14
+2008,Neonatal mortality rate,Southern Province,,under 1 month old,,"Per 1,000 live births",2,32
+2010,Neonatal mortality rate,Southern Province,,under 1 month old,,"Per 1,000 live births",2,31
+2015,Neonatal mortality rate,Southern Province,,under 1 month old,,"Per 1,000 live births",2,25
+2020,Neonatal mortality rate,Southern Province,,under 1 month old,,"Per 1,000 live births",2,28
+2025,Neonatal mortality rate,Southern Province,,under 1 month old,,"Per 1,000 live births",2,17
+2008,Neonatal mortality rate,Western Province,,under 1 month old,,"Per 1,000 live births",3,31
+2010,Neonatal mortality rate,Western Province,,under 1 month old,,"Per 1,000 live births",3,27
+2015,Neonatal mortality rate,Western Province,,under 1 month old,,"Per 1,000 live births",3,25
+2020,Neonatal mortality rate,Western Province,,under 1 month old,,"Per 1,000 live births",3,17
+2025,Neonatal mortality rate,Western Province,,under 1 month old,,"Per 1,000 live births",3,17
+2008,Neonatal mortality rate,Northern Province,,under 1 month old,,"Per 1,000 live births",4,35
+2010,Neonatal mortality rate,Northern Province,,under 1 month old,,"Per 1,000 live births",4,39
+2015,Neonatal mortality rate,Northern Province,,under 1 month old,,"Per 1,000 live births",4,23
+2020,Neonatal mortality rate,Northern Province,,under 1 month old,,"Per 1,000 live births",4,24
+2025,Neonatal mortality rate,Northern Province,,under 1 month old,,"Per 1,000 live births",4,14
+2008,Neonatal mortality rate,Eastern Province,,under 1 month old,,"Per 1,000 live births",5,30
+2010,Neonatal mortality rate,Eastern Province,,under 1 month old,,"Per 1,000 live births",5,27
+2015,Neonatal mortality rate,Eastern Province,,under 1 month old,,"Per 1,000 live births",5,22
+2020,Neonatal mortality rate,Eastern Province,,under 1 month old,,"Per 1,000 live births",5,21
+2025,Neonatal mortality rate,Eastern Province,,under 1 month old,,"Per 1,000 live births",5,22

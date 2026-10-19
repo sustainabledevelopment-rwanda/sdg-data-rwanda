@@ -31,6 +31,20 @@
             "title": "Reference area"
           },
           {
+            "name": "AGE",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "15 to 24 years old",
+                "15 years old and over",
+                "15 to 49 years old",
+                "50 years old and over",
+                ""
+              ]
+            },
+            "title": "Age"
+          },
+          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

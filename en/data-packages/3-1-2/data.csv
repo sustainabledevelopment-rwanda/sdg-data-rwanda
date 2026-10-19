@@ -1,20 +1,46 @@
 Year,SERIES,Reference area,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2005,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,38.6
-2008,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,52.0
-2010,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,69.0
-2015,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,91.0
-2020,Proportion of births attended by skilled health personnel [3.1.2],,,Percent,,94.2
-2015,Proportion of births attended by skilled health personnel [3.1.2],,Urban,Percent,,96.9
-2020,Proportion of births attended by skilled health personnel [3.1.2],,Urban,Percent,,98.1
-2015,Proportion of births attended by skilled health personnel [3.1.2],,Rural,Percent,,89.4
-2020,Proportion of births attended by skilled health personnel [3.1.2],,Rural,Percent,,93.5
-2015,Proportion of births attended by skilled health personnel [3.1.2],City of Kigali,,Percent,1,94.5
-2020,Proportion of births attended by skilled health personnel [3.1.2],City of Kigali,,Percent,1,97.3
-2015,Proportion of births attended by skilled health personnel [3.1.2],Southern Province,,Percent,2,90.1
-2020,Proportion of births attended by skilled health personnel [3.1.2],Southern Province,,Percent,2,92.9
-2015,Proportion of births attended by skilled health personnel [3.1.2],Western Province,,Percent,3,90.5
-2020,Proportion of births attended by skilled health personnel [3.1.2],Western Province,,Percent,3,93.8
-2015,Proportion of births attended by skilled health personnel [3.1.2],Northern Province,,Percent,4,92.2
-2020,Proportion of births attended by skilled health personnel [3.1.2],Northern Province,,Percent,4,96.7
-2015,Proportion of births attended by skilled health personnel [3.1.2],Eastern Province,,Percent,5,88.9
-2020,Proportion of births attended by skilled health personnel [3.1.2],Eastern Province,,Percent,5,93.0
+2000,Proportion of births attended by skilled health personnel,,,Percent,,31.0
+2005,Proportion of births attended by skilled health personnel,,,Percent,,38.6
+2008,Proportion of births attended by skilled health personnel,,,Percent,,52.1
+2010,Proportion of births attended by skilled health personnel,,,Percent,,69.0
+2015,Proportion of births attended by skilled health personnel,,,Percent,,91.0
+2020,Proportion of births attended by skilled health personnel,,,Percent,,94.2
+2025,Proportion of births attended by skilled health personnel,,,Percent,,98.1
+2000,Proportion of births attended by skilled health personnel,,Urban,Percent,,68.0
+2008,Proportion of births attended by skilled health personnel,,Urban,Percent,,69.8
+2010,Proportion of births attended by skilled health personnel,,Urban,Percent,,82.4
+2015,Proportion of births attended by skilled health personnel,,Urban,Percent,,96.9
+2020,Proportion of births attended by skilled health personnel,,Urban,Percent,,98.1
+2025,Proportion of births attended by skilled health personnel,,Urban,Percent,,98.6
+2000,Proportion of births attended by skilled health personnel,,Rural,Percent,,25.0
+2008,Proportion of births attended by skilled health personnel,,Rural,Percent,,49.1
+2010,Proportion of births attended by skilled health personnel,,Rural,Percent,,67.2
+2015,Proportion of births attended by skilled health personnel,,Rural,Percent,,89.4
+2020,Proportion of births attended by skilled health personnel,,Rural,Percent,,93.5
+2025,Proportion of births attended by skilled health personnel,,Rural,Percent,,98.0
+2000,Proportion of births attended by skilled health personnel,City of Kigali,,Percent,1,74.0
+2008,Proportion of births attended by skilled health personnel,City of Kigali,,Percent,1,65.5
+2010,Proportion of births attended by skilled health personnel,City of Kigali,,Percent,1,83.1
+2015,Proportion of births attended by skilled health personnel,City of Kigali,,Percent,1,94.5
+2020,Proportion of births attended by skilled health personnel,City of Kigali,,Percent,1,97.3
+2025,Proportion of births attended by skilled health personnel,City of Kigali,,Percent,1,97.6
+2008,Proportion of births attended by skilled health personnel,Southern Province,,Percent,2,50.7
+2010,Proportion of births attended by skilled health personnel,Southern Province,,Percent,2,66.4
+2015,Proportion of births attended by skilled health personnel,Southern Province,,Percent,2,90.1
+2020,Proportion of births attended by skilled health personnel,Southern Province,,Percent,2,92.9
+2025,Proportion of births attended by skilled health personnel,Southern Province,,Percent,2,98.2
+2008,Proportion of births attended by skilled health personnel,Western Province,,Percent,3,51.9
+2010,Proportion of births attended by skilled health personnel,Western Province,,Percent,3,71.0
+2015,Proportion of births attended by skilled health personnel,Western Province,,Percent,3,90.5
+2020,Proportion of births attended by skilled health personnel,Western Province,,Percent,3,93.8
+2025,Proportion of births attended by skilled health personnel,Western Province,,Percent,3,98.0
+2008,Proportion of births attended by skilled health personnel,Northern Province,,Percent,4,47.7
+2010,Proportion of births attended by skilled health personnel,Northern Province,,Percent,4,63.8
+2015,Proportion of births attended by skilled health personnel,Northern Province,,Percent,4,92.2
+2020,Proportion of births attended by skilled health personnel,Northern Province,,Percent,4,96.7
+2025,Proportion of births attended by skilled health personnel,Northern Province,,Percent,4,99.6
+2008,Proportion of births attended by skilled health personnel,Eastern Province,,Percent,5,52.7
+2010,Proportion of births attended by skilled health personnel,Eastern Province,,Percent,5,67.5
+2015,Proportion of births attended by skilled health personnel,Eastern Province,,Percent,5,88.9
+2020,Proportion of births attended by skilled health personnel,Eastern Province,,Percent,5,93.0
+2025,Proportion of births attended by skilled health personnel,Eastern Province,,Percent,5,97.8
