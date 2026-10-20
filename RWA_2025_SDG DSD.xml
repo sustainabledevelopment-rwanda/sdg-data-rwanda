@@ -4785,8 +4785,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Maternal mortality ratio [3.1.1]</common:Name>
-          <common:Description xml:lang="en">Maternal mortality ratio [3.1.1]</common:Description>
+          <common:Name xml:lang="en">Maternal mortality ratio</common:Name>
+          <common:Description xml:lang="en">Maternal mortality ratio</common:Description>
         </structure:Code>
         <structure:Code id="SH_STA_BRTC">
           <common:Annotations>
@@ -4813,8 +4813,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of births attended by skilled health personnel [3.1.2]</common:Name>
-          <common:Description xml:lang="en">Proportion of births attended by skilled health personnel [3.1.2]</common:Description>
+          <common:Name xml:lang="en">Proportion of births attended by skilled health personnel</common:Name>
+          <common:Description xml:lang="en">Proportion of births attended by skilled health personnel</common:Description>
         </structure:Code>
         <structure:Code id="SH_DYN_MORT">
           <common:Annotations>
@@ -4841,8 +4841,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Under-five mortality rate [3.2.1]</common:Name>
-          <common:Description xml:lang="en">Under-five mortality rate [3.2.1]</common:Description>
+          <common:Name xml:lang="en">Under-five mortality rate</common:Name>
+          <common:Description xml:lang="en">Under-five mortality rate</common:Description>
         </structure:Code>
         <structure:Code id="SH_DYN_NMRT">
           <common:Annotations>
@@ -4869,8 +4869,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Neonatal mortality rate [3.2.2]</common:Name>
-          <common:Description xml:lang="en">Neonatal mortality rate [3.2.2]</common:Description>
+          <common:Name xml:lang="en">Neonatal mortality rate</common:Name>
+          <common:Description xml:lang="en">Neonatal mortality rate</common:Description>
         </structure:Code>
         <structure:Code id="SH_HIV_INCD">
           <common:Annotations>
@@ -4897,8 +4897,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of new HIV infections per 1,000 uninfected population [3.3.1]</common:Name>
-          <common:Description xml:lang="en">Number of new HIV infections per 1,000 uninfected population [3.3.1]</common:Description>
+          <common:Name xml:lang="en">Number of new HIV infections per 1,000 uninfected population</common:Name>
+          <common:Description xml:lang="en">Number of new HIV infections per 1,000 uninfected population</common:Description>
         </structure:Code>
         <structure:Code id="SH_TBS_INCD">
           <common:Annotations>
@@ -4925,8 +4925,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Tuberculosis incidence [3.3.2]</common:Name>
-          <common:Description xml:lang="en">Tuberculosis incidence [3.3.2]</common:Description>
+          <common:Name xml:lang="en">Tuberculosis incidence per 100,000 population</common:Name>
+          <common:Description xml:lang="en">Tuberculosis incidence per 100,000 population</common:Description>
         </structure:Code>
         <structure:Code id="SH_STA_MALR">
           <common:Annotations>
@@ -4953,8 +4953,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Malaria incidence per 1,000 population at risk [3.3.3]</common:Name>
-          <common:Description xml:lang="en">Malaria incidence per 1,000 population at risk [3.3.3]</common:Description>
+          <common:Name xml:lang="en">Malaria incidence per 1,000 population</common:Name>
+          <common:Description xml:lang="en">Malaria incidence per 1,000 population</common:Description>
         </structure:Code>
         <structure:Code id="SH_TRP_INTVN">
           <common:Annotations>
@@ -4981,8 +4981,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of people requiring interventions against neglected tropical diseases [3.3.5]</common:Name>
-          <common:Description xml:lang="en">Number of people requiring interventions against neglected tropical diseases [3.3.5]</common:Description>
+          <common:Name xml:lang="en">Number of people requiring interventions against neglected tropical diseases</common:Name>
+          <common:Description xml:lang="en">Number of people requiring interventions against neglected tropical diseases</common:Description>
         </structure:Code>
         <structure:Code id="SH_STA_SCIDE">
           <common:Annotations>
