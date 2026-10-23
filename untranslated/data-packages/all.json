@@ -1595,8 +1595,8 @@
       "title": "Number of people requiring interventions against neglected tropical diseases"
     },
     {
-      "path": "3-4-2/data.csv",
-      "name": "3-4-2",
+      "path": "3-4-1/data.csv",
+      "name": "3-4-1",
       "profile": "tabular-data-resource",
       "scheme": "file",
       "format": "csv",
@@ -1640,6 +1640,60 @@
                 "Y30T70",
                 "Y30T71",
                 "Y30T72",
+                ""
+              ]
+            }
+          },
+          {
+            "name": "UNIT_MEASURE",
+            "type": "string"
+          },
+          {
+            "name": "GeoCode",
+            "type": "number"
+          },
+          {
+            "name": "Value",
+            "type": "number"
+          }
+        ]
+      },
+      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
+    },
+    {
+      "path": "3-4-2/data.csv",
+      "name": "3-4-2",
+      "profile": "tabular-data-resource",
+      "scheme": "file",
+      "format": "csv",
+      "hashing": "md5",
+      "encoding": "utf-8",
+      "schema": {
+        "fields": [
+          {
+            "name": "Year",
+            "type": "integer"
+          },
+          {
+            "name": "SERIES",
+            "type": "string"
+          },
+          {
+            "name": "REF_AREA",
+            "type": "number",
+            "constraints": {
+              "enum": [
+                ""
+              ]
+            }
+          },
+          {
+            "name": "SEX",
+            "type": "string",
+            "constraints": {
+              "enum": [
+                "M",
+                "F",
                 ""
               ]
             }
@@ -8732,28 +8786,6 @@
         ]
       },
       "title": "Number of countries with a national statistical plan that is fully funded and under implementation, by source of funding"
-    },
-    {
-      "path": "3-4-1/data.csv",
-      "name": "3-4-1",
-      "profile": "tabular-data-resource",
-      "scheme": "file",
-      "format": "csv",
-      "hashing": "md5",
-      "encoding": "utf-8",
-      "schema": {
-        "fields": [
-          {
-            "name": "Year",
-            "type": "number"
-          },
-          {
-            "name": "Value",
-            "type": "number"
-          }
-        ]
-      },
-      "title": "Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease"
     },
     {
       "path": "8-b-1/data.csv",

@@ -1,1 +1,67 @@
-Year,Value
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
+2000,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,37.6
+2001,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,34.7
+2002,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,31.8
+2003,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,29.1
+2004,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,26.9
+2005,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,25.1
+2006,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,23.9
+2007,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,23.0
+2008,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,22.3
+2009,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,21.6
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,21.2
+2011,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.9
+2012,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.8
+2013,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.6
+2014,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.6
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.6
+2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.5
+2017,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.5
+2018,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.4
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.4
+2020,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.2
+2021,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.0
+2000,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,41.3
+2001,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,38.1
+2002,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,35.1
+2003,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,32.1
+2004,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,29.7
+2005,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,27.8
+2006,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,26.5
+2007,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,25.6
+2008,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,24.7
+2009,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,23.8
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,23.4
+2011,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,23.0
+2012,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.8
+2013,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.7
+2014,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.7
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.7
+2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.5
+2017,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.6
+2018,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.6
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.6
+2020,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.9
+2021,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,21.9
+2000,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,34.7
+2001,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,32.1
+2002,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,29.5
+2003,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,27.1
+2004,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,25.0
+2005,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,23.2
+2006,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,22.1
+2007,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,21.3
+2008,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,20.7
+2009,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,20.1
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.8
+2011,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.4
+2012,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.3
+2013,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.1
+2014,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.1
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.0
+2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.9
+2017,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.8
+2018,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.8
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.7
+2020,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.1
+2021,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.5

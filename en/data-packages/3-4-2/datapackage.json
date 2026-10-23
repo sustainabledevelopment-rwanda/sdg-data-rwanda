@@ -43,19 +43,6 @@
             "title": "Sex"
           },
           {
-            "name": "AGE",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "30 to exact 70 years old",
-                "Y30T71",
-                "Y30T72",
-                ""
-              ]
-            },
-            "title": "Age"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"
