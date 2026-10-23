@@ -4984,6 +4984,34 @@
           <common:Name xml:lang="en">Number of people requiring interventions against neglected tropical diseases</common:Name>
           <common:Description xml:lang="en">Number of people requiring interventions against neglected tropical diseases</common:Description>
         </structure:Code>
+        <structure:Code id="SH_DTH_NCOM">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.4.2</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030402</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1130</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</common:Name>
+          <common:Description xml:lang="en">Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease</common:Description>
+        </structure:Code>
         <structure:Code id="SH_STA_SCIDE">
           <common:Annotations>
             <common:Annotation>
@@ -5009,36 +5037,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Suicide mortality rate [3.4.2]</common:Name>
-          <common:Description xml:lang="en">Suicide mortality rate [3.4.2]</common:Description>
-        </structure:Code>
-        <structure:Code id="SH_STA_SCIDEN">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">3.4.2</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C030402</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Suicide mortality rate</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1140</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Number of deaths attributed to suicide [3.4.2]</common:Name>
-          <common:Description xml:lang="en">Number of deaths attributed to suicide [3.4.2]</common:Description>
+          <common:Name xml:lang="en">Suicide mortality rate</common:Name>
+          <common:Description xml:lang="en">Suicide mortality rate</common:Description>
         </structure:Code>
         <structure:Code id="SH_ALC_CONSPT">
           <common:Annotations>
@@ -5065,8 +5065,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Alcohol consumption per capita (aged 15 years and older) within a calendar year [3.5.2]</common:Name>
-          <common:Description xml:lang="en">Alcohol consumption per capita (aged 15 years and older) within a calendar year [3.5.2]</common:Description>
+          <common:Name xml:lang="en">Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</common:Name>
+          <common:Description xml:lang="en">Alcohol per capita consumption (aged 15 years and older) within a calendar year in litres of pure alcohol</common:Description>
         </structure:Code>
         <structure:Code id="SH_STA_TRAF">
           <common:Annotations>
@@ -5093,8 +5093,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Death rate due to road traffic injuries [3.6.1]</common:Name>
-          <common:Description xml:lang="en">Death rate due to road traffic injuries [3.6.1]</common:Description>
+          <common:Name xml:lang="en">Death rate due to road traffic injuries</common:Name>
+          <common:Description xml:lang="en">Death rate due to road traffic injuries</common:Description>
         </structure:Code>
         <structure:Code id="SH_STA_TRAFN">
           <common:Annotations>
@@ -5121,8 +5121,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Number of deaths rate due to road traffic injuries [3.6.1]</common:Name>
-          <common:Description xml:lang="en">Number of deaths rate due to road traffic injuries [3.6.1]</common:Description>
+          <common:Name xml:lang="en">Number of deaths rate due to road traffic injuries</common:Name>
+          <common:Description xml:lang="en">Number of deaths rate due to road traffic injuries</common:Description>
         </structure:Code>
         <structure:Code id="SH_FPL_MTMM">
           <common:Annotations>
@@ -5149,7 +5149,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods [3.7.1]</common:Name>
+          <common:Name xml:lang="en">Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods</common:Name>
           <common:Description xml:lang="en">Proportion of women of reproductive age (aged 15–49 years) who have their need for family planning satisfied with modern methods</common:Description>
         </structure:Code>
         <structure:Code id="SP_DYN_ADKL">
@@ -5177,8 +5177,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]</common:Name>
-          <common:Description xml:lang="en">Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]</common:Description>
+          <common:Name xml:lang="en">Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group</common:Name>
+          <common:Description xml:lang="en">Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group</common:Description>
         </structure:Code>
         <structure:Code id="SH_ACS_UNHC">
           <common:Annotations>
