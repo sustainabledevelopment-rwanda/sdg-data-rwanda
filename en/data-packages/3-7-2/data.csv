@@ -1,5 +1,16 @@
 Year,SERIES,Reference area,Sex,Age,Degree of urbanisation,UNIT_MEASURE,GeoCode,Value
-2015,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,,"Per 1,000 population",,7.0
-2020,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,Female,15 to 19 years old,,"Per 1,000 population",,31.8
-2020,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,,15 to 19 years old,Urban,"Per 1,000 population",,32.4
-2020,"Adolescent birth rate (per 1,000 women aged 15-19 years) [3.7.2]",,,15 to 19 years old,Rural,"Per 1,000 population",,31.6
+2008,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,,"Per 1,000 population",,40
+2010,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,,"Per 1,000 population",,41
+2015,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,,"Per 1,000 population",,45
+2020,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,,"Per 1,000 population",,32
+2025,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,,"Per 1,000 population",,39
+2008,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Urban,"Per 1,000 population",,46
+2010,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Urban,"Per 1,000 population",,40
+2015,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Urban,"Per 1,000 population",,41
+2020,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Urban,"Per 1,000 population",,22
+2025,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Urban,"Per 1,000 population",,30
+2008,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Rural,"Per 1,000 population",,39
+2010,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Rural,"Per 1,000 population",,41
+2015,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Rural,"Per 1,000 population",,46
+2020,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Rural,"Per 1,000 population",,34
+2025,"Adolescent birth rate (aged 15–19 years) per 1,000 women in that age group",,Female,15 to 19 years old,Rural,"Per 1,000 population",,44

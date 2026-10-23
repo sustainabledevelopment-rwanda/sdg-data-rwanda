@@ -1,17 +1,133 @@
-Year,SERIES,Reference area,UNIT_MEASURE,GeoCode,Value
-2015,Suicide mortality rate [3.4.2],,"Per 100,000 population",,1.4
-2016,Suicide mortality rate [3.4.2],,"Per 100,000 population",,1.6
-2017,Suicide mortality rate [3.4.2],,"Per 100,000 population",,1.6
-2018,Suicide mortality rate [3.4.2],,"Per 100,000 population",,1.8
-2019,Suicide mortality rate [3.4.2],,"Per 100,000 population",,1.9
-2020,Suicide mortality rate [3.4.2],,"Per 100,000 population",,2.3
-2021,Suicide mortality rate [3.4.2],,"Per 100,000 population",,2.7
-2022,Suicide mortality rate [3.4.2],,"Per 100,000 population",,2.8
-2015,Number of deaths attributed to suicide [3.4.2],,Number,,157.0
-2016,Number of deaths attributed to suicide [3.4.2],,Number,,181.0
-2017,Number of deaths attributed to suicide [3.4.2],,Number,,193.0
-2018,Number of deaths attributed to suicide [3.4.2],,Number,,226.0
-2019,Number of deaths attributed to suicide [3.4.2],,Number,,241.0
-2020,Number of deaths attributed to suicide [3.4.2],,Number,,298.0
-2021,Number of deaths attributed to suicide [3.4.2],,Number,,353.0
-2022,Number of deaths attributed to suicide [3.4.2],,Number,,370.0
+Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
+2000,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,37.6
+2001,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,34.7
+2002,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,31.8
+2003,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,29.1
+2004,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,26.9
+2005,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,25.1
+2006,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,23.9
+2007,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,23.0
+2008,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,22.3
+2009,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,21.6
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,21.2
+2011,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.9
+2012,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.8
+2013,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.6
+2014,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.6
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.6
+2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.5
+2017,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.5
+2018,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.4
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.4
+2020,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.2
+2021,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,,30 to exact 70 years old,Percent,,20.0
+2000,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,41.3
+2001,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,38.1
+2002,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,35.1
+2003,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,32.1
+2004,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,29.7
+2005,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,27.8
+2006,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,26.5
+2007,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,25.6
+2008,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,24.7
+2009,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,23.8
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,23.4
+2011,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,23.0
+2012,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.8
+2013,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.7
+2014,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.7
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.7
+2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.5
+2017,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.6
+2018,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.6
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.6
+2020,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,22.9
+2021,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Male,Y30T71,Percent,,21.9
+2000,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,34.7
+2001,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,32.1
+2002,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,29.5
+2003,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,27.1
+2004,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,25.0
+2005,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,23.2
+2006,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,22.1
+2007,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,21.3
+2008,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,20.7
+2009,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,20.1
+2010,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.8
+2011,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.4
+2012,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.3
+2013,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.1
+2014,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.1
+2015,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,19.0
+2016,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.9
+2017,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.8
+2018,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.8
+2019,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.7
+2020,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.1
+2021,"Mortality rate attributed to cardiovascular disease, cancer, diabetes or chronic respiratory disease",,Female,Y30T72,Percent,,18.5
+2000,Suicide mortality rate,,,,"Per 100,000 population",,13.461588
+2001,Suicide mortality rate,,,,"Per 100,000 population",,12.005897
+2002,Suicide mortality rate,,,,"Per 100,000 population",,10.9872
+2003,Suicide mortality rate,,,,"Per 100,000 population",,9.761462
+2004,Suicide mortality rate,,,,"Per 100,000 population",,8.642693
+2005,Suicide mortality rate,,,,"Per 100,000 population",,8.195181
+2006,Suicide mortality rate,,,,"Per 100,000 population",,7.940973
+2007,Suicide mortality rate,,,,"Per 100,000 population",,8.012569
+2008,Suicide mortality rate,,,,"Per 100,000 population",,7.916763
+2009,Suicide mortality rate,,,,"Per 100,000 population",,7.663865
+2010,Suicide mortality rate,,,,"Per 100,000 population",,7.623885
+2011,Suicide mortality rate,,,,"Per 100,000 population",,7.605702
+2012,Suicide mortality rate,,,,"Per 100,000 population",,7.636946
+2013,Suicide mortality rate,,,,"Per 100,000 population",,7.615823
+2014,Suicide mortality rate,,,,"Per 100,000 population",,7.757583
+2015,Suicide mortality rate,,,,"Per 100,000 population",,7.836788
+2016,Suicide mortality rate,,,,"Per 100,000 population",,7.936597
+2017,Suicide mortality rate,,,,"Per 100,000 population",,8.110985
+2018,Suicide mortality rate,,,,"Per 100,000 population",,8.120238
+2019,Suicide mortality rate,,,,"Per 100,000 population",,8.285701
+2020,Suicide mortality rate,,,,"Per 100,000 population",,7.886904
+2021,Suicide mortality rate,,,,"Per 100,000 population",,8.677833
+2000,Suicide mortality rate,,Male,,"Per 100,000 population",,20.564188
+2001,Suicide mortality rate,,Male,,"Per 100,000 population",,18.256756
+2002,Suicide mortality rate,,Male,,"Per 100,000 population",,16.628226
+2003,Suicide mortality rate,,Male,,"Per 100,000 population",,14.698584
+2004,Suicide mortality rate,,Male,,"Per 100,000 population",,13.08341
+2005,Suicide mortality rate,,Male,,"Per 100,000 population",,12.27849
+2006,Suicide mortality rate,,Male,,"Per 100,000 population",,11.708788
+2007,Suicide mortality rate,,Male,,"Per 100,000 population",,11.705435
+2008,Suicide mortality rate,,Male,,"Per 100,000 population",,11.523279
+2009,Suicide mortality rate,,Male,,"Per 100,000 population",,11.129661
+2010,Suicide mortality rate,,Male,,"Per 100,000 population",,11.10707
+2011,Suicide mortality rate,,Male,,"Per 100,000 population",,11.110263
+2012,Suicide mortality rate,,Male,,"Per 100,000 population",,11.140157
+2013,Suicide mortality rate,,Male,,"Per 100,000 population",,11.096899
+2014,Suicide mortality rate,,Male,,"Per 100,000 population",,11.362543
+2015,Suicide mortality rate,,Male,,"Per 100,000 population",,11.498527
+2016,Suicide mortality rate,,Male,,"Per 100,000 population",,11.662708
+2017,Suicide mortality rate,,Male,,"Per 100,000 population",,11.909545
+2018,Suicide mortality rate,,Male,,"Per 100,000 population",,11.963874
+2019,Suicide mortality rate,,Male,,"Per 100,000 population",,12.196759
+2020,Suicide mortality rate,,Male,,"Per 100,000 population",,11.633835
+2021,Suicide mortality rate,,Male,,"Per 100,000 population",,12.801121
+2000,Suicide mortality rate,,Female,,"Per 100,000 population",,6.971325
+2001,Suicide mortality rate,,Female,,"Per 100,000 population",,6.31812
+2002,Suicide mortality rate,,Female,,"Per 100,000 population",,5.869342
+2003,Suicide mortality rate,,Female,,"Per 100,000 population",,5.274414
+2004,Suicide mortality rate,,Female,,"Per 100,000 population",,4.588504
+2005,Suicide mortality rate,,Female,,"Per 100,000 population",,4.451988
+2006,Suicide mortality rate,,Female,,"Per 100,000 population",,4.474163
+2007,Suicide mortality rate,,Female,,"Per 100,000 population",,4.603148
+2008,Suicide mortality rate,,Female,,"Per 100,000 population",,4.576543
+2009,Suicide mortality rate,,Female,,"Per 100,000 population",,4.444406
+2010,Suicide mortality rate,,Female,,"Per 100,000 population",,4.378855
+2011,Suicide mortality rate,,Female,,"Per 100,000 population",,4.331448
+2012,Suicide mortality rate,,Female,,"Per 100,000 population",,4.355595
+2013,Suicide mortality rate,,Female,,"Per 100,000 population",,4.348584
+2014,Suicide mortality rate,,Female,,"Per 100,000 population",,4.368493
+2015,Suicide mortality rate,,Female,,"Per 100,000 population",,4.389172
+2016,Suicide mortality rate,,Female,,"Per 100,000 population",,4.423526
+2017,Suicide mortality rate,,Female,,"Per 100,000 population",,4.525044
+2018,Suicide mortality rate,,Female,,"Per 100,000 population",,4.487407
+2019,Suicide mortality rate,,Female,,"Per 100,000 population",,4.58483
+2020,Suicide mortality rate,,Female,,"Per 100,000 population",,4.337215
+2021,Suicide mortality rate,,Female,,"Per 100,000 population",,4.767166
