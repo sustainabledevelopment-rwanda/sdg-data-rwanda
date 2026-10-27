@@ -1863,6 +1863,10 @@
           <common:Name xml:lang="en">under 1 year old</common:Name>
           <common:Description xml:lang="en">under 1 year old</common:Description>
         </structure:Code>
+        <structure:Code id="Y0T1">
+          <common:Name xml:lang="en">under 2 years old</common:Name>
+          <common:Description xml:lang="en">under 2 years old</common:Description>
+        </structure:Code>
         <structure:Code id="Y0T4">
           <common:Name xml:lang="en">under 5 years old</common:Name>
           <common:Description xml:lang="en">under 5 years old</common:Description>
@@ -2390,6 +2394,10 @@
         <structure:Code id="M12T23">
           <common:Name xml:lang="en">12 to 23 Months old</common:Name>
           <common:Description xml:lang="en">12 to 23 Months old</common:Description>
+        </structure:Code>
+        <structure:Code id="M24T35">
+          <common:Name xml:lang="en">24 to 35 Months old</common:Name>
+          <common:Description xml:lang="en">24 to 35 Months old</common:Description>
         </structure:Code>
       </structure:Codelist>
       <structure:Codelist id="CL_OCCUPATION" agencyID="NISR-SDGs" version="1.1" isFinal="true">
@@ -5205,10 +5213,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Coverage of essential health services [3.8.1]</common:Name>
+          <common:Name xml:lang="en">Coverage of essential health services</common:Name>
           <common:Description xml:lang="en">Coverage of essential health services</common:Description>
         </structure:Code>
-        <structure:Code id="SH_XPD_EARN25">
+        <structure:Code id="SH_OOP_XPD_EARNNET40">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5223,7 +5231,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of population with large household expenditures on health as a share of total household expenditure or income</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of population with positive out-of-pocket household expenditures on health exceeding 40 per cent of household discretionary budget</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -5233,8 +5241,64 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]</common:Name>
-          <common:Description xml:lang="en">Proportion of population with large household expenditures on health (greater than 25%) as a share of total household expenditure or income [3.8.2]</common:Description>
+          <common:Name xml:lang="en">Out-of-pocket health expenditure per capita, PPP</common:Name>
+          <common:Description xml:lang="en">Out-of-pocket health expenditure per capita, PPP</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_STA_ASAIRP">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.9.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030901</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Mortality rate attributed to household and ambient air pollution</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1330</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Mortality rate attributed to household and ambient air pollution</common:Name>
+          <common:Description xml:lang="en">Mortality rate attributed to household and ambient air pollution</common:Description>
+        </structure:Code>
+        <structure:Code id="SH_STA_POISN">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">3.9.3</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C030903</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Mortality rate attributed to unintentional poisoning</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1330</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Mortality rate attributed to unintentional poisoning</common:Name>
+          <common:Description xml:lang="en">Mortality rate attributed to unintentional poisoning</common:Description>
         </structure:Code>
         <structure:Code id="SH_PRV_SMOK">
           <common:Annotations>
@@ -5261,7 +5325,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of persons aged 15-49 who use tobacco [3.a.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of persons aged 15-49 who use tobacco</common:Name>
           <common:Description xml:lang="en">Percentage of persons aged 15-49 who use tobacco</common:Description>
         </structure:Code>
         <structure:Code id="SH_ACS_DTP3">
@@ -5289,8 +5353,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of the target population with access to 3 doses of diphtheria-tetanus-pertussis (DTP3) [3.b.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine</common:Name>
+          <common:Description xml:lang="en">Proportion of the target population who received 3 doses of diphtheria-tetanus-pertussis (DTP3) vaccine</common:Description>
         </structure:Code>
         <structure:Code id="SH_ACS_MCV2">
           <common:Annotations>
@@ -5317,8 +5381,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of the target population with access to measles-containing-vaccine second-dose (MCV2) [3.b.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of the target population who received measles-containing-vaccine second-dose (MCV2)</common:Name>
+          <common:Description xml:lang="en">Proportion of the target population who received measles-containing-vaccine second-dose (MCV2)</common:Description>
         </structure:Code>
         <structure:Code id="SH_ACS_PCV3">
           <common:Annotations>
@@ -5345,8 +5409,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of the target population with access to pneumococcal conjugate 3rd dose (PCV3) [3.b.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine</common:Name>
+          <common:Description xml:lang="en">Proportion of the target population who received a 3rd dose of pneumococcal conjugate (PCV3) vaccine</common:Description>
         </structure:Code>
         <structure:Code id="SH_MED_DEN">
           <common:Annotations>
@@ -5373,8 +5437,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Health workers per 1,000 population [3.c.1]</common:Name>
-          <common:Description xml:lang="en">Health workers per 1,000 population</common:Description>
+          <common:Name xml:lang="en">Health worker density, by type of occupation (per 10,000 population)</common:Name>
+          <common:Description xml:lang="en">Health worker density, by type of occupation (per 10,000 population)</common:Description>
         </structure:Code>
         <structure:Code id="SH_IHR_CAPS">
           <common:Annotations>
@@ -5401,7 +5465,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">International Health Regulations (IHR) capacity [3.d.1]</common:Name>
+          <common:Name xml:lang="en">International Health Regulations (IHR) capacity</common:Name>
           <common:Description xml:lang="en">International Health Regulations (IHR) capacity</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_040101_KR">
