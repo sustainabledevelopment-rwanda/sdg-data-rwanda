@@ -5241,8 +5241,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of population with positive out-of-pocket household expenditures on health exceeding 40 per cent of household discretionary budget</common:Name>
-          <common:Description xml:lang="en">Proportion of population with positive out-of-pocket household expenditures on health exceeding 40 per cent of household discretionary budget</common:Description>
+          <common:Name xml:lang="en">Out-of-pocket health expenditure per capita, PPP</common:Name>
+          <common:Description xml:lang="en">Out-of-pocket health expenditure per capita, PPP</common:Description>
         </structure:Code>
         <structure:Code id="SH_STA_ASAIRP">
           <common:Annotations>
