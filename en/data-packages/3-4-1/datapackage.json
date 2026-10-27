@@ -48,8 +48,6 @@
             "constraints": {
               "enum": [
                 "30 to exact 70 years old",
-                "Y30T71",
-                "Y30T72",
                 ""
               ]
             },

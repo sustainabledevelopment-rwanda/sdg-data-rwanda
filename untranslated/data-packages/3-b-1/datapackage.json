@@ -44,6 +44,7 @@
             "constraints": {
               "enum": [
                 "M12T23",
+                "M24T35",
                 ""
               ]
             }

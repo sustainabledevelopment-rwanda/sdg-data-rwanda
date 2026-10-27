@@ -48,6 +48,7 @@
             "constraints": {
               "enum": [
                 "12 to 23 Months old",
+                "24 to 35 Months old",
                 ""
               ]
             },

@@ -1,1 +1,34 @@
-Year,Value
+Year,SERIES,Reference area,Sex,UNIT_MEASURE,GeoCode,Value
+2010,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,195.0
+2011,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,186.4
+2012,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,179.3
+2013,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,172.4
+2014,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,169.6
+2015,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,167.3
+2016,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,166.2
+2017,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,166.0
+2018,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,166.8
+2019,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,166.9
+2021,Mortality rate attributed to household and ambient air pollution,,,"Per 100,000 population",,164.9
+2010,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,224.9
+2011,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,214.2
+2012,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,206.0
+2013,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,197.6
+2014,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,194.6
+2015,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,191.7
+2016,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,189.9
+2017,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,189.3
+2018,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,189.8
+2019,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,189.7
+2021,Mortality rate attributed to household and ambient air pollution,,Male,"Per 100,000 population",,188.2
+2010,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,172.0
+2011,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,164.9
+2012,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,158.7
+2013,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,152.8
+2014,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,150.2
+2015,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,148.4
+2016,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,147.7
+2017,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,147.8
+2018,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,148.6
+2019,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,148.9
+2021,Mortality rate attributed to household and ambient air pollution,,Female,"Per 100,000 population",,148.5

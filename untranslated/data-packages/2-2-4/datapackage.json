@@ -42,7 +42,7 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y0T2",
+                "Y0T1",
                 "Y15T49",
                 ""
               ]
