@@ -2399,6 +2399,10 @@
           <common:Name xml:lang="en">24 to 35 Months old</common:Name>
           <common:Description xml:lang="en">24 to 35 Months old</common:Description>
         </structure:Code>
+        <structure:Code id="M24T59">
+          <common:Name xml:lang="en">24 to 59 Months old</common:Name>
+          <common:Description xml:lang="en">24 to 59 Months old</common:Description>
+        </structure:Code>
       </structure:Codelist>
       <structure:Codelist id="CL_OCCUPATION" agencyID="NISR-SDGs" version="1.1" isFinal="true">
         <common:Name xml:lang="en">SDG Occupation code list</common:Name>
@@ -5493,7 +5497,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of learners who meet benchmark in Kinyarwanda reading [4.1.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of learners who meet benchmark in Kinyarwanda reading</common:Name>
           <common:Description xml:lang="en">Percentage of learners who meet benchmark in Kinyarwanda reading</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_040101_ER">
@@ -5521,7 +5525,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of learners who meet benchmark in English reading [4.1.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of learners who meet benchmark in English reading</common:Name>
           <common:Description xml:lang="en">Percentage of learners who meet benchmark in English reading</common:Description>
         </structure:Code>
         <structure:Code id="_L_RW_040101_MA">
@@ -5549,39 +5553,38 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Percentage of learners who meet benchmark in mathematics [4.1.1]</common:Name>
+          <common:Name xml:lang="en">Percentage of learners who meet benchmark in mathematics</common:Name>
           <common:Description xml:lang="en">Percentage of learners who meet benchmark in mathematics</common:Description>
         </structure:Code>
-        <structure:Code id="SE_DEV_ONTRK">
+        <structure:Code id="_L_RW_040102">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
               <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.2.1</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">4.1.2</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
               <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040201</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">C040102</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Completion rate (primary education, lower secondary education, upper secondary education)</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1500</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">1480</common:AnnotationText>
             </common:Annotation>
             <common:Annotation>
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of children who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning [4.2.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of children who are developmentally on track in at least three of the following domains: literacy-numeracy, physical development, social-emotional development, and learning [4.2.1]</common:Description>
+          <common:Name xml:lang="en">Gross intake rate in final year (primary education, lower secondary education, upper secondary education)</common:Name>
+          <common:Description xml:lang="en">Gross intake rate in final year (primary education, lower secondary education, upper secondary education)</common:Description>
         </structure:Code>
-        
-        <structure:Code id="_L_RW_040201_1">
+        <structure:Code id="SE_DEV_ONTRKWB">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5596,7 +5599,7 @@
             <common:Annotation>
               <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
               <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi</common:AnnotationText>
+              <common:AnnotationText xml:lang="en">Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex</common:AnnotationText>
             </common:Annotation>
             <common:Annotation id="@SDMX">
               <common:AnnotationType>ORDER</common:AnnotationType>
@@ -5606,92 +5609,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy</common:Name>
-          <common:Description xml:lang="en">Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Literacy-numeracy</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040201_2">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.2.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040201</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1500</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical</common:Name>
-          <common:Description xml:lang="en">Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Physical</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040201_3">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.2.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040201</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1500</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional</common:Name>
-          <common:Description xml:lang="en">Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Social emotional</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040201_4">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.2.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040201</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sexi</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1500</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Learning</common:Name>
-          <common:Description xml:lang="en">Proportion of children under 5 years of age who are developmentally on track in health, learning and psychosocial well-being, by sex - Learning</common:Description>
+          <common:Name xml:lang="en">Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex</common:Name>
+          <common:Description xml:lang="en">Proportion of children aged 24-59 months who are developmentally on track in health, learning and psychosocial well-being, by sex</common:Description>
         </structure:Code>
         <structure:Code id="SE_PRE_PARTN">
           <common:Annotations>
@@ -5718,8 +5637,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Participation rate in organized learning (one year before the official primary entry age) [4.2.2]</common:Name>
-          <common:Description xml:lang="en">Participation rate in organized learning (one year before the official primary entry age) [4.2.2]</common:Description>
+          <common:Name xml:lang="en">Participation rate in organized learning (one year before the official primary entry age), by sex</common:Name>
+          <common:Description xml:lang="en">Participation rate in organized learning (one year before the official primary entry age), by sex</common:Description>
         </structure:Code>
         <structure:Code id="SE_ADT_EDUCTRN">
           <common:Annotations>
@@ -5746,8 +5665,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Participation rate in formal and non-formal education and training [4.3.1]</common:Name>
-          <common:Description xml:lang="en">Participation rate in formal and non-formal education and training [4.3.1]</common:Description>
+          <common:Name xml:lang="en">Participation rate of youth in formal and non-formal education and training, by sex</common:Name>
+          <common:Description xml:lang="en">Participation rate of youth in formal and non-formal education and training, by sex</common:Description>
         </structure:Code>
         <structure:Code id="SE_ADT_ACTS">
           <common:Annotations>
