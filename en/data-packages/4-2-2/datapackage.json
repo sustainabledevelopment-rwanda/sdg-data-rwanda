@@ -43,17 +43,6 @@
             "title": "Sex"
           },
           {
-            "name": "EDUCATION_LEV",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Pre-primary education",
-                ""
-              ]
-            },
-            "title": "Education level"
-          },
-          {
             "name": "UNIT_MEASURE",
             "type": "string",
             "title": "Unit of measure"

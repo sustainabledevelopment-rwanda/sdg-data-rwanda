@@ -1,16 +1,25 @@
 Year,SERIES,Reference area,Sex,Age,UNIT_MEASURE,GeoCode,Value
-2017,Participation rate in formal and non-formal education and training [4.3.1],,,16 years old and over,Percent,,42.7
-2018,Participation rate in formal and non-formal education and training [4.3.1],,,16 years old and over,Percent,,32.3
-2019,Participation rate in formal and non-formal education and training [4.3.1],,,16 years old and over,Percent,,35.8
-2021,Participation rate in formal and non-formal education and training [4.3.1],,,16 years old and over,Percent,,38.1
-2022,Participation rate in formal and non-formal education and training [4.3.1],,,16 years old and over,Percent,,38.6
-2017,Participation rate in formal and non-formal education and training [4.3.1],,Male,16 years old and over,Percent,,42.8
-2018,Participation rate in formal and non-formal education and training [4.3.1],,Male,16 years old and over,Percent,,32.6
-2019,Participation rate in formal and non-formal education and training [4.3.1],,Male,16 years old and over,Percent,,35.7
-2021,Participation rate in formal and non-formal education and training [4.3.1],,Male,16 years old and over,Percent,,37.6
-2022,Participation rate in formal and non-formal education and training [4.3.1],,Male,16 years old and over,Percent,,38.6
-2017,Participation rate in formal and non-formal education and training [4.3.1],,Female,16 years old and over,Percent,,42.6
-2018,Participation rate in formal and non-formal education and training [4.3.1],,Female,16 years old and over,Percent,,32.0
-2019,Participation rate in formal and non-formal education and training [4.3.1],,Female,16 years old and over,Percent,,35.9
-2021,Participation rate in formal and non-formal education and training [4.3.1],,Female,16 years old and over,Percent,,38.5
-2022,Participation rate in formal and non-formal education and training [4.3.1],,Female,16 years old and over,Percent,,38.5
+2017,"Participation rate of youth in formal and non-formal education and training, by sex",,,15 to 24 years old,Percent,,42.7
+2018,"Participation rate of youth in formal and non-formal education and training, by sex",,,15 to 24 years old,Percent,,32.3
+2019,"Participation rate of youth in formal and non-formal education and training, by sex",,,15 to 24 years old,Percent,,35.8
+2021,"Participation rate of youth in formal and non-formal education and training, by sex",,,15 to 24 years old,Percent,,38.1
+2022,"Participation rate of youth in formal and non-formal education and training, by sex",,,15 to 24 years old,Percent,,38.6
+2023,"Participation rate of youth in formal and non-formal education and training, by sex",,,15 to 24 years old,Percent,,40.8
+2024,"Participation rate of youth in formal and non-formal education and training, by sex",,,15 to 24 years old,Percent,,40.4
+2025,"Participation rate of youth in formal and non-formal education and training, by sex",,,15 to 24 years old,Percent,,39.0
+2017,"Participation rate of youth in formal and non-formal education and training, by sex",,Male,15 to 24 years old,Percent,,42.8
+2018,"Participation rate of youth in formal and non-formal education and training, by sex",,Male,15 to 24 years old,Percent,,32.6
+2019,"Participation rate of youth in formal and non-formal education and training, by sex",,Male,15 to 24 years old,Percent,,35.7
+2021,"Participation rate of youth in formal and non-formal education and training, by sex",,Male,15 to 24 years old,Percent,,37.6
+2022,"Participation rate of youth in formal and non-formal education and training, by sex",,Male,15 to 24 years old,Percent,,38.6
+2023,"Participation rate of youth in formal and non-formal education and training, by sex",,Male,15 to 24 years old,Percent,,41.2
+2024,"Participation rate of youth in formal and non-formal education and training, by sex",,Male,15 to 24 years old,Percent,,39.9
+2025,"Participation rate of youth in formal and non-formal education and training, by sex",,Male,15 to 24 years old,Percent,,38.8
+2017,"Participation rate of youth in formal and non-formal education and training, by sex",,Female,15 to 24 years old,Percent,,42.6
+2018,"Participation rate of youth in formal and non-formal education and training, by sex",,Female,15 to 24 years old,Percent,,32.0
+2019,"Participation rate of youth in formal and non-formal education and training, by sex",,Female,15 to 24 years old,Percent,,35.9
+2021,"Participation rate of youth in formal and non-formal education and training, by sex",,Female,15 to 24 years old,Percent,,38.5
+2022,"Participation rate of youth in formal and non-formal education and training, by sex",,Female,15 to 24 years old,Percent,,38.5
+2023,"Participation rate of youth in formal and non-formal education and training, by sex",,Female,15 to 24 years old,Percent,,40.3
+2024,"Participation rate of youth in formal and non-formal education and training, by sex",,Female,15 to 24 years old,Percent,,40.9
+2025,"Participation rate of youth in formal and non-formal education and training, by sex",,Female,15 to 24 years old,Percent,,39.7
