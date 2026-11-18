@@ -5668,7 +5668,7 @@
           <common:Name xml:lang="en">Participation rate of youth in formal and non-formal education and training, by sex</common:Name>
           <common:Description xml:lang="en">Participation rate of youth in formal and non-formal education and training, by sex</common:Description>
         </structure:Code>
-        <structure:Code id="SE_ADT_ACTS">
+        <structure:Code id="SE_ADT_ACTS_1">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5693,10 +5693,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of individuals who used computer skills - Copying or moving a file or a folder</common:Name>
+          <common:Description xml:lang="en">Proportion of individuals who used computer skills - Copying or moving a file or a folder</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040401_1">
+        <structure:Code id="SE_ADT_ACTS_2">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5721,10 +5721,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills - Using Copy and Paste</common:Description>
+          <common:Name xml:lang="en">Proportion of individuals who used computer skills - Using copy and paste tools</common:Name>
+          <common:Description xml:lang="en">Proportion of individuals who used computer skills - Using copy and paste tools</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040401_2">
+        <structure:Code id="SE_ADT_ACTS_3">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5749,10 +5749,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills - Sending e-mails with attached files</common:Description>
+          <common:Name xml:lang="en">Proportion of individuals who used computer skills - Sending e-mails with attached files</common:Name>
+          <common:Description xml:lang="en">Proportion of individuals who used computer skills - Sending e-mails with attached files</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040401_3">
+        <structure:Code id="SE_ADT_ACTS_4">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5777,10 +5777,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills - Using basic arithmetic formulae in a spreadsheet</common:Description>
+          <common:Name xml:lang="en">Proportion of individuals who used computer skills - Using basic arithmetic formula in a spreadsheet</common:Name>
+          <common:Description xml:lang="en">Proportion of individuals who used computer skills - Using basic arithmetic formula in a spreadsheet</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040401_4">
+        <structure:Code id="SE_ADT_ACTS_5">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5805,10 +5805,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills - Connecting and installing new devices</common:Description>
+          <common:Name xml:lang="en">Proportion of individuals who used computer skills - Connecting and installing new devices</common:Name>
+          <common:Description xml:lang="en">Proportion of individuals who used computer skills - Connecting and installing new devices</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040401_5">
+        <structure:Code id="SE_ADT_ACTS_6">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5833,10 +5833,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills - Finding, downloading installing and configuring software</common:Description>
+          <common:Name xml:lang="en">Proportion of individuals who used computer skills - Finding, downloading, installing and configuring software</common:Name>
+          <common:Description xml:lang="en">Proportion of individuals who used computer skills - Finding, downloading, installing and configuring software</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040401_6">
+        <structure:Code id="SE_ADT_ACTS_7">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5861,10 +5861,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills - Creating electronic presentations with presentation software</common:Description>
+          <common:Name xml:lang="en">Proportion of individuals who used computer skills - Creating electronic presentations with presentation software</common:Name>
+          <common:Description xml:lang="en">Proportion of individuals who used computer skills - Creating electronic presentations with presentation software</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040401_7">
+        <structure:Code id="SE_ADT_ACTS_8">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5889,10 +5889,10 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills - Transferring files between a computer and other devices</common:Description>
+          <common:Name xml:lang="en">Proportion of individuals who used computer skills - Transferring files between a computer and other devices</common:Name>
+          <common:Description xml:lang="en">Proportion of individuals who used computer skills - Transferring files between a computer and other devices</common:Description>
         </structure:Code>
-        <structure:Code id="_L_RW_040401_8">
+        <structure:Code id="SE_ADT_ACTS_9">
           <common:Annotations>
             <common:Annotation>
               <common:AnnotationTitle>Indicator</common:AnnotationTitle>
@@ -5917,232 +5917,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills [4.4.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of youth and adults with information and communications technology (ICT) skills  - Writing a computer program using a specialized programming language</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040501_1">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate</common:Name>
-          <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training - Primary, Net attendance rate</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040501_2">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate</common:Name>
-          <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training - Primary, Gross attendance rate</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040501_3">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate</common:Name>
-          <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training - Primary, Repetition rate</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040501_4">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate</common:Name>
-          <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training - Primary, Promotion rate</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040501_5">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate</common:Name>
-          <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Net attendance rate</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040501_6">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate</common:Name>
-          <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Gross attendance rate</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040501_7">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate</common:Name>
-          <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Repetition rate</common:Description>
-        </structure:Code>
-        <structure:Code id="_L_RW_040501_8">
-          <common:Annotations>
-            <common:Annotation>
-              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
-              <common:AnnotationType>Indicator</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorCode</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
-              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation id="@SDMX">
-              <common:AnnotationType>ORDER</common:AnnotationType>
-              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
-            </common:Annotation>
-            <common:Annotation>
-              <common:AnnotationType>RetiredSeries</common:AnnotationType>
-            </common:Annotation>
-          </common:Annotations>
-          <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate</common:Name>
-          <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training  - Secondary, Promotion rate</common:Description>
+          <common:Name xml:lang="en">Proportion of individuals who used computer skills - Writing a computer program using a specialized programming language</common:Name>
+          <common:Description xml:lang="en">Proportion of individuals who used computer skills - Writing a computer program using a specialized programming language</common:Description>
         </structure:Code>
         <structure:Code id="SE_GPI_PART">
           <common:Annotations>
@@ -6169,8 +5945,344 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training [4.5.1]</common:Name>
-          <common:Description xml:lang="en">Gender parity index for participation rate in formal and non-formal education and training [4.5.1]</common:Description>
+          <common:Name xml:lang="en">Gender parity index: Participation rate of youth in formal and non-formal education and training</common:Name>
+          <common:Description xml:lang="en">Gender parity index: Participation rate of youth in formal and non-formal education and training</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_GPI_ICTS">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gender parity index: Computer literacy rate</common:Name>
+          <common:Description xml:lang="en">Gender parity index: Computer literacy rate</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_TOT_GPI_KR">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gender parity index: Learners who meet benchmark in Kinyarwanda reading</common:Name>
+          <common:Description xml:lang="en">Gender parity index: Learners who meet benchmark in Kinyarwanda reading</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_TOT_GPI_ER">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gender parity index: Learners who meet benchmark in English reading</common:Name>
+          <common:Description xml:lang="en">Gender parity index: Learners who meet benchmark in English reading</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_TOT_GPI_MA">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gender parity index: Learners who meet benchmark in mathematics</common:Name>
+          <common:Description xml:lang="en">Gender parity index: Learners who meet benchmark in mathematics</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_TOT_RUPI_ER">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Rural-to-urban parity index: Learners who meet benchmark in English reading</common:Name>
+          <common:Description xml:lang="en">Rural-to-urban parity index: Learners who meet benchmark in English reading</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_TOT_RUPI_MA">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Rural-to-urban parity index: Learners who meet benchmark in mathematics</common:Name>
+          <common:Description xml:lang="en">Rural-to-urban parity index: Learners who meet benchmark in mathematics</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_GPI_TCAQ">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gender parity index: Teachers with the minimum required qualifications</common:Name>
+          <common:Description xml:lang="en">Gender parity index: Teachers with the minimum required qualifications</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_GPI_PTNPRE">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gender parity index: Participation rate in organized learning (one year before the official primary entry age)</common:Name>
+          <common:Description xml:lang="en">Gender parity index: Participation rate in organized learning (one year before the official primary entry age)</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_AGP_CPRA">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gender parity index: Gross intake rate in final year</common:Name>
+          <common:Description xml:lang="en">Gender parity index: Gross intake rate in final year</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_ADT_AGP_LITR">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Gender parity index: Literacy rate</common:Name>
+          <common:Description xml:lang="en">Gender parity index: Literacy rate</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_ADT_ALP_LITR">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Rural-to-urban parity index: Literacy rate</common:Name>
+          <common:Description xml:lang="en">Rural-to-urban parity index: Literacy rate</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_ADT_AWP_LITR">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.5.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040501</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1540</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Wealth parity index: Literacy rate</common:Name>
+          <common:Description xml:lang="en">Wealth parity index: Literacy rate</common:Description>
         </structure:Code>
         <structure:Code id="SE_ADT_LITR">
           <common:Annotations>
@@ -6197,7 +6309,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Literacy rate among population aged 15 and above [4.6.1]</common:Name>
+          <common:Name xml:lang="en">Literacy rate among population aged 15 and above</common:Name>
           <common:Description xml:lang="en">Literacy rate among population aged 15 and above</common:Description>
         </structure:Code>
         <structure:Code id="SE_ADT_NUMR">
@@ -6225,7 +6337,7 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Numeracy rate among population aged 15 and above [4.6.1]</common:Name>
+          <common:Name xml:lang="en">Numeracy rate among population aged 15 and above</common:Name>
           <common:Description xml:lang="en">Numeracy rate among population aged 15 and above</common:Description>
         </structure:Code>
         <structure:Code id="SE_ACS_ELECT">
@@ -6253,8 +6365,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of schools with access to electricity [4.a.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of schools with access to electricity [4.a.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of schools connected to on-grid electricity</common:Name>
+          <common:Description xml:lang="en">Proportion of schools connected to on-grid electricity</common:Description>
         </structure:Code>
         <structure:Code id="SE_ACS_INTNT">
           <common:Annotations>
@@ -6281,8 +6393,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of schools with access to the internet for pedagogical purposes [4.a.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of schools with access to the internet for pedagogical purposes [4.a.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of schools with internet connectivity</common:Name>
+          <common:Description xml:lang="en">Proportion of schools with internet connectivity</common:Description>
         </structure:Code>
         <structure:Code id="SE_ACS_CMPTR">
           <common:Annotations>
@@ -6309,8 +6421,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of schools with access to computers for pedagogical purposes [4.a.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of schools with access to computers for pedagogical purposes [4.a.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of schools with computers</common:Name>
+          <common:Description xml:lang="en">Proportion of schools with computers</common:Description>
         </structure:Code>
         <structure:Code id="SE_ACC_HNDWSH">
           <common:Annotations>
@@ -6337,8 +6449,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of schools with basic handwashing facilities [4.a.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of schools with basic handwashing facilities [4.a.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of schools with handwashing facilities</common:Name>
+          <common:Description xml:lang="en">Proportion of schools with handwashing facilities</common:Description>
         </structure:Code>
         <structure:Code id="SE_INF_DSBL">
           <common:Annotations>
@@ -6365,8 +6477,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of schools with access to adapted infrastructure and materials for students with disabilities [4.a.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of schools with access to adapted infrastructure and materials for students with disabilities [4.a.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of schools with adapted infrastructure for learners with disability</common:Name>
+          <common:Description xml:lang="en">Proportion of schools with adapted infrastructure for learners with disability</common:Description>
         </structure:Code>
         <structure:Code id="SE_ACS_H2O">
           <common:Annotations>
@@ -6393,8 +6505,36 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of schools with access to basic drinking water [4.a.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of schools with access to basic drinking water [4.a.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of schools with safe drinking water</common:Name>
+          <common:Description xml:lang="en">Proportion of schools with safe drinking water</common:Description>
+        </structure:Code>
+        <structure:Code id="SE_ACS_SANIT">
+          <common:Annotations>
+            <common:Annotation>
+              <common:AnnotationTitle>Indicator</common:AnnotationTitle>
+              <common:AnnotationType>Indicator</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">4.a.1</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorCode</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorCode</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">C040a01</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationTitle>IndicatorTitle</common:AnnotationTitle>
+              <common:AnnotationType>IndicatorTitle</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">Proportion of schools offering basic services, by type of service</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation id="@SDMX">
+              <common:AnnotationType>ORDER</common:AnnotationType>
+              <common:AnnotationText xml:lang="en">1700</common:AnnotationText>
+            </common:Annotation>
+            <common:Annotation>
+              <common:AnnotationType>RetiredSeries</common:AnnotationType>
+            </common:Annotation>
+          </common:Annotations>
+          <common:Name xml:lang="en">Proportion of schools with single sex toilets</common:Name>
+          <common:Description xml:lang="en">Proportion of schools with single sex toilets</common:Description>
         </structure:Code>
         <structure:Code id="SE_TRA_GRDL">
           <common:Annotations>
@@ -6421,8 +6561,8 @@
               <common:AnnotationType>RetiredSeries</common:AnnotationType>
             </common:Annotation>
           </common:Annotations>
-          <common:Name xml:lang="en">Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1]</common:Name>
-          <common:Description xml:lang="en">Proportion of teachers who have received at least the minimum organized teacher training (e.g. pedagogical training) pre-service or in-service required for teaching at the relevant level in a given country [4.c.1]</common:Description>
+          <common:Name xml:lang="en">Proportion of teachers with the minimum required qualifications</common:Name>
+          <common:Description xml:lang="en">Proportion of teachers with the minimum required qualifications</common:Description>
         </structure:Code>
         <structure:Code id="VC_VAW_PHYV">
           <common:Annotations>
