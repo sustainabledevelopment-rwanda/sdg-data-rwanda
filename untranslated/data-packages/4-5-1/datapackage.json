@@ -32,20 +32,8 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "Y_GE15",
                 "Y15T24",
-                "Y_GE6",
-                ""
-              ]
-            }
-          },
-          {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "U",
-                "R",
+                "Y_GE15",
                 ""
               ]
             }
@@ -55,8 +43,14 @@
             "type": "string",
             "constraints": {
               "enum": [
+                "ISCED11A_0_G23",
+                "ISCED11A_1",
+                "ISCED11A_2",
+                "ISCED11_02",
                 "ISCED11_1",
                 "AGG_2_3",
+                "ISCED11_25_35_45",
+                "ISCED11A_3",
                 ""
               ]
             }
@@ -79,5 +73,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1",
-  "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected,as data become available) for all education indicators on this list that can be disaggregated"
+  "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
 }

@@ -35,33 +35,26 @@
             "type": "string",
             "constraints": {
               "enum": [
-                "15 years old and over",
                 "15 to 24 years old",
-                "6 years old and over",
+                "15 years old and over",
                 ""
               ]
             },
             "title": "Age"
           },
           {
-            "name": "URBANISATION",
-            "type": "string",
-            "constraints": {
-              "enum": [
-                "Urban",
-                "Rural",
-                ""
-              ]
-            },
-            "title": "Degree of urbanisation"
-          },
-          {
             "name": "EDUCATION_LEV",
             "type": "string",
             "constraints": {
               "enum": [
+                "Some primary education, grades 2 or 3",
+                "Primary education, sufficient for level completion",
+                "Lower secondary education, sufficient for level completion",
+                "Pre-primary education",
                 "Primary education",
                 "Secondary education (lower and upper secondary education)",
+                "Vocational secondary education",
+                "Upper secondary education, sufficient for level completion",
                 ""
               ]
             },
@@ -88,5 +81,5 @@
   ],
   "profile": "data-package",
   "name": "4-5-1",
-  "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected,as data become available) for all education indicators on this list that can be disaggregated"
+  "title": "Parity indices (female/male, rural/urban, bottom/top wealth quintile and others such as disability status, indigenous peoples and conflict-affected, as data become available) for all education indicators on this list that can be disaggregated"
 }

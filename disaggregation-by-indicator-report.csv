@@ -35,8 +35,8 @@ Indicator,Disaggregations,Number of disaggregations
 #4-2-2,SEX,1
 #4-3-1,"SEX, AGE",2
 #4-4-1,URBANISATION,1
-#4-5-1,"AGE, URBANISATION, EDUCATION_LEV",3
-#4-6-1,SEX,1
+#4-5-1,"AGE, EDUCATION_LEV",2
+#4-6-1,"SEX, AGE",2
 #4-a-1,EDUCATION_LEV,1
 #4-c-1,"SEX, EDUCATION_LEV",2
 #5-2-1,SEX,1
